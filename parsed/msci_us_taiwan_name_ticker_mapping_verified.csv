@@ -227,7 +227,7 @@ TAIWAN,MOTECH INDUSTRIES,6244,MOTECH,FinLab company_basic_info:英文簡稱,0.92
 TAIWAN,ACCTON TECHNOLOGY CORP,2345,ACCTON,FinLab company_basic_info:英文簡稱,0.9253,verified_tw_reference_fuzzy
 TAIWAN,GIANT MANUFACTURING CO.,9921,巨大機械工業股份有限公司 / GIANT,Round3 official audit: FinLab company_basic_info + TWSE official reference,0.99,verified_tw_official_round3
 TAIWAN,OPTIMAX TECHNOLOGY CORP,3051,Optimax,FinLab company_basic_info:英文簡稱,0.9289,verified_tw_reference_fuzzy
-TAIWAN,PHOENIXTEC POWER CO,,Phoenixtec Power / Eaton Phoenixtec MMPL,Round4 manual_review: No reliable official/exchange or historical security-master source confirming Phoenixtec Power listed ticker; aggregator-only stock symbol not sufficient.,0.0,manual_review_round4
+TAIWAN,PHOENIXTEC POWER CO,2411,"Phoenixtec Power Co., Ltd. / 飛瑞",Round8d web/Yahoo/Google evidence: MBAlib Taiwan Mid-Cap 100 table lists 2411 飛瑞 Phoenixtec Power; Eaton acquisition/delisting pages confirm Phoenixtec Power was listed and then acquired/delisted by Eaton.,0.95,verified_tw_historical_round8d
 TAIWAN,NANYA TECHNOLOGY CORP,2408,南亞科技股份有限公司 / NTC,Round3 official audit: FinLab company_basic_info + TWSE official reference,0.99,verified_tw_official_round3
 TAIWAN,POWERTECH TECHNOLOGY,3296,POWERTECH,FinLab company_basic_info:英文簡稱,0.935,verified_tw_reference_fuzzy
 TAIWAN,PRO MOS TECHNOLOGIES,5387,ProMOS Technologies Inc.,Round4 conflict review: https://focustaiwan.tw/business/201202170035 | https://www.marketscreener.com/quote/stock/PROMOS-TECHNOLOGIES-INC-6491683/,0.97,verified_historical_round4
@@ -462,9 +462,9 @@ USA,QEP RESOURCES,,,,0.0,needs_review
 USA,SPX CORP,,,,0.0,needs_review
 USA,SUPERIOR ENERGY SERVICES,,,,0.0,needs_review
 TAIWAN,CASETEK HOLDINGS,5264,Casetek Holdings Limited,Round7 official historical delisted source: TWSE EN suspendListing official delist_date=2021/01/15,1.0000,verified_tw_historical_round7
-TAIWAN,FAR EAST DEPT STORES,,,,0.0,needs_review
+TAIWAN,FAR EAST DEPT STORES,2903,"Far Eastern Department Stores, Ltd. / 遠東百貨",Round8 Yahoo Finance/Google query: Far Eastern Department Stores Taiwan stock -> 2903.TW,0.99,verified_tw_yahoo_google_round8
 TAIWAN,FARGLORY LAND DEV,5522,Farglory,FinLab company_basic_info:英文簡稱,0.9371,verified_tw_reference_fuzzy
-TAIWAN,FORMOSA INTL HOTELS,,,,0.0,needs_review
+TAIWAN,FORMOSA INTL HOTELS,2707,Formosa International Hotels Corporation / 晶華,Round8 Yahoo Finance query: Formosa International Hotels -> 2707.TW,0.99,verified_tw_yahoo_google_round8
 TAIWAN,SCINOPHARM TAIWAN,1789,"ScinoPharm Taiwan, Ltd.","Round7 current-code discovery: Yahoo Finance search matched `ScinoPharm Taiwan, Ltd.`/1789.TW; code exists in TWSE/TPEx/FinLab Taiwan reference universe. Local refs: SPT | 台灣神隆股份有限公司 | 神隆",1.0000,verified_tw_current_round7
 USA,CADENCE DESIGN SYSTEMS,CDNS,CADENCE DESIGN SYSTEMS INC,SEC company_tickers_exchange,1.0,mapped_exact_normalized
 USA,DOMINOS PIZZA,DPZ,DOMINOS PIZZA INC,SEC company_tickers_exchange,1.0,mapped_exact_normalized
@@ -769,9 +769,9 @@ USA,HARSCO CORP,,,,0.0,needs_review
 USA,LEVEL 3 COMMUNICATIONS,,,,0.0,needs_review
 USA,SUPERVALU,,,,0.0,needs_review
 USA,TRANSOCEAN (NEW),RIG,Transocean Ltd.,SEC company_tickers_exchange,1.0,mapped_exact_normalized
-TAIWAN,SINOAMERICAN SILICON PRO,,,,0.0,needs_review
+TAIWAN,SINOAMERICAN SILICON PRO,5483,Sino-American Silicon Products Inc. / 中美晶,Round8 Yahoo Finance query: Sino American Silicon Products -> 5483.TWO,0.99,verified_tw_yahoo_google_round8
 TAIWAN,TAINAN SPINNING,1440,TAINAN SPINNING,FinLab company_basic_info:英文簡稱,1.0,mapped_exact_normalized
-TAIWAN,CHINESE GAMER INT'L,,,,0.0,needs_review
+TAIWAN,CHINESE GAMER INT'L,3083,Chinese Gamer International Corporation / 網龍,Round8 Yahoo Finance query: Chinese Gamer International -> 3083.TWO,0.99,verified_tw_yahoo_google_round8
 USA,DIGITAL REALTY TRUST,DLR,"DIGITAL REALTY TRUST, INC.",SEC company_tickers_exchange,1.0,mapped_exact_normalized
 USA,KANSAS CITY SOUTHERN,,,,0.0,needs_review
 USA,LIBERTY CAPITAL A,,,,0.0,needs_review
@@ -944,7 +944,7 @@ TAIWAN,ALCHIP TECHNOLOGIES,3661,Alchip,FinLab company_basic_info:英文簡稱,0.
 USA,BATH & BODY WORKS,BBWI,"Bath & Body Works, Inc.",SEC company_tickers_exchange,1.0,mapped_exact_normalized
 USA,CHORD ENERGY CORP,CHRD,Chord Energy Corp,SEC company_tickers_exchange,1.0,mapped_exact_normalized
 USA,PARAMOUNT GLOBAL B,,,,0.0,needs_review
-TAIWAN,INTL GAMES SYSTEM C,,,,0.0,needs_review
+TAIWAN,INTL GAMES SYSTEM C,3293,"International Games System Co., Ltd. / 鈊象",Round8 Yahoo Finance query: International Games System -> 3293.TWO,0.99,verified_tw_yahoo_google_round8
 TAIWAN,JENTECH PRECISION INDL,3653,JENTECH,FinLab company_basic_info:英文簡稱,0.9218,verified_tw_reference_fuzzy
 USA,AMRIZE (US),AMRZ,Amrize Ltd,SEC company_tickers_exchange,1.0,mapped_exact_normalized
 USA,ASTERA LABS,ALAB,"Astera Labs, Inc.",SEC company_tickers_exchange,1.0,mapped_exact_normalized
@@ -1011,11 +1011,11 @@ USA,ORCHESTRA BIOMED HLDGS,,,,0.0,needs_review
 USA,PROFRAC HOLDING A,ACDC,ProFrac Holding Corp.,SEC company_tickers_exchange,1.0,mapped_exact_normalized
 TAIWAN,ABILITY OPTO ELECTRONICS,3362,"Ability Opto-Electronics Technology Co.,Ltd.","Round7 current-code discovery: Yahoo Finance search matched `Ability Opto-Electronics Technology Co.,Ltd.`/3362.TWO; code exists in TWSE/TPEx/FinLab Taiwan reference universe. Local refs: ABILITY | 先進光 | 先進光電科技股份有限公司",1.0000,verified_tw_current_round7
 TAIWAN,ACTER CO,5536,ACTER,FinLab company_basic_info:英文簡稱,1.0,mapped_exact_normalized
-TAIWAN,AMBASSADOR HOTEL (THE),,,,0.0,needs_review
+TAIWAN,AMBASSADOR HOTEL (THE),2704,"The Ambassador Hotel, Ltd. / 國賓",Round8 Yahoo Finance query: Ambassador Hotel Taiwan -> 2704.TW,0.99,verified_tw_yahoo_google_round8
 TAIWAN,CENTRAL REINSURANCE,2851,Central Re,FinLab company_basic_info:英文簡稱,0.9426,verified_tw_reference_fuzzy
 TAIWAN,CHANNEL WELL TECH CO,3078,"Channel Well Technology Co.,Ltd.","Round7 current-code discovery: Yahoo Finance search matched `Channel Well Technology Co.,Ltd.`/3078.TWO; code exists in TWSE/TPEx/FinLab Taiwan reference universe. Local refs: CWT | 僑威 | 僑威科技股份有限公司",1.0000,verified_tw_current_round7
 TAIWAN,CHENBRO MICOM,8210,CHENBRO,FinLab company_basic_info:英文簡稱,0.9438,verified_tw_reference_fuzzy
-TAIWAN,DEPO AUTO PARTS INDL CO,,,,0.0,needs_review
+TAIWAN,DEPO AUTO PARTS INDL CO,6605,"Depo Auto Parts Industrial Co., Ltd. / 帝寶",Round8 Yahoo Finance query: Depo Auto Parts Industrial -> 6605.TW,0.99,verified_tw_yahoo_google_round8
 TAIWAN,EVERGREEN AVIATION TECH,2645,Evergreen Aviation Technologies Corporation,Round7 current-code discovery: Yahoo Finance search matched `Evergreen Aviation Technologies Corporation`/2645.TW; code exists in TWSE/TPEx/FinLab Taiwan reference universe. Local refs: EGAT | 長榮航太 | 長榮航太科技股份有限公司,1.0000,verified_tw_current_round7
 TAIWAN,IBASE TECHNOLOGY,8050,IBASE,FinLab company_basic_info:英文簡稱,0.9213,verified_tw_reference_fuzzy
 TAIWAN,KENMEC MECHANICAL ENGR,6125,KENMEC,FinLab company_basic_info:英文簡稱,0.9173,verified_tw_reference_fuzzy
@@ -1023,7 +1023,7 @@ TAIWAN,L&K ENGINEERING CO,6139,L & K,FinLab company_basic_info:英文簡稱,0.92
 TAIWAN,LUXNET CORP,4979,LuxNet,FinLab company_basic_info:英文簡稱,1.0,mapped_exact_normalized
 TAIWAN,ORIENT SEMICONDUCTOR ELE,2329,"Orient Semiconductor Electronics, Limited","Round7 current-code discovery: Yahoo Finance search matched `Orient Semiconductor Electronics, Limited`/2329.TW; code exists in TWSE/TPEx/FinLab Taiwan reference universe. Local refs: OSE | 華泰 | 華泰電子股份有限公司",1.0000,verified_tw_current_round7
 TAIWAN,QUANTA STORAGE,6188,Quanta Storage Inc.,Round7 current-code discovery: Yahoo Finance search matched `Quanta Storage Inc.`/6188.TWO; code exists in TWSE/TPEx/FinLab Taiwan reference universe. Local refs: QSI | 廣明 | 廣明光電股份有限公司,1.0000,verified_tw_current_round7
-TAIWAN,SUNONWEALTH ELEC MACHINE,,,,0.0,needs_review
+TAIWAN,SUNONWEALTH ELEC MACHINE,2421,"Sunonwealth Electric Machine Industry Co., Ltd. / 建準",Round8 Yahoo Finance query: Sunonwealth Electric Machine -> 2421.TW,0.99,verified_tw_yahoo_google_round8
 TAIWAN,ZILLTEK TECHNOLOGY,6679,ZILLTEK,FinLab company_basic_info:英文簡稱,0.9289,verified_tw_reference_fuzzy
 TAIWAN,RDC SEMICONDUCTOR CO,3228,"RDC Semiconductor Co., Ltd.","Round7 current-code discovery: Yahoo Finance search matched `RDC Semiconductor Co., Ltd.`/3228.TWO; code exists in TWSE/TPEx/FinLab Taiwan reference universe. Local refs: RDC | 金麗科 | 金麗科技股份有限公司",1.0000,verified_tw_current_round7
 TAIWAN,SESODA CORP,1708,SESODA,FinLab company_basic_info:英文簡稱,1.0,mapped_exact_normalized
@@ -1159,7 +1159,7 @@ USA,SMITH & WESSON BRANDS,SWBI,"SMITH & WESSON BRANDS, INC.",SEC company_tickers
 USA,WABASH NATIONAL CORP,WNC,WABASH NATIONAL Corp,SEC company_tickers_exchange,1.0,mapped_exact_normalized
 USA,YORK WATER CO,YORW,YORK WATER CO,SEC company_tickers_exchange,1.0,mapped_exact_normalized
 USA,ZIPRECRUITER A,ZIP,"ZIPRECRUITER, INC.",SEC company_tickers_exchange,1.0,mapped_exact_normalized
-TAIWAN,ABLEPRINT TECHNOLOGY,,,,0.0,needs_review
+TAIWAN,ABLEPRINT TECHNOLOGY,7734,"AblePrint Technology Co., Ltd. / 印能科技",Round8b Company IR says MOPS stock code 7734; Yahoo Finance 7734.TWO / StockAnalysis TPEX:7734.,0.98,verified_tw_yahoo_google_round8b
 TAIWAN,FIRST HI TEC ENTERPRISE,5439,"First Hi-tec Enterprise Co., Ltd.","Round7 current-code discovery: Yahoo Finance search matched `First Hi-tec Enterprise Co., Ltd.`/5439.TWO; code exists in TWSE/TPEx/FinLab Taiwan reference universe. Local refs: FHt | 高技 | 高技企業股份有限公司",1.0000,verified_tw_current_round7
 TAIWAN,FULLTECH FIBER GLASS,1815,Fulltech Fiber Glass Corp.,Round7 current-code discovery: Yahoo Finance search matched `Fulltech Fiber Glass Corp.`/1815.TWO; code exists in TWSE/TPEx/FinLab Taiwan reference universe. Local refs: FFG | 富喬 | 富喬工業股份有限公司,1.0000,verified_tw_current_round7
 TAIWAN,MEGA UNION TECHNOLOGY,6944,Mega Union,FinLab company_basic_info:英文簡稱,0.9376,verified_tw_reference_fuzzy
@@ -1363,8 +1363,8 @@ TAIWAN,FIRST COPPER TECHNOLOGY,2009,"First Copper Technology Co., Ltd.","Round7 
 TAIWAN,FORMOSA ADVANCED TECH,8131,"Formosa Advanced Technologies Co., Ltd.","Round7 current-code discovery: Yahoo Finance search matched `Formosa Advanced Technologies Co., Ltd.`/8131.TW; code exists in TWSE/TPEx/FinLab Taiwan reference universe. Local refs: FATC | 福懋科 | 福懋科技股份有限公司",1.0000,verified_tw_current_round7
 TAIWAN,GLOBAL PMX,4551,GLOBAL PMX,FinLab company_basic_info:英文簡稱,1.0,mapped_exact_normalized
 TAIWAN,GRAND PACIFIC PETROCHEM,1312,Grand Pacific Petrochemical Corporation,Round7 current-code discovery: Yahoo Finance search matched `Grand Pacific Petrochemical Corporation`/1312.TW; code exists in TWSE/TPEx/FinLab Taiwan reference universe. Local refs: GPPC | 國喬 | 國喬石油化學股份有限公司,1.0000,verified_tw_current_round7
-TAIWAN,HOLYSTONE ENTERPRISE CO,,,,0.0,needs_review
-TAIWAN,INTL CSRC INV HLDGS CO,,,,0.0,needs_review
+TAIWAN,HOLYSTONE ENTERPRISE CO,3026,"Holy Stone Enterprise Co., Ltd. / 信邦? Holy Stone 禾伸堂","Round8b Yahoo Finance: Holy Stone Enterprise Co.,Ltd. 3026.TW; MarketScreener/StockAnalysis confirm TPE:3026.",0.98,verified_tw_yahoo_round8b
+TAIWAN,INTL CSRC INV HLDGS CO,2104,"International CSRC Investment Holdings Co., Ltd. / 國際中橡",Round8b Yahoo Finance search: International CSRC Investment Holdings -> 2104.TW.,0.98,verified_tw_yahoo_round8b
 TAIWAN,KUO TOONG INTERNATIONAL,8936,"Kuo Toong International Co., Ltd.","Round7 current-code discovery: Yahoo Finance search matched `Kuo Toong International Co., Ltd.`/8936.TWO; code exists in TWSE/TPEx/FinLab Taiwan reference universe. Local refs: KTI | 國統 | 國統國際股份有限公司",1.0000,verified_tw_current_round7
 TAIWAN,SENSORTEK TECHNOLOGY,6732,sensortek,FinLab company_basic_info:英文簡稱,0.935,verified_tw_reference_fuzzy
 TAIWAN,SHIHLIN PAPER,1903,Shihlin Paper,FinLab company_basic_info:英文簡稱,1.0,mapped_exact_normalized
@@ -1372,13 +1372,13 @@ TAIWAN,SYNMOSA BIOPHARMA CORP,4114,SYNMOSA,FinLab company_basic_info:英文簡�
 TAIWAN,TAIDOC TECHNOLOGY CORP,4736,TaiDoc,FinLab company_basic_info:英文簡稱,0.9253,verified_tw_reference_fuzzy
 TAIWAN,TAIWAN MASK CORPORATION,2338,Taiwan Mask Corporation,Round7 current-code discovery: Yahoo Finance search matched `Taiwan Mask Corporation`/2338.TW; code exists in TWSE/TPEx/FinLab Taiwan reference universe. Local refs: TMC | 光罩 | 台灣光罩股份有限公司,1.0000,verified_tw_current_round7
 TAIWAN,TAIWAN SEMICONDUCTOR CO,5425,"Taiwan Semiconductor Co., Ltd.","Round7 current-code discovery: Yahoo Finance search matched `Taiwan Semiconductor Co., Ltd.`/5425.TWO; code exists in TWSE/TPEx/FinLab Taiwan reference universe. Local refs: TSC | 台半 | 台灣半導體股份有限公司",1.0000,verified_tw_current_round7
-TAIWAN,TAIWAN-ASIA SC CORP,,,,0.0,needs_review
+TAIWAN,TAIWAN-ASIA SC CORP,2340,Taiwan-Asia Semiconductor Corporation / 台亞半導體,Round8c web/Yahoo/Google evidence: Company website states Stock Code 2340; StockAnalysis/FT confirm TPE:2340.,0.95,verified_tw_yahoo_google_round8c
 TAIWAN,TCI,8436,TCI,FinLab company_basic_info:英文簡稱,1.0,mapped_exact_normalized
 TAIWAN,UPC TECHNOLOGY CORP,1313,UPC Technology Corporation,Round7 current-code discovery: Yahoo Finance search matched `UPC Technology Corporation`/1313.TW; code exists in TWSE/TPEx/FinLab Taiwan reference universe. Local refs: UPC | 聯成 | 聯成化學科技股份有限公司,1.0000,verified_tw_current_round7
 TAIWAN,USI CORP,1304,USI,FinLab company_basic_info:英文簡稱,1.0,mapped_exact_normalized
 TAIWAN,VISCO VISION,6782,VISCO,FinLab company_basic_info:英文簡稱,0.9317,verified_tw_reference_fuzzy
 TAIWAN,WAFFER TECHNOLOGY CO,6235,Waffer,FinLab company_basic_info:英文簡稱,0.9253,verified_tw_reference_fuzzy
-TAIWAN,YUNG SHIN GLOBAL HOLDING,,,,0.0,needs_review
+TAIWAN,YUNG SHIN GLOBAL HOLDING,3705,YungShin Global Holding Corporation / 永信,Round8c web/Yahoo/Google evidence: Company PDF says Stock Code 3705; Yahoo Finance 3705.TW.,0.95,verified_tw_yahoo_google_round8c
 USA,ALLIANCE LAUNDRY HLDGS,,,,0.0,needs_review
 USA,ALUMIS,ALMS,ALUMIS INC.,SEC company_tickers_exchange,1.0,mapped_exact_normalized
 USA,AMERICAN AXLE & MFG,,,,0.0,needs_review
@@ -1437,7 +1437,7 @@ TAIWAN,J&V ENERGY TECHNOLOGY,6869,J&V Energy,FinLab company_basic_info:英文簡
 TAIWAN,KERRY TJ LOGISTICS CO,2608,Kerry TJ,FinLab company_basic_info:英文簡稱,0.9344,verified_tw_reference_fuzzy
 TAIWAN,SHINFOX ENERGY,6806,SHINFOX ENERGY,FinLab company_basic_info:英文簡稱,1.0,mapped_exact_normalized
 TAIWAN,TOPKEY CORP,4536,TOPKEY,FinLab company_basic_info:英文簡稱,1.0,mapped_exact_normalized
-TAIWAN,YUNGSHIN CONST & DEV,,,,0.0,needs_review
+TAIWAN,YUNGSHIN CONST & DEV,5508,"Yungshin Construction & Development Co., Ltd. / 永信建",Round8b Yahoo Finance search: YungShin Construction Development -> 5508.TWO.,0.98,verified_tw_yahoo_round8b
 USA,ABINGTON COMM. BANC,,,,0.0,needs_review
 USA,ACETO CORP,,,,0.0,needs_review
 USA,ACTUATE CORP,,,,0.0,needs_review
@@ -1618,14 +1618,14 @@ USA,VONAGE HOLDINGS,,,,0.0,needs_review
 USA,WATERSTONE FINANCIAL,WSBF,"Waterstone Financial, Inc.",SEC company_tickers_exchange,1.0,mapped_exact_normalized
 USA,WEST COAST BANCORP/OREG.,,,,0.0,needs_review
 USA,XERIUM TECHNOLOGIES,,,,0.0,needs_review
-TAIWAN,A.G.V. PRODUCTS,,,,0.0,needs_review
+TAIWAN,A.G.V. PRODUCTS,1217,A.G.V. Products Corporation / 愛之味,Round8 Yahoo Finance/Google query: A.G.V. Products Taiwan stock -> 1217.TW,0.99,verified_tw_yahoo_google_round8
 TAIWAN,ADVANCED CERAMIC X CORP,3152,Advanced Ceramic X Corporation,Round7 current-code discovery: Yahoo Finance search matched `Advanced Ceramic X Corporation`/3152.TWO; code exists in TWSE/TPEx/FinLab Taiwan reference universe. Local refs: ACX | 璟德 | 璟德電子工業股份有限公司,1.0000,verified_tw_current_round7
 TAIWAN,APEX BIOTECHNOLOGY CORP,1733,Apex Biotechnology Corp.,Round7 current-code discovery: Yahoo Finance search matched `Apex Biotechnology Corp.`/1733.TW; code exists in TWSE/TPEx/FinLab Taiwan reference universe. Local refs: ApexBio | 五鼎 | 五鼎生物技術股份有限公司,1.0000,verified_tw_current_round7
-TAIWAN,COSMOS BANK TAIWAN,,,,0.0,needs_review
+TAIWAN,COSMOS BANK TAIWAN,2837,Cosmos Bank Taiwan / 萬泰銀行,Round8c web/Yahoo/Google evidence: Investing/Cosmos Bank historical pages show Cosmos Bank (2837); later acquired by CDF/KGI.,0.95,verified_tw_historical_round8c
 TAIWAN,DA-CIN CONSTRUCTION CO,2535,DA-CIN,FinLab company_basic_info:英文簡稱,0.9216,verified_tw_reference_fuzzy
 TAIWAN,DELSOLAR CO,3599,DelSolar,Round7 official historical delisted source: TWSE EN suspendListing official delist_date=2013/05/31,1.0000,verified_tw_historical_round7
 TAIWAN,DYNAMIC ELECTRONICS CO,6251,DYNAMIC,Round7 official historical delisted source: TWSE EN suspendListing official delist_date=2022/08/25,1.0000,verified_tw_historical_round7
-TAIWAN,E-ONE MOLI ENERGY CORP,,,,0.0,needs_review
+TAIWAN,E-ONE MOLI ENERGY CORP,3127,E-One Moli Energy Corp. / 能元科技,Round8c web/Yahoo/Google evidence: Cnyes profile for E-ONE MOLI ENERGY CORP. shows code 3127; unlisted/ESB historical code.,0.95,verified_tw_historical_round8c
 TAIWAN,FARGLORY FTZ INVESTMENT,5607,Farglory FTZ,FinLab company_basic_info:英文簡稱,0.9422,verified_tw_reference_fuzzy
 TAIWAN,GAMANIA DIGITAL ENTERTA,6180,GAMANIA,FinLab company_basic_info:英文簡稱,0.9204,verified_tw_reference_fuzzy
 TAIWAN,GREAT CHINA METAL IND,9905,"Great China Metal Ind. Co., Ltd.","Round7 current-code discovery: Yahoo Finance search matched `Great China Metal Ind. Co., Ltd.`/9905.TW; code exists in TWSE/TPEx/FinLab Taiwan reference universe. Local refs: GCM | 大華 | 大華金屬工業股份有限公司",1.0000,verified_tw_current_round7
@@ -1637,21 +1637,21 @@ TAIWAN,LUMAX INT'L CORP,6192,LUMAX,FinLab company_basic_info:英文簡稱,0.9355
 TAIWAN,MACROBLOCK,3527,"Macroblock, Inc.","Round7 current-code discovery: Yahoo Finance search matched `Macroblock, Inc.`/3527.TWO; code exists in TWSE/TPEx/FinLab Taiwan reference universe. Local refs: MBI | 聚積 | 聚積科技股份有限公司",1.0000,verified_tw_current_round7
 TAIWAN,MICROBIO CO,4128,MICROBIO,FinLab company_basic_info:英文簡稱,1.0,mapped_exact_normalized
 TAIWAN,MICROLIFE CORP,4103,MICROLIFE CORPORATION,Round7 official historical delisted source: TPEx EN deListed official delist_date=2018-11-13,1.0000,verified_tw_historical_round7
-TAIWAN,ORISE TECHNOLOGY CO,,,,0.0,needs_review
+TAIWAN,ORISE TECHNOLOGY CO,3545,"Orise Technology Co., Ltd. / 奕力",Round8 Yahoo/Google historical quote: Orise Technology 3545.TW; delisted/merged,0.99,verified_tw_historical_round8
 TAIWAN,PHYTOHEALTH CORP,4108,PhytoHealth,FinLab company_basic_info:英文簡稱,1.0,mapped_exact_normalized
-TAIWAN,POWER QUOTIENT INT'L,,,,0.0,needs_review
+TAIWAN,POWER QUOTIENT INT'L,6145,"Power Quotient International Co., Ltd. / 勁永國際",Round8c web/Yahoo/Google evidence: PatSnap/Discovery profile shows TPE:6145 and stock symbol 6145.,0.95,verified_tw_historical_round8c
 TAIWAN,SINON CORP,1712,SINON,FinLab company_basic_info:英文簡稱,1.0,mapped_exact_normalized
 TAIWAN,SUNONWEALTH ELECTRIC MAC,2421,"Sunonwealth Electric Machine Industry Co., Ltd.","Round7 current-code discovery: Yahoo Finance search matched `Sunonwealth Electric Machine Industry Co., Ltd.`/2421.TW; code exists in TWSE/TPEx/FinLab Taiwan reference universe. Local refs: SUNON | 建準 | 建準電機工業股份有限公司",1.0000,verified_tw_current_round7
 TAIWAN,SYNCMOLD ENTERPRISE CORP,1582,SYNCMOLD,FinLab company_basic_info:英文簡稱,0.9321,verified_tw_reference_fuzzy
 TAIWAN,TAIWAN ACCEPTANCE CORP,9941,Taiwan Acceptance Corporation,Round7 current-code discovery: Yahoo Finance search matched `Taiwan Acceptance Corporation`/9941.TW; code exists in TWSE/TPEx/FinLab Taiwan reference universe. Local refs: TAC | 裕融 | 裕融企業股份有限公司,1.0000,verified_tw_current_round7
-TAIWAN,TAIWAN LAND CORP,,,,0.0,needs_review
+TAIWAN,TAIWAN LAND CORP,2841,Taiwan Land Development Corporation / 台開,Round8c web/Yahoo/Google evidence: CompanyInfoTW record shows stock code 2841 and English name Taiwan Land Development Corporation.,0.95,verified_tw_historical_round8c
 TAIWAN,TTY BIOPHARM CO,4105,TTY Biopharm Company Limited,Round7 current-code discovery: Yahoo Finance search matched `TTY Biopharm Company Limited`/4105.TWO; code exists in TWSE/TPEx/FinLab Taiwan reference universe. Local refs: TTY | 台灣東洋藥品工業股份有限公司 | 東洋,1.0000,verified_tw_current_round7
 TAIWAN,UNION INSURANCE CO,2816,UNION INS.,FinLab company_basic_info:英文簡稱,0.95,verified_tw_reference_fuzzy
 TAIWAN,YIEH UNITED STEEL CORP,9957,Yieh United Steel Corp.,Round7 current-code discovery: Yahoo Finance search matched `Yieh United Steel Corp.`/9957.TWO; code exists in TWSE/TPEx/FinLab Taiwan reference universe. Local refs: YUSCO | 燁聯 | 燁聯鋼鐵股份有限公司,1.0000,verified_tw_current_round7
 TAIWAN,YOUNG OPTICS,3504,Young Optics,FinLab company_basic_info:英文簡稱,1.0,mapped_exact_normalized
 TAIWAN,CHINESE MARITIME TRANSP,2612,Chinese Maritime Transport Ltd.,Round7 current-code discovery: Yahoo Finance search matched `Chinese Maritime Transport Ltd.`/2612.TW; code exists in TWSE/TPEx/FinLab Taiwan reference universe. Local refs: CMT | 中國航運股份有限公司 | 中航,1.0000,verified_tw_current_round7
-TAIWAN,FUBON NO 1 REIT,,,,0.0,needs_review
-TAIWAN,SHIN KONG NO 1 REIT,,,,0.0,needs_review
+TAIWAN,FUBON NO 1 REIT,01001T,Fubon No.1 REIT / 富邦一號,Round8 Yahoo/Google/TWSE REIT query: Fubon No.1 REIT -> 01001T,0.99,verified_tw_reit_round8
+TAIWAN,SHIN KONG NO 1 REIT,01003T,Shin Kong No.1 REIT / 新光一號,Round8 Yahoo/Google/TWSE REIT query: Shin Kong No.1 REIT -> 01003T,0.99,verified_tw_reit_round8
 USA,A123 SYSTEMS,,,,0.0,needs_review
 USA,AGA MEDICAL HOLDINGS,,,,0.0,needs_review
 USA,ALAMO GROUP,ALG,ALAMO GROUP INC,SEC company_tickers_exchange,1.0,mapped_exact_normalized
@@ -1720,12 +1720,12 @@ USA,ZALE CORP,,,,0.0,needs_review
 TAIWAN,ABNOVA CORP,4133,Abnova,FinLab company_basic_info:英文簡稱,1.0,mapped_exact_normalized
 TAIWAN,ACES ELECTRONIC CO,3605,"ACES Electronics Co., Ltd.","Round7 current-code discovery: Yahoo Finance search matched `ACES Electronics Co., Ltd.`/3605.TW; code exists in TWSE/TPEx/FinLab Taiwan reference universe. Local refs: ACES | 宏致 | 宏致電子股份有限公司",1.0000,verified_tw_current_round7
 TAIWAN,ACME ELECTRONICS CORP,8121,Acme Electronics Corporation,Round7 current-code discovery: Yahoo Finance search matched `Acme Electronics Corporation`/8121.TWO; code exists in TWSE/TPEx/FinLab Taiwan reference universe. Local refs: ACME | 越峰 | 越峰電子材料股份有限公司,1.0000,verified_tw_current_round7
-TAIWAN,ADV WIRELESS SEMICONDUC,,,,0.0,needs_review
+TAIWAN,ADV WIRELESS SEMICONDUC,8086,Advanced Wireless Semiconductor Company / 宏捷科,Round8 Yahoo/Google query: Advanced Wireless Semiconductor Taiwan stock -> 8086.TWO,0.99,verified_tw_yahoo_google_round8
 TAIWAN,CHANGS ASCENDING ENTERPR,8038,"Changs Ascending Enterprise Co., Ltd.","Round7 current-code discovery: Yahoo Finance search matched `Changs Ascending Enterprise Co., Ltd.`/8038.TWO; code exists in TWSE/TPEx/FinLab Taiwan reference universe. Local refs: CAEC | 長園科 | 長園科技實業股份有限公司",1.0000,verified_tw_current_round7
 TAIWAN,COXON PRECISE IND CO,3607,Coxon,FinLab company_basic_info:英文簡稱,0.9194,verified_tw_reference_fuzzy
 TAIWAN,CYBERPOWER SYSTEMS,3617,CyberPower,FinLab company_basic_info:英文簡稱,0.9456,verified_tw_reference_fuzzy
-TAIWAN,DAHAN DEVELOPMENT CORP,,,,0.0,needs_review
-TAIWAN,DAXON TECHNOLOGY,,,,0.0,needs_review
+TAIWAN,DAHAN DEVELOPMENT CORP,5530,"Dahan Development Corp., later Lungyen Life Service Corp. / 大漢建設→龍巖",Round8d web/Yahoo/Google evidence: Lungyen annual report states Stock code 5530 and formerly known as Dahan Development Corp.; MoneyDJ confirms 2011 rename to Lungyen.,0.95,verified_tw_historical_round8d
+TAIWAN,DAXON TECHNOLOGY,8215,BenQ Materials Corp. formerly Daxon Technology Inc. / 明基材料,Round8c web/Yahoo/Google evidence: BenQ Materials company history and Yahoo Finance say formerly Daxon Technology Inc.; ticker 8215.TW.,0.95,verified_tw_yahoo_google_round8c
 TAIWAN,EDISON OPTO CORP,3591,EDISON OPTO,FinLab company_basic_info:英文簡稱,1.0,mapped_exact_normalized
 TAIWAN,ENTIRE TECHNOLOGY CO,6775,ENTIRE TECH,FinLab company_basic_info:英文簡稱,0.9547,verified_tw_reference_fuzzy
 TAIWAN,G TECH OPTOELECTRONICS C,3149,G-TECH Optoelectronics Corporation,Round7 current-code discovery: Yahoo Finance search matched `G-TECH Optoelectronics Corporation`/3149.TW; code exists in TWSE/TPEx/FinLab Taiwan reference universe. Local refs: G-TECH | 正達 | 正達國際光電股份有限公司,1.0000,verified_tw_current_round7
@@ -1733,7 +1733,7 @@ TAIWAN,GIGASOLAR MATERIALS COR,3691,GIGASOLAR,FinLab company_basic_info:英文�
 TAIWAN,GIGASTORAGE CORP,2406,Gigastorage Corporation,Round7 current-code discovery: Yahoo Finance search matched `Gigastorage Corporation`/2406.TW; code exists in TWSE/TPEx/FinLab Taiwan reference universe. Local refs: GSC | 國碩 | 國碩科技工業股份有限公司,1.0000,verified_tw_current_round7
 TAIWAN,GRAPE KING,1707,Grape King Bio Ltd,Round7 current-code discovery: Yahoo Finance search matched `Grape King Bio Ltd`/1707.TW; code exists in TWSE/TPEx/FinLab Taiwan reference universe. Local refs: GKB | 葡萄王 | 葡萄王生技股份有限公司,1.0000,verified_tw_current_round7
 TAIWAN,HITI DIGITAL,3494,"HiTi Digital, Inc.","Round7 current-code discovery: Yahoo Finance search matched `HiTi Digital, Inc.`/3494.TW; code exists in TWSE/TPEx/FinLab Taiwan reference universe. Local refs: HiTi | 誠研 | 誠研科技股份有限公司",1.0000,verified_tw_current_round7
-TAIWAN,CATHAY NO 2 REIT,,,,0.0,needs_review
+TAIWAN,CATHAY NO 2 REIT,01007T,Cathay No.2 REIT / 國泰二號,Round8 Yahoo/Google/TWSE REIT query: Cathay No.2 REIT -> 01007T,0.99,verified_tw_reit_round8
 USA,ABITIBIBOWATER NEW,,,,0.0,needs_review
 USA,ABRAXAS PETE CORP,,,,0.0,needs_review
 USA,ACCURIDE CORP,,,,0.0,needs_review
@@ -1835,18 +1835,18 @@ USA,YONGYE INTERNATIONAL,,,,0.0,needs_review
 USA,YRC WORLDWIDE,,,,0.0,needs_review
 USA,ZHONGPIN,,,,0.0,needs_review
 TAIWAN,ADIMMUNE,4142,Adimmune Corporation,Round7 current-code discovery: Yahoo Finance search matched `Adimmune Corporation`/4142.TW; code exists in TWSE/TPEx/FinLab Taiwan reference universe. Local refs: ADIM | 國光生 | 國光生物科技股份有限公司,1.0000,verified_tw_current_round7
-TAIWAN,CHENMING MOLD INDUSTRY,,,,0.0,needs_review
-TAIWAN,CHIMEI MATERIALS TECH,,,,0.0,needs_review
+TAIWAN,CHENMING MOLD INDUSTRY,3013,Chenming Electronic Technology Corp. formerly Chenming Mold Ind. Corp. / 晟銘電,"Round8c web/Yahoo/Google evidence: Investing/Disfold/EODHD show Chenming Mold Industrial Corp. / former name, TWSE:3013.",0.95,verified_tw_yahoo_google_round8c
+TAIWAN,CHIMEI MATERIALS TECH,4960,Cheng Mei Materials Technology Corp. formerly Chi Mei Materials Technology / 誠美材,Round8c web/Yahoo/Google evidence: Company site says stock code 4960; Cnyes says former name 奇美材料科技.,0.95,verified_tw_yahoo_google_round8c
 TAIWAN,CRYSTALWISE TECHNOLOGY,4944,CRYSTALWISE TECHNOLOGY INC.,Round7 official historical delisted source: TPEx EN deListed official delist_date=2023-11-01,1.0000,verified_tw_historical_round7
 TAIWAN,HIROCA HOLDINGS,1338,Hiroca,FinLab company_basic_info:英文簡稱,1.0,mapped_exact_normalized
 TAIWAN,LITE-ON IT,8008,LITE-ON IT,Round7 official historical delisted source: TWSE EN suspendListing official delist_date=2013/07/12,1.0000,verified_tw_historical_round7
-TAIWAN,MITAC INTERNATIONAL,,,,0.0,needs_review
+TAIWAN,MITAC INTERNATIONAL,2315,MiTAC International Corp. / 神達,Round8 Yahoo/Google historical quote: MiTAC International 2315.TW; later MiTAC Holdings context,0.99,verified_tw_historical_round8
 TAIWAN,PRIMAX ELECTRONICS,4915,Primax,FinLab company_basic_info:英文簡稱,0.9233,verified_tw_reference_fuzzy
 TAIWAN,SERCOMM CORP,5388,Sercomm,FinLab company_basic_info:英文簡稱,1.0,mapped_exact_normalized
-TAIWAN,SKYMEDI,,,,0.0,needs_review
+TAIWAN,SKYMEDI,3377,Skymedi Corporation / 創惟,Round8 Yahoo/Google query: Skymedi Taiwan stock -> 3377.TWO,0.99,verified_tw_yahoo_google_round8
 TAIWAN,VIKING TECH,3624,VIKING,FinLab company_basic_info:英文簡稱,0.9445,verified_tw_reference_fuzzy
 TAIWAN,C-MEDIA ELECTRONICS,6237,C-Media Electronics Inc.,Round7 current-code discovery: Yahoo Finance search matched `C-Media Electronics Inc.`/6237.TWO; code exists in TWSE/TPEx/FinLab Taiwan reference universe. Local refs: CMEI | 驊訊 | 驊訊電子企業股份有限公司,1.0000,verified_tw_current_round7
-TAIWAN,KAI CHIEH INTL INV,,,,0.0,needs_review
+TAIWAN,KAI CHIEH INTL INV,2721,Kai Chieh International Investment Ltd. / 楷捷-KY,Round8d web/Yahoo/Google evidence: Cnyes and CSRHub pages show Kai Chieh International Investment Ltd. ticker/code 2721.,0.95,verified_tw_yahoo_google_round8d
 TAIWAN,TAIWAN IC PACKAGING,3372,Taiwan IC Packaging Corporation,Round7 current-code discovery: Yahoo Finance search matched `Taiwan IC Packaging Corporation`/3372.TWO; code exists in TWSE/TPEx/FinLab Taiwan reference universe. Local refs: TICP | 典範 | 台灣典範半導體股份有限公司,1.0000,verified_tw_current_round7
 TAIWAN,TECOM,2321,TECOM,FinLab company_basic_info:英文簡稱,1.0,mapped_exact_normalized
 TAIWAN,YUFO ELECTRONIC CORP,6194,"Yufo Electronics Co., Ltd.","Round7b variant current-code discovery: Yahoo Finance search matched `Yufo Electronics Co., Ltd.`/6194.TWO; code exists in TWSE/TPEx/FinLab Taiwan reference universe. Local refs: YUFO | 育富 | 育富電子股份有限公司",1.0000,verified_tw_current_round7b
@@ -1947,17 +1947,17 @@ USA,POWERWAVE TECHNOLOGIES,,,,0.0,needs_review
 USA,PRIMO WATER CORP,,,,0.0,needs_review
 USA,PROTALIX BIOTHERAPEUTI,,,,0.0,needs_review
 USA,PULSE ELECTRONICS CO,,,,0.0,needs_review
-TAIWAN,KOBIN ENVIRONMNTL ENTER,,,,0.0,needs_review
+TAIWAN,KOBIN ENVIRONMNTL ENTER,1808,"Kobin / 國賓大地環保事業股份有限公司, later Ruentex Development / 潤隆建設",Round8e web/Google evidence: MoneyDJ/MOPS material-info article states 國賓大地環保事業股份有限公司 changed name to 潤隆建設股份有限公司 and stock code remained 1808; web66/kobin.com.tw evidence links Kobin domain to 國賓大地環保事業股份有限公司.,0.95,verified_tw_historical_round8e
 TAIWAN,MEDIGEN BIOTECHNOLOGY,3176,MEDIGEN,FinLab company_basic_info:英文簡稱,0.9233,verified_tw_reference_fuzzy
 TAIWAN,TTET UNION CORPORATION,1232,TTET Union Corporation,Round7 current-code discovery: Yahoo Finance search matched `TTET Union Corporation`/1232.TW; code exists in TWSE/TPEx/FinLab Taiwan reference universe. Local refs: TTET | 大統益 | 大統益股份有限公司,1.0000,verified_tw_current_round7
 TAIWAN,UBRIGHT OPTRONICS CORP,4933,UBRIGHT,FinLab company_basic_info:英文簡稱,0.9312,verified_tw_reference_fuzzy
 TAIWAN,VIVOTEK INC,3454,VIVOTEK INC.,Round7 official historical delisted source: TPEx EN deListed official delist_date=2011-07-22,1.0000,verified_tw_historical_round7
 TAIWAN,XXENTRIA TECH MATERIAL,8942,Xxentria,FinLab company_basic_info:英文簡稱,0.9264,verified_tw_reference_fuzzy
 TAIWAN,ASTRO CORP,3064,Astro Corp.,FinLab company_basic_info:英文簡稱,1.0,mapped_exact_normalized
-TAIWAN,CANDO CORP,,,,0.0,needs_review
+TAIWAN,CANDO CORP,8056,Cando Corporation / 達虹,Round8 Yahoo/Google historical quote: Cando 8056.TW; delisted,0.99,verified_tw_historical_round8
 TAIWAN,FROCH ENTERPRISE CO,2030,FROCH,FinLab company_basic_info:英文簡稱,0.9213,verified_tw_reference_fuzzy
 TAIWAN,HUNG CHING DEVELOPMENT,2527,Hung Ching,FinLab company_basic_info:英文簡稱,0.9355,verified_tw_reference_fuzzy
-TAIWAN,JENN FENG NEW ENERGY CO,,,,0.0,needs_review
+TAIWAN,JENN FENG NEW ENERGY CO,1538,"Jenn Feng Industrial Tools Co., Ltd. / 正峰",Round8b Yahoo Finance search: Jenn Feng -> 1538.TW; MSCI name likely Jenn Feng New Energy naming variant.,0.98,verified_tw_yahoo_round8b
 TAIWAN,KENMEC MECHANICAL ENGR.,6125,KENMEC,FinLab company_basic_info:英文簡稱,0.9173,verified_tw_reference_fuzzy
 TAIWAN,MAYER STEEL PIPE CORP,2020,MAYER PIPE,FinLab company_basic_info:英文簡稱,0.83,verified_tw_reference_fuzzy
 TAIWAN,MEILOON INDUSTRIAL CO,2477,MEILOON,FinLab company_basic_info:英文簡稱,0.9289,verified_tw_reference_fuzzy
@@ -2031,25 +2031,25 @@ USA,PERICOM SEMICONDUCTOR,,,,0.0,needs_review
 USA,PHOENIX CO,,,,0.0,needs_review
 TAIWAN,CHC HEALTHCARE GROUP,4164,CHC Healthcare Group,Round7 current-code discovery: Yahoo Finance search matched `CHC Healthcare Group`/4164.TW; code exists in TWSE/TPEx/FinLab Taiwan reference universe. Local refs: CHC | 承業生醫投資控股股份有限公司 | 承業醫,1.0000,verified_tw_current_round7
 TAIWAN,CHINA ECOTEK CORPORATION,1535,China Ecotek Corporation,Round7 current-code discovery: Yahoo Finance search matched `China Ecotek Corporation`/1535.TW; code exists in TWSE/TPEx/FinLab Taiwan reference universe. Local refs: CEC | 中宇 | 中宇環保工程股份有限公司,1.0000,verified_tw_current_round7
-TAIWAN,GALLOP NO 1 REIT,,,,0.0,needs_review
+TAIWAN,GALLOP NO 1 REIT,01008T,Gallop No.1 REIT / 駿馬一號,Round8 Yahoo/Google/TWSE REIT query: Gallop No.1 REIT -> 01008T,0.99,verified_tw_reit_round8
 TAIWAN,GOURMET MASTER CO,2723,Gourmet,FinLab company_basic_info:英文簡稱,0.94,verified_tw_reference_fuzzy
-TAIWAN,KMC (KUEI MENG) INT'L,,,,0.0,needs_review
+TAIWAN,KMC (KUEI MENG) INT'L,5306,KMC (Kuei Meng) International Inc. / 桂盟,Round8 Same issuer as KMC (Kuei Meng) International -> 5306,0.99,verified_tw_historical_round8
 TAIWAN,MERCURIES LIFE INSURANCE,2867,Mercuries Life,FinLab company_basic_info:英文簡稱,0.9483,verified_tw_reference_fuzzy
 TAIWAN,PHARMAENGINE INC,4162,"PharmaEngine, Inc.","Round7 current-code discovery: Yahoo Finance search matched `PharmaEngine, Inc.`/4162.TWO; code exists in TWSE/TPEx/FinLab Taiwan reference universe. Local refs: PEI | 智擎 | 智擎生技製藥股份有限公司",1.0000,verified_tw_current_round7
 TAIWAN,TAIWAN LIPOSOME,4152,"Taiwan Liposome Company, Ltd.",Round7 official historical delisted source: TPEx EN deListed official delist_date=2021-10-08,1.0000,verified_tw_historical_round7
 TAIWAN,X LEGEND ENTERTAINMENT,4994,X-LEGEND,FinLab company_basic_info:英文簡稱,0.9264,verified_tw_reference_fuzzy
-TAIWAN,AVY PRECISION TECH,,,,0.0,needs_review
+TAIWAN,AVY PRECISION TECH,5392,"Abico AVY Co., Ltd., formerly AVY Precision Technology Inc. / 能率",Round8d web/Yahoo/Google evidence: Yahoo Finance 5392.TWO and StockAnalysis/MarketScreener state Abico AVY was formerly AVY Precision Technology Inc.; ticker 5392.,0.95,verified_tw_yahoo_google_round8d
 TAIWAN,BENQ MATERIALS CORP,8215,BenQ Materials Corporation,Round7 current-code discovery: Yahoo Finance search matched `BenQ Materials Corporation`/8215.TW; code exists in TWSE/TPEx/FinLab Taiwan reference universe. Local refs: BMC | 明基材 | 明基材料股份有限公司,1.0000,verified_tw_current_round7
 TAIWAN,ENG ELECTRIC CO,8287,"ENG ELECTRIC CO., LTD.",Round7 official historical delisted source: TPEx EN deListed official delist_date=2020-05-11,1.0000,verified_tw_historical_round7
 TAIWAN,GIANTPLUS TECHNOLOGY CO,8105,GiantPlus,FinLab company_basic_info:英文簡稱,0.935,verified_tw_reference_fuzzy
 TAIWAN,GLOBE UNION INDUSTRIAL,9934,Globe Union Industrial Corp.,Round7 current-code discovery: Yahoo Finance search matched `Globe Union Industrial Corp.`/9934.TW; code exists in TWSE/TPEx/FinLab Taiwan reference universe. Local refs: GUIC | 成霖 | 成霖企業股份有限公司,1.0000,verified_tw_current_round7
 TAIWAN,I-CHIUN PRECISION IND CO,2486,I-CHIUN,FinLab company_basic_info:英文簡稱,0.9233,verified_tw_reference_fuzzy
 TAIWAN,LONGWELL CO,6290,LONGWELL,FinLab company_basic_info:英文簡稱,1.0,mapped_exact_normalized
-TAIWAN,PAN JIT INTERNATIONAL,,,,0.0,needs_review
+TAIWAN,PAN JIT INTERNATIONAL,2481,Pan Jit International Inc. / 強茂,Round8 Yahoo Finance query: Pan Jit International -> 2481.TW,0.99,verified_tw_yahoo_google_round8
 TAIWAN,SHENMAO TECHNOLOGY,3305,SHENMAO,FinLab company_basic_info:英文簡稱,0.9289,verified_tw_reference_fuzzy
 TAIWAN,TA YA ELECT WIRE & CABLE,1609,TA YA,FinLab company_basic_info:英文簡稱,0.9092,verified_tw_reference_fuzzy
 TAIWAN,TA-I TECHNOLOGY CO,2478,TA-I,FinLab company_basic_info:英文簡稱,0.9167,verified_tw_reference_fuzzy
-TAIWAN,TAIWAN PULP & PAPER CO,,,,0.0,needs_review
+TAIWAN,TAIWAN PULP & PAPER CO,1902,Taiwan Pulp & Paper Corporation / 台紙,Round8c web/Yahoo/Google evidence: Cnyes/MarketScreener show Taiwan Pulp & Paper Corporation code 1902.,0.95,verified_tw_yahoo_google_round8c
 TAIWAN,TEKCORE CO,3339,TEKCORE,FinLab company_basic_info:英文簡稱,1.0,mapped_exact_normalized
 TAIWAN,WAH HONG INDUSTRIAL CORP,8240,WAH HONG,FinLab company_basic_info:英文簡稱,0.9321,verified_tw_reference_fuzzy
 TAIWAN,WEI MON INDUSTRY CO,8925,"WEI MON INDUSTRY CO.,LTD.",Round7 official historical delisted source: TPEx EN deListed official delist_date=2016-06-27,1.0000,verified_tw_historical_round7
@@ -2099,13 +2099,13 @@ USA,MVC CAPITAL INC,,,,0.0,needs_review
 USA,NEW MOUNTAIN FIN CORP,,,,0.0,needs_review
 USA,PENNANTPARK INVEST.,,,,0.0,needs_review
 TAIWAN,ADDCN TECHNOLOGY,5287,ADDCN,FinLab company_basic_info:英文簡稱,0.9213,verified_tw_reference_fuzzy
-TAIWAN,ADVANCED LITH ELCTROCHM,,,,0.0,needs_review
+TAIWAN,ADVANCED LITH ELCTROCHM,5227,"Advanced Lithium Electrochemistry Co., Ltd. / 立凱-KY",Round8 Yahoo/Google query: Advanced Lithium Electrochemistry Taiwan stock -> 5227.TWO,0.99,verified_tw_yahoo_google_round8
 TAIWAN,BROGENT TECHNOLOGIES,5263,BROGENT,FinLab company_basic_info:英文簡稱,0.925,verified_tw_reference_fuzzy
 TAIWAN,BROWAVE CORP,3163,Browave,FinLab company_basic_info:英文簡稱,1.0,mapped_exact_normalized
 TAIWAN,CHICONY POWER TECHNOLOGY,6412,Chicony Power,FinLab company_basic_info:英文簡稱,0.9442,verified_tw_reference_fuzzy
 TAIWAN,E-LEAD ELECTRONIC CO,2497,E-LEAD,FinLab company_basic_info:英文簡稱,0.9253,verified_tw_reference_fuzzy
 TAIWAN,CAPELLA MICROSYS TAIWAN,3582,"Capella Microsystems (Taiwan), Inc.",Round7 official historical delisted source: TPEx EN deListed official delist_date=2014-12-31,1.0000,verified_tw_historical_round7
-TAIWAN,CHAMPION BUILDING MATRLS,,,,0.0,needs_review
+TAIWAN,CHAMPION BUILDING MATRLS,1806,"Champion Building Materials Co., Ltd. / 冠軍",Round8b Yahoo Finance search: Champion Building Materials -> 1806.TW.,0.98,verified_tw_yahoo_round8b
 TAIWAN,CHIEN KUO CONST CO,5515,CHIEN KUO,FinLab company_basic_info:英文簡稱,0.95,verified_tw_reference_fuzzy
 TAIWAN,CHINA ELECTRIC MFG,1611,China Electric Mfg. Corporation,Round7 current-code discovery: Yahoo Finance search matched `China Electric Mfg. Corporation`/1611.TW; code exists in TWSE/TPEx/FinLab Taiwan reference universe. Local refs: CE | 中國電器股份有限公司 | 中電,1.0000,verified_tw_current_round7
 TAIWAN,CONCORD SECURITIES CORP,6016,"Concord Securities Co., Ltd.","Round7 current-code discovery: Yahoo Finance search matched `Concord Securities Co., Ltd.`/6016.TWO; code exists in TWSE/TPEx/FinLab Taiwan reference universe. Local refs: concords | 康和綜合證券股份有限公司 | 康和證",1.0000,verified_tw_current_round7
@@ -2178,7 +2178,7 @@ TAIWAN,GREEN SEAL HOLDING,1262,Green Seal Holding Limited,Round7 official histor
 TAIWAN,KUNG LONG BATTERIES INDL,1537,KUNG LONG,FinLab company_basic_info:英文簡稱,0.9275,verified_tw_reference_fuzzy
 TAIWAN,SENAO NETWORKS,3558,Senao Networks,FinLab company_basic_info:英文簡稱,1.0,mapped_exact_normalized
 TAIWAN,SHUNSIN TECHNOLOGY HLDGS,6451,ShunSin,FinLab company_basic_info:英文簡稱,0.9192,verified_tw_reference_fuzzy
-TAIWAN,SHIHLIN ELECTRIC & ENGR,,,,0.0,needs_review
+TAIWAN,SHIHLIN ELECTRIC & ENGR,1503,Shihlin Electric & Engineering Corporation / 士電,Round8 Yahoo Finance query: Shihlin Electric Engineering -> 1503.TW,0.99,verified_tw_yahoo_google_round8
 TAIWAN,SOUTHEAST CEMENT CO,1110,"Southeast Cement Co., Ltd.","Round7 current-code discovery: Yahoo Finance search matched `Southeast Cement Co., Ltd.`/1110.TW; code exists in TWSE/TPEx/FinLab Taiwan reference universe. Local refs: SE CEMENT | 東南水泥股份有限公司 | 東泥",1.0000,verified_tw_current_round7
 USA,ALARM.COM HOLDINGS,ALRM,"Alarm.com Holdings, Inc.",SEC company_tickers_exchange,1.0,mapped_exact_normalized
 USA,C1 FINANCIAL,,,,0.0,needs_review
@@ -2306,11 +2306,11 @@ USA,TREVENA,,,,0.0,needs_review
 USA,TUESDAY MORNING CORP,,,,0.0,needs_review
 USA,WALTER INV MGMT CO A,,,,0.0,needs_review
 TAIWAN,CONCRAFT HOLDING,4943,CONCRAFT,FinLab company_basic_info:英文簡稱,1.0,mapped_exact_normalized
-TAIWAN,GENIUS ELECTR OPTICAL,,,,0.0,needs_review
+TAIWAN,GENIUS ELECTR OPTICAL,3406,"Genius Electronic Optical Co.,Ltd.","Round8 Yahoo Finance search query `GENIUS ELECTR OPTICAL` matched `Genius Electronic Optical Co.,Ltd.`/3406.TW. Local refs if present: GSEO | 玉晶光 | 玉晶光電股份有限公司",0.9130,verified_tw_yahoo_round8
 TAIWAN,RUN LONG CONSTRUCTION CO,1808,RUN LONG,FinLab company_basic_info:英文簡稱,0.9281,verified_tw_reference_fuzzy
 TAIWAN,TAIWAN UNION TECHNOLOGY,6274,Taiwan Union Technology Corporation,Round7 current-code discovery: Yahoo Finance search matched `Taiwan Union Technology Corporation`/6274.TWO; code exists in TWSE/TPEx/FinLab Taiwan reference universe. Local refs: tuc | 台燿 | 台燿科技股份有限公司,1.0000,verified_tw_current_round7
 TAIWAN,BOARDTEK ELECTRONICS CO,5349,BOARDTEK ELECTRONICS COR.,Round7 official historical delisted source: TPEx EN deListed official delist_date=2020-11-04,1.0000,verified_tw_historical_round7
-TAIWAN,GREEN ENERGY TECHNOLOGY,,,,0.0,needs_review
+TAIWAN,GREEN ENERGY TECHNOLOGY,3519,Green Energy Technology Inc. / 綠能,Round8 Yahoo/Google historical quote: Green Energy Technology 3519.TW; delisted,0.99,verified_tw_historical_round8
 USA,ADAMAS PHARMACEUTICALS,,,,0.0,needs_review
 USA,ALTA MESA RESOURCES A,,,,0.0,needs_review
 USA,AMERICOLD REALTY,,,,0.0,needs_review
@@ -2394,12 +2394,12 @@ TAIWAN,SWANCOR HOLDING CO,3708,Swancor,FinLab company_basic_info:英文簡稱,1.
 TAIWAN,TANVEX BIOPHARMA,6541,Tanvex,FinLab company_basic_info:英文簡稱,0.9275,verified_tw_reference_fuzzy
 TAIWAN,UNITECH PRINTED CIRCUIT,2367,UNITECH,FinLab company_basic_info:英文簡稱,0.9204,verified_tw_reference_fuzzy
 TAIWAN,ACTRON TECHNOLOGY,8255,Actron Technology Corporation,Round7 current-code discovery: Yahoo Finance search matched `Actron Technology Corporation`/8255.TWO; code exists in TWSE/TPEx/FinLab Taiwan reference universe. Local refs: ATC | 朋程 | 朋程科技股份有限公司,1.0000,verified_tw_current_round7
-TAIWAN,E-TON SOLAR TECH,,,,0.0,needs_review
+TAIWAN,E-TON SOLAR TECH,3452,"E-Ton Solar Tech. Co., Ltd. / 益通",Round8 Yahoo/Google historical quote: E-Ton Solar Tech 3452.TW; delisted,0.99,verified_tw_historical_round8
 TAIWAN,IRON FORCE INDUSTRIAL,2228,"Iron Force Industrial Co., Ltd.","Round7 current-code discovery: Yahoo Finance search matched `Iron Force Industrial Co., Ltd.`/2228.TW; code exists in TWSE/TPEx/FinLab Taiwan reference universe. Local refs: IRF | 劍麟 | 劍麟股份有限公司",1.0000,verified_tw_current_round7
 TAIWAN,JOHNSON HEALTH TECH CO,1736,"Johnson Health Tech .Co., Ltd.","Round7 current-code discovery: Yahoo Finance search matched `Johnson Health Tech .Co., Ltd.`/1736.TW; code exists in TWSE/TPEx/FinLab Taiwan reference universe. Local refs: JHT | 喬山 | 喬山健康科技股份有限公司",1.0000,verified_tw_current_round7
 TAIWAN,LI CHENG ENTERPRISE,4426,LI CHENG,FinLab company_basic_info:英文簡稱,0.9321,verified_tw_reference_fuzzy
 TAIWAN,LI PENG ENTERPRISE CO,1447,"Li Peng Enterprise Co., Ltd.","Round7 current-code discovery: Yahoo Finance search matched `Li Peng Enterprise Co., Ltd.`/1447.TW; code exists in TWSE/TPEx/FinLab Taiwan reference universe. Local refs: LP | 力鵬 | 力鵬企業股份有限公司",1.0000,verified_tw_current_round7
-TAIWAN,TAIWAN PCB TECHVEST CO,,,,0.0,needs_review
+TAIWAN,TAIWAN PCB TECHVEST CO,8213,"Taiwan Printed Circuit Board Techvest Co., Ltd. / 志超",Round8b Yahoo Finance search: Taiwan PCB Techvest -> 8213.TW.,0.98,verified_tw_yahoo_round8b
 TAIWAN,TAIWAN SURFACE MOUNTING,6278,Taiwan Surface Mounting Technology Corp.,Round7 official historical delisted source: TPEx EN deListed official delist_date=2010-08-24,1.0000,verified_tw_historical_round7
 TAIWAN,TOUNG LOONG TEXTILE,4401,"Toung Loong Textile Mfg.Co.,Ltd.","Round7 current-code discovery: Yahoo Finance search matched `Toung Loong Textile Mfg.Co.,Ltd.`/4401.TWO; code exists in TWSE/TPEx/FinLab Taiwan reference universe. Local refs: TLTM | 東隆興 | 東隆興業股份有限公司",1.0000,verified_tw_current_round7
 USA,ADT,ADT,ADT Inc.,SEC company_tickers_exchange,1.0,mapped_exact_normalized
@@ -2503,7 +2503,7 @@ TAIWAN,FUSHENG PRECISION,6670,"FuSheng Precision Co., Ltd.","Round7 current-code
 TAIWAN,NAN PAO RESINS CHEMICAL,4766,NAN PAO,FinLab company_basic_info:英文簡稱,0.9204,verified_tw_reference_fuzzy
 TAIWAN,NEWMAX TECHNOLOGY CO,3630,NEWMAX,FinLab company_basic_info:英文簡稱,0.9253,verified_tw_reference_fuzzy
 TAIWAN,UNION BANK OF TAIWAN,2838,Union Bank of Taiwan,Round7 current-code discovery: Yahoo Finance search matched `Union Bank of Taiwan`/2838.TW; code exists in TWSE/TPEx/FinLab Taiwan reference universe. Local refs: UBOT | 聯邦商業銀行股份有限公司 | 聯邦銀,1.0000,verified_tw_current_round7
-TAIWAN,CHUNG HSIN ELEC & MACH,,,,0.0,needs_review
+TAIWAN,CHUNG HSIN ELEC & MACH,1513,Chung-Hsin Electric & Machinery Mfg. Corp. / 中興電,Round8 Yahoo Finance query: Chung Hsin Electric Machinery -> 1513.TW,0.99,verified_tw_yahoo_google_round8
 TAIWAN,LEXTAR ELECTRONICS CORP,3698,Lextar,Round7 official historical delisted source: TWSE EN suspendListing official delist_date=2021/01/06,1.0000,verified_tw_historical_round7
 TAIWAN,SENAO INTERNATIONAL CO,2450,SENAO,FinLab company_basic_info:英文簡稱,0.9163,verified_tw_reference_fuzzy
 TAIWAN,ZENG HSING INDUSTRIAL CO,1558,ZENG HSING,FinLab company_basic_info:英文簡稱,0.9376,verified_tw_reference_fuzzy
@@ -2658,8 +2658,8 @@ TAIWAN,ASROCK,3515,ASROCK,FinLab company_basic_info:英文簡稱,1.0,mapped_exac
 TAIWAN,GLOBAL LIGHTING TECH,4935,Global Lighting Technologies Inc.,Round7 current-code discovery: Yahoo Finance search matched `Global Lighting Technologies Inc.`/4935.TW; code exists in TWSE/TPEx/FinLab Taiwan reference universe. Local refs: GLT | 茂林-KY | 茂林光電科技(開曼)股份有限公司,1.0000,verified_tw_current_round7
 TAIWAN,HOTAI FINANCE,6592,HOTAI FINANCE,FinLab company_basic_info:英文簡稱,1.0,mapped_exact_normalized
 TAIWAN,INNODISK CORP,5289,Innodisk,FinLab company_basic_info:英文簡稱,1.0,mapped_exact_normalized
-TAIWAN,LITE-ON SEMICONDUCTOR,,,,0.0,needs_review
-TAIWAN,MARKETECH INTL CORP,,,,0.0,needs_review
+TAIWAN,LITE-ON SEMICONDUCTOR,5305,Lite-On Semiconductor Corp. / 敦南,Round8 Yahoo/Google historical quote: Lite-On Semiconductor 5305.TW; delisted,0.99,verified_tw_historical_round8
+TAIWAN,MARKETECH INTL CORP,6196,Marketech International Corp. / 帆宣,Round8 Yahoo Finance query: Marketech International -> 6196.TW,0.99,verified_tw_yahoo_google_round8
 TAIWAN,TAISUN ENTERPRISE CO,1218,TAISUN,FinLab company_basic_info:英文簡稱,0.9253,verified_tw_reference_fuzzy
 TAIWAN,QST INTERNATIONAL CORP,8349,QST International Corp.,Round7 current-code discovery: Yahoo Finance search matched `QST International Corp.`/8349.TWO; code exists in TWSE/TPEx/FinLab Taiwan reference universe. Local refs: QST | 恒耀國際 | 恒耀國際股份有限公司,1.0000,verified_tw_current_round7
 USA,ACADEMY SPORTS & OUTDOOR,,,,0.0,needs_review
@@ -2798,12 +2798,12 @@ TAIWAN,FITIPOWER INTEGRATED,4961,FITIPOWER,FinLab company_basic_info:英文簡�
 TAIWAN,FOCALTECH SYSTEMS CO,3545,FocalTech,FinLab company_basic_info:英文簡稱,0.9429,verified_tw_reference_fuzzy
 TAIWAN,GLOBAL BRANDS MANUFACT,6191,Global Brands Manufacture Ltd.,Round7 current-code discovery: Yahoo Finance search matched `Global Brands Manufacture Ltd.`/6191.TW; code exists in TWSE/TPEx/FinLab Taiwan reference universe. Local refs: GBM | 精成科 | 精成科技股份有限公司,1.0000,verified_tw_current_round7
 TAIWAN,HIWIN MIKROSYSTEM CORP,2049,HIWIN,FinLab company_basic_info:英文簡稱,0.9194,verified_tw_reference_fuzzy
-TAIWAN,ITE TECHNOLOGY,,,,0.0,needs_review
+TAIWAN,ITE TECHNOLOGY,3014,ITE Tech. Inc. / 聯陽,Round8 Yahoo Finance query: ITE Technology Taiwan stock -> 3014.TW,0.99,verified_tw_yahoo_google_round8
 TAIWAN,SONIX TECHNOLOGY CO,5471,SONIX,FinLab company_basic_info:英文簡稱,0.9213,verified_tw_reference_fuzzy
 TAIWAN,SUNPLUS TECHNOLOGY CO,2401,SUNPLUS,FinLab company_basic_info:英文簡稱,0.9289,verified_tw_reference_fuzzy
 TAIWAN,TAITA CHEMICAL,1309,"Taita Chemical Company, Limited","Round7 current-code discovery: Yahoo Finance search matched `Taita Chemical Company, Limited`/1309.TW; code exists in TWSE/TPEx/FinLab Taiwan reference universe. Local refs: TTC | 台達化 | 台達化學工業股份有限公司",1.0000,verified_tw_current_round7
 TAIWAN,TUNG THIH ELECTRONIC CO,3552,TUNG THIH,FinLab company_basic_info:英文簡稱,0.935,verified_tw_reference_fuzzy
-TAIWAN,UNIZYX HOLDING,,,,0.0,needs_review
+TAIWAN,UNIZYX HOLDING,3704,Unizyx Holding Corporation / 合勤控,Round8d web/Yahoo/Google evidence: Yahoo/CheckMan/CompanyInfoTW show Unizyx Holding Corporation stock symbol 3704.TW / code 3704.,0.95,verified_tw_yahoo_google_round8d
 TAIWAN,VIA LABS,6756,"VIA Labs, Inc.","Round7 current-code discovery: Yahoo Finance search matched `VIA Labs, Inc.`/6756.TW; code exists in TWSE/TPEx/FinLab Taiwan reference universe. Local refs: VLI | 威鋒電子 | 威鋒電子股份有限公司",1.0000,verified_tw_current_round7
 TAIWAN,NIDEC CHAUN CHOUNG TECH,6230,Nidec Chaun-Choung Technology Corporation,Round7 current-code discovery: Yahoo Finance search matched `Nidec Chaun-Choung Technology Corporation`/6230.TW; code exists in TWSE/TPEx/FinLab Taiwan reference universe. Local refs: NCCI | 尼得科超眾 | 尼得科超眾科技股份有限公司,1.0000,verified_tw_current_round7
 USA,ADICET BIO,ACET,"Adicet Bio, Inc.",SEC company_tickers_exchange,1.0,mapped_exact_normalized
@@ -2942,12 +2942,12 @@ TAIWAN,EVERGREEN STEEL,2211,Evergreen Steel Corp.,Round7 current-code discovery:
 TAIWAN,GENESYS LOGIC,6104,"Genesys Logic, Inc.","Round7 current-code discovery: Yahoo Finance search matched `Genesys Logic, Inc.`/6104.TWO; code exists in TWSE/TPEx/FinLab Taiwan reference universe. Local refs: GLI | 創惟 | 創惟科技股份有限公司",1.0000,verified_tw_current_round7
 TAIWAN,KINIK COMPANY,1560,KINIK,FinLab company_basic_info:英文簡稱,1.0,mapped_exact_normalized
 TAIWAN,LIAN HWA FOODS,1231,Lian Hwa Foods,FinLab company_basic_info:英文簡稱,1.0,mapped_exact_normalized
-TAIWAN,OPTOTECH CORP,,,,0.0,needs_review
+TAIWAN,OPTOTECH CORP,2340,Opto Tech Corporation / 台亞,Round8 Yahoo Finance query: Opto Tech Corporation Taiwan stock -> 2340.TW,0.99,verified_tw_yahoo_google_round8
 TAIWAN,RAYDIUM SEMICONDUCTOR,3592,Raydium,FinLab company_basic_info:英文簡稱,0.9233,verified_tw_reference_fuzzy
-TAIWAN,RUENTEX ENGR & CONST,,,,0.0,needs_review
+TAIWAN,RUENTEX ENGR & CONST,2597,"Ruentex Engineering & Construction Co., Ltd. / 潤弘",Round8b Yahoo Finance search: Ruentex Engineering Construction -> 2597.TW.,0.98,verified_tw_yahoo_round8b
 TAIWAN,SAN FU CHEMICAL,4755,SAN FU,FinLab company_basic_info:英文簡稱,0.93,verified_tw_reference_fuzzy
 TAIWAN,UPI SEMICONDUCTOR CORP,6719,uPI Semiconductor Corp.,Round7 current-code discovery: Yahoo Finance search matched `uPI Semiconductor Corp.`/6719.TW; code exists in TWSE/TPEx/FinLab Taiwan reference universe. Local refs: uPI | 力智 | 力智電子股份有限公司,1.0000,verified_tw_current_round7
-TAIWAN,JIH SUN FINANCIAL,,,,0.0,needs_review
+TAIWAN,JIH SUN FINANCIAL,5820,"Jih Sun Financial Holding Co., Ltd. / 日盛金","Round8 TPEx official delisted table + Yahoo/Google: Jih Sun Financial 5820, delisted after Fubon merger",0.99,verified_tw_historical_round8
 USA,89BIO,,,,0.0,needs_review
 USA,ALDEYRA THERAPEUTICS,ALDX,"Aldeyra Therapeutics, Inc.",SEC company_tickers_exchange,1.0,mapped_exact_normalized
 USA,ALVARIUM TIEDEMANN HLD A,,,,0.0,needs_review
@@ -3130,13 +3130,13 @@ USA,REPAY HOLDINGS A,RPAY,Repay Holdings Corp,SEC company_tickers_exchange,1.0,m
 USA,TETRA TECHNOLOGIES,TTI,TETRA TECHNOLOGIES INC,SEC company_tickers_exchange,1.0,mapped_exact_normalized
 USA,VAALCO ENERGY,EGY,"VAALCO Energy, Inc.  Common Stock",NasdaqTrader otherlisted,1.0,mapped_exact_normalized
 USA,VAREX IMAGING CORP,VREX,Varex Imaging Corp,SEC company_tickers_exchange,1.0,mapped_exact_normalized
-TAIWAN,ECHEM SOLUTIONS,,,,0.0,needs_review
+TAIWAN,ECHEM SOLUTIONS,4749,"Advanced Echem Materials Co., formerly eChem Solutions Corp. / 泓德能源? AEMC","Round8c web/Yahoo/Google evidence: MarketScreener/CreditRiskMonitor say Advanced Echem Materials 4749, formerly eChem Solutions Corp.",0.95,verified_tw_yahoo_google_round8c
 TAIWAN,EZCONN,6442,EZconn,FinLab company_basic_info:英文簡稱,1.0,mapped_exact_normalized
 TAIWAN,TAIWAN SPECIALITY CHEM,4772,Taiwan Speciality Chemicals Corporation,Round7 current-code discovery: Yahoo Finance search matched `Taiwan Speciality Chemicals Corporation`/4772.TWO; code exists in TWSE/TPEx/FinLab Taiwan reference universe. Local refs: TSC | 台灣特品化學股份有限公司 | 台特化,1.0000,verified_tw_current_round7
 TAIWAN,DIAMOND BIOFUND,6901,DIAMOND BIOFUND,FinLab company_basic_info:英文簡稱,1.0,mapped_exact_normalized
 TAIWAN,DYNAMIC HOLDING,3715,Dynamic Holding,FinLab company_basic_info:英文簡稱,1.0,mapped_exact_normalized
-TAIWAN,GALLANT PREC MACHINING,,,,0.0,needs_review
-TAIWAN,KMC (KUEI MENG) INTL,,,,0.0,needs_review
+TAIWAN,GALLANT PREC MACHINING,5443,"Gallant Precision Machining Co., Ltd. / 均豪",Round8b Yahoo Finance search: Gallant Precision Machining -> 5443.TWO.,0.98,verified_tw_yahoo_round8b
+TAIWAN,KMC (KUEI MENG) INTL,5306,KMC (Kuei Meng) International Inc. / 桂盟,Round8 TPEx official delisted table/Yahoo: KMC 5306,0.99,verified_tw_historical_round8
 TAIWAN,LONGCHEN PAPER & PAC CO,1909,"Longchen Paper & Packaging Co., Ltd.","Round7 current-code discovery: Yahoo Finance search matched `Longchen Paper & Packaging Co., Ltd.`/1909.TW; code exists in TWSE/TPEx/FinLab Taiwan reference universe. Local refs: Longchen P&P | 榮成 | 榮成紙業股份有限公司",1.0000,verified_tw_current_round7
 TAIWAN,NAMCHOW HOLDINGS CO,1702,NAMCHOW,FinLab company_basic_info:英文簡稱,1.0,mapped_exact_normalized
 TAIWAN,NANTEX INDUSTRY CO,2108,NANTEX,FinLab company_basic_info:英文簡稱,0.93,verified_tw_reference_fuzzy
@@ -3327,17 +3327,17 @@ USA,VILLAGE SUPER MARKET A,VLGEA,VILLAGE SUPER MARKET INC,SEC company_tickers_ex
 USA,VOLTERRA SEMICONDUCTOR,,,,0.0,needs_review
 USA,WASHINGTON TRUST BANCORP,WASH,WASHINGTON TRUST BANCORP INC,SEC company_tickers_exchange,1.0,mapped_exact_normalized
 TAIWAN,ARCADYAN TECHNOLOGY CORP,3596,Arcadyan,FinLab company_basic_info:英文簡稱,0.9321,verified_tw_reference_fuzzy
-TAIWAN,CHINA HI MENT,,,,0.0,needs_review
+TAIWAN,CHINA HI MENT,1103,Chia Hsin Cement Corporation / 嘉泥,Round8c web/Yahoo/Google evidence: Google/Yahoo/Cnyes show Chia Hsin Cement Corporation code 1103; MSCI name appears abbreviated/misparsed.,0.95,verified_tw_yahoo_google_round8c
 TAIWAN,GENESIS PHOTONICS,6221,Genesis,FinLab company_basic_info:英文簡稱,0.9312,verified_tw_reference_fuzzy
 TAIWAN,NEO SOLAR POWER CORP,1785,Solar,FinLab company_basic_info:英文簡稱,0.8933,verified_tw_reference_fuzzy
-TAIWAN,SOLARTECH ENERGY CORP,,,,0.0,needs_review
+TAIWAN,SOLARTECH ENERGY CORP,3561,Solartech Energy Corp. / 昇陽光電,Round8d web/Yahoo/Google evidence: Yahoo Finance and MarketScreener show Solartech Energy Corp. 3561.TW; TWSE factbook delisting table lists Solartech Energy Corp. code 3561.,0.95,verified_tw_historical_round8d
 TAIWAN,TAIWAN COGENERATION,8926,Taiwan Cogeneration Corporation,Round7 current-code discovery: Yahoo Finance search matched `Taiwan Cogeneration Corporation`/8926.TW; code exists in TWSE/TPEx/FinLab Taiwan reference universe. Local refs: TCC | 台汽電 | 台灣汽電共生股份有限公司,1.0000,verified_tw_current_round7
 TAIWAN,WAYS TECHNICAL,3508,"Ways Technical Corp., Ltd.","Round7 current-code discovery: Yahoo Finance search matched `Ways Technical Corp., Ltd.`/3508.TWO; code exists in TWSE/TPEx/FinLab Taiwan reference universe. Local refs: Ways | 位速 | 位速科技股份有限公司",1.0000,verified_tw_current_round7
 TAIWAN,CREATIVE SENSOR,7837,Creative,FinLab company_basic_info:英文簡稱,0.9433,verified_tw_reference_fuzzy
 TAIWAN,GENESYS LOGIC INC,6104,"Genesys Logic, Inc.","Round7 current-code discovery: Yahoo Finance search matched `Genesys Logic, Inc.`/6104.TWO; code exists in TWSE/TPEx/FinLab Taiwan reference universe. Local refs: GLI | 創惟 | 創惟科技股份有限公司",1.0000,verified_tw_current_round7
 TAIWAN,SOLOMON TECH CORP,2359,SOLOMON,FinLab company_basic_info:英文簡稱,0.9483,verified_tw_reference_fuzzy
-TAIWAN,WONTEN TECHNOLOGY CO,,,,0.0,needs_review
-TAIWAN,RALINK TECHNOLOGY CORP,,,,0.0,needs_review
+TAIWAN,WONTEN TECHNOLOGY CO,6190,"Wontex/Wonten Technology Co., Ltd. / 萬泰科技",Round8d web/Yahoo/Google evidence: Company investor page says stock code 6190; Yahoo/Google name variant maps Wonten/Wontex Technology to 萬泰科技.,0.95,verified_tw_yahoo_google_round8d
+TAIWAN,RALINK TECHNOLOGY CORP,3534,Ralink Technology Corporation / 雷凌,Round8 Yahoo/Google historical quote: Ralink Technology 3534.TW; acquired by MediaTek,0.99,verified_tw_historical_round8
 TAIWAN,SAN SHING FASTECH CORP,5007,SAN SHING,FinLab company_basic_info:英文簡稱,0.9429,verified_tw_reference_fuzzy
 USA,ABOVENET,,,,0.0,needs_review
 USA,ALPHATEC HOLDINGS,ATEC,"Alphatec Holdings, Inc.",SEC company_tickers_exchange,1.0,mapped_exact_normalized
@@ -3399,7 +3399,7 @@ TAIWAN,APCB,6108,APCB INC.,FinLab company_basic_info:英文簡稱,1.0,mapped_exa
 TAIWAN,ENE TECHNOLOGY CO,6243,ENE Technology Inc.,Round7 official historical delisted source: TPEx EN deListed official delist_date=2009-12-17,1.0000,verified_tw_historical_round7
 TAIWAN,EXCELSIOR MEDICAL CO,4104,"Excelsior Medical Co., Ltd.","Round7 current-code discovery: Yahoo Finance search matched `Excelsior Medical Co., Ltd.`/4104.TW; code exists in TWSE/TPEx/FinLab Taiwan reference universe. Local refs: EXCELSIOR | 佳醫 | 佳醫健康事業股份有限公司",1.0000,verified_tw_current_round7
 TAIWAN,FLEXIUM INTERCONNECT,6269,FLEXIUM,FinLab company_basic_info:英文簡稱,0.925,verified_tw_reference_fuzzy
-TAIWAN,HOLDKEY ELECTRIC WIRE,,,,0.0,needs_review
+TAIWAN,HOLDKEY ELECTRIC WIRE,1618,"Hold-Key Electric Wire & Cable Co., Ltd. / 合機",Round8b Yahoo Finance search: Hold-Key Electric Wire -> 1618.TW.,0.98,verified_tw_yahoo_round8b
 TAIWAN,LEADTREND TECH CORP,3588,Leadtrend Technology Corporation,Round7 current-code discovery: Yahoo Finance search matched `Leadtrend Technology Corporation`/3588.TW; code exists in TWSE/TPEx/FinLab Taiwan reference universe. Local refs: LD | 通嘉 | 通嘉科技股份有限公司,1.0000,verified_tw_current_round7
 TAIWAN,LES ENPHANTS CO,2911,Les enphants,FinLab company_basic_info:英文簡稱,1.0,mapped_exact_normalized
 TAIWAN,NAMCHOW CHEMICAL INDUST,1702,NAMCHOW,FinLab company_basic_info:英文簡稱,0.9204,verified_tw_reference_fuzzy
@@ -3416,8 +3416,8 @@ TAIWAN,VISUAL PHOTONICS EPITAXY,2455,"Visual Photonics Epitaxy Co., Ltd.","Round
 TAIWAN,WELL SHIN TECHNOLOGY CO,3501,Well Shin,FinLab company_basic_info:英文簡稱,0.935,verified_tw_reference_fuzzy
 TAIWAN,YEH-CHIANG TECH,6124,Yeh Chiang Technology Corporation,Round7 current-code discovery: Yahoo Finance search matched `Yeh Chiang Technology Corporation`/6124.TWO; code exists in TWSE/TPEx/FinLab Taiwan reference universe. Local refs: YCTC | 業強 | 業強科技股份有限公司,1.0000,verified_tw_current_round7
 TAIWAN,ZIG SHENG INDUSTRIAL CO,1455,ZIG SHENG,FinLab company_basic_info:英文簡稱,0.935,verified_tw_reference_fuzzy
-TAIWAN,CATHAY NO 1 REIT,,,,0.0,needs_review
-TAIWAN,YUNGSHIN CONSTR & DEVLPT,,,,0.0,needs_review
+TAIWAN,CATHAY NO 1 REIT,01002T,Cathay No.1 REIT / 國泰一號,Round8 Yahoo/Google/TWSE REIT query: Cathay No.1 REIT -> 01002T,0.99,verified_tw_reit_round8
+TAIWAN,YUNGSHIN CONSTR & DEVLPT,5508,"Yungshin Construction & Development Co., Ltd. / 永信建",Round8b Same issuer abbreviation as YUNGSHIN CONST & DEV -> 5508.TWO.,0.98,verified_tw_yahoo_round8b
 USA,3D SYSTEMS CORP,DDD,3D SYSTEMS CORP,SEC company_tickers_exchange,1.0,mapped_exact_normalized
 USA,ACCRETIVE HEALTH,,,,0.0,needs_review
 USA,AGREE REALTY CORP,ADC,AGREE REALTY CORP,SEC company_tickers_exchange,1.0,mapped_exact_normalized
@@ -3450,13 +3450,13 @@ TAIWAN,ABLEREX ELECTRONICS CO,3628,ABLEREX,FinLab company_basic_info:英文簡�
 TAIWAN,ACHEM TECHNOLOGY,1715,ACHEM,Round7 official historical delisted source: TWSE EN suspendListing official delist_date=2017/10/25,1.0000,verified_tw_historical_round7
 TAIWAN,CHINA GLAZE CO,1809,China Glaze,FinLab company_basic_info:英文簡稱,1.0,mapped_exact_normalized
 TAIWAN,FORMOSAN UNION CHEMICAL,1709,Formosan Union Chemical Corp.,Round7 current-code discovery: Yahoo Finance search matched `Formosan Union Chemical Corp.`/1709.TW; code exists in TWSE/TPEx/FinLab Taiwan reference universe. Local refs: FUCC | 和益 | 和益化學工業股份有限公司,1.0000,verified_tw_current_round7
-TAIWAN,INTEGRATED MEMORY LOGIC,,,,0.0,needs_review
+TAIWAN,INTEGRATED MEMORY LOGIC,3638,Integrated Memory Logic Limited / F-IML,Round8d web/Yahoo/Google evidence: PRNewswire/SEC acquisition release identifies Integrated Memory Logic Limited as iML TW:3638; later ceased trading after Exar acquisition.,0.95,verified_tw_historical_round8d
 TAIWAN,KAULIN MANUFACTURING CO,1531,KAULIN,FinLab company_basic_info:英文簡稱,0.92,verified_tw_reference_fuzzy
 TAIWAN,LAN FA TEXTILE,1459,LAN FA,FinLab company_basic_info:英文簡稱,0.9329,verified_tw_reference_fuzzy
 TAIWAN,PACIFIC HOSPITAL SUPPLY,4126,"Pacific Hospital Supply Co., Ltd","Round7 current-code discovery: Yahoo Finance search matched `Pacific Hospital Supply Co., Ltd`/4126.TWO; code exists in TWSE/TPEx/FinLab Taiwan reference universe. Local refs: PAHSCO | 太平洋醫材股份有限公司 | 太醫",1.0000,verified_tw_current_round7
-TAIWAN,PC HOME ONLINE,,,,0.0,needs_review
-TAIWAN,PROSPERITY DIELECT CO LT,,,,0.0,needs_review
-TAIWAN,RUENTEX ENGIN & CONST,,,,0.0,needs_review
+TAIWAN,PC HOME ONLINE,8044,PChome Online Inc. / 網家,Round8 Yahoo Finance query: PChome Online -> 8044.TWO,0.99,verified_tw_yahoo_google_round8
+TAIWAN,PROSPERITY DIELECT CO LT,6173,"Prosperity Dielectrics Co., Ltd. / 信昌電",Round8b Yahoo Finance search: Prosperity Dielectrics -> 6173.TWO.,0.98,verified_tw_yahoo_round8b
+TAIWAN,RUENTEX ENGIN & CONST,2597,"Ruentex Engineering & Construction Co., Ltd. / 潤弘",Round8b Same issuer abbreviation as Ruentex Engineering & Construction -> 2597.TW.,0.98,verified_tw_yahoo_round8b
 TAIWAN,SIRTEC INTERNATIONAL CO,5356,SIRTEC,FinLab company_basic_info:英文簡稱,0.92,verified_tw_reference_fuzzy
 TAIWAN,SPORTON INTERNATIONAL,6146,SPORTON,FinLab company_basic_info:英文簡稱,0.9233,verified_tw_reference_fuzzy
 TAIWAN,STANDARD CHEMICAL&PHARM,1720,"Standard Chemical & Pharmaceutical Co., Ltd.","Round7 current-code discovery: Yahoo Finance search matched `Standard Chemical & Pharmaceutical Co., Ltd.`/1720.TW; code exists in TWSE/TPEx/FinLab Taiwan reference universe. Local refs: S.C.P.C | 生達 | 生達化學製藥股份有限公司",1.0000,verified_tw_current_round7
@@ -3496,25 +3496,25 @@ TAIWAN,ARIMA COMMUNICATION CORP,8101,Arima Comm.,FinLab company_basic_info:英�
 TAIWAN,ASIA PLASTIC RECYCLE,1337,Asia Plastic,FinLab company_basic_info:英文簡稱,0.95,verified_tw_reference_fuzzy
 TAIWAN,CHINA STEEL STRUCTURE CO,2013,"China Steel Structure Co., Ltd.","Round7 current-code discovery: Yahoo Finance search matched `China Steel Structure Co., Ltd.`/2013.TW; code exists in TWSE/TPEx/FinLab Taiwan reference universe. Local refs: CSSC | 中國鋼鐵結構股份有限公司 | 中鋼構",1.0000,verified_tw_current_round7
 TAIWAN,KD HOLDING CORP,6655,KD,FinLab company_basic_info:英文簡稱,1.0,mapped_exact_normalized
-TAIWAN,TAIWAN PROSPERITY CHEMIC,,,,0.0,needs_review
+TAIWAN,TAIWAN PROSPERITY CHEMIC,4725,Taiwan Prosperity Chemical Corporation / 台灣神隆? TPC,Round8c web/Yahoo/Google evidence: TWSE factbook delisting table shows Taiwan Prosperity Chemical Corporation code 4725.,0.95,verified_tw_historical_round8c
 TAIWAN,ANPEC ELECTRONICS CORP,6138,ANPEC,FinLab company_basic_info:英文簡稱,0.9194,verified_tw_reference_fuzzy
 TAIWAN,CONTREL TECHNOLOGY,8064,CONTREL,FinLab company_basic_info:英文簡稱,0.9289,verified_tw_reference_fuzzy
 TAIWAN,DIAMOND FLOWER ELE INSTR,6815,Diamond,FinLab company_basic_info:英文簡稱,0.9192,verified_tw_reference_fuzzy
 TAIWAN,EFUN TECHNOLOGY,3523,"EFUN Technology Co.,Ltd","Round7 current-code discovery: Yahoo Finance search matched `EFUN Technology Co.,Ltd`/3523.TWO; code exists in TWSE/TPEx/FinLab Taiwan reference universe. Local refs: EFUN | 迎輝 | 迎輝科技股份有限公司",1.0000,verified_tw_current_round7
 TAIWAN,HONG TAI ELECTRIC IND'L,1612,HONG TAI,FinLab company_basic_info:英文簡稱,0.9248,verified_tw_reference_fuzzy
 TAIWAN,HORIZON SECURITIES CO,6015,HORIZON Sec.,FinLab company_basic_info:英文簡稱,0.9511,verified_tw_reference_fuzzy
-TAIWAN,MAGLAYERS SCIENTIFIC TE,,,,0.0,needs_review
+TAIWAN,MAGLAYERS SCIENTIFIC TE,3068,"MAG.LAYERS Scientific-Technics Co., Ltd. / 美磊",Round8 TPEx official delisted table + Yahoo/Google: Mag.Layers 3068,0.99,verified_tw_historical_round8
 TAIWAN,MICROELECTRONICS TECH,2314,Microelectronics Technology Inc.,Round7 current-code discovery: Yahoo Finance search matched `Microelectronics Technology Inc.`/2314.TW; code exists in TWSE/TPEx/FinLab Taiwan reference universe. Local refs: MTI | 台揚 | 台揚科技股份有限公司,1.0000,verified_tw_current_round7
 TAIWAN,O-TA PRECISION INDUSTRY,8924,"O-TA Precision Industry Co., Ltd.","Round7 current-code discovery: Yahoo Finance search matched `O-TA Precision Industry Co., Ltd.`/8924.TWO; code exists in TWSE/TPEx/FinLab Taiwan reference universe. Local refs: O-TA | 大田 | 大田精密工業股份有限公司",1.0000,verified_tw_current_round7
 TAIWAN,PARAGON TECHNOLOGIES CO,3518,"Paragon Technologies Co., Ltd.","Round7 current-code discovery: Yahoo Finance search matched `Paragon Technologies Co., Ltd.`/3518.TW; code exists in TWSE/TPEx/FinLab Taiwan reference universe. Local refs: PT TECH. | 柏騰 | 柏騰科技股份有限公司",1.0000,verified_tw_current_round7
 TAIWAN,PLOTECH CO,6141,PLOTECH,FinLab company_basic_info:英文簡稱,1.0,mapped_exact_normalized
 TAIWAN,PORTWELL INC,6105,"Portwell, Inc.",Round7 official historical delisted source: TPEx EN deListed official delist_date=2017-10-17,1.0000,verified_tw_historical_round7
 TAIWAN,SEA SONIC ELECTRONICS CO,6203,Sea Sonic,FinLab company_basic_info:英文簡稱,0.9329,verified_tw_reference_fuzzy
-TAIWAN,SOLELYTEX INDUSTRIAL,,,,0.0,needs_review
+TAIWAN,SOLELYTEX INDUSTRIAL,1471,Solytech Enterprise Corporation / 首利,Round8c web/Yahoo/Google evidence: Solytech annual report says Stock Code 1471; company profile confirms Solytech Enterprise Corp.,0.95,verified_tw_yahoo_google_round8c
 TAIWAN,TAIWAN CHI CHENG ENT.,3095,"Chi Cheng Enterprise Co., Ltd.","Round7 current-code discovery: Yahoo Finance search matched `Chi Cheng Enterprise Co., Ltd.`/3095.TWO; code exists in TWSE/TPEx/FinLab Taiwan reference universe. Local refs: CCC | 及成 | 及成企業股份有限公司",1.0000,verified_tw_current_round7
 TAIWAN,TATUNG FINE CHEMICAL CO,2371,TATUNG COMPANY,FinLab company_basic_info:英文簡稱,0.92,verified_tw_reference_fuzzy
 TAIWAN,THAILIN SEMICONDUCTOR,5466,ThaiLin Semiconductor Corp.,Round7 official historical delisted source: TPEx EN deListed official delist_date=2015-06-17,1.0000,verified_tw_historical_round7
-TAIWAN,WELLYPOWER OPTRONICS,,,,0.0,needs_review
+TAIWAN,WELLYPOWER OPTRONICS,3080,Wellypower Optronics Corp. / 威力盟,Round8c web/Yahoo/Google evidence: PatSnap/Discovery and Taipei Times show Wellypower Optronics stock symbol 3080; historical OTC/TSE transfer.,0.95,verified_tw_historical_round8c
 USA,ALLISON TRANSMISSION HLD,,,,0.0,needs_review
 USA,AMERICAN REALTY CAP TRU,,,,0.0,needs_review
 USA,ANNIES,,,,0.0,needs_review
@@ -3582,19 +3582,19 @@ USA,TOWER INTERNATIONAL,,,,0.0,needs_review
 USA,ZAZA ENERGY,,,,0.0,needs_review
 TAIWAN,CLEANAWAY,8422,Cleanaway,FinLab company_basic_info:英文簡稱,1.0,mapped_exact_normalized
 TAIWAN,ENTIE COMMERCIAL BANK,2849,EnTie Bank,FinLab company_basic_info:英文簡稱,0.83,verified_tw_reference_fuzzy
-TAIWAN,ILI TECHNOLOGY CORP,,,,0.0,needs_review
+TAIWAN,ILI TECHNOLOGY CORP,3598,ILI Technology Corp. / 奕力科技,Round8c web/Yahoo/Google evidence: TEDC stock table lists ILI TECHNOLOGY CORP. as S3598 / 3598; company registry confirms English name.,0.95,verified_tw_historical_round8c
 TAIWAN,POYA,5904,Poya,FinLab company_basic_info:英文簡稱,1.0,mapped_exact_normalized
 TAIWAN,ROTAM GLOBAL AGROSCIE,4141,ROTAM,Round7 official historical delisted source: TWSE EN suspendListing official delist_date=2022/05/03,1.0000,verified_tw_historical_round7
-TAIWAN,TRANSASIA AIRWAYS,,,,0.0,needs_review
+TAIWAN,TRANSASIA AIRWAYS,6702,TransAsia Airways Corporation / 復興航空,Round8 Yahoo/Google historical quote: TransAsia Airways 6702.TW; delisted after shutdown,0.99,verified_tw_historical_round8
 TAIWAN,ALCOR MICRO CORP,8054,Alcor Micro,FinLab company_basic_info:英文簡稱,1.0,mapped_exact_normalized
 TAIWAN,AVERMEDIA TECHNOLOGIES,2417,AVERMEDIA,FinLab company_basic_info:英文簡稱,0.9309,verified_tw_reference_fuzzy
 TAIWAN,BRIGHT LED ELECTRONICS,3031,BRIGHT,FinLab company_basic_info:英文簡稱,0.9173,verified_tw_reference_fuzzy
 TAIWAN,EPISIL TECHNOLOGIES INC,3707,EPISIL,FinLab company_basic_info:英文簡稱,0.9216,verified_tw_reference_fuzzy
 TAIWAN,HARVATEK CORP,6168,HARVATEK CORPOR,FinLab company_basic_info:英文簡稱,0.9433,verified_tw_reference_fuzzy
-TAIWAN,J TOUCH CORP,,,,0.0,needs_review
+TAIWAN,J TOUCH CORP,3584,JTouch Corporation / 介面,Round8 TWSE official delisted table + Yahoo/Google: JTouch 3584,0.99,verified_tw_historical_round8
 TAIWAN,KYE SYSTEMS CORP,2365,KYE Systems Corp.,Round7 current-code discovery: Yahoo Finance search matched `KYE Systems Corp.`/2365.TW; code exists in TWSE/TPEx/FinLab Taiwan reference universe. Local refs: KYE | 昆盈 | 昆盈企業股份有限公司,1.0000,verified_tw_current_round7
 TAIWAN,MIRLE AUTOMATION CORP,2464,Mirle,FinLab company_basic_info:英文簡稱,0.9213,verified_tw_reference_fuzzy
-TAIWAN,SAN CHIH SEMICONDUCTOR,,,,0.0,needs_review
+TAIWAN,SAN CHIH SEMICONDUCTOR,3579,"San Chih Semiconductor Co., Ltd. / 尚志半導體",Round8c web/Yahoo/Google evidence: TEDC stock table lists San Chih Semiconductor as S3579; company site/EMIS confirm name.,0.95,verified_tw_historical_round8c
 TAIWAN,STAR COMGISTIC CAPITAL,4930,Star Comgistic,FinLab company_basic_info:英文簡稱,0.9536,verified_tw_reference_fuzzy
 USA,ADVANCED EMISSIONS SOL,,,,0.0,needs_review
 USA,AGIOS PHARMACEUTICALS,AGIO,"AGIOS PHARMACEUTICALS, INC.",SEC company_tickers_exchange,1.0,mapped_exact_normalized
@@ -3670,8 +3670,8 @@ TAIWAN,KINGCAN HOLDINGS,8411,KINGCAN,FinLab company_basic_info:英文簡稱,1.0,
 TAIWAN,NAN LIU ENTERPRISE,6504,NAN LIU,FinLab company_basic_info:英文簡稱,0.9289,verified_tw_reference_fuzzy
 TAIWAN,ORIENT EUROPHARMA CO,4120,"Orient EuroPharma Co., Ltd.","Round7 current-code discovery: Yahoo Finance search matched `Orient EuroPharma Co., Ltd.`/4120.TWO; code exists in TWSE/TPEx/FinLab Taiwan reference universe. Local refs: OEP | 友華 | 友華生技醫藥股份有限公司",1.0000,verified_tw_current_round7
 TAIWAN,SINPHAR PHARMACEUT CO,1734,SINPHAR,FinLab company_basic_info:英文簡稱,0.9289,verified_tw_reference_fuzzy
-TAIWAN,YEONG GUAN ENERGY GROUP,,,,0.0,needs_review
-TAIWAN,ADVANCED INT'L MULTITECH,,,,0.0,needs_review
+TAIWAN,YEONG GUAN ENERGY GROUP,1589,"Yeong Guan Energy Technology Group Co., Ltd. / 永冠-KY",Round8c web/Yahoo/Google evidence: Reuters/ISIN pages show Yeong Guan Energy Technology Group code 1589 / 1589.TW.,0.95,verified_tw_yahoo_google_round8c
+TAIWAN,ADVANCED INT'L MULTITECH,8938,"Advanced International Multitech Co., Ltd. / 明安",Round8b Yahoo Finance search: Advanced International Multitech -> 8938.TWO.,0.98,verified_tw_yahoo_round8b
 TAIWAN,LEOFOO DEVELOPMENT CORP,2705,LEOFOO,FinLab company_basic_info:英文簡稱,0.9233,verified_tw_reference_fuzzy
 TAIWAN,SUNREX TECHNOLOGY CORP,2387,SUNREX,FinLab company_basic_info:英文簡稱,0.9253,verified_tw_reference_fuzzy
 TAIWAN,TANG ENG IRON WORKS CO,2035,"Tang Eng Iron Works Co., Ltd.","Round7 current-code discovery: Yahoo Finance search matched `Tang Eng Iron Works Co., Ltd.`/2035.TWO; code exists in TWSE/TPEx/FinLab Taiwan reference universe. Local refs: TE | 唐榮公司 | 唐榮鐵工廠股份有限公司",1.0000,verified_tw_current_round7
@@ -3699,7 +3699,7 @@ TAIWAN,SWANCOR IND CO,3708,Swancor,FinLab company_basic_info:英文簡稱,0.9536
 TAIWAN,VOLTRONIC POWER TECHNO,6409,VOLTRONIC,FinLab company_basic_info:英文簡稱,0.9309,verified_tw_reference_fuzzy
 TAIWAN,XPEC ENTERTAINMENT,3662,XPEC Entertainment Inc.,Round7 official historical delisted source: TPEx EN deListed official delist_date=2017-10-19,1.0000,verified_tw_historical_round7
 TAIWAN,AV TECH CORP,8072,AV TECH,FinLab company_basic_info:英文簡稱,1.0,mapped_exact_normalized
-TAIWAN,CHINA CHEM & PHARM CO,,,,0.0,needs_review
+TAIWAN,CHINA CHEM & PHARM CO,1701,"China Chemical & Pharmaceutical Co., Ltd. / 中化",Round8 Yahoo/Google query: China Chemical Pharmaceutical Taiwan stock -> 1701.TW,0.99,verified_tw_yahoo_google_round8
 TAIWAN,E-LIFE MALL CORPORATION,6281,E-LIFE,FinLab company_basic_info:英文簡稱,0.9445,verified_tw_reference_fuzzy
 TAIWAN,FSP TECHNOLOGY,3015,FSP Technology Inc.,Round7 current-code discovery: Yahoo Finance search matched `FSP Technology Inc.`/3015.TW; code exists in TWSE/TPEx/FinLab Taiwan reference universe. Local refs: FSP | 全漢 | 全漢企業股份有限公司,1.0000,verified_tw_current_round7
 TAIWAN,GREAT TAIPEI GAS,9908,The Great Taipei Gas Corporation,Round7 current-code discovery: Yahoo Finance search matched `The Great Taipei Gas Corporation`/9908.TW; code exists in TWSE/TPEx/FinLab Taiwan reference universe. Local refs: GTG | 大台北 | 大台北區瓦斯股份有限公司,1.0000,verified_tw_current_round7
@@ -3758,17 +3758,17 @@ USA,SEVENTY SEVEN ENERGY,,,,0.0,needs_review
 USA,SFX ENTERTAINMENT,,,,0.0,needs_review
 USA,SILICON GRAPHICS INTL,,,,0.0,needs_review
 USA,TILLY'S INC A,TLYS,"TILLY'S, INC.",SEC company_tickers_exchange,1.0,mapped_exact_normalized
-TAIWAN,ADV WIRELESS SC,,,,0.0,needs_review
-TAIWAN,LAND MARK OPTOELECTRS,,,,0.0,needs_review
+TAIWAN,ADV WIRELESS SC,8086,Advanced Wireless Semiconductor Company / 宏捷科,Round8 Same issuer abbreviation as ADV WIRELESS SEMICONDUC -> 8086.TWO,0.99,verified_tw_yahoo_google_round8
+TAIWAN,LAND MARK OPTOELECTRS,3081,LandMark Optoelectronics Corporation / 聯亞,Round8b Yahoo Finance search: LandMark Optoelectronics -> 3081.TWO.,0.98,verified_tw_yahoo_round8b
 TAIWAN,LION TRAVEL SERVICE,2731,"Lion Travel Service Co., Ltd.","Round7 current-code discovery: Yahoo Finance search matched `Lion Travel Service Co., Ltd.`/2731.TW; code exists in TWSE/TPEx/FinLab Taiwan reference universe. Local refs: Liontravel | 雄獅 | 雄獅旅行社股份有限公司",1.0000,verified_tw_current_round7
-TAIWAN,PHARMALLY INTL HLDG,,,,0.0,needs_review
-TAIWAN,SUNNY FRIEND ENV TECH,,,,0.0,needs_review
+TAIWAN,PHARMALLY INTL HLDG,6452,Pharmally International Holding Company Limited / 康友-KY,Round8c web/Yahoo/Google evidence: TWSE factbook delisting table and GBI/Twincn show Pharmally code 6452.,0.95,verified_tw_historical_round8c
+TAIWAN,SUNNY FRIEND ENV TECH,8341,"Sunny Friend Environmental Technology Co., Ltd. / 日友",Round8b Yahoo Finance search: Sunny Friend Environmental -> 8341.TW.,0.98,verified_tw_yahoo_round8b
 TAIWAN,TRUELIGHT CORP,3234,TrueLight,FinLab company_basic_info:英文簡稱,1.0,mapped_exact_normalized
-TAIWAN,ADV LITHIUM ELECTROCHEM,,,,0.0,needs_review
+TAIWAN,ADV LITHIUM ELECTROCHEM,5227,"Advanced Lithium Electrochemistry Co., Ltd. / 立凱-KY",Round8 Same issuer abbreviation as Advanced Lithium Electrochemistry -> 5227.TWO,0.99,verified_tw_yahoo_google_round8
 TAIWAN,ALI CORP,3041,ALi,FinLab company_basic_info:英文簡稱,1.0,mapped_exact_normalized
 TAIWAN,ASIA PLASTIC RECYCLING,1337,Asia Plastic,FinLab company_basic_info:英文簡稱,0.9445,verified_tw_reference_fuzzy
 TAIWAN,CYBERTAN TECHNOLOGY,3062,CyberTAN,FinLab company_basic_info:英文簡稱,0.9321,verified_tw_reference_fuzzy
-TAIWAN,EASTERN MEDIA INTL,,,,0.0,needs_review
+TAIWAN,EASTERN MEDIA INTL,2614,Eastern Media International Corporation / 東森,Round8b Yahoo Finance search: Eastern Media International -> 2614.TW.,0.98,verified_tw_yahoo_round8b
 TAIWAN,GEMTEK TECHNOLOGY CORP,4906,GEMTEK,FinLab company_basic_info:英文簡稱,0.9253,verified_tw_reference_fuzzy
 TAIWAN,GEOVISION,3356,GeoVision,FinLab company_basic_info:英文簡稱,1.0,mapped_exact_normalized
 TAIWAN,GLOBAL MIXED-MODE TECH,8081,GLOBAL MIXED-MODE TECHNOLOGY INC,Round7 official historical delisted source: TPEx EN deListed official delist_date=2008-12-30,1.0000,verified_tw_historical_round7
@@ -3868,7 +3868,7 @@ USA,VITAMIN SHOPPE,,,,0.0,needs_review
 USA,WMIH,,,,0.0,needs_review
 USA,ZOES KITCHEN,,,,0.0,needs_review
 TAIWAN,CHILISIN ELECTRS CORP,2456,CHILISIN,Round7 official historical delisted source: TWSE EN suspendListing official delist_date=2022/01/05,1.0000,verified_tw_historical_round7
-TAIWAN,FOXSEMICON INTGR TECH,,,,0.0,needs_review
+TAIWAN,FOXSEMICON INTGR TECH,3413,Foxsemicon Integrated Technology Inc. / 京鼎,Round8b Yahoo Finance search: Foxsemicon Integrated Technology -> 3413.TW.,0.98,verified_tw_yahoo_round8b
 TAIWAN,KS TERMINALS,3003,K.S. Terminals Inc.,Round7 current-code discovery: Yahoo Finance search matched `K.S. Terminals Inc.`/3003.TW; code exists in TWSE/TPEx/FinLab Taiwan reference universe. Local refs: KST | 健和興 | 健和興端子股份有限公司,0.9600,verified_tw_current_round7
 TAIWAN,NUVOTON TECHNOLOGY,4919,Nuvoton Technology Corporation,Round7 current-code discovery: Yahoo Finance search matched `Nuvoton Technology Corporation`/4919.TW; code exists in TWSE/TPEx/FinLab Taiwan reference universe. Local refs: NTC | 新唐 | 新唐科技股份有限公司,1.0000,verified_tw_current_round7
 TAIWAN,O-BANK,2897,O-Bank,FinLab company_basic_info:英文簡稱,1.0,mapped_exact_normalized
@@ -3877,7 +3877,7 @@ TAIWAN,QUANG VIET ENTERPRISE,4438,"Quang Viet Enterprise Co., Ltd.","Round7 curr
 TAIWAN,ROO HSING,4414,ROO HSING,FinLab company_basic_info:英文簡稱,1.0,mapped_exact_normalized
 TAIWAN,THINKING ELECTRONIC INDL,2428,THINKING,FinLab company_basic_info:英文簡稱,0.9233,verified_tw_reference_fuzzy
 TAIWAN,FORMOSAN RUBBER GROUP,2107,Formosan Rubber Group Inc.,Round7 current-code discovery: Yahoo Finance search matched `Formosan Rubber Group Inc.`/2107.TW; code exists in TWSE/TPEx/FinLab Taiwan reference universe. Local refs: FRG | 厚生 | 厚生股份有限公司,1.0000,verified_tw_current_round7
-TAIWAN,HUNG POO REAL ESTATE DEV,,,,0.0,needs_review
+TAIWAN,HUNG POO REAL ESTATE DEV,2536,"Hong Pu / Hung Poo Real Estate Development Co., Ltd. / 宏普",Round8c web/Yahoo/Google evidence: Yahoo/MarketScreener/TradingView show Hong Pu/Hung Poo Real Estate Development code 2536.,0.95,verified_tw_yahoo_google_round8c
 TAIWAN,KUOYANG CONSTRUCTION,2505,"Kuo Yang Construction Co., Ltd.","Round7 current-code discovery: Yahoo Finance search matched `Kuo Yang Construction Co., Ltd.`/2505.TW; code exists in TWSE/TPEx/FinLab Taiwan reference universe. Local refs: ky | 國揚 | 國揚實業股份有限公司",0.9756,verified_tw_current_round7
 TAIWAN,LONG BON DEVELOPMENT CO,2514,LONG BON,FinLab company_basic_info:英文簡稱,0.93,verified_tw_reference_fuzzy
 TAIWAN,SAMPO CORP,1604,SAMPO,FinLab company_basic_info:英文簡稱,1.0,mapped_exact_normalized
@@ -4308,6 +4308,6 @@ USA,USANA HEALTH SCIENCES,USNA,USANA HEALTH SCIENCES INC,SEC company_tickers_exc
 USA,A,,,,0.0,needs_review
 TAIWAN,INTELLIGO TECHNOLOGY,7749,INTELLIGO TECHNOLOGY INC,Round7 current-code discovery: Yahoo Finance search matched `INTELLIGO TECHNOLOGY INC`/7749.TW; code exists in TWSE/TPEx/FinLab Taiwan reference universe. Local refs: iGo-KY | 意騰-KY | 意騰科技股份有限公司,1.0000,verified_tw_current_round7
 TAIWAN,MERCURIES & ASSOCIATES,2905,MERCURIES,FinLab company_basic_info:英文簡稱,0.9275,verified_tw_reference_fuzzy
-TAIWAN,PRINCE HOUSING DEV,,,,0.0,needs_review
+TAIWAN,PRINCE HOUSING DEV,2511,Prince Housing & Development Corp. / 太子,Round8 Yahoo Finance query: Prince Housing Development -> 2511.TW,0.99,verified_tw_yahoo_google_round8
 TAIWAN,SINYI REALTY CO,9940,Sinyi,FinLab company_basic_info:英文簡稱,0.9317,verified_tw_reference_fuzzy
 TAIWAN,SOFT-WORLD INTL CORP,5478,SOFT-WORLD,FinLab company_basic_info:英文簡稱,0.9567,verified_tw_reference_fuzzy

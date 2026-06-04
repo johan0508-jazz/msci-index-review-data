@@ -1,0 +1,11 @@
+{
+  "task": "MSCI Taiwan Kobin final completion Round 8e",
+  "updated_at_taipei": "2026-06-04T10:25:27+08:00",
+  "manual_before": 1,
+  "accepted_unique_mappings": 1,
+  "manual_remaining": 0,
+  "outputs": {
+    "accepted": "/Users/johan/Documents/invest/msci_index_reviews/research_state/msci_taiwan_mapping_round8e_accepted.csv",
+    "manual_remaining": "/Users/johan/Documents/invest/msci_index_reviews/research_state/msci_taiwan_mapping_round8e_manual_unique.csv"
+  }
+}

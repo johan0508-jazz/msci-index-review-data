@@ -50,7 +50,7 @@ REF_EXACT: dict[int, dict[str, int]] = {}
 YAHOO_CACHE: dict[str, list[dict[str, Any]]] = {}
 
 
-def http_json(url: str, *, user_agent: str = "MSCI research data prep", insecure: bool = False) -> Any:
+def http_json(url: str, *, user_agent: str = "Johan MSCI research atigerhh@gmail.com", insecure: bool = False) -> Any:
     ctx = ssl._create_unverified_context() if insecure else None
     req = Request(url, headers={"User-Agent": user_agent, "Accept": "application/json,text/plain,*/*"})
     with urlopen(req, timeout=30, context=ctx) as r:

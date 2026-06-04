@@ -1,0 +1,4589 @@
+{
+  "PHOENIXTEC POWER CO": [],
+  "CHINA PETROCHEMICAL DEV": [
+    {
+      "exchange": "TAI",
+      "shortname": "CHINA PETROCHEMICAL DEVELOPMENT",
+      "quoteType": "EQUITY",
+      "symbol": "1314.TW",
+      "index": "quotes",
+      "score": 20001.0,
+      "typeDisp": "Equity",
+      "longname": "China Petrochemical Development Corporation",
+      "exchDisp": "Taiwan",
+      "sector": "Basic Materials",
+      "sectorDisp": "Basic Materials",
+      "industry": "Specialty Chemicals",
+      "industryDisp": "Specialty Chemicals",
+      "isYahooFinance": true
+    }
+  ],
+  "LEE CHANG YUNG CHEM IND": [],
+  "NAN KANG RUBBER TIRE CO": [],
+  "FAR EAST DEPT STORES": [],
+  "FORMOSA INTL HOTELS": [],
+  "SCINOPHARM TAIWAN": [
+    {
+      "exchange": "TAI",
+      "shortname": "SCINOPHARM TAIWAN LTD",
+      "quoteType": "EQUITY",
+      "symbol": "1789.TW",
+      "index": "quotes",
+      "score": 20001.0,
+      "typeDisp": "Equity",
+      "longname": "ScinoPharm Taiwan, Ltd.",
+      "exchDisp": "Taiwan",
+      "sector": "Healthcare",
+      "sectorDisp": "Healthcare",
+      "industry": "Drug Manufacturers—Specialty & Generic",
+      "industryDisp": "Drug Manufacturers—Specialty & Generic",
+      "isYahooFinance": true
+    }
+  ],
+  "TAIMED BIOLOGICS": [
+    {
+      "exchange": "TWO",
+      "shortname": "TAIMED BIOLOGICS INC.",
+      "quoteType": "EQUITY",
+      "symbol": "4147.TWO",
+      "index": "quotes",
+      "score": 20001.0,
+      "typeDisp": "Equity",
+      "longname": "TaiMed Biologics Inc.",
+      "exchDisp": "Taipei",
+      "sector": "Healthcare",
+      "sectorDisp": "Healthcare",
+      "industry": "Biotechnology",
+      "industryDisp": "Biotechnology",
+      "isYahooFinance": true
+    }
+  ],
+  "GLOBALWAFERS": [
+    {
+      "exchange": "TWO",
+      "shortname": "GLOBALWAFERS CO LTD",
+      "quoteType": "EQUITY",
+      "symbol": "6488.TWO",
+      "index": "quotes",
+      "score": 20003.0,
+      "typeDisp": "Equity",
+      "longname": "GlobalWafers Co., Ltd.",
+      "exchDisp": "Taipei",
+      "sector": "Technology",
+      "sectorDisp": "Technology",
+      "industry": "Semiconductors",
+      "industryDisp": "Semiconductors",
+      "isYahooFinance": true
+    }
+  ],
+  "TAIWAN HIGH SPEED RAIL": [
+    {
+      "exchange": "TAI",
+      "shortname": "TAIWAN HIGH SPEED RAIL CORP",
+      "quoteType": "EQUITY",
+      "symbol": "2633.TW",
+      "index": "quotes",
+      "score": 20001.0,
+      "typeDisp": "Equity",
+      "longname": "Taiwan High Speed Rail Corporation",
+      "exchDisp": "Taiwan",
+      "sector": "Industrials",
+      "sectorDisp": "Industrials",
+      "industry": "Railroads",
+      "industryDisp": "Railroads",
+      "isYahooFinance": true
+    }
+  ],
+  "ASIA PACIFIC TELECOM CO": [],
+  "YANG MING MARINE TRANSP": [
+    {
+      "exchange": "TAI",
+      "shortname": "YANG MING MARINE TRANSPORT CORP",
+      "quoteType": "EQUITY",
+      "symbol": "2609.TW",
+      "index": "quotes",
+      "score": 20001.0,
+      "typeDisp": "Equity",
+      "longname": "Yang Ming Marine Transport Corporation",
+      "exchDisp": "Taiwan",
+      "sector": "Industrials",
+      "sectorDisp": "Industrials",
+      "industry": "Marine Shipping",
+      "industryDisp": "Marine Shipping",
+      "isYahooFinance": true
+    }
+  ],
+  "EVA AIRWAYS CORP": [
+    {
+      "exchange": "TAI",
+      "shortname": "EVA AIRWAYS",
+      "quoteType": "EQUITY",
+      "symbol": "2618.TW",
+      "index": "quotes",
+      "score": 20001.0,
+      "typeDisp": "Equity",
+      "longname": "EVA Airways Corp.",
+      "exchDisp": "Taiwan",
+      "sector": "Industrials",
+      "sectorDisp": "Industrials",
+      "industry": "Airlines",
+      "industryDisp": "Airlines",
+      "isYahooFinance": true
+    }
+  ],
+  "POWERCHIP SEMICONDUCTOR": [
+    {
+      "exchange": "TAI",
+      "shortname": "POWERCHIP SEMICONDUCTOR MANUFAC",
+      "quoteType": "EQUITY",
+      "symbol": "6770.TW",
+      "index": "quotes",
+      "score": 20009.0,
+      "typeDisp": "Equity",
+      "longname": "Powerchip Semiconductor Manufacturing Corp.",
+      "exchDisp": "Taiwan",
+      "sector": "Technology",
+      "sectorDisp": "Technology",
+      "industry": "Semiconductors",
+      "industryDisp": "Semiconductors",
+      "isYahooFinance": true,
+      "prevName": "Powerchip Semiconductor Manufacturing Corporation",
+      "nameChangeDate": "2026-06-03"
+    }
+  ],
+  "FOXCONN TECHNOLOGY CO": [
+    {
+      "exchange": "TAI",
+      "shortname": "FOXCONN TECH CO",
+      "quoteType": "EQUITY",
+      "symbol": "2354.TW",
+      "index": "quotes",
+      "score": 20008.0,
+      "typeDisp": "Equity",
+      "longname": "Foxconn Technology Co., Ltd.",
+      "exchDisp": "Taiwan",
+      "sector": "Technology",
+      "sectorDisp": "Technology",
+      "industry": "Electronics & Computer Distribution",
+      "industryDisp": "Electronics & Computer Distribution",
+      "isYahooFinance": true
+    }
+  ],
+  "ASIA VITAL COMPONENTS": [
+    {
+      "exchange": "TAI",
+      "shortname": "ASIA VITAL COMPONENTS CO LTD",
+      "quoteType": "EQUITY",
+      "symbol": "3017.TW",
+      "index": "quotes",
+      "score": 20003.0,
+      "typeDisp": "Equity",
+      "longname": "Asia Vital Components Co., Ltd.",
+      "exchDisp": "Taiwan",
+      "sector": "Technology",
+      "sectorDisp": "Technology",
+      "industry": "Electronic Components",
+      "industryDisp": "Electronic Components",
+      "isYahooFinance": true
+    }
+  ],
+  "FORTUNE ELECTRIC CO": [
+    {
+      "exchange": "TAI",
+      "shortname": "FORTUNE ELECTRIC CO LTD",
+      "quoteType": "EQUITY",
+      "symbol": "1519.TW",
+      "index": "quotes",
+      "score": 20001.0,
+      "typeDisp": "Equity",
+      "longname": "Fortune Electric Co., Ltd.",
+      "exchDisp": "Taiwan",
+      "sector": "Industrials",
+      "sectorDisp": "Industrials",
+      "industry": "Electrical Equipment & Parts",
+      "industryDisp": "Electrical Equipment & Parts",
+      "isYahooFinance": true
+    }
+  ],
+  "ASIA CEMENT CORP": [
+    {
+      "exchange": "TAI",
+      "shortname": "ASIA CEMENT CORP",
+      "quoteType": "EQUITY",
+      "symbol": "1102.TW",
+      "index": "quotes",
+      "score": 20001.0,
+      "typeDisp": "Equity",
+      "longname": "Asia Cement Corporation",
+      "exchDisp": "Taiwan",
+      "sector": "Basic Materials",
+      "sectorDisp": "Basic Materials",
+      "industry": "Building Materials",
+      "industryDisp": "Building Materials",
+      "isYahooFinance": true
+    }
+  ],
+  "FAR EASTERN NEW CENTURY": [
+    {
+      "exchange": "TAI",
+      "shortname": "FAR EASTERN NEW CENTURY CORPORA",
+      "quoteType": "EQUITY",
+      "symbol": "1402.TW",
+      "index": "quotes",
+      "score": 20001.0,
+      "typeDisp": "Equity",
+      "longname": "Far Eastern New Century Corporation",
+      "exchDisp": "Taiwan",
+      "sector": "Consumer Cyclical",
+      "sectorDisp": "Consumer Cyclical",
+      "industry": "Textile Manufacturing",
+      "industryDisp": "Textile Manufacturing",
+      "isYahooFinance": true
+    }
+  ],
+  "TECO ELECTRIC & MACH": [
+    {
+      "exchange": "TAI",
+      "shortname": "TECO ELECTRIC & MACHINERY CO",
+      "quoteType": "EQUITY",
+      "symbol": "1504.TW",
+      "index": "quotes",
+      "score": 20001.0,
+      "typeDisp": "Equity",
+      "longname": "TECO Electric & Machinery Co., Ltd.",
+      "exchDisp": "Taiwan",
+      "sector": "Industrials",
+      "sectorDisp": "Industrials",
+      "industry": "Specialty Industrial Machinery",
+      "industryDisp": "Specialty Industrial Machinery",
+      "isYahooFinance": true
+    }
+  ],
+  "ASIA OPTICAL": [
+    {
+      "exchange": "TAI",
+      "shortname": "ASIA OPTICAL CO INC",
+      "quoteType": "EQUITY",
+      "symbol": "3019.TW",
+      "index": "quotes",
+      "score": 20003.0,
+      "typeDisp": "Equity",
+      "longname": "Asia Optical Co., Inc.",
+      "exchDisp": "Taiwan",
+      "sector": "Technology",
+      "sectorDisp": "Technology",
+      "industry": "Electronic Components",
+      "industryDisp": "Electronic Components",
+      "isYahooFinance": true
+    }
+  ],
+  "CATHAY REAL ESTATE DEV": [
+    {
+      "exchange": "TAI",
+      "shortname": "CATHAY REAL ESTATE DEVELOPMENT ",
+      "quoteType": "EQUITY",
+      "symbol": "2501.TW",
+      "index": "quotes",
+      "score": 20001.0,
+      "typeDisp": "Equity",
+      "longname": "Cathay Real Estate Development Co., Ltd.",
+      "exchDisp": "Taiwan",
+      "sector": "Real Estate",
+      "sectorDisp": "Real Estate",
+      "industry": "Real Estate—Development",
+      "industryDisp": "Real Estate—Development",
+      "isYahooFinance": true,
+      "prevName": "Cathay Real Estate Development Co.,Ltd.",
+      "nameChangeDate": "2026-06-03"
+    }
+  ],
+  "CHINA MOTOR CORP": [
+    {
+      "exchange": "TAI",
+      "shortname": "CHINA MOTOR CO",
+      "quoteType": "EQUITY",
+      "symbol": "2204.TW",
+      "index": "quotes",
+      "score": 20003.0,
+      "typeDisp": "Equity",
+      "longname": "China Motor Corporation",
+      "exchDisp": "Taiwan",
+      "sector": "Consumer Cyclical",
+      "sectorDisp": "Consumer Cyclical",
+      "industry": "Auto Manufacturers",
+      "industryDisp": "Auto Manufacturers",
+      "isYahooFinance": true
+    }
+  ],
+  "PAN-INTERNATIONAL IND": [
+    {
+      "exchange": "TAI",
+      "shortname": "PAN INTERNATIONAL INDUSTRIAL",
+      "quoteType": "EQUITY",
+      "symbol": "2328.TW",
+      "index": "quotes",
+      "score": 20003.0,
+      "typeDisp": "Equity",
+      "longname": "Pan-International Industrial Corp.",
+      "exchDisp": "Taiwan",
+      "sector": "Technology",
+      "sectorDisp": "Technology",
+      "industry": "Electronic Components",
+      "industryDisp": "Electronic Components",
+      "isYahooFinance": true
+    }
+  ],
+  "SINOAMERICAN SILICON PRO": [],
+  "CHINESE GAMER INT'L": [],
+  "CHUNGHWA PICTURE TUBES": [],
+  "CMC MAGNETICS CORP": [
+    {
+      "exchange": "TAI",
+      "shortname": "CMC MAGNETICS CORP",
+      "quoteType": "EQUITY",
+      "symbol": "2323.TW",
+      "index": "quotes",
+      "score": 20003.0,
+      "typeDisp": "Equity",
+      "longname": "CMC Magnetics Corporation",
+      "exchDisp": "Taiwan",
+      "sector": "Technology",
+      "sectorDisp": "Technology",
+      "industry": "Computer Hardware",
+      "industryDisp": "Computer Hardware",
+      "isYahooFinance": true
+    }
+  ],
+  "MERIDA INDUSTRY CO": [
+    {
+      "exchange": "TAI",
+      "shortname": "MERIDA INDUSTRY",
+      "quoteType": "EQUITY",
+      "symbol": "9914.TW",
+      "index": "quotes",
+      "score": 20003.0,
+      "typeDisp": "Equity",
+      "longname": "Merida Industry Co., Ltd.",
+      "exchDisp": "Taiwan",
+      "sector": "Consumer Cyclical",
+      "sectorDisp": "Consumer Cyclical",
+      "industry": "Leisure",
+      "industryDisp": "Leisure",
+      "isYahooFinance": true
+    }
+  ],
+  "EVERLIGHT ELECTRONICS CO": [
+    {
+      "exchange": "TAI",
+      "shortname": "EVERLIGHT ELECTRONICS CO",
+      "quoteType": "EQUITY",
+      "symbol": "2393.TW",
+      "index": "quotes",
+      "score": 20003.0,
+      "typeDisp": "Equity",
+      "longname": "Everlight Electronics Co., Ltd.",
+      "exchDisp": "Taiwan",
+      "sector": "Technology",
+      "sectorDisp": "Technology",
+      "industry": "Electronic Components",
+      "industryDisp": "Electronic Components",
+      "isYahooFinance": true
+    }
+  ],
+  "TAIWAN GLASS INDL CORP": [],
+  "TAIWAN FERTILIZER CO": [
+    {
+      "exchange": "TAI",
+      "shortname": "TAIWAN FERTILIZER CO",
+      "quoteType": "EQUITY",
+      "symbol": "1722.TW",
+      "index": "quotes",
+      "score": 20001.0,
+      "typeDisp": "Equity",
+      "longname": "Taiwan Fertilizer Co., Ltd.",
+      "exchDisp": "Taiwan",
+      "sector": "Basic Materials",
+      "sectorDisp": "Basic Materials",
+      "industry": "Agricultural Inputs",
+      "industryDisp": "Agricultural Inputs",
+      "isYahooFinance": true
+    }
+  ],
+  "YULON MOTOR CO": [
+    {
+      "exchange": "TAI",
+      "shortname": "YULON MOTOR CO",
+      "quoteType": "EQUITY",
+      "symbol": "2201.TW",
+      "index": "quotes",
+      "score": 20003.0,
+      "typeDisp": "Equity",
+      "longname": "Yulon Motor Company Ltd.",
+      "exchDisp": "Taiwan",
+      "sector": "Consumer Cyclical",
+      "sectorDisp": "Consumer Cyclical",
+      "industry": "Auto Manufacturers",
+      "industryDisp": "Auto Manufacturers",
+      "isYahooFinance": true
+    }
+  ],
+  "FORMOSA TAFFETA CO": [
+    {
+      "exchange": "TAI",
+      "shortname": "FORMOSA TAFFETA CO",
+      "quoteType": "EQUITY",
+      "symbol": "1434.TW",
+      "index": "quotes",
+      "score": 20005.0,
+      "typeDisp": "Equity",
+      "longname": "Formosa Taffeta Co., Ltd.",
+      "exchDisp": "Taiwan",
+      "sector": "Consumer Cyclical",
+      "sectorDisp": "Consumer Cyclical",
+      "industry": "Textile Manufacturing",
+      "industryDisp": "Textile Manufacturing",
+      "isYahooFinance": true
+    }
+  ],
+  "INTL GAMES SYSTEM C": [],
+  "BIZLINK HOLDING": [
+    {
+      "exchange": "TAI",
+      "shortname": "BIZLINK HOLDING INC",
+      "quoteType": "EQUITY",
+      "symbol": "3665.TW",
+      "index": "quotes",
+      "score": 20001.0,
+      "typeDisp": "Equity",
+      "longname": "BizLink Holding Inc.",
+      "exchDisp": "Taiwan",
+      "sector": "Industrials",
+      "sectorDisp": "Industrials",
+      "industry": "Electrical Equipment & Parts",
+      "industryDisp": "Electrical Equipment & Parts",
+      "isYahooFinance": true
+    }
+  ],
+  "GOLD CIRCUIT ELECTRONICS": [
+    {
+      "exchange": "TAI",
+      "shortname": "GOLD CIRCUIT ELECTRONICS CO",
+      "quoteType": "EQUITY",
+      "symbol": "2368.TW",
+      "index": "quotes",
+      "score": 20003.0,
+      "typeDisp": "Equity",
+      "longname": "Gold Circuit Electronics Ltd.",
+      "exchDisp": "Taiwan",
+      "sector": "Technology",
+      "sectorDisp": "Technology",
+      "industry": "Electronic Components",
+      "industryDisp": "Electronic Components",
+      "isYahooFinance": true
+    }
+  ],
+  "KING YUAN ELECTRONICS CO": [
+    {
+      "exchange": "TAI",
+      "shortname": "KING YUAN ELECTRONICS CO",
+      "quoteType": "EQUITY",
+      "symbol": "2449.TW",
+      "index": "quotes",
+      "score": 20004.0,
+      "typeDisp": "Equity",
+      "longname": "King Yuan Electronics Co., Ltd.",
+      "exchDisp": "Taiwan",
+      "sector": "Technology",
+      "sectorDisp": "Technology",
+      "industry": "Semiconductors",
+      "industryDisp": "Semiconductors",
+      "isYahooFinance": true
+    }
+  ],
+  "ABILITY OPTO ELECTRONICS": [
+    {
+      "exchange": "TWO",
+      "shortname": "ABILITY OPTO-ELECTRONICS TECHNO",
+      "quoteType": "EQUITY",
+      "symbol": "3362.TWO",
+      "index": "quotes",
+      "score": 20002.0,
+      "typeDisp": "Equity",
+      "longname": "Ability Opto-Electronics Technology Co.,Ltd.",
+      "exchDisp": "Taipei",
+      "sector": "Technology",
+      "sectorDisp": "Technology",
+      "industry": "Electronic Components",
+      "industryDisp": "Electronic Components",
+      "isYahooFinance": true
+    }
+  ],
+  "AMBASSADOR HOTEL (THE)": [],
+  "CHANNEL WELL TECH CO": [
+    {
+      "exchange": "TWO",
+      "shortname": "CHANNEL WELL TECHNOLOGY CO.LTD",
+      "quoteType": "EQUITY",
+      "symbol": "3078.TWO",
+      "index": "quotes",
+      "score": 20001.0,
+      "typeDisp": "Equity",
+      "longname": "Channel Well Technology Co.,Ltd.",
+      "exchDisp": "Taipei",
+      "sector": "Industrials",
+      "sectorDisp": "Industrials",
+      "industry": "Electrical Equipment & Parts",
+      "industryDisp": "Electrical Equipment & Parts",
+      "isYahooFinance": true
+    }
+  ],
+  "DEPO AUTO PARTS INDL CO": [],
+  "EVERGREEN AVIATION TECH": [
+    {
+      "exchange": "TAI",
+      "shortname": "EVERGREEN AVIATION TECHNOLOGIES",
+      "quoteType": "EQUITY",
+      "symbol": "2645.TW",
+      "index": "quotes",
+      "score": 20002.0,
+      "typeDisp": "Equity",
+      "longname": "Evergreen Aviation Technologies Corporation",
+      "exchDisp": "Taiwan",
+      "sector": "Industrials",
+      "sectorDisp": "Industrials",
+      "industry": "Aerospace & Defense",
+      "industryDisp": "Aerospace & Defense",
+      "isYahooFinance": true
+    }
+  ],
+  "ORIENT SEMICONDUCTOR ELE": [
+    {
+      "exchange": "TAI",
+      "shortname": "ORIENT SEMICONDUCTOR ELECTRONIC",
+      "quoteType": "EQUITY",
+      "symbol": "2329.TW",
+      "index": "quotes",
+      "score": 20001.0,
+      "typeDisp": "Equity",
+      "longname": "Orient Semiconductor Electronics, Limited",
+      "exchDisp": "Taiwan",
+      "sector": "Technology",
+      "sectorDisp": "Technology",
+      "industry": "Semiconductors",
+      "industryDisp": "Semiconductors",
+      "isYahooFinance": true
+    }
+  ],
+  "QUANTA STORAGE": [
+    {
+      "exchange": "TWO",
+      "shortname": "QUANTA STORAGE",
+      "quoteType": "EQUITY",
+      "symbol": "6188.TWO",
+      "index": "quotes",
+      "score": 20003.0,
+      "typeDisp": "Equity",
+      "longname": "Quanta Storage Inc.",
+      "exchDisp": "Taipei",
+      "sector": "Technology",
+      "sectorDisp": "Technology",
+      "industry": "Computer Hardware",
+      "industryDisp": "Computer Hardware",
+      "isYahooFinance": true
+    }
+  ],
+  "SUNONWEALTH ELEC MACHINE": [
+    {
+      "exchange": "TAI",
+      "shortname": "SUNONWEALTH ELECTRIC MACHINE IN",
+      "quoteType": "EQUITY",
+      "symbol": "2421.TW",
+      "index": "quotes",
+      "score": 20002.0,
+      "typeDisp": "Equity",
+      "longname": "Sunonwealth Electric Machine Industry Co., Ltd.",
+      "exchDisp": "Taiwan",
+      "sector": "Industrials",
+      "sectorDisp": "Industrials",
+      "industry": "Specialty Industrial Machinery",
+      "industryDisp": "Specialty Industrial Machinery",
+      "isYahooFinance": true
+    }
+  ],
+  "RDC SEMICONDUCTOR CO": [
+    {
+      "exchange": "TWO",
+      "shortname": "RDC SEMICONDUCTOR CO",
+      "quoteType": "EQUITY",
+      "symbol": "3228.TWO",
+      "index": "quotes",
+      "score": 20003.0,
+      "typeDisp": "Equity",
+      "longname": "RDC Semiconductor Co., Ltd.",
+      "exchDisp": "Taipei",
+      "sector": "Technology",
+      "sectorDisp": "Technology",
+      "industry": "Semiconductors",
+      "industryDisp": "Semiconductors",
+      "isYahooFinance": true
+    }
+  ],
+  "CHENMING ELECTRONIC TECH": [
+    {
+      "exchange": "TAI",
+      "shortname": "CHENMING ELECTRONIC TECHNOLOGY ",
+      "quoteType": "EQUITY",
+      "symbol": "3013.TW",
+      "index": "quotes",
+      "score": 20003.0,
+      "typeDisp": "Equity",
+      "longname": "Chenming Electronic Tech. Corp.",
+      "exchDisp": "Taiwan",
+      "sector": "Technology",
+      "sectorDisp": "Technology",
+      "industry": "Computer Hardware",
+      "industryDisp": "Computer Hardware",
+      "isYahooFinance": true,
+      "prevName": "Chenming Electronic Technology Corporation",
+      "nameChangeDate": "2026-06-03"
+    }
+  ],
+  "ELITE ADVANCED LASER": [
+    {
+      "exchange": "TAI",
+      "shortname": "ELITE ADVANCED LASER CORP",
+      "quoteType": "EQUITY",
+      "symbol": "3450.TW",
+      "index": "quotes",
+      "score": 20001.0,
+      "typeDisp": "Equity",
+      "longname": "Elite Advanced Laser Corporation",
+      "exchDisp": "Taiwan",
+      "sector": "Technology",
+      "sectorDisp": "Technology",
+      "industry": "Semiconductor Equipment & Materials",
+      "industryDisp": "Semiconductor Equipment & Materials",
+      "isYahooFinance": true
+    }
+  ],
+  "G SHANK ENTERPRISE CO": [
+    {
+      "exchange": "TAI",
+      "shortname": "G SHANK ENTERPRISE CO",
+      "quoteType": "EQUITY",
+      "symbol": "2476.TW",
+      "index": "quotes",
+      "score": 20001.0,
+      "typeDisp": "Equity",
+      "longname": "G-SHANK Enterprise Co., Ltd.",
+      "exchDisp": "Taiwan",
+      "sector": "Industrials",
+      "sectorDisp": "Industrials",
+      "industry": "Specialty Industrial Machinery",
+      "industryDisp": "Specialty Industrial Machinery",
+      "isYahooFinance": true
+    }
+  ],
+  "JESS-LINK PRODUCTS CO": [
+    {
+      "exchange": "TAI",
+      "shortname": "JPC CONNECTIVITY INC",
+      "quoteType": "EQUITY",
+      "symbol": "6197.TW",
+      "index": "quotes",
+      "score": 20003.0,
+      "typeDisp": "Equity",
+      "longname": "Jess-link Products Co., Ltd.",
+      "exchDisp": "Taiwan",
+      "sector": "Technology",
+      "sectorDisp": "Technology",
+      "industry": "Electronic Components",
+      "industryDisp": "Electronic Components",
+      "isYahooFinance": true
+    }
+  ],
+  "PHOENIX SILICON": [
+    {
+      "exchange": "TAI",
+      "shortname": "PHOENIX SILICON INTERNATIONAL C",
+      "quoteType": "EQUITY",
+      "symbol": "8028.TW",
+      "index": "quotes",
+      "score": 20003.0,
+      "typeDisp": "Equity",
+      "longname": "Phoenix Silicon International Corporation",
+      "exchDisp": "Taiwan",
+      "sector": "Technology",
+      "sectorDisp": "Technology",
+      "industry": "Semiconductor Equipment & Materials",
+      "industryDisp": "Semiconductor Equipment & Materials",
+      "isYahooFinance": true
+    }
+  ],
+  "TYC BROTHER INDUSTRIAL": [
+    {
+      "exchange": "TAI",
+      "shortname": "TYC BROTHER INDUSTRIAL",
+      "quoteType": "EQUITY",
+      "symbol": "1522.TW",
+      "index": "quotes",
+      "score": 20005.0,
+      "typeDisp": "Equity",
+      "longname": "TYC Brother Industrial Co., Ltd.",
+      "exchDisp": "Taiwan",
+      "sector": "Consumer Cyclical",
+      "sectorDisp": "Consumer Cyclical",
+      "industry": "Auto Parts",
+      "industryDisp": "Auto Parts",
+      "dispSecIndFlag": true,
+      "isYahooFinance": true
+    },
+    {
+      "exchange": "TAI",
+      "shortname": "TYC BROTHER INDUSTRIAL",
+      "quoteType": "EQUITY",
+      "symbol": "1522A.TW",
+      "index": "quotes",
+      "score": 20001.0,
+      "typeDisp": "Equity",
+      "longname": "TYC Brother Industrial Co., Ltd.",
+      "exchDisp": "Taiwan",
+      "sector": "Consumer Cyclical",
+      "sectorDisp": "Consumer Cyclical",
+      "industry": "Auto Parts",
+      "industryDisp": "Auto Parts",
+      "isYahooFinance": true
+    }
+  ],
+  "UNIVERSAL MICROWAVE TECH": [
+    {
+      "exchange": "TWO",
+      "shortname": "UNIVERSAL MICROWAVE TECHNOLOGY ",
+      "quoteType": "EQUITY",
+      "symbol": "3491.TWO",
+      "index": "quotes",
+      "score": 20004.0,
+      "typeDisp": "Equity",
+      "longname": "Universal Microwave Technology, Inc.",
+      "exchDisp": "Taipei",
+      "sector": "Technology",
+      "sectorDisp": "Technology",
+      "industry": "Communication Equipment",
+      "industryDisp": "Communication Equipment",
+      "isYahooFinance": true
+    }
+  ],
+  "ABLEPRINT TECHNOLOGY": [],
+  "FIRST HI TEC ENTERPRISE": [
+    {
+      "exchange": "TWO",
+      "shortname": "FIRST HI-TEC ENTERPRISE CO LTD",
+      "quoteType": "EQUITY",
+      "symbol": "5439.TWO",
+      "index": "quotes",
+      "score": 20003.0,
+      "typeDisp": "Equity",
+      "longname": "First Hi-tec Enterprise Co., Ltd.",
+      "exchDisp": "Taipei",
+      "sector": "Technology",
+      "sectorDisp": "Technology",
+      "industry": "Electronic Components",
+      "industryDisp": "Electronic Components",
+      "isYahooFinance": true
+    }
+  ],
+  "FULLTECH FIBER GLASS": [
+    {
+      "exchange": "TWO",
+      "shortname": "FULLTECH FIBER GLASS CORP",
+      "quoteType": "EQUITY",
+      "symbol": "1815.TWO",
+      "index": "quotes",
+      "score": 20003.0,
+      "typeDisp": "Equity",
+      "longname": "Fulltech Fiber Glass Corp.",
+      "exchDisp": "Taipei",
+      "sector": "Technology",
+      "sectorDisp": "Technology",
+      "industry": "Electronic Components",
+      "industryDisp": "Electronic Components",
+      "isYahooFinance": true
+    }
+  ],
+  "SPORTS GEAR": [
+    {
+      "exchange": "TAI",
+      "shortname": "SPORTS GEAR CO LTD",
+      "quoteType": "EQUITY",
+      "symbol": "6768.TW",
+      "index": "quotes",
+      "score": 20003.0,
+      "typeDisp": "Equity",
+      "longname": "Sports Gear Co., Ltd.",
+      "exchDisp": "Taiwan",
+      "sector": "Consumer Cyclical",
+      "sectorDisp": "Consumer Cyclical",
+      "industry": "Footwear & Accessories",
+      "industryDisp": "Footwear & Accessories",
+      "isYahooFinance": true
+    }
+  ],
+  "TIGERAIR TAIWAN": [
+    {
+      "exchange": "TAI",
+      "shortname": "TIGERAIR TAIWAN CO LTD",
+      "quoteType": "EQUITY",
+      "symbol": "6757.TW",
+      "index": "quotes",
+      "score": 20002.0,
+      "typeDisp": "Equity",
+      "longname": "Tigerair Taiwan Co., Ltd.",
+      "exchDisp": "Taiwan",
+      "sector": "Industrials",
+      "sectorDisp": "Industrials",
+      "industry": "Airlines",
+      "industryDisp": "Airlines",
+      "isYahooFinance": true
+    }
+  ],
+  "ALEXANDER MARINE": [
+    {
+      "exchange": "TAI",
+      "shortname": "ALEXANDER MARINE CO LTD",
+      "quoteType": "EQUITY",
+      "symbol": "8478.TW",
+      "index": "quotes",
+      "score": 20003.0,
+      "typeDisp": "Equity",
+      "longname": "Alexander Marine Co., Ltd.",
+      "exchDisp": "Taiwan",
+      "sector": "Consumer Cyclical",
+      "sectorDisp": "Consumer Cyclical",
+      "industry": "Recreational Vehicles",
+      "industryDisp": "Recreational Vehicles",
+      "isYahooFinance": true
+    }
+  ],
+  "CHIA HSIN CEMENT": [
+    {
+      "exchange": "TAI",
+      "shortname": "CHIA HSIN CEMENT CORPORATION",
+      "quoteType": "EQUITY",
+      "symbol": "1103.TW",
+      "index": "quotes",
+      "score": 20001.0,
+      "typeDisp": "Equity",
+      "longname": "Chia Hsin Cement Corporation",
+      "exchDisp": "Taiwan",
+      "sector": "Basic Materials",
+      "sectorDisp": "Basic Materials",
+      "industry": "Building Materials",
+      "industryDisp": "Building Materials",
+      "isYahooFinance": true
+    }
+  ],
+  "CHINA MAN-MADE FIBER": [
+    {
+      "exchange": "TAI",
+      "shortname": "CHINA MANMADE FIBERS",
+      "quoteType": "EQUITY",
+      "symbol": "1718.TW",
+      "index": "quotes",
+      "score": 20003.0,
+      "typeDisp": "Equity",
+      "longname": "China Man-Made Fiber Corporation",
+      "exchDisp": "Taiwan",
+      "sector": "Financial Services",
+      "sectorDisp": "Financial Services",
+      "industry": "Banks—Regional",
+      "industryDisp": "Banks—Regional",
+      "isYahooFinance": true
+    }
+  ],
+  "CHINA METAL PRODUCTS CO": [
+    {
+      "exchange": "TAI",
+      "shortname": "CHINA METAL PRODUCTS CO",
+      "quoteType": "EQUITY",
+      "symbol": "1532.TW",
+      "index": "quotes",
+      "score": 20001.0,
+      "typeDisp": "Equity",
+      "longname": "China Metal Products Co., Ltd.",
+      "exchDisp": "Taiwan",
+      "sector": "Industrials",
+      "sectorDisp": "Industrials",
+      "industry": "Metal Fabrication",
+      "industryDisp": "Metal Fabrication",
+      "isYahooFinance": true
+    }
+  ],
+  "CO TECH DEVELOPMENT": [
+    {
+      "exchange": "SHZ",
+      "shortname": "BEIJING COMPASS TECHNOLOGY DEVE",
+      "quoteType": "EQUITY",
+      "symbol": "300803.SZ",
+      "index": "quotes",
+      "score": 20003.0,
+      "typeDisp": "Equity",
+      "longname": "Beijing Compass Technology Development Co., Ltd.",
+      "exchDisp": "Shenzhen",
+      "sector": "Technology",
+      "sectorDisp": "Technology",
+      "industry": "Software—Application",
+      "industryDisp": "Software—Application",
+      "dispSecIndFlag": false,
+      "isYahooFinance": true
+    },
+    {
+      "exchange": "TWO",
+      "shortname": "CO-TECH DEVELOPMENT CORP",
+      "quoteType": "EQUITY",
+      "symbol": "8358.TWO",
+      "index": "quotes",
+      "score": 20003.0,
+      "typeDisp": "Equity",
+      "longname": "Co-Tech Development Corporation",
+      "exchDisp": "Taipei",
+      "sector": "Technology",
+      "sectorDisp": "Technology",
+      "industry": "Electronic Components",
+      "industryDisp": "Electronic Components",
+      "isYahooFinance": true
+    }
+  ],
+  "EGIS TECHNOLOGY": [
+    {
+      "exchange": "TWO",
+      "shortname": "EGIS TECHNOLOGY INC",
+      "quoteType": "EQUITY",
+      "symbol": "6462.TWO",
+      "index": "quotes",
+      "score": 20003.0,
+      "typeDisp": "Equity",
+      "longname": "Egis Technology Inc.",
+      "exchDisp": "Taipei",
+      "sector": "Technology",
+      "sectorDisp": "Technology",
+      "industry": "Software—Infrastructure",
+      "industryDisp": "Software—Infrastructure",
+      "isYahooFinance": true
+    }
+  ],
+  "FIRST COPPER TECHNOLOGY": [
+    {
+      "exchange": "TAI",
+      "shortname": "FIRST COPPER TECHNOLOGY",
+      "quoteType": "EQUITY",
+      "symbol": "2009.TW",
+      "index": "quotes",
+      "score": 20001.0,
+      "typeDisp": "Equity",
+      "longname": "First Copper Technology Co., Ltd.",
+      "exchDisp": "Taiwan",
+      "sector": "Basic Materials",
+      "sectorDisp": "Basic Materials",
+      "industry": "Copper",
+      "industryDisp": "Copper",
+      "isYahooFinance": true
+    }
+  ],
+  "FORMOSA ADVANCED TECH": [
+    {
+      "exchange": "TAI",
+      "shortname": "FORMOSA ADVANCED TECHNOLOGIES",
+      "quoteType": "EQUITY",
+      "symbol": "8131.TW",
+      "index": "quotes",
+      "score": 20003.0,
+      "typeDisp": "Equity",
+      "longname": "Formosa Advanced Technologies Co., Ltd.",
+      "exchDisp": "Taiwan",
+      "sector": "Technology",
+      "sectorDisp": "Technology",
+      "industry": "Semiconductors",
+      "industryDisp": "Semiconductors",
+      "isYahooFinance": true
+    }
+  ],
+  "GRAND PACIFIC PETROCHEM": [
+    {
+      "exchange": "TAI",
+      "shortname": "GRAND PACIFIC PETROCHEMICAL",
+      "quoteType": "EQUITY",
+      "symbol": "1312A.TW",
+      "index": "quotes",
+      "score": 20001.0,
+      "typeDisp": "Equity",
+      "longname": "Grand Pacific Petrochemical Corporation",
+      "exchDisp": "Taiwan",
+      "sector": "Basic Materials",
+      "sectorDisp": "Basic Materials",
+      "industry": "Chemicals",
+      "industryDisp": "Chemicals",
+      "dispSecIndFlag": false,
+      "isYahooFinance": true
+    },
+    {
+      "exchange": "TAI",
+      "shortname": "GRAND PACIFIC PETROCHEMICAL",
+      "quoteType": "EQUITY",
+      "symbol": "1312.TW",
+      "index": "quotes",
+      "score": 20001.0,
+      "typeDisp": "Equity",
+      "longname": "Grand Pacific Petrochemical Corporation",
+      "exchDisp": "Taiwan",
+      "sector": "Basic Materials",
+      "sectorDisp": "Basic Materials",
+      "industry": "Chemicals",
+      "industryDisp": "Chemicals",
+      "isYahooFinance": true
+    }
+  ],
+  "HOLYSTONE ENTERPRISE CO": [],
+  "INTL CSRC INV HLDGS CO": [],
+  "KUO TOONG INTERNATIONAL": [
+    {
+      "exchange": "TWO",
+      "shortname": "KUO TOONG INTERNATIONAL",
+      "quoteType": "EQUITY",
+      "symbol": "8936.TWO",
+      "index": "quotes",
+      "score": 20001.0,
+      "typeDisp": "Equity",
+      "longname": "Kuo Toong International Co., Ltd.",
+      "exchDisp": "Taipei",
+      "sector": "Industrials",
+      "sectorDisp": "Industrials",
+      "industry": "Building Products & Equipment",
+      "industryDisp": "Building Products & Equipment",
+      "isYahooFinance": true
+    }
+  ],
+  "TAIWAN MASK CORPORATION": [
+    {
+      "exchange": "TAI",
+      "shortname": "TAIWAN MASK CORP",
+      "quoteType": "EQUITY",
+      "symbol": "2338.TW",
+      "index": "quotes",
+      "score": 20003.0,
+      "typeDisp": "Equity",
+      "longname": "Taiwan Mask Corporation",
+      "exchDisp": "Taiwan",
+      "sector": "Technology",
+      "sectorDisp": "Technology",
+      "industry": "Semiconductor Equipment & Materials",
+      "industryDisp": "Semiconductor Equipment & Materials",
+      "isYahooFinance": true
+    }
+  ],
+  "TAIWAN SEMICONDUCTOR CO": [
+    {
+      "exchange": "TWO",
+      "shortname": "TAIWAN SEMICONDUCTOR CO",
+      "quoteType": "EQUITY",
+      "symbol": "5425.TWO",
+      "index": "quotes",
+      "score": 20001.0,
+      "typeDisp": "Equity",
+      "longname": "Taiwan Semiconductor Co., Ltd.",
+      "exchDisp": "Taipei",
+      "sector": "Technology",
+      "sectorDisp": "Technology",
+      "industry": "Semiconductors",
+      "industryDisp": "Semiconductors",
+      "isYahooFinance": true
+    }
+  ],
+  "TAIWAN-ASIA SC CORP": [],
+  "UPC TECHNOLOGY CORP": [
+    {
+      "exchange": "TAI",
+      "shortname": "UPC TECHNOLOGY CO",
+      "quoteType": "EQUITY",
+      "symbol": "1313.TW",
+      "index": "quotes",
+      "score": 20001.0,
+      "typeDisp": "Equity",
+      "longname": "UPC Technology Corporation",
+      "exchDisp": "Taiwan",
+      "sector": "Basic Materials",
+      "sectorDisp": "Basic Materials",
+      "industry": "Chemicals",
+      "industryDisp": "Chemicals",
+      "isYahooFinance": true
+    }
+  ],
+  "YUNG SHIN GLOBAL HOLDING": [],
+  "DONG FANG OFFSHORE": [
+    {
+      "exchange": "TAI",
+      "shortname": "DONG FANG OFFSHORE CO LTD",
+      "quoteType": "EQUITY",
+      "symbol": "7786.TW",
+      "index": "quotes",
+      "score": 20001.0,
+      "typeDisp": "Equity",
+      "longname": "Dong Fang Offshore Co., Ltd.",
+      "exchDisp": "Taiwan",
+      "sector": "Industrials",
+      "sectorDisp": "Industrials",
+      "industry": "Specialty Business Services",
+      "industryDisp": "Specialty Business Services",
+      "isYahooFinance": true
+    }
+  ],
+  "HERON NEUTRON MEDICAL": [
+    {
+      "exchange": "TAI",
+      "shortname": "HERON NEUTRON MEDICAL CORP.",
+      "quoteType": "EQUITY",
+      "symbol": "7799.TW",
+      "index": "quotes",
+      "score": 20001.0,
+      "typeDisp": "Equity",
+      "longname": "Heron Neutron Medical Corp.",
+      "exchDisp": "Taiwan",
+      "sector": "Healthcare",
+      "sectorDisp": "Healthcare",
+      "industry": "Medical Devices",
+      "industryDisp": "Medical Devices",
+      "isYahooFinance": true,
+      "prevName": "Heron Neutron Medical Corp",
+      "nameChangeDate": "2026-06-03"
+    }
+  ],
+  "YUNGSHIN CONST & DEV": [
+    {
+      "exchange": "TWO",
+      "shortname": "YUNSHIN CONSTRUCTION & DEVELOPM",
+      "quoteType": "EQUITY",
+      "symbol": "5508.TWO",
+      "index": "quotes",
+      "score": 20001.0,
+      "typeDisp": "Equity",
+      "longname": "Yungshin Construction & Development Co.,Ltd.",
+      "exchDisp": "Taipei",
+      "sector": "Real Estate",
+      "sectorDisp": "Real Estate",
+      "industry": "Real Estate—Development",
+      "industryDisp": "Real Estate—Development",
+      "isYahooFinance": true
+    }
+  ],
+  "A.G.V. PRODUCTS": [],
+  "ADVANCED CERAMIC X CORP": [
+    {
+      "exchange": "TWO",
+      "shortname": "ADVANCED CERAMIC X CORP",
+      "quoteType": "EQUITY",
+      "symbol": "3152.TWO",
+      "index": "quotes",
+      "score": 20002.0,
+      "typeDisp": "Equity",
+      "longname": "Advanced Ceramic X Corporation",
+      "exchDisp": "Taipei",
+      "sector": "Technology",
+      "sectorDisp": "Technology",
+      "industry": "Electronic Components",
+      "industryDisp": "Electronic Components",
+      "isYahooFinance": true
+    }
+  ],
+  "APEX BIOTECHNOLOGY CORP": [
+    {
+      "exchange": "TAI",
+      "shortname": "APEX BIOTECHNOLOGY CORP",
+      "quoteType": "EQUITY",
+      "symbol": "1733.TW",
+      "index": "quotes",
+      "score": 20001.0,
+      "typeDisp": "Equity",
+      "longname": "Apex Biotechnology Corp.",
+      "exchDisp": "Taiwan",
+      "sector": "Healthcare",
+      "sectorDisp": "Healthcare",
+      "industry": "Biotechnology",
+      "industryDisp": "Biotechnology",
+      "isYahooFinance": true
+    }
+  ],
+  "COSMOS BANK TAIWAN": [],
+  "E-ONE MOLI ENERGY CORP": [],
+  "GREAT CHINA METAL IND": [
+    {
+      "exchange": "TAI",
+      "shortname": "GREAT CHINA METAL INDUSTRIES",
+      "quoteType": "EQUITY",
+      "symbol": "9905.TW",
+      "index": "quotes",
+      "score": 20003.0,
+      "typeDisp": "Equity",
+      "longname": "Great China Metal Ind. Co., Ltd.",
+      "exchDisp": "Taiwan",
+      "sector": "Consumer Cyclical",
+      "sectorDisp": "Consumer Cyclical",
+      "industry": "Packaging & Containers",
+      "industryDisp": "Packaging & Containers",
+      "isYahooFinance": true
+    }
+  ],
+  "JANFUSUN FANCYWORLD CORP": [
+    {
+      "exchange": "TWO",
+      "shortname": "JANFUSUN FANCYWORLD CORP",
+      "quoteType": "EQUITY",
+      "symbol": "5701.TWO",
+      "index": "quotes",
+      "score": 20001.0,
+      "typeDisp": "Equity",
+      "longname": "Janfusun Fancyworld Corp.",
+      "exchDisp": "Taipei",
+      "sector": "Consumer Cyclical",
+      "sectorDisp": "Consumer Cyclical",
+      "industry": "Leisure",
+      "industryDisp": "Leisure",
+      "isYahooFinance": true
+    }
+  ],
+  "MACROBLOCK": [
+    {
+      "exchange": "TWO",
+      "shortname": "MACROBLOCK INC",
+      "quoteType": "EQUITY",
+      "symbol": "3527.TWO",
+      "index": "quotes",
+      "score": 20003.0,
+      "typeDisp": "Equity",
+      "longname": "Macroblock, Inc.",
+      "exchDisp": "Taipei",
+      "sector": "Technology",
+      "sectorDisp": "Technology",
+      "industry": "Semiconductors",
+      "industryDisp": "Semiconductors",
+      "isYahooFinance": true
+    }
+  ],
+  "ORISE TECHNOLOGY CO": [],
+  "POWER QUOTIENT INT'L": [],
+  "SUNONWEALTH ELECTRIC MAC": [
+    {
+      "exchange": "TAI",
+      "shortname": "SUNONWEALTH ELECTRIC MACHINE IN",
+      "quoteType": "EQUITY",
+      "symbol": "2421.TW",
+      "index": "quotes",
+      "score": 20002.0,
+      "typeDisp": "Equity",
+      "longname": "Sunonwealth Electric Machine Industry Co., Ltd.",
+      "exchDisp": "Taiwan",
+      "sector": "Industrials",
+      "sectorDisp": "Industrials",
+      "industry": "Specialty Industrial Machinery",
+      "industryDisp": "Specialty Industrial Machinery",
+      "isYahooFinance": true
+    }
+  ],
+  "TAIWAN ACCEPTANCE CORP": [
+    {
+      "exchange": "TAI",
+      "shortname": "TAIWAN ACCEPTANCE CORP",
+      "quoteType": "EQUITY",
+      "symbol": "9941.TW",
+      "index": "quotes",
+      "score": 20003.0,
+      "typeDisp": "Equity",
+      "longname": "Taiwan Acceptance Corporation",
+      "exchDisp": "Taiwan",
+      "sector": "Financial Services",
+      "sectorDisp": "Financial Services",
+      "industry": "Credit Services",
+      "industryDisp": "Credit Services",
+      "dispSecIndFlag": true,
+      "isYahooFinance": true,
+      "prevName": "Yulon Finance Corporation",
+      "nameChangeDate": "2026-06-03"
+    },
+    {
+      "exchange": "TAI",
+      "shortname": "TAIWAN ACCEPTANCE CORP",
+      "quoteType": "EQUITY",
+      "symbol": "9941A.TW",
+      "index": "quotes",
+      "score": 20001.0,
+      "typeDisp": "Equity",
+      "longname": "Taiwan Acceptance Corporation",
+      "exchDisp": "Taiwan",
+      "sector": "Financial Services",
+      "sectorDisp": "Financial Services",
+      "industry": "Credit Services",
+      "industryDisp": "Credit Services",
+      "isYahooFinance": true,
+      "prevName": "Yulon Finance Corporation",
+      "nameChangeDate": "2026-06-03"
+    }
+  ],
+  "TAIWAN LAND CORP": [],
+  "TTY BIOPHARM CO": [
+    {
+      "exchange": "TWO",
+      "shortname": "TTY BIOPHARM COMPANY LIMITED",
+      "quoteType": "EQUITY",
+      "symbol": "4105.TWO",
+      "index": "quotes",
+      "score": 20001.0,
+      "typeDisp": "Equity",
+      "longname": "TTY Biopharm Company Limited",
+      "exchDisp": "Taipei",
+      "sector": "Healthcare",
+      "sectorDisp": "Healthcare",
+      "industry": "Drug Manufacturers—Specialty & Generic",
+      "industryDisp": "Drug Manufacturers—Specialty & Generic",
+      "isYahooFinance": true
+    }
+  ],
+  "YIEH UNITED STEEL CORP": [
+    {
+      "exchange": "TWO",
+      "shortname": "YUSCO",
+      "quoteType": "EQUITY",
+      "symbol": "9957.TWO",
+      "index": "quotes",
+      "score": 20001.0,
+      "typeDisp": "Equity",
+      "longname": "Yieh United Steel Corp.",
+      "exchDisp": "Taipei",
+      "sector": "Basic Materials",
+      "sectorDisp": "Basic Materials",
+      "industry": "Steel",
+      "industryDisp": "Steel",
+      "isYahooFinance": true
+    }
+  ],
+  "CHINESE MARITIME TRANSP": [
+    {
+      "exchange": "TAI",
+      "shortname": "CHINESE MARITIME TRANSPORT LTD",
+      "quoteType": "EQUITY",
+      "symbol": "2612.TW",
+      "index": "quotes",
+      "score": 20001.0,
+      "typeDisp": "Equity",
+      "longname": "Chinese Maritime Transport Ltd.",
+      "exchDisp": "Taiwan",
+      "sector": "Industrials",
+      "sectorDisp": "Industrials",
+      "industry": "Integrated Freight & Logistics",
+      "industryDisp": "Integrated Freight & Logistics",
+      "isYahooFinance": true
+    }
+  ],
+  "FUBON NO 1 REIT": [
+    {
+      "exchange": "TAI",
+      "shortname": "FUBON NO.1 REIT NO.1 REAL ESTAT",
+      "quoteType": "ETF",
+      "symbol": "01001T.TW",
+      "index": "quotes",
+      "score": 20001.0,
+      "typeDisp": "ETF",
+      "longname": "Fubon No.1 Real Estate Investment Trust",
+      "exchDisp": "Taiwan",
+      "isYahooFinance": true
+    }
+  ],
+  "SHIN KONG NO 1 REIT": [],
+  "ACES ELECTRONIC CO": [
+    {
+      "exchange": "TAI",
+      "shortname": "ACES ELECTRONIC CO. LTD.",
+      "quoteType": "EQUITY",
+      "symbol": "3605.TW",
+      "index": "quotes",
+      "score": 20003.0,
+      "typeDisp": "Equity",
+      "longname": "ACES Electronics Co., Ltd.",
+      "exchDisp": "Taiwan",
+      "sector": "Technology",
+      "sectorDisp": "Technology",
+      "industry": "Electronic Components",
+      "industryDisp": "Electronic Components",
+      "isYahooFinance": true
+    }
+  ],
+  "ACME ELECTRONICS CORP": [
+    {
+      "exchange": "TWO",
+      "shortname": "ACME ELECTRONICS CORPORATION",
+      "quoteType": "EQUITY",
+      "symbol": "8121.TWO",
+      "index": "quotes",
+      "score": 20003.0,
+      "typeDisp": "Equity",
+      "longname": "Acme Electronics Corporation",
+      "exchDisp": "Taipei",
+      "sector": "Technology",
+      "sectorDisp": "Technology",
+      "industry": "Electronic Components",
+      "industryDisp": "Electronic Components",
+      "isYahooFinance": true
+    }
+  ],
+  "ADV WIRELESS SEMICONDUC": [
+    {
+      "exchange": "TWO",
+      "shortname": "ADVANCED WIRELESS SEMICONDUCTOR",
+      "quoteType": "EQUITY",
+      "symbol": "8086.TWO",
+      "index": "quotes",
+      "score": 20003.0,
+      "typeDisp": "Equity",
+      "longname": "Advanced Wireless Semiconductor Company",
+      "exchDisp": "Taipei",
+      "sector": "Technology",
+      "sectorDisp": "Technology",
+      "industry": "Semiconductors",
+      "industryDisp": "Semiconductors",
+      "isYahooFinance": true
+    }
+  ],
+  "CHANGS ASCENDING ENTERPR": [
+    {
+      "exchange": "TWO",
+      "shortname": "CHANGS ASCENDING ENTERPRISE CO ",
+      "quoteType": "EQUITY",
+      "symbol": "8038.TWO",
+      "index": "quotes",
+      "score": 20001.0,
+      "typeDisp": "Equity",
+      "longname": "Changs Ascending Enterprise Co., Ltd.",
+      "exchDisp": "Taipei",
+      "sector": "Industrials",
+      "sectorDisp": "Industrials",
+      "industry": "Electrical Equipment & Parts",
+      "industryDisp": "Electrical Equipment & Parts",
+      "isYahooFinance": true
+    }
+  ],
+  "DAHAN DEVELOPMENT CORP": [],
+  "DAXON TECHNOLOGY": [],
+  "G TECH OPTOELECTRONICS C": [
+    {
+      "exchange": "TAI",
+      "shortname": "G-TECH OPTOELECTRONICS CORP",
+      "quoteType": "EQUITY",
+      "symbol": "3149.TW",
+      "index": "quotes",
+      "score": 20003.0,
+      "typeDisp": "Equity",
+      "longname": "G-TECH Optoelectronics Corporation",
+      "exchDisp": "Taiwan",
+      "sector": "Technology",
+      "sectorDisp": "Technology",
+      "industry": "Electronic Components",
+      "industryDisp": "Electronic Components",
+      "isYahooFinance": true
+    }
+  ],
+  "GIGASTORAGE CORP": [
+    {
+      "exchange": "TAI",
+      "shortname": "GIGASTORAGE CORP",
+      "quoteType": "EQUITY",
+      "symbol": "2406.TW",
+      "index": "quotes",
+      "score": 20003.0,
+      "typeDisp": "Equity",
+      "longname": "Gigastorage Corporation",
+      "exchDisp": "Taiwan",
+      "sector": "Technology",
+      "sectorDisp": "Technology",
+      "industry": "Solar",
+      "industryDisp": "Solar",
+      "isYahooFinance": true
+    }
+  ],
+  "GRAPE KING": [
+    {
+      "exchange": "TAI",
+      "shortname": "GRAPE KING BIO LTD",
+      "quoteType": "EQUITY",
+      "symbol": "1707.TW",
+      "index": "quotes",
+      "score": 20003.0,
+      "typeDisp": "Equity",
+      "longname": "Grape King Bio Ltd",
+      "exchDisp": "Taiwan",
+      "sector": "Healthcare",
+      "sectorDisp": "Healthcare",
+      "industry": "Drug Manufacturers—Specialty & Generic",
+      "industryDisp": "Drug Manufacturers—Specialty & Generic",
+      "isYahooFinance": true
+    }
+  ],
+  "HITI DIGITAL": [
+    {
+      "exchange": "TAI",
+      "shortname": "HITI DIGITAL INC.",
+      "quoteType": "EQUITY",
+      "symbol": "3494.TW",
+      "index": "quotes",
+      "score": 20003.0,
+      "typeDisp": "Equity",
+      "longname": "HiTi Digital, Inc.",
+      "exchDisp": "Taiwan",
+      "sector": "Technology",
+      "sectorDisp": "Technology",
+      "industry": "Computer Hardware",
+      "industryDisp": "Computer Hardware",
+      "isYahooFinance": true
+    }
+  ],
+  "CATHAY NO 2 REIT": [
+    {
+      "exchange": "TAI",
+      "shortname": "CATHAY NO.2 REIT NO.2 REAL ESTA",
+      "quoteType": "ETF",
+      "symbol": "01007T.TW",
+      "index": "quotes",
+      "score": 20001.0,
+      "typeDisp": "ETF",
+      "longname": "Cathay No.2 REIT",
+      "exchDisp": "Taiwan",
+      "isYahooFinance": true
+    }
+  ],
+  "ADIMMUNE": [
+    {
+      "exchange": "TAI",
+      "shortname": "ADIMMUNE CORPORATION",
+      "quoteType": "EQUITY",
+      "symbol": "4142.TW",
+      "index": "quotes",
+      "score": 20001.0,
+      "typeDisp": "Equity",
+      "longname": "Adimmune Corporation",
+      "exchDisp": "Taiwan",
+      "sector": "Healthcare",
+      "sectorDisp": "Healthcare",
+      "industry": "Biotechnology",
+      "industryDisp": "Biotechnology",
+      "isYahooFinance": true
+    }
+  ],
+  "CHENMING MOLD INDUSTRY": [],
+  "CHIMEI MATERIALS TECH": [],
+  "MITAC INTERNATIONAL": [],
+  "SKYMEDI": [],
+  "C-MEDIA ELECTRONICS": [
+    {
+      "exchange": "TWO",
+      "shortname": "C-MEDIA ELECTRONICS",
+      "quoteType": "EQUITY",
+      "symbol": "6237.TWO",
+      "index": "quotes",
+      "score": 20005.0,
+      "typeDisp": "Equity",
+      "longname": "C-Media Electronics Inc.",
+      "exchDisp": "Taipei",
+      "sector": "Technology",
+      "sectorDisp": "Technology",
+      "industry": "Semiconductors",
+      "industryDisp": "Semiconductors",
+      "isYahooFinance": true
+    }
+  ],
+  "KAI CHIEH INTL INV": [],
+  "TAIWAN IC PACKAGING": [
+    {
+      "exchange": "TWO",
+      "shortname": "TAIWAN IC PACKAGING CORPORATION",
+      "quoteType": "EQUITY",
+      "symbol": "3372.TWO",
+      "index": "quotes",
+      "score": 20003.0,
+      "typeDisp": "Equity",
+      "longname": "Taiwan IC Packaging Corporation",
+      "exchDisp": "Taipei",
+      "sector": "Technology",
+      "sectorDisp": "Technology",
+      "industry": "Semiconductors",
+      "industryDisp": "Semiconductors",
+      "isYahooFinance": true
+    }
+  ],
+  "YUFO ELECTRONIC CORP": [],
+  "KOBIN ENVIRONMNTL ENTER": [],
+  "TTET UNION CORPORATION": [
+    {
+      "exchange": "TAI",
+      "shortname": "TTET UNION CORP",
+      "quoteType": "EQUITY",
+      "symbol": "1232.TW",
+      "index": "quotes",
+      "score": 20001.0,
+      "typeDisp": "Equity",
+      "longname": "TTET Union Corporation",
+      "exchDisp": "Taiwan",
+      "sector": "Consumer Defensive",
+      "sectorDisp": "Consumer Defensive",
+      "industry": "Packaged Foods",
+      "industryDisp": "Packaged Foods",
+      "isYahooFinance": true
+    }
+  ],
+  "CANDO CORP": [],
+  "JENN FENG NEW ENERGY CO": [],
+  "POWERCOM CO": [
+    {
+      "exchange": "TAI",
+      "shortname": "POWERCOM CO",
+      "quoteType": "EQUITY",
+      "symbol": "3043.TW",
+      "index": "quotes",
+      "score": 20001.0,
+      "typeDisp": "Equity",
+      "longname": "Powercom Co., Ltd",
+      "exchDisp": "Taiwan",
+      "sector": "Industrials",
+      "sectorDisp": "Industrials",
+      "industry": "Electrical Equipment & Parts",
+      "industryDisp": "Electrical Equipment & Parts",
+      "isYahooFinance": true
+    }
+  ],
+  "CHC HEALTHCARE GROUP": [
+    {
+      "exchange": "TAI",
+      "shortname": "CHC HEALTHCARE GROUP",
+      "quoteType": "EQUITY",
+      "symbol": "4164.TW",
+      "index": "quotes",
+      "score": 20001.0,
+      "typeDisp": "Equity",
+      "longname": "CHC Healthcare Group",
+      "exchDisp": "Taiwan",
+      "sector": "Healthcare",
+      "sectorDisp": "Healthcare",
+      "industry": "Medical Distribution",
+      "industryDisp": "Medical Distribution",
+      "isYahooFinance": true
+    }
+  ],
+  "CHINA ECOTEK CORPORATION": [
+    {
+      "exchange": "TAI",
+      "shortname": "CHINA ECOTEK",
+      "quoteType": "EQUITY",
+      "symbol": "1535.TW",
+      "index": "quotes",
+      "score": 20002.0,
+      "typeDisp": "Equity",
+      "longname": "China Ecotek Corporation",
+      "exchDisp": "Taiwan",
+      "sector": "Industrials",
+      "sectorDisp": "Industrials",
+      "industry": "Pollution & Treatment Controls",
+      "industryDisp": "Pollution & Treatment Controls",
+      "isYahooFinance": true
+    }
+  ],
+  "GALLOP NO 1 REIT": [],
+  "KMC (KUEI MENG) INT'L": [],
+  "PHARMAENGINE INC": [
+    {
+      "exchange": "TWO",
+      "shortname": "PHARMAENGINE INC",
+      "quoteType": "EQUITY",
+      "symbol": "4162.TWO",
+      "index": "quotes",
+      "score": 20001.0,
+      "typeDisp": "Equity",
+      "longname": "PharmaEngine, Inc.",
+      "exchDisp": "Taipei",
+      "sector": "Healthcare",
+      "sectorDisp": "Healthcare",
+      "industry": "Biotechnology",
+      "industryDisp": "Biotechnology",
+      "isYahooFinance": true
+    }
+  ],
+  "AVY PRECISION TECH": [],
+  "BENQ MATERIALS CORP": [
+    {
+      "exchange": "TAI",
+      "shortname": "BENQ MATERIALS CORPORATION",
+      "quoteType": "EQUITY",
+      "symbol": "8215.TW",
+      "index": "quotes",
+      "score": 20003.0,
+      "typeDisp": "Equity",
+      "longname": "BenQ Materials Corporation",
+      "exchDisp": "Taiwan",
+      "sector": "Technology",
+      "sectorDisp": "Technology",
+      "industry": "Electronic Components",
+      "industryDisp": "Electronic Components",
+      "isYahooFinance": true
+    }
+  ],
+  "GLOBE UNION INDUSTRIAL": [
+    {
+      "exchange": "TAI",
+      "shortname": "GLOBE UNION INDUSTRIAL CORP",
+      "quoteType": "EQUITY",
+      "symbol": "9934.TW",
+      "index": "quotes",
+      "score": 20001.0,
+      "typeDisp": "Equity",
+      "longname": "Globe Union Industrial Corp.",
+      "exchDisp": "Taiwan",
+      "sector": "Industrials",
+      "sectorDisp": "Industrials",
+      "industry": "Building Products & Equipment",
+      "industryDisp": "Building Products & Equipment",
+      "isYahooFinance": true
+    }
+  ],
+  "PAN JIT INTERNATIONAL": [
+    {
+      "exchange": "TAI",
+      "shortname": "PAN JIT INTERNATIONAL INC",
+      "quoteType": "EQUITY",
+      "symbol": "2481.TW",
+      "index": "quotes",
+      "score": 20006.0,
+      "typeDisp": "Equity",
+      "longname": "PANJIT International Inc.",
+      "exchDisp": "Taiwan",
+      "sector": "Technology",
+      "sectorDisp": "Technology",
+      "industry": "Semiconductor Equipment & Materials",
+      "industryDisp": "Semiconductor Equipment & Materials",
+      "isYahooFinance": true,
+      "prevName": "Pan Jit International Inc.",
+      "nameChangeDate": "2026-06-03"
+    }
+  ],
+  "TAIWAN PULP & PAPER CO": [],
+  "WUS PRINTED CIRCUIT CO": [
+    {
+      "exchange": "TAI",
+      "shortname": "WUS PRINTED CIRCUIT CO",
+      "quoteType": "EQUITY",
+      "symbol": "2316.TW",
+      "index": "quotes",
+      "score": 20001.0,
+      "typeDisp": "Equity",
+      "longname": "WUS Printed Circuit Co., Ltd.",
+      "exchDisp": "Taiwan",
+      "sector": "Technology",
+      "sectorDisp": "Technology",
+      "industry": "Electronic Components",
+      "industryDisp": "Electronic Components",
+      "isYahooFinance": true
+    }
+  ],
+  "ADVANCED LITH ELCTROCHM": [],
+  "CHAMPION BUILDING MATRLS": [],
+  "CHINA ELECTRIC MFG": [
+    {
+      "exchange": "TAI",
+      "shortname": "CHINA ELECTRIC MANUFACTURE",
+      "quoteType": "EQUITY",
+      "symbol": "1611.TW",
+      "index": "quotes",
+      "score": 20003.0,
+      "typeDisp": "Equity",
+      "longname": "China Electric Mfg. Corporation",
+      "exchDisp": "Taiwan",
+      "sector": "Consumer Cyclical",
+      "sectorDisp": "Consumer Cyclical",
+      "industry": "Furnishings, Fixtures & Appliances",
+      "industryDisp": "Furnishings, Fixtures & Appliances",
+      "isYahooFinance": true
+    }
+  ],
+  "CONCORD SECURITIES CORP": [
+    {
+      "exchange": "TWO",
+      "shortname": "CONCORD SECURITIES CORP",
+      "quoteType": "EQUITY",
+      "symbol": "6016.TWO",
+      "index": "quotes",
+      "score": 20002.0,
+      "typeDisp": "Equity",
+      "longname": "Concord Securities Co., Ltd.",
+      "exchDisp": "Taipei",
+      "sector": "Financial Services",
+      "sectorDisp": "Financial Services",
+      "industry": "Capital Markets",
+      "industryDisp": "Capital Markets",
+      "isYahooFinance": true,
+      "prevName": "Concord Securities Co.,Ltd.",
+      "nameChangeDate": "2026-06-03"
+    }
+  ],
+  "GLOBAL BRANDS MANUFACT.": [
+    {
+      "exchange": "TAI",
+      "shortname": "GLOBAL BRANDS MANUFACTURE CO LT",
+      "quoteType": "EQUITY",
+      "symbol": "6191.TW",
+      "index": "quotes",
+      "score": 20003.0,
+      "typeDisp": "Equity",
+      "longname": "Global Brands Manufacture Ltd.",
+      "exchDisp": "Taiwan",
+      "sector": "Technology",
+      "sectorDisp": "Technology",
+      "industry": "Electronic Components",
+      "industryDisp": "Electronic Components",
+      "isYahooFinance": true
+    }
+  ],
+  "SHIHLIN ELECTRIC & ENGR": [],
+  "SOUTHEAST CEMENT CO": [
+    {
+      "exchange": "TAI",
+      "shortname": "SOUTH EAST CEMENT CO LTD.",
+      "quoteType": "EQUITY",
+      "symbol": "1110.TW",
+      "index": "quotes",
+      "score": 20002.0,
+      "typeDisp": "Equity",
+      "longname": "Southeast Cement Co., Ltd.",
+      "exchDisp": "Taiwan",
+      "sector": "Basic Materials",
+      "sectorDisp": "Basic Materials",
+      "industry": "Building Materials",
+      "industryDisp": "Building Materials",
+      "isYahooFinance": true,
+      "prevName": "Southeast Cement Co.,Ltd.",
+      "nameChangeDate": "2026-06-03"
+    }
+  ],
+  "ABILITY ENTERPRISE CO": [
+    {
+      "exchange": "TAI",
+      "shortname": "ABILITY ENTERPRISE CO LTD",
+      "quoteType": "EQUITY",
+      "symbol": "2374.TW",
+      "index": "quotes",
+      "score": 20003.0,
+      "typeDisp": "Equity",
+      "longname": "Ability Enterprise Co., Ltd.",
+      "exchDisp": "Taiwan",
+      "sector": "Technology",
+      "sectorDisp": "Technology",
+      "industry": "Electronic Components",
+      "industryDisp": "Electronic Components",
+      "isYahooFinance": true
+    }
+  ],
+  "NATIONAL PETROLEUM CO": [
+    {
+      "exchange": "TAI",
+      "shortname": "NATIONAL PETROLEUM CO",
+      "quoteType": "EQUITY",
+      "symbol": "9937.TW",
+      "index": "quotes",
+      "score": 20002.0,
+      "typeDisp": "Equity",
+      "longname": "National Petroleum Co., Ltd.",
+      "exchDisp": "Taiwan",
+      "sector": "Consumer Cyclical",
+      "sectorDisp": "Consumer Cyclical",
+      "industry": "Specialty Retail",
+      "industryDisp": "Specialty Retail",
+      "isYahooFinance": true
+    }
+  ],
+  "GENIUS ELECTR OPTICAL": [
+    {
+      "exchange": "TAI",
+      "shortname": "GENIUS ELECTRONIC OPTICAL CO.LT",
+      "quoteType": "EQUITY",
+      "symbol": "3406.TW",
+      "index": "quotes",
+      "score": 20003.0,
+      "typeDisp": "Equity",
+      "longname": "Genius Electronic Optical Co.,Ltd.",
+      "exchDisp": "Taiwan",
+      "sector": "Technology",
+      "sectorDisp": "Technology",
+      "industry": "Computer Hardware",
+      "industryDisp": "Computer Hardware",
+      "isYahooFinance": true,
+      "prevName": "Genius Electronic Optical Co., Ltd.",
+      "nameChangeDate": "2026-06-03"
+    }
+  ],
+  "TAIWAN UNION TECHNOLOGY": [
+    {
+      "exchange": "TWO",
+      "shortname": "TAIWAN UNION TECHNOLOGY CORPORA",
+      "quoteType": "EQUITY",
+      "symbol": "6274.TWO",
+      "index": "quotes",
+      "score": 20003.0,
+      "typeDisp": "Equity",
+      "longname": "Taiwan Union Technology Corporation",
+      "exchDisp": "Taipei",
+      "sector": "Technology",
+      "sectorDisp": "Technology",
+      "industry": "Electronic Components",
+      "industryDisp": "Electronic Components",
+      "isYahooFinance": true
+    }
+  ],
+  "GREEN ENERGY TECHNOLOGY": [
+    {
+      "exchange": "SHH",
+      "shortname": "LONGI GREEN ENERGY TECHNOLOGY C",
+      "quoteType": "EQUITY",
+      "symbol": "601012.SS",
+      "index": "quotes",
+      "score": 20003.0,
+      "typeDisp": "Equity",
+      "longname": "LONGi Green Energy Technology Co., Ltd.",
+      "exchDisp": "Shanghai",
+      "sector": "Technology",
+      "sectorDisp": "Technology",
+      "industry": "Semiconductor Equipment & Materials",
+      "industryDisp": "Semiconductor Equipment & Materials",
+      "dispSecIndFlag": true,
+      "isYahooFinance": true
+    },
+    {
+      "exchange": "TAI",
+      "shortname": "LUNG MING GREEN ENGY TECH ENG",
+      "quoteType": "EQUITY",
+      "symbol": "3018.TW",
+      "index": "quotes",
+      "score": 20001.0,
+      "typeDisp": "Equity",
+      "longname": "Lung Ming Green Energy Technology Engineering Co., Ltd.",
+      "exchDisp": "Taiwan",
+      "sector": "Industrials",
+      "sectorDisp": "Industrials",
+      "industry": "Engineering & Construction",
+      "industryDisp": "Engineering & Construction",
+      "isYahooFinance": true,
+      "prevName": "Tung Kai Technology Engineering Co., LTD.",
+      "nameChangeDate": "2026-06-03"
+    },
+    {
+      "exchange": "TAI",
+      "shortname": "LUXE GREEN ENERGY TECHNOLOGY CO",
+      "quoteType": "EQUITY",
+      "symbol": "1529.TW",
+      "index": "quotes",
+      "score": 20001.0,
+      "typeDisp": "Equity",
+      "longname": "Luxe Green Energy Technology Co., Ltd.",
+      "exchDisp": "Taiwan",
+      "sector": "Industrials",
+      "sectorDisp": "Industrials",
+      "industry": "Electrical Equipment & Parts",
+      "industryDisp": "Electrical Equipment & Parts",
+      "isYahooFinance": true,
+      "prevName": "Klingon Aerospace Inc.",
+      "nameChangeDate": "2026-06-03"
+    }
+  ],
+  "HSIN KUANG STEEL CO": [
+    {
+      "exchange": "TAI",
+      "shortname": "HSIN KUANG STEEL CO",
+      "quoteType": "EQUITY",
+      "symbol": "2031.TW",
+      "index": "quotes",
+      "score": 20001.0,
+      "typeDisp": "Equity",
+      "longname": "Hsin Kuang Steel Company Limited",
+      "exchDisp": "Taiwan",
+      "sector": "Basic Materials",
+      "sectorDisp": "Basic Materials",
+      "industry": "Steel",
+      "industryDisp": "Steel",
+      "isYahooFinance": true
+    }
+  ],
+  "ACTRON TECHNOLOGY": [
+    {
+      "exchange": "TWO",
+      "shortname": "ACTRON TECHNOLOGY CORP",
+      "quoteType": "EQUITY",
+      "symbol": "8255.TWO",
+      "index": "quotes",
+      "score": 20003.0,
+      "typeDisp": "Equity",
+      "longname": "Actron Technology Corporation",
+      "exchDisp": "Taipei",
+      "sector": "Consumer Cyclical",
+      "sectorDisp": "Consumer Cyclical",
+      "industry": "Auto Parts",
+      "industryDisp": "Auto Parts",
+      "isYahooFinance": true
+    }
+  ],
+  "E-TON SOLAR TECH": [],
+  "IRON FORCE INDUSTRIAL": [
+    {
+      "exchange": "TAI",
+      "shortname": "IRON FORCE INDUSTRIAL CO LTD",
+      "quoteType": "EQUITY",
+      "symbol": "2228.TW",
+      "index": "quotes",
+      "score": 20003.0,
+      "typeDisp": "Equity",
+      "longname": "Iron Force Industrial Co., Ltd.",
+      "exchDisp": "Taiwan",
+      "sector": "Consumer Cyclical",
+      "sectorDisp": "Consumer Cyclical",
+      "industry": "Auto Parts",
+      "industryDisp": "Auto Parts",
+      "isYahooFinance": true
+    }
+  ],
+  "JOHNSON HEALTH TECH CO": [
+    {
+      "exchange": "TAI",
+      "shortname": "JOHNSON HEALTH TECH",
+      "quoteType": "EQUITY",
+      "symbol": "1736.TW",
+      "index": "quotes",
+      "score": 20003.0,
+      "typeDisp": "Equity",
+      "longname": "Johnson Health Tech .Co., Ltd.",
+      "exchDisp": "Taiwan",
+      "sector": "Consumer Cyclical",
+      "sectorDisp": "Consumer Cyclical",
+      "industry": "Leisure",
+      "industryDisp": "Leisure",
+      "isYahooFinance": true,
+      "prevName": "Johnson Health Tech. Co., Ltd.",
+      "nameChangeDate": "2026-06-03"
+    }
+  ],
+  "LI PENG ENTERPRISE CO": [
+    {
+      "exchange": "TAI",
+      "shortname": "LI PENG ENTERPRISE",
+      "quoteType": "EQUITY",
+      "symbol": "1447.TW",
+      "index": "quotes",
+      "score": 20005.0,
+      "typeDisp": "Equity",
+      "longname": "Li Peng Enterprise Co., Ltd.",
+      "exchDisp": "Taiwan",
+      "sector": "Consumer Cyclical",
+      "sectorDisp": "Consumer Cyclical",
+      "industry": "Textile Manufacturing",
+      "industryDisp": "Textile Manufacturing",
+      "isYahooFinance": true
+    }
+  ],
+  "TAIWAN PCB TECHVEST CO": [
+    {
+      "exchange": "TAI",
+      "shortname": "TAIWAN PCB TECHVEST CO",
+      "quoteType": "EQUITY",
+      "symbol": "8213.TW",
+      "index": "quotes",
+      "score": 20003.0,
+      "typeDisp": "Equity",
+      "longname": "Taiwan Printed Circuit Board Techvest Co.,Ltd.",
+      "exchDisp": "Taiwan",
+      "sector": "Technology",
+      "sectorDisp": "Technology",
+      "industry": "Electronic Components",
+      "industryDisp": "Electronic Components",
+      "isYahooFinance": true,
+      "prevName": "Taiwan Pcb Techvest Co., Ltd.",
+      "nameChangeDate": "2026-06-03"
+    }
+  ],
+  "TOUNG LOONG TEXTILE": [
+    {
+      "exchange": "TWO",
+      "shortname": "TOUNG LOONG TEXTILE MFG CO",
+      "quoteType": "EQUITY",
+      "symbol": "4401.TWO",
+      "index": "quotes",
+      "score": 20003.0,
+      "typeDisp": "Equity",
+      "longname": "Toung Loong Textile Mfg.Co.,Ltd.",
+      "exchDisp": "Taipei",
+      "sector": "Consumer Cyclical",
+      "sectorDisp": "Consumer Cyclical",
+      "industry": "Textile Manufacturing",
+      "industryDisp": "Textile Manufacturing",
+      "isYahooFinance": true,
+      "prevName": "Toung Loong Textile MFG. Co., LTD.",
+      "nameChangeDate": "2026-06-03"
+    }
+  ],
+  "FUSHENG PRECISION": [
+    {
+      "exchange": "TAI",
+      "shortname": "FUSHENG PRECISION CO LTD",
+      "quoteType": "EQUITY",
+      "symbol": "6670.TW",
+      "index": "quotes",
+      "score": 20002.0,
+      "typeDisp": "Equity",
+      "longname": "FuSheng Precision Co., Ltd.",
+      "exchDisp": "Taiwan",
+      "sector": "Consumer Cyclical",
+      "sectorDisp": "Consumer Cyclical",
+      "industry": "Leisure",
+      "industryDisp": "Leisure",
+      "isYahooFinance": true
+    }
+  ],
+  "UNION BANK OF TAIWAN": [
+    {
+      "exchange": "TAI",
+      "shortname": "UNION BANK OF TAIWAN",
+      "quoteType": "EQUITY",
+      "symbol": "2838A.TW",
+      "index": "quotes",
+      "score": 20001.0,
+      "typeDisp": "Equity",
+      "longname": "Union Bank of Taiwan",
+      "exchDisp": "Taiwan",
+      "sector": "Financial Services",
+      "sectorDisp": "Financial Services",
+      "industry": "Banks—Regional",
+      "industryDisp": "Banks—Regional",
+      "dispSecIndFlag": false,
+      "isYahooFinance": true
+    },
+    {
+      "exchange": "TAI",
+      "shortname": "UNION BANK OF TAIWAN",
+      "quoteType": "EQUITY",
+      "symbol": "2838.TW",
+      "index": "quotes",
+      "score": 20001.0,
+      "typeDisp": "Equity",
+      "longname": "Union Bank of Taiwan",
+      "exchDisp": "Taiwan",
+      "sector": "Financial Services",
+      "sectorDisp": "Financial Services",
+      "industry": "Banks—Regional",
+      "industryDisp": "Banks—Regional",
+      "isYahooFinance": true
+    }
+  ],
+  "CHUNG HSIN ELEC & MACH": [
+    {
+      "exchange": "TAI",
+      "shortname": "CHUNG HSIN ELECTRIC & MACHINERY",
+      "quoteType": "EQUITY",
+      "symbol": "1513.TW",
+      "index": "quotes",
+      "score": 20001.0,
+      "typeDisp": "Equity",
+      "longname": "Chung-Hsin Electric and Machinery Manufacturing Corp.",
+      "exchDisp": "Taiwan",
+      "sector": "Industrials",
+      "sectorDisp": "Industrials",
+      "industry": "Specialty Industrial Machinery",
+      "industryDisp": "Specialty Industrial Machinery",
+      "isYahooFinance": true
+    }
+  ],
+  "GLOBAL LIGHTING TECH": [
+    {
+      "exchange": "TAI",
+      "shortname": "GLOBAL LIGHTING TECHNOLOGIES IN",
+      "quoteType": "EQUITY",
+      "symbol": "4935.TW",
+      "index": "quotes",
+      "score": 20003.0,
+      "typeDisp": "Equity",
+      "longname": "Global Lighting Technologies Inc.",
+      "exchDisp": "Taiwan",
+      "sector": "Technology",
+      "sectorDisp": "Technology",
+      "industry": "Electronic Components",
+      "industryDisp": "Electronic Components",
+      "isYahooFinance": true
+    }
+  ],
+  "LITE-ON SEMICONDUCTOR": [],
+  "MARKETECH INTL CORP": [],
+  "QST INTERNATIONAL CORP": [
+    {
+      "exchange": "TWO",
+      "shortname": "QST INTERNATIONAL CORP",
+      "quoteType": "EQUITY",
+      "symbol": "8349.TWO",
+      "index": "quotes",
+      "score": 20001.0,
+      "typeDisp": "Equity",
+      "longname": "QST International Corp.",
+      "exchDisp": "Taipei",
+      "sector": "Industrials",
+      "sectorDisp": "Industrials",
+      "industry": "Tools & Accessories",
+      "industryDisp": "Tools & Accessories",
+      "dispSecIndFlag": false,
+      "isYahooFinance": true
+    },
+    {
+      "exchange": "TWO",
+      "shortname": "QST INTERNATIONAL CORP",
+      "quoteType": "EQUITY",
+      "symbol": "8349A.TWO",
+      "index": "quotes",
+      "score": 20001.0,
+      "typeDisp": "Equity",
+      "longname": "QST International Corp.",
+      "exchDisp": "Taipei",
+      "sector": "Industrials",
+      "sectorDisp": "Industrials",
+      "industry": "Tools & Accessories",
+      "industryDisp": "Tools & Accessories",
+      "isYahooFinance": true
+    }
+  ],
+  "ASIA POLYMER": [
+    {
+      "exchange": "TAI",
+      "shortname": "ASIA POLYMER",
+      "quoteType": "EQUITY",
+      "symbol": "1308.TW",
+      "index": "quotes",
+      "score": 20001.0,
+      "typeDisp": "Equity",
+      "longname": "Asia Polymer Corporation",
+      "exchDisp": "Taiwan",
+      "sector": "Basic Materials",
+      "sectorDisp": "Basic Materials",
+      "industry": "Specialty Chemicals",
+      "industryDisp": "Specialty Chemicals",
+      "isYahooFinance": true
+    }
+  ],
+  "GLOBAL BRANDS MANUFACT": [
+    {
+      "exchange": "TAI",
+      "shortname": "GLOBAL BRANDS MANUFACTURE CO LT",
+      "quoteType": "EQUITY",
+      "symbol": "6191.TW",
+      "index": "quotes",
+      "score": 20003.0,
+      "typeDisp": "Equity",
+      "longname": "Global Brands Manufacture Ltd.",
+      "exchDisp": "Taiwan",
+      "sector": "Technology",
+      "sectorDisp": "Technology",
+      "industry": "Electronic Components",
+      "industryDisp": "Electronic Components",
+      "isYahooFinance": true
+    }
+  ],
+  "ITE TECHNOLOGY": [],
+  "TAITA CHEMICAL": [
+    {
+      "exchange": "TAI",
+      "shortname": "TAITA CHEMICAL",
+      "quoteType": "EQUITY",
+      "symbol": "1309.TW",
+      "index": "quotes",
+      "score": 20001.0,
+      "typeDisp": "Equity",
+      "longname": "Taita Chemical Company, Limited",
+      "exchDisp": "Taiwan",
+      "sector": "Basic Materials",
+      "sectorDisp": "Basic Materials",
+      "industry": "Specialty Chemicals",
+      "industryDisp": "Specialty Chemicals",
+      "isYahooFinance": true,
+      "prevName": "Taita Chemical Company, Ltd.",
+      "nameChangeDate": "2026-06-03"
+    }
+  ],
+  "UNIZYX HOLDING": [],
+  "VIA LABS": [
+    {
+      "exchange": "TAI",
+      "shortname": "VIA LABS INC",
+      "quoteType": "EQUITY",
+      "symbol": "6756.TW",
+      "index": "quotes",
+      "score": 20003.0,
+      "typeDisp": "Equity",
+      "longname": "VIA Labs, Inc.",
+      "exchDisp": "Taiwan",
+      "sector": "Technology",
+      "sectorDisp": "Technology",
+      "industry": "Electronic Components",
+      "industryDisp": "Electronic Components",
+      "isYahooFinance": true
+    }
+  ],
+  "NIDEC CHAUN CHOUNG TECH": [
+    {
+      "exchange": "TAI",
+      "shortname": "NIDEC CHAUN-CHOUNG TECHNOLOGY C",
+      "quoteType": "EQUITY",
+      "symbol": "6230.TW",
+      "index": "quotes",
+      "score": 20001.0,
+      "typeDisp": "Equity",
+      "longname": "Nidec Chaun-Choung Technology Corporation",
+      "exchDisp": "Taiwan",
+      "sector": "Technology",
+      "sectorDisp": "Technology",
+      "industry": "Electronic Components",
+      "industryDisp": "Electronic Components",
+      "isYahooFinance": true,
+      "prevName": "Chaun-Choung Technology Corp.",
+      "nameChangeDate": "2026-06-03"
+    }
+  ],
+  "EVERGREEN STEEL": [
+    {
+      "exchange": "TAI",
+      "shortname": "EVERGREEN STEEL CORP",
+      "quoteType": "EQUITY",
+      "symbol": "2211.TW",
+      "index": "quotes",
+      "score": 20001.0,
+      "typeDisp": "Equity",
+      "longname": "Evergreen Steel Corp.",
+      "exchDisp": "Taiwan",
+      "sector": "Basic Materials",
+      "sectorDisp": "Basic Materials",
+      "industry": "Steel",
+      "industryDisp": "Steel",
+      "isYahooFinance": true
+    }
+  ],
+  "GENESYS LOGIC": [
+    {
+      "exchange": "TWO",
+      "shortname": "GENESYS LOGIC",
+      "quoteType": "EQUITY",
+      "symbol": "6104.TWO",
+      "index": "quotes",
+      "score": 20003.0,
+      "typeDisp": "Equity",
+      "longname": "Genesys Logic, Inc.",
+      "exchDisp": "Taipei",
+      "sector": "Technology",
+      "sectorDisp": "Technology",
+      "industry": "Semiconductors",
+      "industryDisp": "Semiconductors",
+      "isYahooFinance": true
+    }
+  ],
+  "OPTOTECH CORP": [],
+  "RUENTEX ENGR & CONST": [],
+  "UPI SEMICONDUCTOR CORP": [
+    {
+      "exchange": "TAI",
+      "shortname": "UPI SEMICONDUCTOR CORP",
+      "quoteType": "EQUITY",
+      "symbol": "6719.TW",
+      "index": "quotes",
+      "score": 20003.0,
+      "typeDisp": "Equity",
+      "longname": "uPI Semiconductor Corp.",
+      "exchDisp": "Taiwan",
+      "sector": "Technology",
+      "sectorDisp": "Technology",
+      "industry": "Semiconductors",
+      "industryDisp": "Semiconductors",
+      "isYahooFinance": true
+    }
+  ],
+  "JIH SUN FINANCIAL": [],
+  "PAN GERMAN UNIVERSAL": [
+    {
+      "exchange": "TAI",
+      "shortname": "PAN GERMAN UNIVERSAL MOTORS LTD",
+      "quoteType": "EQUITY",
+      "symbol": "2247.TW",
+      "index": "quotes",
+      "score": 20003.0,
+      "typeDisp": "Equity",
+      "longname": "Pan German Universal Motors Ltd.",
+      "exchDisp": "Taiwan",
+      "sector": "Consumer Cyclical",
+      "sectorDisp": "Consumer Cyclical",
+      "industry": "Auto & Truck Dealerships",
+      "industryDisp": "Auto & Truck Dealerships",
+      "isYahooFinance": true
+    }
+  ],
+  "ALAR PHARMACEUTICALS": [
+    {
+      "exchange": "TWO",
+      "shortname": "Alar",
+      "quoteType": "EQUITY",
+      "symbol": "6785.TWO",
+      "index": "quotes",
+      "score": 20003.0,
+      "typeDisp": "Equity",
+      "longname": "Alar Pharmaceuticals Inc.",
+      "exchDisp": "Taipei",
+      "sector": "Healthcare",
+      "sectorDisp": "Healthcare",
+      "industry": "Drug Manufacturers—Specialty & Generic",
+      "industryDisp": "Drug Manufacturers—Specialty & Generic",
+      "isYahooFinance": true
+    }
+  ],
+  "HD RENEWABLE ENERGY": [
+    {
+      "exchange": "TAI",
+      "shortname": "HD RENEWABLE ENERGY CO LTD",
+      "quoteType": "EQUITY",
+      "symbol": "6873.TW",
+      "index": "quotes",
+      "score": 20001.0,
+      "typeDisp": "Equity",
+      "longname": "HD Renewable Energy Co., Ltd.",
+      "exchDisp": "Taiwan",
+      "sector": "Industrials",
+      "sectorDisp": "Industrials",
+      "industry": "Engineering & Construction",
+      "industryDisp": "Engineering & Construction",
+      "isYahooFinance": true
+    }
+  ],
+  "HUA ENG WIRE & CABLE CO.": [
+    {
+      "exchange": "TAI",
+      "shortname": "HUA ENGINEERING WIRE & CABLE",
+      "quoteType": "EQUITY",
+      "symbol": "1608.TW",
+      "index": "quotes",
+      "score": 20002.0,
+      "typeDisp": "Equity",
+      "longname": "Hua Eng Wire & Cable Co., Ltd.",
+      "exchDisp": "Taiwan",
+      "sector": "Industrials",
+      "sectorDisp": "Industrials",
+      "industry": "Electrical Equipment & Parts",
+      "industryDisp": "Electrical Equipment & Parts",
+      "isYahooFinance": true
+    }
+  ],
+  "MATERIALS ANALYSIS TECH": [
+    {
+      "exchange": "TWO",
+      "shortname": "MATERIALS ANALYSIS TECHNOLOGY I",
+      "quoteType": "EQUITY",
+      "symbol": "3587.TWO",
+      "index": "quotes",
+      "score": 20003.0,
+      "typeDisp": "Equity",
+      "longname": "Materials Analysis Technology Inc.",
+      "exchDisp": "Taipei",
+      "sector": "Technology",
+      "sectorDisp": "Technology",
+      "industry": "Scientific & Technical Instruments",
+      "industryDisp": "Scientific & Technical Instruments",
+      "isYahooFinance": true
+    }
+  ],
+  "CHINA GENERAL PLASTICS": [
+    {
+      "exchange": "TAI",
+      "shortname": "CHINA GENERAL PLASTICS CORP",
+      "quoteType": "EQUITY",
+      "symbol": "1305.TW",
+      "index": "quotes",
+      "score": 20001.0,
+      "typeDisp": "Equity",
+      "longname": "China General Plastics Corporation",
+      "exchDisp": "Taiwan",
+      "sector": "Basic Materials",
+      "sectorDisp": "Basic Materials",
+      "industry": "Specialty Chemicals",
+      "industryDisp": "Specialty Chemicals",
+      "isYahooFinance": true
+    }
+  ],
+  "EVERLIGHT CHEMICAL": [
+    {
+      "exchange": "TAI",
+      "shortname": "EVERLIGHT CHEMICAL",
+      "quoteType": "EQUITY",
+      "symbol": "1711.TW",
+      "index": "quotes",
+      "score": 20001.0,
+      "typeDisp": "Equity",
+      "longname": "Everlight Chemical Industrial Corporation",
+      "exchDisp": "Taiwan",
+      "sector": "Basic Materials",
+      "sectorDisp": "Basic Materials",
+      "industry": "Specialty Chemicals",
+      "industryDisp": "Specialty Chemicals",
+      "isYahooFinance": true
+    }
+  ],
+  "ECHEM SOLUTIONS": [],
+  "TAIWAN SPECIALITY CHEM": [
+    {
+      "exchange": "TWO",
+      "shortname": "TSC",
+      "quoteType": "EQUITY",
+      "symbol": "4772.TWO",
+      "index": "quotes",
+      "score": 20001.0,
+      "typeDisp": "Equity",
+      "longname": "Taiwan Speciality Chemicals Corporation",
+      "exchDisp": "Taipei",
+      "sector": "Basic Materials",
+      "sectorDisp": "Basic Materials",
+      "industry": "Specialty Chemicals",
+      "industryDisp": "Specialty Chemicals",
+      "isYahooFinance": true
+    }
+  ],
+  "GALLANT PREC MACHINING": [
+    {
+      "exchange": "TWO",
+      "shortname": "GALLANT PRECISION MACHINING CO",
+      "quoteType": "EQUITY",
+      "symbol": "5443.TWO",
+      "index": "quotes",
+      "score": 20003.0,
+      "typeDisp": "Equity",
+      "longname": "Gallant Precision Machining Co., Ltd.",
+      "exchDisp": "Taipei",
+      "sector": "Technology",
+      "sectorDisp": "Technology",
+      "industry": "Semiconductor Equipment & Materials",
+      "industryDisp": "Semiconductor Equipment & Materials",
+      "isYahooFinance": true
+    }
+  ],
+  "KMC (KUEI MENG) INTL": [],
+  "LONGCHEN PAPER & PAC CO": [
+    {
+      "exchange": "TAI",
+      "shortname": "LONGCHEN PAPER&PACKAGING CO LTD",
+      "quoteType": "EQUITY",
+      "symbol": "1909.TW",
+      "index": "quotes",
+      "score": 20001.0,
+      "typeDisp": "Equity",
+      "longname": "Longchen Paper & Packaging Co., Ltd.",
+      "exchDisp": "Taiwan",
+      "sector": "Basic Materials",
+      "sectorDisp": "Basic Materials",
+      "industry": "Paper & Paper Products",
+      "industryDisp": "Paper & Paper Products",
+      "isYahooFinance": true
+    }
+  ],
+  "TAIWAN TEA CORP": [
+    {
+      "exchange": "TAI",
+      "shortname": "TAIWAN TEA CORPORATION",
+      "quoteType": "EQUITY",
+      "symbol": "2913.TW",
+      "index": "quotes",
+      "score": 20001.0,
+      "typeDisp": "Equity",
+      "longname": "Taiwan Tea Corporation",
+      "exchDisp": "Taiwan",
+      "sector": "Consumer Defensive",
+      "sectorDisp": "Consumer Defensive",
+      "industry": "Farm Products",
+      "industryDisp": "Farm Products",
+      "isYahooFinance": true
+    }
+  ],
+  "UNITED RENEWABLE ENERGY": [
+    {
+      "exchange": "TAI",
+      "shortname": "UNITED RENEWABLE ENERGY CO LTD",
+      "quoteType": "EQUITY",
+      "symbol": "3576.TW",
+      "index": "quotes",
+      "score": 20003.0,
+      "typeDisp": "Equity",
+      "longname": "United Renewable Energy Co., Ltd.",
+      "exchDisp": "Taiwan",
+      "sector": "Technology",
+      "sectorDisp": "Technology",
+      "industry": "Solar",
+      "industryDisp": "Solar",
+      "isYahooFinance": true
+    }
+  ],
+  "GALLANT MICRO MACHINING": [
+    {
+      "exchange": "TWO",
+      "shortname": "GALLANT MICRO MACHINING CO LTD",
+      "quoteType": "EQUITY",
+      "symbol": "6640.TWO",
+      "index": "quotes",
+      "score": 20003.0,
+      "typeDisp": "Equity",
+      "longname": "Gallant Micro. Machining Co., LTD.",
+      "exchDisp": "Taipei",
+      "sector": "Technology",
+      "sectorDisp": "Technology",
+      "industry": "Semiconductor Equipment & Materials",
+      "industryDisp": "Semiconductor Equipment & Materials",
+      "isYahooFinance": true
+    }
+  ],
+  "GROUP UP INDUSTRIAL": [
+    {
+      "exchange": "TWO",
+      "shortname": "GROUP UP INDUSTRIAL CO LTD",
+      "quoteType": "EQUITY",
+      "symbol": "6664.TWO",
+      "index": "quotes",
+      "score": 20002.0,
+      "typeDisp": "Equity",
+      "longname": "Group Up Industrial Co., Ltd.",
+      "exchDisp": "Taipei",
+      "sector": "Industrials",
+      "sectorDisp": "Industrials",
+      "industry": "Specialty Industrial Machinery",
+      "industryDisp": "Specialty Industrial Machinery",
+      "isYahooFinance": true
+    }
+  ],
+  "HOTA INDUSTRIAL MFG CO": [
+    {
+      "exchange": "TAI",
+      "shortname": "HOTA INDUSTRIAL MFG CO",
+      "quoteType": "EQUITY",
+      "symbol": "1536.TW",
+      "index": "quotes",
+      "score": 20003.0,
+      "typeDisp": "Equity",
+      "longname": "Hota Industrial Mfg. Co., Ltd.",
+      "exchDisp": "Taiwan",
+      "sector": "Consumer Cyclical",
+      "sectorDisp": "Consumer Cyclical",
+      "industry": "Auto Parts",
+      "industryDisp": "Auto Parts",
+      "isYahooFinance": true
+    }
+  ],
+  "POLARIS GROUP": [
+    {
+      "exchange": "TAI",
+      "shortname": "POLARIS GROUP",
+      "quoteType": "EQUITY",
+      "symbol": "6550.TW",
+      "index": "quotes",
+      "score": 20001.0,
+      "typeDisp": "Equity",
+      "longname": "Polaris Group",
+      "exchDisp": "Taiwan",
+      "sector": "Healthcare",
+      "sectorDisp": "Healthcare",
+      "industry": "Biotechnology",
+      "industryDisp": "Biotechnology",
+      "isYahooFinance": true
+    }
+  ],
+  "CHINA HI MENT": [],
+  "SOLARTECH ENERGY CORP": [],
+  "TAIWAN COGENERATION": [
+    {
+      "exchange": "TAI",
+      "shortname": "TAIWAN COGENERATION CORP",
+      "quoteType": "EQUITY",
+      "symbol": "8926.TW",
+      "index": "quotes",
+      "score": 20001.0,
+      "typeDisp": "Equity",
+      "longname": "Taiwan Cogeneration Corporation",
+      "exchDisp": "Taiwan",
+      "sector": "Industrials",
+      "sectorDisp": "Industrials",
+      "industry": "Engineering & Construction",
+      "industryDisp": "Engineering & Construction",
+      "isYahooFinance": true
+    }
+  ],
+  "WAYS TECHNICAL": [
+    {
+      "exchange": "TWO",
+      "shortname": "WAYS TECHNICAL CORP",
+      "quoteType": "EQUITY",
+      "symbol": "3508.TWO",
+      "index": "quotes",
+      "score": 20001.0,
+      "typeDisp": "Equity",
+      "longname": "Ways Technical Corp., Ltd.",
+      "exchDisp": "Taipei",
+      "sector": "Basic Materials",
+      "sectorDisp": "Basic Materials",
+      "industry": "Specialty Chemicals",
+      "industryDisp": "Specialty Chemicals",
+      "isYahooFinance": true
+    }
+  ],
+  "GENESYS LOGIC INC": [
+    {
+      "exchange": "TWO",
+      "shortname": "GENESYS LOGIC",
+      "quoteType": "EQUITY",
+      "symbol": "6104.TWO",
+      "index": "quotes",
+      "score": 20003.0,
+      "typeDisp": "Equity",
+      "longname": "Genesys Logic, Inc.",
+      "exchDisp": "Taipei",
+      "sector": "Technology",
+      "sectorDisp": "Technology",
+      "industry": "Semiconductors",
+      "industryDisp": "Semiconductors",
+      "isYahooFinance": true
+    }
+  ],
+  "WONTEN TECHNOLOGY CO": [],
+  "RALINK TECHNOLOGY CORP": [],
+  "EXCELSIOR MEDICAL CO": [
+    {
+      "exchange": "TAI",
+      "shortname": "EXCELSIOR MEDICAL CO LTD",
+      "quoteType": "EQUITY",
+      "symbol": "4104.TW",
+      "index": "quotes",
+      "score": 20001.0,
+      "typeDisp": "Equity",
+      "longname": "Excelsior Medical Co., Ltd.",
+      "exchDisp": "Taiwan",
+      "sector": "Healthcare",
+      "sectorDisp": "Healthcare",
+      "industry": "Medical Distribution",
+      "industryDisp": "Medical Distribution",
+      "isYahooFinance": true
+    }
+  ],
+  "HOLDKEY ELECTRIC WIRE": [],
+  "LEADTREND TECH CORP": [
+    {
+      "exchange": "TAI",
+      "shortname": "LEADTREND TECHNOLOGY CORPORATIO",
+      "quoteType": "EQUITY",
+      "symbol": "3588.TW",
+      "index": "quotes",
+      "score": 20003.0,
+      "typeDisp": "Equity",
+      "longname": "Leadtrend Technology Corporation",
+      "exchDisp": "Taiwan",
+      "sector": "Technology",
+      "sectorDisp": "Technology",
+      "industry": "Semiconductors",
+      "industryDisp": "Semiconductors",
+      "isYahooFinance": true
+    }
+  ],
+  "NETRONIX": [
+    {
+      "exchange": "TWO",
+      "shortname": "NETRONIX INC",
+      "quoteType": "EQUITY",
+      "symbol": "6143.TWO",
+      "index": "quotes",
+      "score": 20001.0,
+      "typeDisp": "Equity",
+      "longname": "Netronix, Inc.",
+      "exchDisp": "Taipei",
+      "sector": "Technology",
+      "sectorDisp": "Technology",
+      "industry": "Communication Equipment",
+      "industryDisp": "Communication Equipment",
+      "isYahooFinance": true
+    }
+  ],
+  "OCEAN PLASTICS CO": [
+    {
+      "exchange": "TAI",
+      "shortname": "OCEAN PLASTICS",
+      "quoteType": "EQUITY",
+      "symbol": "1321.TW",
+      "index": "quotes",
+      "score": 20001.0,
+      "typeDisp": "Equity",
+      "longname": "Ocean Plastics Co., Ltd.",
+      "exchDisp": "Taiwan",
+      "sector": "Basic Materials",
+      "sectorDisp": "Basic Materials",
+      "industry": "Specialty Chemicals",
+      "industryDisp": "Specialty Chemicals",
+      "isYahooFinance": true
+    }
+  ],
+  "SHINKONG INSURANCE CO": [
+    {
+      "exchange": "TAI",
+      "shortname": "SHINKONG INSURANCE CO",
+      "quoteType": "EQUITY",
+      "symbol": "2850.TW",
+      "index": "quotes",
+      "score": 20003.0,
+      "typeDisp": "Equity",
+      "longname": "Shinkong Insurance Co., Ltd.",
+      "exchDisp": "Taiwan",
+      "sector": "Financial Services",
+      "sectorDisp": "Financial Services",
+      "industry": "Insurance—Property & Casualty",
+      "industryDisp": "Insurance—Property & Casualty",
+      "isYahooFinance": true
+    }
+  ],
+  "VISUAL PHOTONICS EPITAXY": [
+    {
+      "exchange": "TAI",
+      "shortname": "VISUAL PHOTONICS EPITAXY CO LTD",
+      "quoteType": "EQUITY",
+      "symbol": "2455.TW",
+      "index": "quotes",
+      "score": 20003.0,
+      "typeDisp": "Equity",
+      "longname": "Visual Photonics Epitaxy Co., Ltd.",
+      "exchDisp": "Taiwan",
+      "sector": "Technology",
+      "sectorDisp": "Technology",
+      "industry": "Semiconductor Equipment & Materials",
+      "industryDisp": "Semiconductor Equipment & Materials",
+      "isYahooFinance": true
+    }
+  ],
+  "YEH-CHIANG TECH": [
+    {
+      "exchange": "TWO",
+      "shortname": "YEH-CHIANG TECHNOLOGY CO",
+      "quoteType": "EQUITY",
+      "symbol": "6124.TWO",
+      "index": "quotes",
+      "score": 20003.0,
+      "typeDisp": "Equity",
+      "longname": "Yeh Chiang Technology Corporation",
+      "exchDisp": "Taipei",
+      "sector": "Technology",
+      "sectorDisp": "Technology",
+      "industry": "Electronic Components",
+      "industryDisp": "Electronic Components",
+      "isYahooFinance": true,
+      "prevName": "Yeh-Chiang Technology Corp.",
+      "nameChangeDate": "2026-06-03"
+    }
+  ],
+  "CATHAY NO 1 REIT": [
+    {
+      "exchange": "TAI",
+      "shortname": "CATHAY NO.1 REIT NO.1 REAL ESTA",
+      "quoteType": "ETF",
+      "symbol": "01002T.TW",
+      "index": "quotes",
+      "score": 20001.0,
+      "typeDisp": "ETF",
+      "longname": "Cathay No.1 REIT",
+      "exchDisp": "Taiwan",
+      "isYahooFinance": true
+    }
+  ],
+  "YUNGSHIN CONSTR & DEVLPT": [],
+  "FORMOSAN UNION CHEMICAL": [
+    {
+      "exchange": "TAI",
+      "shortname": "FORMOSAN UNION CHEMICAL",
+      "quoteType": "EQUITY",
+      "symbol": "1709.TW",
+      "index": "quotes",
+      "score": 20001.0,
+      "typeDisp": "Equity",
+      "longname": "Formosan Union Chemical Corp.",
+      "exchDisp": "Taiwan",
+      "sector": "Basic Materials",
+      "sectorDisp": "Basic Materials",
+      "industry": "Chemicals",
+      "industryDisp": "Chemicals",
+      "isYahooFinance": true
+    }
+  ],
+  "INTEGRATED MEMORY LOGIC": [],
+  "PACIFIC HOSPITAL SUPPLY": [
+    {
+      "exchange": "TWO",
+      "shortname": "PACIFIC HOSPITAL SUPPLY CO",
+      "quoteType": "EQUITY",
+      "symbol": "4126.TWO",
+      "index": "quotes",
+      "score": 20001.0,
+      "typeDisp": "Equity",
+      "longname": "Pacific Hospital Supply Co., Ltd",
+      "exchDisp": "Taipei",
+      "sector": "Healthcare",
+      "sectorDisp": "Healthcare",
+      "industry": "Medical Instruments & Supplies",
+      "industryDisp": "Medical Instruments & Supplies",
+      "isYahooFinance": true
+    }
+  ],
+  "PC HOME ONLINE": [],
+  "PROSPERITY DIELECT CO LT": [
+    {
+      "exchange": "TWO",
+      "shortname": "PROSPERITY DIELECTRICS CO",
+      "quoteType": "EQUITY",
+      "symbol": "6173.TWO",
+      "index": "quotes",
+      "score": 20001.0,
+      "typeDisp": "Equity",
+      "longname": "Prosperity Dielectrics Co., Ltd.",
+      "exchDisp": "Taipei",
+      "sector": "Technology",
+      "sectorDisp": "Technology",
+      "industry": "Electronic Components",
+      "industryDisp": "Electronic Components",
+      "isYahooFinance": true
+    }
+  ],
+  "RUENTEX ENGIN & CONST": [
+    {
+      "exchange": "TAI",
+      "shortname": "RUENTEX ENGINEERING & CONST. CO",
+      "quoteType": "EQUITY",
+      "symbol": "2597.TW",
+      "index": "quotes",
+      "score": 20001.0,
+      "typeDisp": "Equity",
+      "longname": "Ruentex Engineering & Construction Co., Ltd.",
+      "exchDisp": "Taiwan",
+      "sector": "Industrials",
+      "sectorDisp": "Industrials",
+      "industry": "Engineering & Construction",
+      "industryDisp": "Engineering & Construction",
+      "isYahooFinance": true
+    }
+  ],
+  "STANDARD CHEMICAL&PHARM": [
+    {
+      "exchange": "TAI",
+      "shortname": "STANDARD CHEM & PHARM CO",
+      "quoteType": "EQUITY",
+      "symbol": "1720.TW",
+      "index": "quotes",
+      "score": 20001.0,
+      "typeDisp": "Equity",
+      "longname": "Standard Chemical & Pharmaceutical Co., Ltd.",
+      "exchDisp": "Taiwan",
+      "sector": "Healthcare",
+      "sectorDisp": "Healthcare",
+      "industry": "Drug Manufacturers—Specialty & Generic",
+      "industryDisp": "Drug Manufacturers—Specialty & Generic",
+      "isYahooFinance": true,
+      "prevName": "Standard Chem & Pharm CO., LTD.",
+      "nameChangeDate": "2026-06-03"
+    }
+  ],
+  "WAN HWA ENTERPRISE": [
+    {
+      "exchange": "TAI",
+      "shortname": "WAN HWA ENTERPRISE",
+      "quoteType": "EQUITY",
+      "symbol": "2701.TW",
+      "index": "quotes",
+      "score": 20001.0,
+      "typeDisp": "Equity",
+      "longname": "Wan Hwa Enterprise Company Ltd.",
+      "exchDisp": "Taiwan",
+      "sector": "Real Estate",
+      "sectorDisp": "Real Estate",
+      "industry": "Real Estate Services",
+      "industryDisp": "Real Estate Services",
+      "isYahooFinance": true,
+      "prevName": "Wanhwa Enterprise Company",
+      "nameChangeDate": "2026-06-03"
+    }
+  ],
+  "CHINA STEEL STRUCTURE CO": [
+    {
+      "exchange": "TAI",
+      "shortname": "CHINA STEEL STRUCTURE CO",
+      "quoteType": "EQUITY",
+      "symbol": "2013.TW",
+      "index": "quotes",
+      "score": 20001.0,
+      "typeDisp": "Equity",
+      "longname": "China Steel Structure Co., Ltd.",
+      "exchDisp": "Taiwan",
+      "sector": "Basic Materials",
+      "sectorDisp": "Basic Materials",
+      "industry": "Steel",
+      "industryDisp": "Steel",
+      "isYahooFinance": true
+    }
+  ],
+  "TAIWAN PROSPERITY CHEMIC": [],
+  "EFUN TECHNOLOGY": [
+    {
+      "exchange": "TWO",
+      "shortname": "EFUN TECHNOLOGIES CO LTD",
+      "quoteType": "EQUITY",
+      "symbol": "3523.TWO",
+      "index": "quotes",
+      "score": 20003.0,
+      "typeDisp": "Equity",
+      "longname": "EFUN Technology Co.,Ltd",
+      "exchDisp": "Taipei",
+      "sector": "Technology",
+      "sectorDisp": "Technology",
+      "industry": "Electronic Components",
+      "industryDisp": "Electronic Components",
+      "isYahooFinance": true,
+      "prevName": "EFUN Technology Co., Ltd.",
+      "nameChangeDate": "2026-06-03"
+    }
+  ],
+  "MAGLAYERS SCIENTIFIC TE": [],
+  "MICROELECTRONICS TECH": [
+    {
+      "exchange": "TAI",
+      "shortname": "MICROELECTRONICS TECHNOLOGY",
+      "quoteType": "EQUITY",
+      "symbol": "2314.TW",
+      "index": "quotes",
+      "score": 20005.0,
+      "typeDisp": "Equity",
+      "longname": "Microelectronics Technology Inc.",
+      "exchDisp": "Taiwan",
+      "sector": "Technology",
+      "sectorDisp": "Technology",
+      "industry": "Communication Equipment",
+      "industryDisp": "Communication Equipment",
+      "dispSecIndFlag": true,
+      "isYahooFinance": true
+    },
+    {
+      "exchange": "SHH",
+      "shortname": "ANJI MICROELECTRONICS TECHNOLOG",
+      "quoteType": "EQUITY",
+      "symbol": "688019.SS",
+      "index": "quotes",
+      "score": 20003.0,
+      "typeDisp": "Equity",
+      "longname": "Anji Microelectronics Technology (Shanghai) Co., Ltd.",
+      "exchDisp": "Shanghai",
+      "sector": "Technology",
+      "sectorDisp": "Technology",
+      "industry": "Semiconductor Equipment & Materials",
+      "industryDisp": "Semiconductor Equipment & Materials",
+      "isYahooFinance": true
+    },
+    {
+      "exchange": "SHH",
+      "shortname": "CHENGDU SINO MICROELECTRONICS T",
+      "quoteType": "EQUITY",
+      "symbol": "688709.SS",
+      "index": "quotes",
+      "score": 20003.0,
+      "typeDisp": "Equity",
+      "longname": "Chengdu Sino-Microelectronics Tech. Co., Ltd.",
+      "exchDisp": "Shanghai",
+      "sector": "Technology",
+      "sectorDisp": "Technology",
+      "industry": "Electronic Components",
+      "industryDisp": "Electronic Components",
+      "isYahooFinance": true
+    },
+    {
+      "exchange": "TAI",
+      "shortname": "ELITE SEMICONDUCTOR MICROELECTR",
+      "quoteType": "EQUITY",
+      "symbol": "3006.TW",
+      "index": "quotes",
+      "score": 20001.0,
+      "typeDisp": "Equity",
+      "longname": "Elite Semiconductor Microelectronics Technology Inc.",
+      "exchDisp": "Taiwan",
+      "sector": "Technology",
+      "sectorDisp": "Technology",
+      "industry": "Semiconductors",
+      "industryDisp": "Semiconductors",
+      "isYahooFinance": true,
+      "prevName": "Elite Semiconductor Microelectronics Tech Inc",
+      "nameChangeDate": "2026-06-03"
+    }
+  ],
+  "O-TA PRECISION INDUSTRY": [
+    {
+      "exchange": "TWO",
+      "shortname": "O-TA PECISION INDUSTRY CO",
+      "quoteType": "EQUITY",
+      "symbol": "8924.TWO",
+      "index": "quotes",
+      "score": 20005.0,
+      "typeDisp": "Equity",
+      "longname": "O-TA Precision Industry Co., Ltd.",
+      "exchDisp": "Taipei",
+      "sector": "Consumer Cyclical",
+      "sectorDisp": "Consumer Cyclical",
+      "industry": "Leisure",
+      "industryDisp": "Leisure",
+      "isYahooFinance": true
+    }
+  ],
+  "PARAGON TECHNOLOGIES CO": [
+    {
+      "exchange": "TAI",
+      "shortname": "PARAGON TECHNOLOGIES CO. LTD.",
+      "quoteType": "EQUITY",
+      "symbol": "3518.TW",
+      "index": "quotes",
+      "score": 20001.0,
+      "typeDisp": "Equity",
+      "longname": "Paragon Technologies Co., Ltd.",
+      "exchDisp": "Taiwan",
+      "sector": "Industrials",
+      "sectorDisp": "Industrials",
+      "industry": "Specialty Industrial Machinery",
+      "industryDisp": "Specialty Industrial Machinery",
+      "isYahooFinance": true
+    }
+  ],
+  "SOLELYTEX INDUSTRIAL": [],
+  "TAIWAN CHI CHENG ENT.": [
+    {
+      "exchange": "TWO",
+      "shortname": "TAIWAN CHI CHENG ENTERPRISE CO ",
+      "quoteType": "EQUITY",
+      "symbol": "3095.TWO",
+      "index": "quotes",
+      "score": 20003.0,
+      "typeDisp": "Equity",
+      "longname": "Chi Cheng Enterprise Co., Ltd.",
+      "exchDisp": "Taipei",
+      "sector": "Technology",
+      "sectorDisp": "Technology",
+      "industry": "Electronic Components",
+      "industryDisp": "Electronic Components",
+      "isYahooFinance": true
+    }
+  ],
+  "WELLYPOWER OPTRONICS": [],
+  "ILI TECHNOLOGY CORP": [],
+  "TRANSASIA AIRWAYS": [],
+  "J TOUCH CORP": [],
+  "KYE SYSTEMS CORP": [
+    {
+      "exchange": "TAI",
+      "shortname": "KYE SYSTEM CORP",
+      "quoteType": "EQUITY",
+      "symbol": "2365.TW",
+      "index": "quotes",
+      "score": 20001.0,
+      "typeDisp": "Equity",
+      "longname": "KYE Systems Corp.",
+      "exchDisp": "Taiwan",
+      "sector": "Technology",
+      "sectorDisp": "Technology",
+      "industry": "Computer Hardware",
+      "industryDisp": "Computer Hardware",
+      "isYahooFinance": true
+    }
+  ],
+  "SAN CHIH SEMICONDUCTOR": [],
+  "FIRST STEAMSHIP": [
+    {
+      "exchange": "TAI",
+      "shortname": "FIRST STEAMSHIP COMPANY LTD",
+      "quoteType": "EQUITY",
+      "symbol": "2601.TW",
+      "index": "quotes",
+      "score": 20003.0,
+      "typeDisp": "Equity",
+      "longname": "First Steamship Co., Ltd.",
+      "exchDisp": "Taiwan",
+      "sector": "Consumer Cyclical",
+      "sectorDisp": "Consumer Cyclical",
+      "industry": "Department Stores",
+      "industryDisp": "Department Stores",
+      "isYahooFinance": true
+    }
+  ],
+  "ORIENT EUROPHARMA CO": [
+    {
+      "exchange": "TWO",
+      "shortname": "ORIENT EUROPHARMA CO",
+      "quoteType": "EQUITY",
+      "symbol": "4120.TWO",
+      "index": "quotes",
+      "score": 20001.0,
+      "typeDisp": "Equity",
+      "longname": "Orient EuroPharma Co., Ltd.",
+      "exchDisp": "Taipei",
+      "sector": "Healthcare",
+      "sectorDisp": "Healthcare",
+      "industry": "Drug Manufacturers—Specialty & Generic",
+      "industryDisp": "Drug Manufacturers—Specialty & Generic",
+      "isYahooFinance": true
+    }
+  ],
+  "YEONG GUAN ENERGY GROUP": [],
+  "ADVANCED INT'L MULTITECH": [],
+  "TANG ENG IRON WORKS CO": [
+    {
+      "exchange": "TWO",
+      "shortname": "TANG ENG IRON WORKS CO LTD",
+      "quoteType": "EQUITY",
+      "symbol": "2035.TWO",
+      "index": "quotes",
+      "score": 20001.0,
+      "typeDisp": "Equity",
+      "longname": "Tang Eng Iron Works Co., Ltd.",
+      "exchDisp": "Taipei",
+      "sector": "Basic Materials",
+      "sectorDisp": "Basic Materials",
+      "industry": "Steel",
+      "industryDisp": "Steel",
+      "isYahooFinance": true
+    }
+  ],
+  "CHINA CHEM & PHARM CO": [],
+  "FSP TECHNOLOGY": [
+    {
+      "exchange": "TAI",
+      "shortname": "FSP TECHNOLOGY INC.",
+      "quoteType": "EQUITY",
+      "symbol": "3015.TW",
+      "index": "quotes",
+      "score": 20001.0,
+      "typeDisp": "Equity",
+      "longname": "FSP Technology Inc.",
+      "exchDisp": "Taiwan",
+      "sector": "Industrials",
+      "sectorDisp": "Industrials",
+      "industry": "Electrical Equipment & Parts",
+      "industryDisp": "Electrical Equipment & Parts",
+      "isYahooFinance": true
+    }
+  ],
+  "GREAT TAIPEI GAS": [
+    {
+      "exchange": "TAI",
+      "shortname": "THE GREAT TAIPEI GAS",
+      "quoteType": "EQUITY",
+      "symbol": "9908.TW",
+      "index": "quotes",
+      "score": 20001.0,
+      "typeDisp": "Equity",
+      "longname": "The Great Taipei Gas Corporation",
+      "exchDisp": "Taiwan",
+      "sector": "Utilities",
+      "sectorDisp": "Utilities",
+      "industry": "Utilities—Regulated Gas",
+      "industryDisp": "Utilities—Regulated Gas",
+      "isYahooFinance": true
+    }
+  ],
+  "KWONG FONG INDUSTRIES": [
+    {
+      "exchange": "TAI",
+      "shortname": "KWONG FONG INDUSTRIES",
+      "quoteType": "EQUITY",
+      "symbol": "1416.TW",
+      "index": "quotes",
+      "score": 20001.0,
+      "typeDisp": "Equity",
+      "longname": "Kwong Fong Industries Corporation",
+      "exchDisp": "Taiwan",
+      "sector": "Technology",
+      "sectorDisp": "Technology",
+      "industry": "Information Technology Services",
+      "industryDisp": "Information Technology Services",
+      "isYahooFinance": true
+    }
+  ],
+  "LINGSEN PRECISION IND": [
+    {
+      "exchange": "TAI",
+      "shortname": "LINGSEN PRECISION INDUSTRIES",
+      "quoteType": "EQUITY",
+      "symbol": "2369.TW",
+      "index": "quotes",
+      "score": 20003.0,
+      "typeDisp": "Equity",
+      "longname": "Lingsen Precision Industries, Ltd.",
+      "exchDisp": "Taiwan",
+      "sector": "Technology",
+      "sectorDisp": "Technology",
+      "industry": "Semiconductor Equipment & Materials",
+      "industryDisp": "Semiconductor Equipment & Materials",
+      "isYahooFinance": true
+    }
+  ],
+  "SILICON INTEGRATED SYS": [
+    {
+      "exchange": "TAI",
+      "shortname": "SILICON INTEGRATED SYSTEMS CORP",
+      "quoteType": "EQUITY",
+      "symbol": "2363.TW",
+      "index": "quotes",
+      "score": 20005.0,
+      "typeDisp": "Equity",
+      "longname": "Silicon Integrated Systems Corp.",
+      "exchDisp": "Taiwan",
+      "sector": "Technology",
+      "sectorDisp": "Technology",
+      "industry": "Semiconductors",
+      "industryDisp": "Semiconductors",
+      "isYahooFinance": true
+    }
+  ],
+  "TSANN KUEN ENTERPRISE CO": [
+    {
+      "exchange": "TAI",
+      "shortname": "TSANN KUEN ENTERPRISE CO",
+      "quoteType": "EQUITY",
+      "symbol": "2430.TW",
+      "index": "quotes",
+      "score": 20005.0,
+      "typeDisp": "Equity",
+      "longname": "Tsann Kuen Enterprise Co.,Ltd",
+      "exchDisp": "Taiwan",
+      "sector": "Consumer Cyclical",
+      "sectorDisp": "Consumer Cyclical",
+      "industry": "Specialty Retail",
+      "industryDisp": "Specialty Retail",
+      "isYahooFinance": true
+    }
+  ],
+  "USUN TECHNOLOGY": [
+    {
+      "exchange": "TWO",
+      "shortname": "USUN TECHNOLOGY CO LTD",
+      "quoteType": "EQUITY",
+      "symbol": "3498.TWO",
+      "index": "quotes",
+      "score": 20001.0,
+      "typeDisp": "Equity",
+      "longname": "Usun Technology Co., Ltd.",
+      "exchDisp": "Taipei",
+      "sector": "Industrials",
+      "sectorDisp": "Industrials",
+      "industry": "Specialty Industrial Machinery",
+      "industryDisp": "Specialty Industrial Machinery",
+      "isYahooFinance": true
+    }
+  ],
+  "ADV WIRELESS SC": [],
+  "LAND MARK OPTOELECTRS": [],
+  "LION TRAVEL SERVICE": [
+    {
+      "exchange": "TAI",
+      "shortname": "LION TRAVEL SERVICE CO LTD",
+      "quoteType": "EQUITY",
+      "symbol": "2731.TW",
+      "index": "quotes",
+      "score": 20003.0,
+      "typeDisp": "Equity",
+      "longname": "Lion Travel Service Co., Ltd.",
+      "exchDisp": "Taiwan",
+      "sector": "Consumer Cyclical",
+      "sectorDisp": "Consumer Cyclical",
+      "industry": "Travel Services",
+      "industryDisp": "Travel Services",
+      "isYahooFinance": true
+    }
+  ],
+  "PHARMALLY INTL HLDG": [],
+  "SUNNY FRIEND ENV TECH": [
+    {
+      "exchange": "TAI",
+      "shortname": "SUNNY FRIEND ENVIRONMENTAL TECH",
+      "quoteType": "EQUITY",
+      "symbol": "8341.TW",
+      "index": "quotes",
+      "score": 20001.0,
+      "typeDisp": "Equity",
+      "longname": "Sunny Friend Environmental Technology Co., Ltd.",
+      "exchDisp": "Taiwan",
+      "sector": "Industrials",
+      "sectorDisp": "Industrials",
+      "industry": "Waste Management",
+      "industryDisp": "Waste Management",
+      "isYahooFinance": true
+    }
+  ],
+  "ADV LITHIUM ELECTROCHEM": [
+    {
+      "exchange": "TWO",
+      "shortname": "ADVANCED LITHIUM ELECTROCHEMIST",
+      "quoteType": "EQUITY",
+      "symbol": "5227.TWO",
+      "index": "quotes",
+      "score": 20001.0,
+      "typeDisp": "Equity",
+      "longname": "Advanced Lithium Electrochemistry (Cayman) Co., Ltd.",
+      "exchDisp": "Taipei",
+      "sector": "Industrials",
+      "sectorDisp": "Industrials",
+      "industry": "Electrical Equipment & Parts",
+      "industryDisp": "Electrical Equipment & Parts",
+      "isYahooFinance": true
+    }
+  ],
+  "EASTERN MEDIA INTL": [],
+  "KINGS TOWN CONSTRUCTION": [
+    {
+      "exchange": "TAI",
+      "shortname": "KINGS TOWN CONSTRUCTION CO",
+      "quoteType": "EQUITY",
+      "symbol": "2524.TW",
+      "index": "quotes",
+      "score": 20001.0,
+      "typeDisp": "Equity",
+      "longname": "King's Town Construction Co., Ltd.",
+      "exchDisp": "Taiwan",
+      "sector": "Real Estate",
+      "sectorDisp": "Real Estate",
+      "industry": "Real Estate—Development",
+      "industryDisp": "Real Estate—Development",
+      "isYahooFinance": true
+    }
+  ],
+  "CHAROEN POKPHAND ENT": [
+    {
+      "exchange": "TAI",
+      "shortname": "CHAROEN POKPHAND ENTERPRISES CO",
+      "quoteType": "EQUITY",
+      "symbol": "1215.TW",
+      "index": "quotes",
+      "score": 20010.0,
+      "typeDisp": "Equity",
+      "longname": "Charoen Pokphand Enterprise (Taiwan) Co., Ltd.",
+      "exchDisp": "Taiwan",
+      "sector": "Consumer Defensive",
+      "sectorDisp": "Consumer Defensive",
+      "industry": "Packaged Foods",
+      "industryDisp": "Packaged Foods",
+      "isYahooFinance": true,
+      "prevName": "Charoen Pokphand Enterprise(Taiwan) Co., Ltd.",
+      "nameChangeDate": "2026-06-03"
+    }
+  ],
+  "CHUNGHWA PRECISION TEST": [
+    {
+      "exchange": "TWO",
+      "shortname": "CHUNGHWA PRECISION TEST TECH CO",
+      "quoteType": "EQUITY",
+      "symbol": "6510.TWO",
+      "index": "quotes",
+      "score": 20003.0,
+      "typeDisp": "Equity",
+      "longname": "Chunghwa Precision Test Tech. Co., Ltd.",
+      "exchDisp": "Taipei",
+      "sector": "Technology",
+      "sectorDisp": "Technology",
+      "industry": "Semiconductor Equipment & Materials",
+      "industryDisp": "Semiconductor Equipment & Materials",
+      "isYahooFinance": true
+    }
+  ],
+  "KEE TAI PROPERTIES CO": [
+    {
+      "exchange": "TAI",
+      "shortname": "KEE TAI PROPERTIES",
+      "quoteType": "EQUITY",
+      "symbol": "2538.TW",
+      "index": "quotes",
+      "score": 20001.0,
+      "typeDisp": "Equity",
+      "longname": "Kee Tai Properties Co., Ltd.",
+      "exchDisp": "Taiwan",
+      "sector": "Real Estate",
+      "sectorDisp": "Real Estate",
+      "industry": "Real Estate—Development",
+      "industryDisp": "Real Estate—Development",
+      "isYahooFinance": true,
+      "prevName": "Kee Tai Properties Co. Ltd.",
+      "nameChangeDate": "2026-06-03"
+    }
+  ],
+  "RICH DEVELOPMENT CO": [
+    {
+      "exchange": "TWO",
+      "shortname": "RICH DEVELOPMENT CO",
+      "quoteType": "EQUITY",
+      "symbol": "5512.TWO",
+      "index": "quotes",
+      "score": 20001.0,
+      "typeDisp": "Equity",
+      "longname": "Rich Development Co., Ltd.",
+      "exchDisp": "Taipei",
+      "sector": "Real Estate",
+      "sectorDisp": "Real Estate",
+      "industry": "Real Estate—Diversified",
+      "industryDisp": "Real Estate—Diversified",
+      "isYahooFinance": true,
+      "prevName": "Rich Development Inc.",
+      "nameChangeDate": "2026-06-03"
+    }
+  ],
+  "FOXSEMICON INTGR TECH": [],
+  "KS TERMINALS": [
+    {
+      "exchange": "TAI",
+      "shortname": "KS TERMINALS INC",
+      "quoteType": "EQUITY",
+      "symbol": "3003.TW",
+      "index": "quotes",
+      "score": 20001.0,
+      "typeDisp": "Equity",
+      "longname": "K.S. Terminals Inc.",
+      "exchDisp": "Taiwan",
+      "sector": "Industrials",
+      "sectorDisp": "Industrials",
+      "industry": "Electrical Equipment & Parts",
+      "industryDisp": "Electrical Equipment & Parts",
+      "isYahooFinance": true
+    }
+  ],
+  "NUVOTON TECHNOLOGY": [
+    {
+      "exchange": "TAI",
+      "shortname": "NUVOTON TECHNOLOGY CORPORATION",
+      "quoteType": "EQUITY",
+      "symbol": "4919.TW",
+      "index": "quotes",
+      "score": 20003.0,
+      "typeDisp": "Equity",
+      "longname": "Nuvoton Technology Corporation",
+      "exchDisp": "Taiwan",
+      "sector": "Technology",
+      "sectorDisp": "Technology",
+      "industry": "Semiconductors",
+      "industryDisp": "Semiconductors",
+      "isYahooFinance": true
+    }
+  ],
+  "QUANG VIET ENTERPRISE": [
+    {
+      "exchange": "TAI",
+      "shortname": "QUANG VIET ENTERPRISE CO LTD",
+      "quoteType": "EQUITY",
+      "symbol": "4438.TW",
+      "index": "quotes",
+      "score": 20003.0,
+      "typeDisp": "Equity",
+      "longname": "Quang Viet Enterprise Co., Ltd.",
+      "exchDisp": "Taiwan",
+      "sector": "Consumer Cyclical",
+      "sectorDisp": "Consumer Cyclical",
+      "industry": "Apparel Manufacturing",
+      "industryDisp": "Apparel Manufacturing",
+      "isYahooFinance": true
+    }
+  ],
+  "FORMOSAN RUBBER GROUP": [
+    {
+      "exchange": "TAI",
+      "shortname": "FORMOSAN RUBBER GROUP",
+      "quoteType": "EQUITY",
+      "symbol": "2107.TW",
+      "index": "quotes",
+      "score": 20001.0,
+      "typeDisp": "Equity",
+      "longname": "Formosan Rubber Group Inc.",
+      "exchDisp": "Taiwan",
+      "sector": "Basic Materials",
+      "sectorDisp": "Basic Materials",
+      "industry": "Specialty Chemicals",
+      "industryDisp": "Specialty Chemicals",
+      "isYahooFinance": true
+    }
+  ],
+  "HUNG POO REAL ESTATE DEV": [],
+  "KUOYANG CONSTRUCTION": [
+    {
+      "exchange": "TAI",
+      "shortname": "KUOYANG CONSTRUCTION",
+      "quoteType": "EQUITY",
+      "symbol": "2505.TW",
+      "index": "quotes",
+      "score": 20001.0,
+      "typeDisp": "Equity",
+      "longname": "Kuo Yang Construction Co., Ltd.",
+      "exchDisp": "Taiwan",
+      "sector": "Real Estate",
+      "sectorDisp": "Real Estate",
+      "industry": "Real Estate—Development",
+      "industryDisp": "Real Estate—Development",
+      "isYahooFinance": true,
+      "prevName": "Kuo Yang Construction Co.,Ltd",
+      "nameChangeDate": "2026-06-03"
+    }
+  ],
+  "SUNSPRING METAL": [
+    {
+      "exchange": "TAI",
+      "shortname": "SUNSPRING METAL CORPORATION",
+      "quoteType": "EQUITY",
+      "symbol": "2062.TW",
+      "index": "quotes",
+      "score": 20001.0,
+      "typeDisp": "Equity",
+      "longname": "Sunspring Metal Corporation",
+      "exchDisp": "Taiwan",
+      "sector": "Industrials",
+      "sectorDisp": "Industrials",
+      "industry": "Building Products & Equipment",
+      "industryDisp": "Building Products & Equipment",
+      "isYahooFinance": true
+    }
+  ],
+  "TAIWAN FIRE & MARINE INS": [
+    {
+      "exchange": "TAI",
+      "shortname": "TAIWAN FIRE & MARINE INSURANCE ",
+      "quoteType": "EQUITY",
+      "symbol": "2832.TW",
+      "index": "quotes",
+      "score": 20003.0,
+      "typeDisp": "Equity",
+      "longname": "Taiwan Fire & Marine Insurance Co., Ltd.",
+      "exchDisp": "Taiwan",
+      "sector": "Financial Services",
+      "sectorDisp": "Financial Services",
+      "industry": "Insurance—Property & Casualty",
+      "industryDisp": "Insurance—Property & Casualty",
+      "isYahooFinance": true
+    }
+  ],
+  "CENTURY IRON & STEEL": [
+    {
+      "exchange": "TAI",
+      "shortname": "CENTURY IRON & STEEL INDUSTRIAL",
+      "quoteType": "EQUITY",
+      "symbol": "9958.TW",
+      "index": "quotes",
+      "score": 20001.0,
+      "typeDisp": "Equity",
+      "longname": "Century Iron and Steel Industrial Co.,Ltd.",
+      "exchDisp": "Taiwan",
+      "sector": "Industrials",
+      "sectorDisp": "Industrials",
+      "industry": "Metal Fabrication",
+      "industryDisp": "Metal Fabrication",
+      "isYahooFinance": true
+    }
+  ],
+  "ALPHA NETWORKS": [
+    {
+      "exchange": "TAI",
+      "shortname": "ALPHA NETWORKS INC",
+      "quoteType": "EQUITY",
+      "symbol": "3380.TW",
+      "index": "quotes",
+      "score": 20003.0,
+      "typeDisp": "Equity",
+      "longname": "Alpha Networks Inc.",
+      "exchDisp": "Taiwan",
+      "sector": "Technology",
+      "sectorDisp": "Technology",
+      "industry": "Communication Equipment",
+      "industryDisp": "Communication Equipment",
+      "isYahooFinance": true
+    }
+  ],
+  "GLORIA MATERIAL TECH": [
+    {
+      "exchange": "TWO",
+      "shortname": "GLORIA MATERIAL TECHNOLOGY CORP",
+      "quoteType": "EQUITY",
+      "symbol": "5009.TWO",
+      "index": "quotes",
+      "score": 20001.0,
+      "typeDisp": "Equity",
+      "longname": "Gloria Material Technology Corp.",
+      "exchDisp": "Taipei",
+      "sector": "Basic Materials",
+      "sectorDisp": "Basic Materials",
+      "industry": "Steel",
+      "industryDisp": "Steel",
+      "isYahooFinance": true
+    }
+  ],
+  "YUNG CHI PAINT & VARNISH": [
+    {
+      "exchange": "TAI",
+      "shortname": "YUNG CHI PAINT & VARNISH MFG CO",
+      "quoteType": "EQUITY",
+      "symbol": "1726.TW",
+      "index": "quotes",
+      "score": 20001.0,
+      "typeDisp": "Equity",
+      "longname": "Yung Chi Paint & Varnish Mfg.Co.,Ltd",
+      "exchDisp": "Taiwan",
+      "sector": "Basic Materials",
+      "sectorDisp": "Basic Materials",
+      "industry": "Specialty Chemicals",
+      "industryDisp": "Specialty Chemicals",
+      "isYahooFinance": true
+    }
+  ],
+  "UNIVERSAL CEMENT": [
+    {
+      "exchange": "TAI",
+      "shortname": "UNIVERSAL CEMENT CORPORATION",
+      "quoteType": "EQUITY",
+      "symbol": "1104.TW",
+      "index": "quotes",
+      "score": 20002.0,
+      "typeDisp": "Equity",
+      "longname": "Universal Cement Corporation",
+      "exchDisp": "Taiwan",
+      "sector": "Basic Materials",
+      "sectorDisp": "Basic Materials",
+      "industry": "Building Materials",
+      "industryDisp": "Building Materials",
+      "isYahooFinance": true
+    }
+  ],
+  "UNIVERSAL VISION BIOTECH": [
+    {
+      "exchange": "TWO",
+      "shortname": "UNIVERSAL VISION BIOTECHNOLOGY ",
+      "quoteType": "EQUITY",
+      "symbol": "3218.TWO",
+      "index": "quotes",
+      "score": 20001.0,
+      "typeDisp": "Equity",
+      "longname": "Universal Vision Biotechnology Co., Ltd.",
+      "exchDisp": "Taipei",
+      "sector": "Healthcare",
+      "sectorDisp": "Healthcare",
+      "industry": "Medical Care Facilities",
+      "industryDisp": "Medical Care Facilities",
+      "isYahooFinance": true
+    }
+  ],
+  "ADVANCED ENERGY SOLUTION": [
+    {
+      "exchange": "TAI",
+      "shortname": "ADVANCED ENERGY SOLUTION HOLDIN",
+      "quoteType": "EQUITY",
+      "symbol": "6781.TW",
+      "index": "quotes",
+      "score": 20001.0,
+      "typeDisp": "Equity",
+      "longname": "Advanced Energy Solution Holding Co., Ltd.",
+      "exchDisp": "Taiwan",
+      "sector": "Industrials",
+      "sectorDisp": "Industrials",
+      "industry": "Electrical Equipment & Parts",
+      "industryDisp": "Electrical Equipment & Parts",
+      "isYahooFinance": true
+    }
+  ],
+  "ATEN INTERNATIONAL": [
+    {
+      "exchange": "TAI",
+      "shortname": "ATEN INTERNATIONAL CO",
+      "quoteType": "EQUITY",
+      "symbol": "6277.TW",
+      "index": "quotes",
+      "score": 20003.0,
+      "typeDisp": "Equity",
+      "longname": "Aten International Co., Ltd",
+      "exchDisp": "Taiwan",
+      "sector": "Technology",
+      "sectorDisp": "Technology",
+      "industry": "Computer Hardware",
+      "industryDisp": "Computer Hardware",
+      "isYahooFinance": true
+    }
+  ],
+  "CHC RESOURCES CORP": [
+    {
+      "exchange": "TAI",
+      "shortname": "CHC RESOURCES CORPORATION",
+      "quoteType": "EQUITY",
+      "symbol": "9930.TW",
+      "index": "quotes",
+      "score": 20001.0,
+      "typeDisp": "Equity",
+      "longname": "CHC Resources Corporation",
+      "exchDisp": "Taiwan",
+      "sector": "Basic Materials",
+      "sectorDisp": "Basic Materials",
+      "industry": "Building Materials",
+      "industryDisp": "Building Materials",
+      "isYahooFinance": true
+    }
+  ],
+  "HUNG SHENG CONSTRUCTION": [
+    {
+      "exchange": "TAI",
+      "shortname": "HUNG SHENG CONSTRUCTION",
+      "quoteType": "EQUITY",
+      "symbol": "2534.TW",
+      "index": "quotes",
+      "score": 20001.0,
+      "typeDisp": "Equity",
+      "longname": "Hung Sheng Construction Co., Ltd.",
+      "exchDisp": "Taiwan",
+      "sector": "Real Estate",
+      "sectorDisp": "Real Estate",
+      "industry": "Real Estate—Development",
+      "industryDisp": "Real Estate—Development",
+      "isYahooFinance": true,
+      "prevName": "Hung Sheng Construction Ltd.",
+      "nameChangeDate": "2026-06-03"
+    }
+  ],
+  "IEI INTEGRATION CORP": [
+    {
+      "exchange": "TAI",
+      "shortname": "IEI INTEGRATION CORP",
+      "quoteType": "EQUITY",
+      "symbol": "3022.TW",
+      "index": "quotes",
+      "score": 20003.0,
+      "typeDisp": "Equity",
+      "longname": "IEI Integration Corp.",
+      "exchDisp": "Taiwan",
+      "sector": "Technology",
+      "sectorDisp": "Technology",
+      "industry": "Computer Hardware",
+      "industryDisp": "Computer Hardware",
+      "isYahooFinance": true
+    }
+  ],
+  "SAKURA DEVELOPMENT": [
+    {
+      "exchange": "TAI",
+      "shortname": "SAKURA DEVELOPMENT CO",
+      "quoteType": "EQUITY",
+      "symbol": "2539.TW",
+      "index": "quotes",
+      "score": 20001.0,
+      "typeDisp": "Equity",
+      "longname": "Sakura Development Co.,Ltd",
+      "exchDisp": "Taiwan",
+      "sector": "Real Estate",
+      "sectorDisp": "Real Estate",
+      "industry": "Real Estate—Development",
+      "industryDisp": "Real Estate—Development",
+      "isYahooFinance": true
+    }
+  ],
+  "JSL CONSTRUCTION & DEV": [
+    {
+      "exchange": "TAI",
+      "shortname": "JSL CONSTRUCTION DEVELOPMENT",
+      "quoteType": "EQUITY",
+      "symbol": "2540.TW",
+      "index": "quotes",
+      "score": 20001.0,
+      "typeDisp": "Equity",
+      "longname": "JSL Construction & Development Co., Ltd.",
+      "exchDisp": "Taiwan",
+      "sector": "Real Estate",
+      "sectorDisp": "Real Estate",
+      "industry": "Real Estate Services",
+      "industryDisp": "Real Estate Services",
+      "isYahooFinance": true
+    }
+  ],
+  "NORTH STAR INTERNATIONAL": [
+    {
+      "exchange": "TWO",
+      "shortname": "NORTH-STAR INTERNATIONAL CO LTD",
+      "quoteType": "EQUITY",
+      "symbol": "8927.TWO",
+      "index": "quotes",
+      "score": 20003.0,
+      "typeDisp": "Equity",
+      "longname": "North-Star International Co., LTD.",
+      "exchDisp": "Taipei",
+      "sector": "Consumer Cyclical",
+      "sectorDisp": "Consumer Cyclical",
+      "industry": "Specialty Retail",
+      "industryDisp": "Specialty Retail",
+      "isYahooFinance": true
+    }
+  ],
+  "APEX DYNAMICS": [
+    {
+      "exchange": "TAI",
+      "shortname": "APEX DYNAMICS INC",
+      "quoteType": "EQUITY",
+      "symbol": "4583.TW",
+      "index": "quotes",
+      "score": 20001.0,
+      "typeDisp": "Equity",
+      "longname": "Apex Dynamics, Inc.",
+      "exchDisp": "Taiwan",
+      "sector": "Industrials",
+      "sectorDisp": "Industrials",
+      "industry": "Specialty Industrial Machinery",
+      "industryDisp": "Specialty Industrial Machinery",
+      "isYahooFinance": true
+    }
+  ],
+  "YC INOX CO": [
+    {
+      "exchange": "TAI",
+      "shortname": "YC INOX CO LTD",
+      "quoteType": "EQUITY",
+      "symbol": "2034.TW",
+      "index": "quotes",
+      "score": 20001.0,
+      "typeDisp": "Equity",
+      "longname": "YC Inox Co.,Ltd",
+      "exchDisp": "Taiwan",
+      "sector": "Basic Materials",
+      "sectorDisp": "Basic Materials",
+      "industry": "Steel",
+      "industryDisp": "Steel",
+      "isYahooFinance": true
+    }
+  ],
+  "INTELLIGO TECHNOLOGY": [
+    {
+      "exchange": "TAI",
+      "shortname": "INTELLIGO TECHNOLOGY INC",
+      "quoteType": "EQUITY",
+      "symbol": "7749.TW",
+      "index": "quotes",
+      "score": 20003.0,
+      "typeDisp": "Equity",
+      "exchDisp": "Taiwan",
+      "sector": "Technology",
+      "sectorDisp": "Technology",
+      "industry": "Software—Infrastructure",
+      "industryDisp": "Software—Infrastructure",
+      "isYahooFinance": true
+    }
+  ],
+  "PRINCE HOUSING DEV": [
+    {
+      "exchange": "TAI",
+      "shortname": "PRINCE HOUSING DEVELOPMENT CORP",
+      "quoteType": "EQUITY",
+      "symbol": "2511.TW",
+      "index": "quotes",
+      "score": 20001.0,
+      "typeDisp": "Equity",
+      "longname": "Prince Housing & Development Corp.",
+      "exchDisp": "Taiwan",
+      "sector": "Real Estate",
+      "sectorDisp": "Real Estate",
+      "industry": "Real Estate—Development",
+      "industryDisp": "Real Estate—Development",
+      "isYahooFinance": true
+    }
+  ],
+  "PHOENIXTEC POWER CO Taiwan stock": [],
+  "PHOENIXTEC POWER": [],
+  "NAN KANG RUBBER TIRE CO Taiwan stock": [],
+  "NAN KANG RUBBER TIRE": [
+    {
+      "exchange": "TAI",
+      "shortname": "NAN KANG RUBBER TIRE",
+      "quoteType": "EQUITY",
+      "symbol": "2101.TW",
+      "index": "quotes",
+      "score": 20001.0,
+      "typeDisp": "Equity",
+      "longname": "Nankang Rubber Tire Corp.,Ltd.",
+      "exchDisp": "Taiwan",
+      "sector": "Consumer Cyclical",
+      "sectorDisp": "Consumer Cyclical",
+      "industry": "Auto Parts",
+      "industryDisp": "Auto Parts",
+      "isYahooFinance": true
+    }
+  ],
+  "FAR EAST DEPARTMENT STORES": [
+    {
+      "exchange": "TAI",
+      "shortname": "FAR EASTERN DEPARTMENT STORES L",
+      "quoteType": "EQUITY",
+      "symbol": "2903.TW",
+      "index": "quotes",
+      "score": 20009.0,
+      "typeDisp": "Equity",
+      "longname": "Far Eastern Department Stores, Ltd.",
+      "exchDisp": "Taiwan",
+      "sector": "Consumer Cyclical",
+      "sectorDisp": "Consumer Cyclical",
+      "industry": "Department Stores",
+      "industryDisp": "Department Stores",
+      "isYahooFinance": true
+    }
+  ],
+  "FAR EAST DEPARTMENT STORES Taiwan stock": [],
+  "FORMOSA INTERNATIONAL HOTELS": [
+    {
+      "exchange": "TAI",
+      "shortname": "FORMOSA INTERNATIONAL HOTELS CO",
+      "quoteType": "EQUITY",
+      "symbol": "2707.TW",
+      "index": "quotes",
+      "score": 20001.0,
+      "typeDisp": "Equity",
+      "longname": "Formosa International Hotels Corporation",
+      "exchDisp": "Taiwan",
+      "sector": "Consumer Cyclical",
+      "sectorDisp": "Consumer Cyclical",
+      "industry": "Lodging",
+      "industryDisp": "Lodging",
+      "isYahooFinance": true
+    }
+  ],
+  "FORMOSA INTERNATIONAL HOTELS Taiwan stock": [],
+  "SINOAMERICAN SILICON PRODUCTS": [],
+  "SINOAMERICAN SILICON PRODUCTS Taiwan stock": [],
+  "CHINESE GAMER INT'L Taiwan stock": [],
+  "TAIWAN GLASS INDUSTRIAL CORP": [
+    {
+      "exchange": "TAI",
+      "shortname": "TAIWAN GLASS INDUSTRIAL CORPORA",
+      "quoteType": "EQUITY",
+      "symbol": "1802.TW",
+      "index": "quotes",
+      "score": 20001.0,
+      "typeDisp": "Equity",
+      "longname": "Taiwan Glass Ind. Corp.",
+      "exchDisp": "Taiwan",
+      "sector": "Basic Materials",
+      "sectorDisp": "Basic Materials",
+      "industry": "Building Materials",
+      "industryDisp": "Building Materials",
+      "isYahooFinance": true
+    }
+  ],
+  "TAIWAN GLASS INDUSTRIAL CORP Taiwan stock": [],
+  "TAIWAN GLASS INDUSTRIAL": [
+    {
+      "exchange": "TAI",
+      "shortname": "TAIWAN GLASS INDUSTRIAL CORPORA",
+      "quoteType": "EQUITY",
+      "symbol": "1802.TW",
+      "index": "quotes",
+      "score": 20001.0,
+      "typeDisp": "Equity",
+      "longname": "Taiwan Glass Ind. Corp.",
+      "exchDisp": "Taiwan",
+      "sector": "Basic Materials",
+      "sectorDisp": "Basic Materials",
+      "industry": "Building Materials",
+      "industryDisp": "Building Materials",
+      "isYahooFinance": true
+    }
+  ],
+  "INTERNATIONAL GAMES SYSTEM C": [
+    {
+      "exchange": "TWO",
+      "shortname": "INTERNATIONAL GAMES SYSTEM CO",
+      "quoteType": "EQUITY",
+      "symbol": "3293.TWO",
+      "index": "quotes",
+      "score": 20003.0,
+      "typeDisp": "Equity",
+      "longname": "International Games System Co.,Ltd.",
+      "exchDisp": "Taipei",
+      "sector": "Communication Services",
+      "sectorDisp": "Communication Services",
+      "industry": "Electronic Gaming & Multimedia",
+      "industryDisp": "Electronic Gaming & Multimedia",
+      "isYahooFinance": true,
+      "prevName": "International Games System Co., LTD",
+      "nameChangeDate": "2026-06-03"
+    }
+  ],
+  "INTERNATIONAL GAMES SYSTEM C Taiwan stock": [],
+  "AMBASSADOR HOTEL (THE) Taiwan stock": [],
+  "DEPO AUTO PARTS INDUSTRIAL CO": [
+    {
+      "exchange": "TAI",
+      "shortname": "DEPO AUTO PARTS IND",
+      "quoteType": "EQUITY",
+      "symbol": "6605.TW",
+      "index": "quotes",
+      "score": 20003.0,
+      "typeDisp": "Equity",
+      "longname": "Depo Auto Parts Industrial Co., Ltd.",
+      "exchDisp": "Taiwan",
+      "sector": "Consumer Cyclical",
+      "sectorDisp": "Consumer Cyclical",
+      "industry": "Auto Parts",
+      "industryDisp": "Auto Parts",
+      "isYahooFinance": true
+    }
+  ],
+  "DEPO AUTO PARTS INDUSTRIAL CO Taiwan stock": [],
+  "DEPO AUTO PARTS INDUSTRIAL": [
+    {
+      "exchange": "TAI",
+      "shortname": "DEPO AUTO PARTS IND",
+      "quoteType": "EQUITY",
+      "symbol": "6605.TW",
+      "index": "quotes",
+      "score": 20003.0,
+      "typeDisp": "Equity",
+      "longname": "Depo Auto Parts Industrial Co., Ltd.",
+      "exchDisp": "Taiwan",
+      "sector": "Consumer Cyclical",
+      "sectorDisp": "Consumer Cyclical",
+      "industry": "Auto Parts",
+      "industryDisp": "Auto Parts",
+      "isYahooFinance": true
+    }
+  ],
+  "SUNONWEALTH ELECTRIC MACHINE": [
+    {
+      "exchange": "TAI",
+      "shortname": "SUNONWEALTH ELECTRIC MACHINE IN",
+      "quoteType": "EQUITY",
+      "symbol": "2421.TW",
+      "index": "quotes",
+      "score": 20002.0,
+      "typeDisp": "Equity",
+      "longname": "Sunonwealth Electric Machine Industry Co., Ltd.",
+      "exchDisp": "Taiwan",
+      "sector": "Industrials",
+      "sectorDisp": "Industrials",
+      "industry": "Specialty Industrial Machinery",
+      "industryDisp": "Specialty Industrial Machinery",
+      "isYahooFinance": true
+    }
+  ],
+  "SUNONWEALTH ELECTRIC MACHINE Taiwan stock": [],
+  "ABLEPRINT TECHNOLOGY Taiwan stock": [],
+  "HOLYSTONE ENTERPRISE CO Taiwan stock": [],
+  "HOLYSTONE ENTERPRISE": [],
+  "INTERNATIONAL CSRC INVESTMENT HOLDINGS CO": [
+    {
+      "exchange": "TAI",
+      "shortname": "INTERNATIONAL CSRC INVESTMENT H",
+      "quoteType": "EQUITY",
+      "symbol": "2104.TW",
+      "index": "quotes",
+      "score": 20001.0,
+      "typeDisp": "Equity",
+      "longname": "International CSRC Investment Holdings Co., Ltd.",
+      "exchDisp": "Taiwan",
+      "sector": "Basic Materials",
+      "sectorDisp": "Basic Materials",
+      "industry": "Specialty Chemicals",
+      "industryDisp": "Specialty Chemicals",
+      "isYahooFinance": true
+    }
+  ],
+  "INTERNATIONAL CSRC INVESTMENT HOLDINGS CO Taiwan stock": [],
+  "INTERNATIONAL CSRC INVESTMENT HOLDINGS": [
+    {
+      "exchange": "TAI",
+      "shortname": "INTERNATIONAL CSRC INVESTMENT H",
+      "quoteType": "EQUITY",
+      "symbol": "2104.TW",
+      "index": "quotes",
+      "score": 20001.0,
+      "typeDisp": "Equity",
+      "longname": "International CSRC Investment Holdings Co., Ltd.",
+      "exchDisp": "Taiwan",
+      "sector": "Basic Materials",
+      "sectorDisp": "Basic Materials",
+      "industry": "Specialty Chemicals",
+      "industryDisp": "Specialty Chemicals",
+      "isYahooFinance": true
+    }
+  ],
+  "TAIWAN-ASIA SC CORP Taiwan stock": [],
+  "TAIWAN-ASIA SC": [],
+  "YUNG SHIN GLOBAL HOLDING Taiwan stock": [],
+  "YUNGSHIN CONSTRUCTION & DEVELOPMENT": [
+    {
+      "exchange": "TWO",
+      "shortname": "YUNSHIN CONSTRUCTION & DEVELOPM",
+      "quoteType": "EQUITY",
+      "symbol": "5508.TWO",
+      "index": "quotes",
+      "score": 20001.0,
+      "typeDisp": "Equity",
+      "longname": "Yungshin Construction & Development Co.,Ltd.",
+      "exchDisp": "Taipei",
+      "sector": "Real Estate",
+      "sectorDisp": "Real Estate",
+      "industry": "Real Estate—Development",
+      "industryDisp": "Real Estate—Development",
+      "isYahooFinance": true
+    }
+  ],
+  "YUNGSHIN CONSTRUCTION & DEVELOPMENT Taiwan stock": [],
+  "A.G.V. PRODUCTS Taiwan stock": [],
+  "COSMOS BANK TAIWAN Taiwan stock": [],
+  "E-ONE MOLI ENERGY CORP Taiwan stock": [],
+  "E-ONE MOLI ENERGY": [],
+  "ORISE TECHNOLOGY CO Taiwan stock": [],
+  "ORISE TECHNOLOGY": [],
+  "POWER QUOTIENT INT'L Taiwan stock": [],
+  "TAIWAN LAND CORP Taiwan stock": [],
+  "TAIWAN LAND": [],
+  "FUBON NO 1 REIT Taiwan stock": [],
+  "SHIN KONG NO 1 REIT Taiwan stock": [],
+  "ADV WIRELESS SEMICONDUC Taiwan stock": [],
+  "DAHAN DEVELOPMENT CORP Taiwan stock": [],
+  "DAHAN DEVELOPMENT": [],
+  "DAXON TECHNOLOGY Taiwan stock": [],
+  "CATHAY NO 2 REIT Taiwan stock": [],
+  "CHENMING MOLD INDUSTRY Taiwan stock": [],
+  "CHIMEI MATERIALS TECHNOLOGY": [],
+  "CHIMEI MATERIALS TECHNOLOGY Taiwan stock": [],
+  "MITAC INTERNATIONAL Taiwan stock": [],
+  "SKYMEDI Taiwan stock": [],
+  "KAI CHIEH INTERNATIONAL INV": [],
+  "KAI CHIEH INTERNATIONAL INV Taiwan stock": [],
+  "YUFO ELECTRONIC CORP Taiwan stock": [],
+  "YUFO ELECTRONIC": [
+    {
+      "exchange": "TWO",
+      "shortname": "YUFO ELECTRONICS CO",
+      "quoteType": "EQUITY",
+      "symbol": "6194.TWO",
+      "index": "quotes",
+      "score": 20003.0,
+      "typeDisp": "Equity",
+      "longname": "Yufo Electronics Co., Ltd.",
+      "exchDisp": "Taipei",
+      "sector": "Technology",
+      "sectorDisp": "Technology",
+      "industry": "Electronic Components",
+      "industryDisp": "Electronic Components",
+      "isYahooFinance": true
+    }
+  ],
+  "KOBIN ENVIRONMNTL ENTER Taiwan stock": [],
+  "CANDO CORP Taiwan stock": [],
+  "CANDO": [
+    {
+      "exchange": "BSE",
+      "shortname": "CANDOUR TECHTEX LIMITED",
+      "quoteType": "EQUITY",
+      "symbol": "CANDOUR.BO",
+      "index": "quotes",
+      "score": 20001.0,
+      "typeDisp": "Equity",
+      "longname": "Candour Techtex Ltd",
+      "exchDisp": "Bombay",
+      "sector": "Industrials",
+      "sectorDisp": "Industrials",
+      "industry": "Specialty Industrial Machinery",
+      "industryDisp": "Specialty Industrial Machinery",
+      "dispSecIndFlag": false,
+      "isYahooFinance": true,
+      "prevName": "Chandni Textiles Engineering Industries Ltd",
+      "nameChangeDate": "2026-06-03"
+    },
+    {
+      "exchange": "PNK",
+      "shortname": "Candoris ICAV - Orchard US Smal",
+      "quoteType": "MUTUALFUND",
+      "symbol": "0P0001K1BA",
+      "index": "quotes",
+      "score": 20001.0,
+      "typeDisp": "Fund",
+      "longname": "Candoris ICAV - Orchard US Small Cap Value Fund",
+      "exchDisp": "OTC Markets",
+      "isYahooFinance": true
+    },
+    {
+      "exchange": "PNK",
+      "shortname": "Candoris ICAV - SIM US High Yie",
+      "quoteType": "MUTUALFUND",
+      "symbol": "0P0001EKMS",
+      "index": "quotes",
+      "score": 20001.0,
+      "typeDisp": "Fund",
+      "longname": "SIM US High Yield Opps USD Instl Acc",
+      "exchDisp": "OTC Markets",
+      "isYahooFinance": true
+    },
+    {
+      "exchange": "PNK",
+      "shortname": "Candoris ICAV - NCG US Small Ca",
+      "quoteType": "MUTUALFUND",
+      "symbol": "0P0001PWX9",
+      "index": "quotes",
+      "score": 20000.0,
+      "typeDisp": "Fund",
+      "longname": "Candoris ICAV - NCG US Small Cap Growth Fund",
+      "exchDisp": "OTC Markets",
+      "isYahooFinance": true
+    }
+  ],
+  "JENN FENG NEW ENERGY CO Taiwan stock": [],
+  "JENN FENG NEW ENERGY": [],
+  "GALLOP NO 1 REIT Taiwan stock": [],
+  "KMC (KUEI MENG) INT'L Taiwan stock": [],
+  "AVY PRECISION TECHNOLOGY": [],
+  "AVY PRECISION TECHNOLOGY Taiwan stock": [],
+  "PAN JIT INTERNATIONAL Taiwan stock": [],
+  "TAIWAN PULP & PAPER CO Taiwan stock": [],
+  "TAIWAN PULP & PAPER": [],
+  "ADVANCED LITH ELCTROCHM Taiwan stock": [],
+  "CHAMPION BUILDING MATRLS Taiwan stock": [],
+  "SHIHLIN ELECTRIC & ENGR Taiwan stock": [],
+  "GENIUS ELECTRIC OPTICAL": [],
+  "GENIUS ELECTRIC OPTICAL Taiwan stock": [],
+  "GREEN ENERGY TECHNOLOGY Taiwan stock": [],
+  "E-TON SOLAR TECHNOLOGY": [],
+  "E-TON SOLAR TECHNOLOGY Taiwan stock": [],
+  "TAIWAN PCB TECHVEST CO Taiwan stock": [],
+  "TAIWAN PCB TECHVEST": [
+    {
+      "exchange": "TAI",
+      "shortname": "TAIWAN PCB TECHVEST CO",
+      "quoteType": "EQUITY",
+      "symbol": "8213.TW",
+      "index": "quotes",
+      "score": 20003.0,
+      "typeDisp": "Equity",
+      "longname": "Taiwan Printed Circuit Board Techvest Co.,Ltd.",
+      "exchDisp": "Taiwan",
+      "sector": "Technology",
+      "sectorDisp": "Technology",
+      "industry": "Electronic Components",
+      "industryDisp": "Electronic Components",
+      "isYahooFinance": true,
+      "prevName": "Taiwan Pcb Techvest Co., Ltd.",
+      "nameChangeDate": "2026-06-03"
+    }
+  ],
+  "CHUNG HSIN ELECTRIC & MACHINERY": [
+    {
+      "exchange": "TAI",
+      "shortname": "CHUNG HSIN ELECTRIC & MACHINERY",
+      "quoteType": "EQUITY",
+      "symbol": "1513.TW",
+      "index": "quotes",
+      "score": 20001.0,
+      "typeDisp": "Equity",
+      "longname": "Chung-Hsin Electric and Machinery Manufacturing Corp.",
+      "exchDisp": "Taiwan",
+      "sector": "Industrials",
+      "sectorDisp": "Industrials",
+      "industry": "Specialty Industrial Machinery",
+      "industryDisp": "Specialty Industrial Machinery",
+      "isYahooFinance": true
+    }
+  ],
+  "CHUNG HSIN ELECTRIC & MACHINERY Taiwan stock": [],
+  "LITE-ON SEMICONDUCTOR Taiwan stock": [],
+  "MARKETECH INTERNATIONAL CORP": [
+    {
+      "exchange": "TAI",
+      "shortname": "MARKETECH INTERNATIONAL CORP",
+      "quoteType": "EQUITY",
+      "symbol": "6196.TW",
+      "index": "quotes",
+      "score": 20003.0,
+      "typeDisp": "Equity",
+      "longname": "Marketech International Corp.",
+      "exchDisp": "Taiwan",
+      "sector": "Technology",
+      "sectorDisp": "Technology",
+      "industry": "Electronic Components",
+      "industryDisp": "Electronic Components",
+      "isYahooFinance": true
+    }
+  ],
+  "MARKETECH INTERNATIONAL CORP Taiwan stock": [],
+  "MARKETECH INTERNATIONAL": [
+    {
+      "exchange": "TAI",
+      "shortname": "MARKETECH INTERNATIONAL CORP",
+      "quoteType": "EQUITY",
+      "symbol": "6196.TW",
+      "index": "quotes",
+      "score": 20003.0,
+      "typeDisp": "Equity",
+      "longname": "Marketech International Corp.",
+      "exchDisp": "Taiwan",
+      "sector": "Technology",
+      "sectorDisp": "Technology",
+      "industry": "Electronic Components",
+      "industryDisp": "Electronic Components",
+      "isYahooFinance": true
+    }
+  ],
+  "ITE TECHNOLOGY Taiwan stock": [],
+  "UNIZYX HOLDING Taiwan stock": [],
+  "OPTOTECH CORP Taiwan stock": [],
+  "OPTOTECH": [
+    {
+      "exchange": "SHZ",
+      "shortname": "CHANGCHUN UP OPTOTECH CO LTD",
+      "quoteType": "EQUITY",
+      "symbol": "002338.SZ",
+      "index": "quotes",
+      "score": 20002.0,
+      "typeDisp": "Equity",
+      "longname": "Changchun UP Optotech Co.,Ltd.",
+      "exchDisp": "Shenzhen",
+      "sector": "Technology",
+      "sectorDisp": "Technology",
+      "industry": "Scientific & Technical Instruments",
+      "industryDisp": "Scientific & Technical Instruments",
+      "isYahooFinance": true
+    }
+  ],
+  "RUENTEX ENGR & CONSTRUCTION": [],
+  "RUENTEX ENGR & CONSTRUCTION Taiwan stock": [],
+  "JIH SUN FINANCIAL Taiwan stock": [],
+  "ECHEM SOLUTIONS Taiwan stock": [],
+  "GALLANT PREC MACHINING Taiwan stock": [],
+  "KMC (KUEI MENG) INTERNATIONAL": [
+    {
+      "exchange": "TAI",
+      "shortname": "KMC (KUEI MENG) INTERNATIONAL I",
+      "quoteType": "EQUITY",
+      "symbol": "5306.TW",
+      "index": "quotes",
+      "score": 20003.0,
+      "typeDisp": "Equity",
+      "longname": "KMC (Kuei Meng) International Inc.",
+      "exchDisp": "Taiwan",
+      "sector": "Consumer Cyclical",
+      "sectorDisp": "Consumer Cyclical",
+      "industry": "Auto Parts",
+      "industryDisp": "Auto Parts",
+      "isYahooFinance": true
+    }
+  ],
+  "KMC (KUEI MENG) INTERNATIONAL Taiwan stock": [],
+  "CHINA HI MENT Taiwan stock": [],
+  "SOLARTECH ENERGY CORP Taiwan stock": [],
+  "SOLARTECH ENERGY": [],
+  "WONTEN TECHNOLOGY CO Taiwan stock": [],
+  "WONTEN TECHNOLOGY": [],
+  "RALINK TECHNOLOGY CORP Taiwan stock": [],
+  "RALINK TECHNOLOGY": [],
+  "HOLDKEY ELECTRIC WIRE Taiwan stock": [],
+  "CATHAY NO 1 REIT Taiwan stock": [],
+  "YUNGSHIN CONSTR & DEVLPT Taiwan stock": [],
+  "INTEGRATED MEMORY LOGIC Taiwan stock": [],
+  "PC HOME ONLINE Taiwan stock": [],
+  "PROSPERITY DIELECT CO LT Taiwan stock": [],
+  "PROSPERITY DIELECT  LT": [],
+  "RUENTEX ENGIN & CONSTRUCTION": [
+    {
+      "exchange": "TAI",
+      "shortname": "RUENTEX ENGINEERING & CONST. CO",
+      "quoteType": "EQUITY",
+      "symbol": "2597.TW",
+      "index": "quotes",
+      "score": 20001.0,
+      "typeDisp": "Equity",
+      "longname": "Ruentex Engineering & Construction Co., Ltd.",
+      "exchDisp": "Taiwan",
+      "sector": "Industrials",
+      "sectorDisp": "Industrials",
+      "industry": "Engineering & Construction",
+      "industryDisp": "Engineering & Construction",
+      "isYahooFinance": true
+    }
+  ],
+  "RUENTEX ENGIN & CONSTRUCTION Taiwan stock": [],
+  "TAIWAN PROSPERITY CHEMIC Taiwan stock": [],
+  "MAGLAYERS SCIENTIFIC TE Taiwan stock": [],
+  "SOLELYTEX INDUSTRIAL Taiwan stock": [],
+  "WELLYPOWER OPTRONICS Taiwan stock": [],
+  "ILI TECHNOLOGY CORP Taiwan stock": [],
+  "ILI TECHNOLOGY": [],
+  "TRANSASIA AIRWAYS Taiwan stock": [],
+  "J TOUCH CORP Taiwan stock": [],
+  "J TOUCH": [],
+  "SAN CHIH SEMICONDUCTOR Taiwan stock": [],
+  "YEONG GUAN ENERGY GROUP Taiwan stock": [],
+  "ADVANCED INT'L MULTITECH Taiwan stock": [],
+  "CHINA CHEMICAL & PHARM CO": [],
+  "CHINA CHEMICAL & PHARM CO Taiwan stock": [],
+  "CHINA CHEMICAL & PHARM": [],
+  "ADV WIRELESS SC Taiwan stock": [],
+  "LAND MARK OPTOELECTRS Taiwan stock": [],
+  "PHARMALLY INTERNATIONAL HLDG": [],
+  "PHARMALLY INTERNATIONAL HLDG Taiwan stock": [],
+  "SUNNY FRIEND ENV TECHNOLOGY": [
+    {
+      "exchange": "TAI",
+      "shortname": "SUNNY FRIEND ENVIRONMENTAL TECH",
+      "quoteType": "EQUITY",
+      "symbol": "8341.TW",
+      "index": "quotes",
+      "score": 20001.0,
+      "typeDisp": "Equity",
+      "longname": "Sunny Friend Environmental Technology Co., Ltd.",
+      "exchDisp": "Taiwan",
+      "sector": "Industrials",
+      "sectorDisp": "Industrials",
+      "industry": "Waste Management",
+      "industryDisp": "Waste Management",
+      "isYahooFinance": true
+    }
+  ],
+  "SUNNY FRIEND ENV TECHNOLOGY Taiwan stock": [],
+  "ADV LITHIUM ELECTROCHEM Taiwan stock": [],
+  "EASTERN MEDIA INTERNATIONAL": [
+    {
+      "exchange": "TAI",
+      "shortname": "EASTERN MEDIA INTERNATIONAL COR",
+      "quoteType": "EQUITY",
+      "symbol": "2614.TW",
+      "index": "quotes",
+      "score": 20001.0,
+      "typeDisp": "Equity",
+      "longname": "Eastern Media International Corporation",
+      "exchDisp": "Taiwan",
+      "sector": "Industrials",
+      "sectorDisp": "Industrials",
+      "industry": "Conglomerates",
+      "industryDisp": "Conglomerates",
+      "isYahooFinance": true
+    }
+  ],
+  "EASTERN MEDIA INTERNATIONAL Taiwan stock": [],
+  "FOXSEMICON INTGR TECHNOLOGY": [],
+  "FOXSEMICON INTGR TECHNOLOGY Taiwan stock": [],
+  "HUNG POO REAL ESTATE DEVELOPMENT": [],
+  "HUNG POO REAL ESTATE DEVELOPMENT Taiwan stock": [],
+  "PRINCE HOUSING DEVELOPMENT": [
+    {
+      "exchange": "TAI",
+      "shortname": "PRINCE HOUSING DEVELOPMENT CORP",
+      "quoteType": "EQUITY",
+      "symbol": "2511.TW",
+      "index": "quotes",
+      "score": 20001.0,
+      "typeDisp": "Equity",
+      "longname": "Prince Housing & Development Corp.",
+      "exchDisp": "Taiwan",
+      "sector": "Real Estate",
+      "sectorDisp": "Real Estate",
+      "industry": "Real Estate—Development",
+      "industryDisp": "Real Estate—Development",
+      "isYahooFinance": true
+    }
+  ],
+  "PRINCE HOUSING DEVELOPMENT Taiwan stock": []
+}

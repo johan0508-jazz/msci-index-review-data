@@ -1,0 +1,11 @@
+{
+  "task": "MSCI Taiwan Yahoo/Google broader completion Round 8d",
+  "updated_at_taipei": "2026-06-04T10:23:09+08:00",
+  "manual_before": 9,
+  "accepted_unique_mappings": 8,
+  "manual_remaining": 1,
+  "outputs": {
+    "accepted": "/Users/johan/Documents/invest/msci_index_reviews/research_state/msci_taiwan_mapping_round8d_accepted.csv",
+    "manual_remaining": "/Users/johan/Documents/invest/msci_index_reviews/research_state/msci_taiwan_mapping_round8d_manual_unique.csv"
+  }
+}

@@ -1,0 +1,43 @@
+country,company_name,stock_code,matched_name,mapping_status,mapping_score,mapping_source,verification_basis,event_rows
+TAIWAN,FAR EAST DEPT STORES,2903,"Far Eastern Department Stores, Ltd. / 遠東百貨",verified_tw_yahoo_google_round8,0.99,Round8 Yahoo Finance/Google query: Far Eastern Department Stores Taiwan stock -> 2903.TW,yahoo_google_manual_seed,2
+TAIWAN,FORMOSA INTL HOTELS,2707,Formosa International Hotels Corporation / 晶華,verified_tw_yahoo_google_round8,0.99,Round8 Yahoo Finance query: Formosa International Hotels -> 2707.TW,yahoo_google_manual_seed,2
+TAIWAN,SINOAMERICAN SILICON PRO,5483,Sino-American Silicon Products Inc. / 中美晶,verified_tw_yahoo_google_round8,0.99,Round8 Yahoo Finance query: Sino American Silicon Products -> 5483.TWO,yahoo_google_manual_seed,5
+TAIWAN,CHINESE GAMER INT'L,3083,Chinese Gamer International Corporation / 網龍,verified_tw_yahoo_google_round8,0.99,Round8 Yahoo Finance query: Chinese Gamer International -> 3083.TWO,yahoo_google_manual_seed,3
+TAIWAN,INTL GAMES SYSTEM C,3293,"International Games System Co., Ltd. / 鈊象",verified_tw_yahoo_google_round8,0.99,Round8 Yahoo Finance query: International Games System -> 3293.TWO,yahoo_google_manual_seed,6
+TAIWAN,AMBASSADOR HOTEL (THE),2704,"The Ambassador Hotel, Ltd. / 國賓",verified_tw_yahoo_google_round8,0.99,Round8 Yahoo Finance query: Ambassador Hotel Taiwan -> 2704.TW,yahoo_google_manual_seed,2
+TAIWAN,DEPO AUTO PARTS INDL CO,6605,"Depo Auto Parts Industrial Co., Ltd. / 帝寶",verified_tw_yahoo_google_round8,0.99,Round8 Yahoo Finance query: Depo Auto Parts Industrial -> 6605.TW,yahoo_google_manual_seed,2
+TAIWAN,SUNONWEALTH ELEC MACHINE,2421,"Sunonwealth Electric Machine Industry Co., Ltd. / 建準",verified_tw_yahoo_google_round8,0.99,Round8 Yahoo Finance query: Sunonwealth Electric Machine -> 2421.TW,yahoo_google_manual_seed,3
+TAIWAN,A.G.V. PRODUCTS,1217,A.G.V. Products Corporation / 愛之味,verified_tw_yahoo_google_round8,0.99,Round8 Yahoo Finance/Google query: A.G.V. Products Taiwan stock -> 1217.TW,yahoo_google_manual_seed,2
+TAIWAN,ORISE TECHNOLOGY CO,3545,"Orise Technology Co., Ltd. / 奕力",verified_tw_historical_round8,0.99,Round8 Yahoo/Google historical quote: Orise Technology 3545.TW; delisted/merged,yahoo_google_manual_seed,2
+TAIWAN,FUBON NO 1 REIT,01001T,Fubon No.1 REIT / 富邦一號,verified_tw_reit_round8,0.99,Round8 Yahoo/Google/TWSE REIT query: Fubon No.1 REIT -> 01001T,yahoo_google_manual_seed,1
+TAIWAN,SHIN KONG NO 1 REIT,01003T,Shin Kong No.1 REIT / 新光一號,verified_tw_reit_round8,0.99,Round8 Yahoo/Google/TWSE REIT query: Shin Kong No.1 REIT -> 01003T,yahoo_google_manual_seed,1
+TAIWAN,ADV WIRELESS SEMICONDUC,8086,Advanced Wireless Semiconductor Company / 宏捷科,verified_tw_yahoo_google_round8,0.99,Round8 Yahoo/Google query: Advanced Wireless Semiconductor Taiwan stock -> 8086.TWO,yahoo_google_manual_seed,2
+TAIWAN,CATHAY NO 2 REIT,01007T,Cathay No.2 REIT / 國泰二號,verified_tw_reit_round8,0.99,Round8 Yahoo/Google/TWSE REIT query: Cathay No.2 REIT -> 01007T,yahoo_google_manual_seed,1
+TAIWAN,MITAC INTERNATIONAL,2315,MiTAC International Corp. / 神達,verified_tw_historical_round8,0.99,Round8 Yahoo/Google historical quote: MiTAC International 2315.TW; later MiTAC Holdings context,yahoo_google_manual_seed,1
+TAIWAN,SKYMEDI,3377,Skymedi Corporation / 創惟,verified_tw_yahoo_google_round8,0.99,Round8 Yahoo/Google query: Skymedi Taiwan stock -> 3377.TWO,yahoo_google_manual_seed,2
+TAIWAN,CANDO CORP,8056,Cando Corporation / 達虹,verified_tw_historical_round8,0.99,Round8 Yahoo/Google historical quote: Cando 8056.TW; delisted,yahoo_google_manual_seed,2
+TAIWAN,GALLOP NO 1 REIT,01008T,Gallop No.1 REIT / 駿馬一號,verified_tw_reit_round8,0.99,Round8 Yahoo/Google/TWSE REIT query: Gallop No.1 REIT -> 01008T,yahoo_google_manual_seed,1
+TAIWAN,KMC (KUEI MENG) INT'L,5306,KMC (Kuei Meng) International Inc. / 桂盟,verified_tw_historical_round8,0.99,Round8 Same issuer as KMC (Kuei Meng) International -> 5306,yahoo_google_manual_seed,1
+TAIWAN,PAN JIT INTERNATIONAL,2481,Pan Jit International Inc. / 強茂,verified_tw_yahoo_google_round8,0.99,Round8 Yahoo Finance query: Pan Jit International -> 2481.TW,yahoo_google_manual_seed,2
+TAIWAN,ADVANCED LITH ELCTROCHM,5227,"Advanced Lithium Electrochemistry Co., Ltd. / 立凱-KY",verified_tw_yahoo_google_round8,0.99,Round8 Yahoo/Google query: Advanced Lithium Electrochemistry Taiwan stock -> 5227.TWO,yahoo_google_manual_seed,1
+TAIWAN,SHIHLIN ELECTRIC & ENGR,1503,Shihlin Electric & Engineering Corporation / 士電,verified_tw_yahoo_google_round8,0.99,Round8 Yahoo Finance query: Shihlin Electric Engineering -> 1503.TW,yahoo_google_manual_seed,2
+TAIWAN,GENIUS ELECTR OPTICAL,3406,"Genius Electronic Optical Co.,Ltd.",verified_tw_yahoo_round8,0.9130,"Round8 Yahoo Finance search query `GENIUS ELECTR OPTICAL` matched `Genius Electronic Optical Co.,Ltd.`/3406.TW. Local refs if present: GSEO | 玉晶光 | 玉晶光電股份有限公司",yahoo_finance_search,2
+TAIWAN,GREEN ENERGY TECHNOLOGY,3519,Green Energy Technology Inc. / 綠能,verified_tw_historical_round8,0.99,Round8 Yahoo/Google historical quote: Green Energy Technology 3519.TW; delisted,yahoo_google_manual_seed,1
+TAIWAN,E-TON SOLAR TECH,3452,"E-Ton Solar Tech. Co., Ltd. / 益通",verified_tw_historical_round8,0.99,Round8 Yahoo/Google historical quote: E-Ton Solar Tech 3452.TW; delisted,yahoo_google_manual_seed,1
+TAIWAN,CHUNG HSIN ELEC & MACH,1513,Chung-Hsin Electric & Machinery Mfg. Corp. / 中興電,verified_tw_yahoo_google_round8,0.99,Round8 Yahoo Finance query: Chung Hsin Electric Machinery -> 1513.TW,yahoo_google_manual_seed,2
+TAIWAN,LITE-ON SEMICONDUCTOR,5305,Lite-On Semiconductor Corp. / 敦南,verified_tw_historical_round8,0.99,Round8 Yahoo/Google historical quote: Lite-On Semiconductor 5305.TW; delisted,yahoo_google_manual_seed,2
+TAIWAN,MARKETECH INTL CORP,6196,Marketech International Corp. / 帆宣,verified_tw_yahoo_google_round8,0.99,Round8 Yahoo Finance query: Marketech International -> 6196.TW,yahoo_google_manual_seed,1
+TAIWAN,ITE TECHNOLOGY,3014,ITE Tech. Inc. / 聯陽,verified_tw_yahoo_google_round8,0.99,Round8 Yahoo Finance query: ITE Technology Taiwan stock -> 3014.TW,yahoo_google_manual_seed,2
+TAIWAN,OPTOTECH CORP,2340,Opto Tech Corporation / 台亞,verified_tw_yahoo_google_round8,0.99,Round8 Yahoo Finance query: Opto Tech Corporation Taiwan stock -> 2340.TW,yahoo_google_manual_seed,1
+TAIWAN,JIH SUN FINANCIAL,5820,"Jih Sun Financial Holding Co., Ltd. / 日盛金",verified_tw_historical_round8,0.99,"Round8 TPEx official delisted table + Yahoo/Google: Jih Sun Financial 5820, delisted after Fubon merger",yahoo_google_manual_seed,1
+TAIWAN,KMC (KUEI MENG) INTL,5306,KMC (Kuei Meng) International Inc. / 桂盟,verified_tw_historical_round8,0.99,Round8 TPEx official delisted table/Yahoo: KMC 5306,yahoo_google_manual_seed,1
+TAIWAN,RALINK TECHNOLOGY CORP,3534,Ralink Technology Corporation / 雷凌,verified_tw_historical_round8,0.99,Round8 Yahoo/Google historical quote: Ralink Technology 3534.TW; acquired by MediaTek,yahoo_google_manual_seed,1
+TAIWAN,CATHAY NO 1 REIT,01002T,Cathay No.1 REIT / 國泰一號,verified_tw_reit_round8,0.99,Round8 Yahoo/Google/TWSE REIT query: Cathay No.1 REIT -> 01002T,yahoo_google_manual_seed,1
+TAIWAN,PC HOME ONLINE,8044,PChome Online Inc. / 網家,verified_tw_yahoo_google_round8,0.99,Round8 Yahoo Finance query: PChome Online -> 8044.TWO,yahoo_google_manual_seed,2
+TAIWAN,MAGLAYERS SCIENTIFIC TE,3068,"MAG.LAYERS Scientific-Technics Co., Ltd. / 美磊",verified_tw_historical_round8,0.99,Round8 TPEx official delisted table + Yahoo/Google: Mag.Layers 3068,yahoo_google_manual_seed,1
+TAIWAN,TRANSASIA AIRWAYS,6702,TransAsia Airways Corporation / 復興航空,verified_tw_historical_round8,0.99,Round8 Yahoo/Google historical quote: TransAsia Airways 6702.TW; delisted after shutdown,yahoo_google_manual_seed,2
+TAIWAN,J TOUCH CORP,3584,JTouch Corporation / 介面,verified_tw_historical_round8,0.99,Round8 TWSE official delisted table + Yahoo/Google: JTouch 3584,yahoo_google_manual_seed,1
+TAIWAN,CHINA CHEM & PHARM CO,1701,"China Chemical & Pharmaceutical Co., Ltd. / 中化",verified_tw_yahoo_google_round8,0.99,Round8 Yahoo/Google query: China Chemical Pharmaceutical Taiwan stock -> 1701.TW,yahoo_google_manual_seed,1
+TAIWAN,ADV WIRELESS SC,8086,Advanced Wireless Semiconductor Company / 宏捷科,verified_tw_yahoo_google_round8,0.99,Round8 Same issuer abbreviation as ADV WIRELESS SEMICONDUC -> 8086.TWO,yahoo_google_manual_seed,3
+TAIWAN,ADV LITHIUM ELECTROCHEM,5227,"Advanced Lithium Electrochemistry Co., Ltd. / 立凱-KY",verified_tw_yahoo_google_round8,0.99,Round8 Same issuer abbreviation as Advanced Lithium Electrochemistry -> 5227.TWO,yahoo_google_manual_seed,1
+TAIWAN,PRINCE HOUSING DEV,2511,Prince Housing & Development Corp. / 太子,verified_tw_yahoo_google_round8,0.99,Round8 Yahoo Finance query: Prince Housing Development -> 2511.TW,yahoo_google_manual_seed,1

@@ -1,0 +1,282 @@
+country,company_name,candidate_stock_code,candidate_matched_name,candidate_score,candidate_source
+TAIWAN,OBI PHARMA,7876,OBIGEN PHARMA,0.8696,FinLab company_basic_info:英文簡稱
+TAIWAN,CHINA AIRLINES,1809,China Glaze,0.67,FinLab company_basic_info:英文簡稱
+TAIWAN,TAIWAN BUSINESS BANK,9924,TAIWAN FU HSING,0.6586,FinLab company_basic_info:英文簡稱
+TAIWAN,WIN SEMICONDUCTORS,3105,WIN,0.6967,FinLab company_basic_info:英文簡稱
+TAIWAN,POU CHEN CORP,2071,Chen Nan Steel,0.4,FinLab company_basic_info:英文簡稱
+TAIWAN,WAN HAI LINES,2641,Franbo Lines,0.64,FinLab company_basic_info:英文簡稱
+TAIWAN,NAN YA PRINTED CIRCUIT,6504,NAN LIU,0.4438,FinLab company_basic_info:英文簡稱
+TAIWAN,STANDARD FOODS CORP,1231,Lian Hwa Foods,0.6429,FinLab company_basic_info:英文簡稱
+TAIWAN,NANYA TECHNOLOGY,6863,Arizon RFID Technology,0.6316,TWSE OpenAPI t187ap03_L:公司名稱
+TAIWAN,CHENG SHIN RUBBER IND,6186,Shin Ruenn,0.5806,FinLab company_basic_info:英文簡稱
+TAIWAN,FENG TAY ENTERPRISE CO,2061,FENG CHING,0.4438,FinLab company_basic_info:英文簡稱
+TAIWAN,CHENG UEI PRECISION IND,1904,Cheng Loong,0.5006,FinLab company_basic_info:英文簡稱
+TAIWAN,PHOENIX PRECISION TECH,8358,CO-TECH,0.8782,FinLab company_basic_info:英文簡稱
+TAIWAN,SHIHLIN ELECTR. & ENG,1903,Shihlin Paper,0.6014,FinLab company_basic_info:英文簡稱
+TAIWAN,TAIWAN STYRENE MONOMER,9917,TAIWAN SECOM,0.6771,FinLab company_basic_info:英文簡稱
+TAIWAN,KINSUS INTERCONNECT TECH,3189,KINSUS,0.915,FinLab company_basic_info:英文簡稱
+TAIWAN,GIANT MANUFACTURING CO.,7783,Giant,0.9163,FinLab company_basic_info:英文簡稱
+TAIWAN,PHOENIXTEC POWER CO,6412,Chicony Power,0.6207,FinLab company_basic_info:英文簡稱
+TAIWAN,NANYA TECHNOLOGY CORP,6863,Arizon RFID Technology,0.6316,TWSE OpenAPI t187ap03_L:公司名稱
+TAIWAN,PRO MOS TECHNOLOGIES,7822,V5 TECHNOLOGIES,0.7429,FinLab company_basic_info:英文簡稱
+TAIWAN,VANGUARD INT'L SEMICON,7590,Yiho Int'l,0.5714,FinLab company_basic_info:英文簡稱
+TAIWAN,FENG HSIN IRON & STEEL,2071,Chen Nan Steel,0.6316,FinLab company_basic_info:英文簡稱
+TAIWAN,MICRO-STAR INTERNATIONAL,2719,Star Travel,0.4571,FinLab company_basic_info:英文簡稱
+TAIWAN,ORIENTAL UNION CHEMICAL,1773,SHINY CHEMICAL,0.5946,FinLab company_basic_info:英文簡稱
+TAIWAN,TAIWAN NAVIGATION CO,9938,TAIWAN PAIHO,0.7197,FinLab company_basic_info:英文簡稱
+TAIWAN,WATERLAND FINANCIAL,2881,Fubon Financial,0.6471,FinLab company_basic_info:英文簡稱
+TAIWAN,YUEN FOONG YU PAPER MFG,4907,Fu Yu Property,0.4865,FinLab company_basic_info:英文簡稱
+TAIWAN,FORMOSA INT'L HOTELS,8171,Formosa,0.925,FinLab company_basic_info:英文簡稱
+TAIWAN,GLOBAL UNICHIP CORP,4551,GLOBAL PMX,0.6967,FinLab company_basic_info:英文簡稱
+TAIWAN,SIMPLO TECHNOLOGY CO,6863,Arizon RFID Technology,0.6667,TWSE OpenAPI t187ap03_L:公司名稱
+TAIWAN,VIA TECHNOLOGIES,7822,V5 TECHNOLOGIES,0.9032,FinLab company_basic_info:英文簡稱
+TAIWAN,YOUNG FAST OPTOELECTRONI,3504,Young Optics,0.5856,FinLab company_basic_info:英文簡稱
+TAIWAN,CHINA LIFE INSURANCE CO,2850,SK Insurance,0.625,FinLab company_basic_info:英文簡稱
+TAIWAN,FORMOSA SUMCO TECHNOLOGY,8171,Formosa,0.9192,FinLab company_basic_info:英文簡稱
+TAIWAN,ZHEN DING TECHNOLOGY,6863,Arizon RFID Technology,0.7143,TWSE OpenAPI t187ap03_L:公司名稱
+TAIWAN,RICHTEK TECHNOLOGY CORP,6863,Arizon RFID Technology,0.65,TWSE OpenAPI t187ap03_L:公司名稱
+TAIWAN,CHINA PETROCHEMICAL DEV,1809,China Glaze,0.4418,FinLab company_basic_info:英文簡稱
+TAIWAN,LEE CHANG YUNG CHEM IND,1513,CHEM,0.8774,FinLab company_basic_info:英文簡稱
+TAIWAN,NAN KANG RUBBER TIRE CO,6504,NAN LIU,0.4004,FinLab company_basic_info:英文簡稱
+TAIWAN,FAR EAST DEPT STORES,4904,Far EasTone,0.6106,FinLab company_basic_info:英文簡稱
+TAIWAN,FORMOSA INTL HOTELS,8171,Formosa,0.9268,FinLab company_basic_info:英文簡稱
+TAIWAN,SCINOPHARM TAIWAN,3066,TAIWAN OASIS,0.5,FinLab company_basic_info:英文簡稱
+TAIWAN,TAIWAN HIGH SPEED RAIL,9938,TAIWAN PAIHO,0.6182,FinLab company_basic_info:英文簡稱
+TAIWAN,ASIA PACIFIC TELECOM CO,3019,ASIA,0.91,FinLab company_basic_info:英文簡稱
+TAIWAN,YANG MING MARINE TRANSP,4420,Kwang Ming,0.4848,FinLab company_basic_info:英文簡稱
+TAIWAN,FOXCONN TECHNOLOGY CO,6863,Arizon RFID Technology,0.65,TWSE OpenAPI t187ap03_L:公司名稱
+TAIWAN,ASIA VITAL COMPONENTS,3019,ASIA,0.909,FinLab company_basic_info:英文簡稱
+TAIWAN,ASIA CEMENT CORP,3019,ASIA,0.9264,FinLab company_basic_info:英文簡稱
+TAIWAN,FAR EASTERN NEW CENTURY,4904,Far EasTone,0.63,FinLab company_basic_info:英文簡稱
+TAIWAN,TECO ELECTRIC & MACH,1504,TECO,0.9082,FinLab company_basic_info:英文簡稱
+TAIWAN,ASIA OPTICAL,3019,ASIA,0.9233,FinLab company_basic_info:英文簡稱
+TAIWAN,CATHAY REAL ESTATE DEV,2501,CATHAY RED,0.655,FinLab company_basic_info:英文簡稱
+TAIWAN,CHINA MOTOR CORP,2207,HOTAI MOTOR,0.7273,FinLab company_basic_info:英文簡稱
+TAIWAN,PAN-INTERNATIONAL IND,2915,RUENTEX IND.LTD,0.4375,FinLab company_basic_info:英文簡稱
+TAIWAN,SINOAMERICAN SILICON PRO,4973,Silicon Power,0.5405,FinLab company_basic_info:英文簡稱
+TAIWAN,CHINESE GAMER INT'L,7590,Yiho Int'l,0.5714,FinLab company_basic_info:英文簡稱
+TAIWAN,CMC MAGNETICS CORP,2323,CMC,0.6967,FinLab company_basic_info:英文簡稱
+TAIWAN,POWERCHIP TECHNOLOGY,6863,Arizon RFID Technology,0.6667,TWSE OpenAPI t187ap03_L:公司名稱
+TAIWAN,EVERLIGHT ELECTRONICS CO,2393,EVERLIGHT,0.9329,FinLab company_basic_info:英文簡稱
+TAIWAN,TAIWAN GLASS INDL CORP,3066,TAIWAN OASIS,0.7197,FinLab company_basic_info:英文簡稱
+TAIWAN,TAIWAN FERTILIZER CO,9924,TAIWAN FU HSING,0.5925,FinLab company_basic_info:英文簡稱
+TAIWAN,YULON MOTOR CO,2207,HOTAI MOTOR,0.6364,FinLab company_basic_info:英文簡稱
+TAIWAN,FORMOSA TAFFETA CO,8171,Formosa,0.9367,FinLab company_basic_info:英文簡稱
+TAIWAN,INTL GAMES SYSTEM C,1906,Baolong Intl.,0.4,FinLab company_basic_info:英文簡稱
+TAIWAN,GOLD CIRCUIT ELECTRONICS,4503,GOLD RAIN,0.4542,FinLab company_basic_info:英文簡稱
+TAIWAN,KING YUAN ELECTRONICS CO,5474,YUAN,0.879,FinLab company_basic_info:英文簡稱
+TAIWAN,ABILITY OPTO ELECTRONICS,3362,ABILITY,0.9192,FinLab company_basic_info:英文簡稱
+TAIWAN,AMBASSADOR HOTEL (THE),2706,FIRST HOTEL,0.5185,FinLab company_basic_info:英文簡稱
+TAIWAN,CHANNEL WELL TECH CO,8358,CO-TECH,0.8835,FinLab company_basic_info:英文簡稱
+TAIWAN,DEPO AUTO PARTS INDL CO,6605,DEPO,0.91,FinLab company_basic_info:英文簡稱
+TAIWAN,EVERGREEN AVIATION TECH,8358,CO-TECH,0.8774,FinLab company_basic_info:英文簡稱
+TAIWAN,SUNONWEALTH ELEC MACHINE,3652,Unitech elec.,0.5,FinLab company_basic_info:英文簡稱
+TAIWAN,RDC SEMICONDUCTOR CO,3228,RDC,0.6967,FinLab company_basic_info:英文簡稱
+TAIWAN,CHENMING ELECTRONIC TECH,3625,C-TECH,0.885,FinLab company_basic_info:英文簡稱
+TAIWAN,ELITE ADVANCED LASER,8938,ADVANCED GROUP,0.9,FinLab company_basic_info:英文簡稱
+TAIWAN,JESS-LINK PRODUCTS CO,2332,D-LINK,0.4167,FinLab company_basic_info:英文簡稱
+TAIWAN,PHOENIX SILICON,4973,Silicon Power,0.5,FinLab company_basic_info:英文簡稱
+TAIWAN,TYC BROTHER INDUSTRIAL,8931,TYC,0.53,FinLab company_basic_info:英文簡稱
+TAIWAN,UNIVERSAL MICROWAVE TECH,3218,UNIVERSAL,0.9275,FinLab company_basic_info:英文簡稱
+TAIWAN,ABLEPRINT TECHNOLOGY,6863,Arizon RFID Technology,0.7143,TWSE OpenAPI t187ap03_L:公司名稱
+TAIWAN,FIRST HI TEC ENTERPRISE,2852,FIRST INS,0.5925,FinLab company_basic_info:英文簡稱
+TAIWAN,FULLTECH FIBER GLASS,3473,Fiber Logic,0.4516,FinLab company_basic_info:英文簡稱
+TAIWAN,TIGERAIR TAIWAN,3066,TAIWAN OASIS,0.5,FinLab company_basic_info:英文簡稱
+TAIWAN,ALEXANDER MARINE,8478,Ocean Alexander,0.5806,FinLab company_basic_info:英文簡稱
+TAIWAN,CHIA HSIN CEMENT,6951,CHIN HSIN,0.64,FinLab company_basic_info:英文簡稱
+TAIWAN,CHINA MAN-MADE FIBER,1809,China Glaze,0.5461,FinLab company_basic_info:英文簡稱
+TAIWAN,CHINA METAL PRODUCTS CO,1809,China Glaze,0.4816,FinLab company_basic_info:英文簡稱
+TAIWAN,CO TECH DEVELOPMENT,8358,CO-TECH,0.915,FinLab company_basic_info:英文簡稱
+TAIWAN,CUB ELECPARTS,2231,CUB,0.6967,FinLab company_basic_info:英文簡稱
+TAIWAN,EGIS TECHNOLOGY,6462,EGIS,0.9167,FinLab company_basic_info:英文簡稱
+TAIWAN,FIRST COPPER TECHNOLOGY,2706,FIRST HOTEL,0.6182,FinLab company_basic_info:英文簡稱
+TAIWAN,FORMOSA ADVANCED TECH,8171,Formosa,0.9233,FinLab company_basic_info:英文簡稱
+TAIWAN,GRAND PACIFIC PETROCHEM,2924,Grand Galactica,0.5563,FinLab company_basic_info:英文簡稱
+TAIWAN,INTL CSRC INV HLDGS CO,2104,CSRC,0.8811,FinLab company_basic_info:英文簡稱
+TAIWAN,KUO TOONG INTERNATIONAL,5515,CHIEN KUO,0.4,FinLab company_basic_info:英文簡稱
+TAIWAN,TAIWAN MASK CORPORATION,3066,TAIWAN OASIS,0.8126,FinLab company_basic_info:英文簡稱
+TAIWAN,TAIWAN SEMICONDUCTOR CO,9917,TAIWAN SECOM,0.7175,FinLab company_basic_info:英文簡稱
+TAIWAN,TAIWAN-ASIA SC CORP,3019,ASIA,0.8886,FinLab company_basic_info:英文簡稱
+TAIWAN,UPC TECHNOLOGY CORP,1313,UPC,0.6967,FinLab company_basic_info:英文簡稱
+TAIWAN,YUNG SHIN GLOBAL HOLDING,8482,Shane Global,0.7143,FinLab company_basic_info:英文簡稱
+TAIWAN,DONG FANG OFFSHORE,6793,TIENLI OFFSHORE,0.6061,FinLab company_basic_info:英文簡稱
+TAIWAN,HERON NEUTRON MEDICAL,6857,Acer Medical,0.6061,FinLab company_basic_info:英文簡稱
+TAIWAN,YUNGSHIN CONST & DEV,1909,Longchen P&P,0.5263,FinLab company_basic_info:英文簡稱
+TAIWAN,ADVANCED CERAMIC X CORP,8938,ADVANCED GROUP,0.9344,FinLab company_basic_info:英文簡稱
+TAIWAN,APEX BIOTECHNOLOGY CORP,5210,APEX,0.9122,FinLab company_basic_info:英文簡稱
+TAIWAN,COSMOS BANK TAIWAN,2897,O-Bank,0.5,FinLab company_basic_info:英文簡稱
+TAIWAN,DYNAMIC ELECTRONICS CO,8928,DYNAMIC,0.9268,FinLab company_basic_info:英文簡稱
+TAIWAN,E-ONE MOLI ENERGY CORP,6869,J&V Energy,0.6452,FinLab company_basic_info:英文簡稱
+TAIWAN,GREAT CHINA METAL IND,2915,RUENTEX IND.LTD,0.5,FinLab company_basic_info:英文簡稱
+TAIWAN,ORISE TECHNOLOGY CO,6863,Arizon RFID Technology,0.6842,TWSE OpenAPI t187ap03_L:公司名稱
+TAIWAN,POWER QUOTIENT INT'L,7761,Power Win,0.5817,FinLab company_basic_info:英文簡稱
+TAIWAN,TAIWAN ACCEPTANCE CORP,1614,Taiwan Sanyo,0.6507,FinLab company_basic_info:英文簡稱
+TAIWAN,TAIWAN LAND CORP,1614,Taiwan Sanyo,0.8126,FinLab company_basic_info:英文簡稱
+TAIWAN,TTY BIOPHARM CO,4105,TTY,0.6967,FinLab company_basic_info:英文簡稱
+TAIWAN,YIEH UNITED STEEL CORP,2071,Chen Nan Steel,0.5806,FinLab company_basic_info:英文簡稱
+TAIWAN,FUBON NO 1 REIT,2881,Fubon Financial,0.5633,FinLab company_basic_info:英文簡稱
+TAIWAN,SHIN KONG NO 1 REIT,6582,Shin Foong,0.5817,FinLab company_basic_info:英文簡稱
+TAIWAN,ACES ELECTRONIC CO,3605,ACES,0.9167,FinLab company_basic_info:英文簡稱
+TAIWAN,ACME ELECTRONICS CORP,8121,ACME,0.915,FinLab company_basic_info:英文簡稱
+TAIWAN,DAHAN DEVELOPMENT CORP,4402,J.D Development,0.8125,FinLab company_basic_info:英文簡稱
+TAIWAN,DAXON TECHNOLOGY,6863,Arizon RFID Technology,0.7368,TWSE OpenAPI t187ap03_L:公司名稱
+TAIWAN,G TECH OPTOELECTRONICS C,3149,G-TECH,0.9173,FinLab company_basic_info:英文簡稱
+TAIWAN,GRAPE KING,6832,KING'S,0.5,FinLab company_basic_info:英文簡稱
+TAIWAN,HITI DIGITAL,3494,HiTi,0.9233,FinLab company_basic_info:英文簡稱
+TAIWAN,CATHAY NO 2 REIT,2501,CATHAY RED,0.7223,FinLab company_basic_info:英文簡稱
+TAIWAN,CHIMEI MATERIALS TECH,8358,CO-TECH,0.879,FinLab company_basic_info:英文簡稱
+TAIWAN,CRYSTALWISE TECHNOLOGY,6863,Arizon RFID Technology,0.5909,TWSE OpenAPI t187ap03_L:公司名稱
+TAIWAN,LITE-ON IT,6926,Shine-On Bio,0.6364,FinLab company_basic_info:英文簡稱
+TAIWAN,C-MEDIA ELECTRONICS,6470,U-MEDIA,0.4615,FinLab company_basic_info:英文簡稱
+TAIWAN,KAI CHIEH INTL INV,1906,Baolong Intl.,0.4,FinLab company_basic_info:英文簡稱
+TAIWAN,TAIWAN IC PACKAGING,9924,TAIWAN FU HSING,0.6771,FinLab company_basic_info:英文簡稱
+TAIWAN,YUFO ELECTRONIC CORP,6194,YUFO,0.9167,FinLab company_basic_info:英文簡稱
+TAIWAN,TTET UNION CORPORATION,1232,TTET,0.93,FinLab company_basic_info:英文簡稱
+TAIWAN,JENN FENG NEW ENERGY CO,6869,J&V Energy,0.6667,FinLab company_basic_info:英文簡稱
+TAIWAN,SUPER DRAGON TECH CO,8358,CO-TECH,0.8835,FinLab company_basic_info:英文簡稱
+TAIWAN,TA CHONG SECURITIES CO,3167,TA LIANG,0.43,FinLab company_basic_info:英文簡稱
+TAIWAN,CHC HEALTHCARE GROUP,9930,CHC,0.6967,FinLab company_basic_info:英文簡稱
+TAIWAN,CHINA ECOTEK CORPORATION,1809,China Glaze,0.6387,FinLab company_basic_info:英文簡稱
+TAIWAN,KMC (KUEI MENG) INT'L,7590,Yiho Int'l,0.6667,FinLab company_basic_info:英文簡稱
+TAIWAN,TAIWAN LIPOSOME,9917,TAIWAN SECOM,0.7707,FinLab company_basic_info:英文簡稱
+TAIWAN,AVY PRECISION TECH,8358,CO-TECH,0.8822,FinLab company_basic_info:英文簡稱
+TAIWAN,GLOBE UNION INDUSTRIAL,2816,UNION INS.,0.5806,FinLab company_basic_info:英文簡稱
+TAIWAN,TAIWAN PULP & PAPER CO,9924,TAIWAN FU HSING,0.5856,FinLab company_basic_info:英文簡稱
+TAIWAN,WEI MON INDUSTRY CO,2028,WEI CHIH,0.4467,FinLab company_basic_info:英文簡稱
+TAIWAN,WUS PRINTED CIRCUIT CO,2316,WUS,0.53,FinLab company_basic_info:英文簡稱
+TAIWAN,ADVANCED LITH ELCTROCHM,8938,ADVANCED GROUP,0.9248,FinLab company_basic_info:英文簡稱
+TAIWAN,CAPELLA MICROSYS TAIWAN,3066,TAIWAN OASIS,0.4,FinLab company_basic_info:英文簡稱
+TAIWAN,CHAMPION BUILDING MATRLS,3257,CHAMPION,0.9233,FinLab company_basic_info:英文簡稱
+TAIWAN,CHINA ELECTRIC MFG,1809,China Glaze,0.5128,FinLab company_basic_info:英文簡稱
+TAIWAN,GLOBAL BRANDS MANUFACT.,4566,GLOBAL TEK,0.53,FinLab company_basic_info:英文簡稱
+TAIWAN,GREEN SEAL HOLDING,8444,Green River,0.6967,FinLab company_basic_info:英文簡稱
+TAIWAN,SHIHLIN ELECTRIC & ENGR,1903,Shihlin Paper,0.5563,FinLab company_basic_info:英文簡稱
+TAIWAN,SOUTHEAST CEMENT CO,1110,SE CEMENT,0.72,FinLab company_basic_info:英文簡稱
+TAIWAN,CHAUN-CHOUNG TECH CORP,3149,G-TECH,0.8953,FinLab company_basic_info:英文簡稱
+TAIWAN,KINGPAK TECHNOLOGY,6863,Arizon RFID Technology,0.65,TWSE OpenAPI t187ap03_L:公司名稱
+TAIWAN,ABILITY ENTERPRISE CO,3362,ABILITY,0.9289,FinLab company_basic_info:英文簡稱
+TAIWAN,TAIWAN UNION TECHNOLOGY,6863,Arizon RFID Technology,0.7111,TWSE OpenAPI t187ap03_L:公司名稱
+TAIWAN,GREEN ENERGY TECHNOLOGY,6863,Arizon RFID Technology,0.6667,TWSE OpenAPI t187ap03_L:公司名稱
+TAIWAN,HSIN KUANG STEEL CO,2010,CHUN YUAN STEEL,0.7742,FinLab company_basic_info:英文簡稱
+TAIWAN,ACTRON TECHNOLOGY,6863,Arizon RFID Technology,0.7692,TWSE OpenAPI t187ap03_L:公司名稱
+TAIWAN,E-TON SOLAR TECH,1785,Solar,0.8912,FinLab company_basic_info:英文簡稱
+TAIWAN,IRON FORCE INDUSTRIAL,4923,Force Mos,0.4667,FinLab company_basic_info:英文簡稱
+TAIWAN,JOHNSON HEALTH TECH CO,8358,CO-TECH,0.8811,FinLab company_basic_info:英文簡稱
+TAIWAN,LI PENG ENTERPRISE CO,4426,LI CHENG,0.4915,FinLab company_basic_info:英文簡稱
+TAIWAN,TAIWAN PCB TECHVEST CO,9924,TAIWAN FU HSING,0.6182,FinLab company_basic_info:英文簡稱
+TAIWAN,TAIWAN SURFACE MOUNTING,9911,TAIWAN SAKURA,0.6411,FinLab company_basic_info:英文簡稱
+TAIWAN,TOUNG LOONG TEXTILE,1419,SHINKO.TEXTILE,0.5455,FinLab company_basic_info:英文簡稱
+TAIWAN,UNION BANK OF TAIWAN,2816,UNION INS.,0.5128,FinLab company_basic_info:英文簡稱
+TAIWAN,CHUNG HSIN ELEC & MACH,4205,CHUNG HWA,0.5148,FinLab company_basic_info:英文簡稱
+TAIWAN,GLOBAL LIGHTING TECH,3149,G-TECH,0.89,FinLab company_basic_info:英文簡稱
+TAIWAN,LITE-ON SEMICONDUCTOR,6926,Shine-On Bio,0.4848,FinLab company_basic_info:英文簡稱
+TAIWAN,MARKETECH INTL CORP,1906,Baolong Intl.,0.5,FinLab company_basic_info:英文簡稱
+TAIWAN,QST INTERNATIONAL CORP,8349,QST,0.6967,FinLab company_basic_info:英文簡稱
+TAIWAN,ASIA POLYMER,3019,ASIA,0.9233,FinLab company_basic_info:英文簡稱
+TAIWAN,GLOBAL BRANDS MANUFACT,4566,GLOBAL TEK,0.53,FinLab company_basic_info:英文簡稱
+TAIWAN,ITE TECHNOLOGY,3014,ITE,0.6967,FinLab company_basic_info:英文簡稱
+TAIWAN,TAITA CHEMICAL,1773,SHINY CHEMICAL,0.7143,FinLab company_basic_info:英文簡稱
+TAIWAN,VIA LABS,4153,DIVA Labs.,0.8235,FinLab company_basic_info:英文簡稱
+TAIWAN,NIDEC CHAUN CHOUNG TECH,3149,G-TECH,0.8861,FinLab company_basic_info:英文簡稱
+TAIWAN,EVERGREEN STEEL,2071,Chen Nan Steel,0.5517,FinLab company_basic_info:英文簡稱
+TAIWAN,GENESYS LOGIC,3473,Fiber Logic,0.5833,FinLab company_basic_info:英文簡稱
+TAIWAN,RUENTEX ENGR & CONST,2915,RUENTEX IND.LTD,0.6361,FinLab company_basic_info:英文簡稱
+TAIWAN,UPI SEMICONDUCTOR CORP,6719,uPI,0.6967,FinLab company_basic_info:英文簡稱
+TAIWAN,JIH SUN FINANCIAL,2881,Fubon Financial,0.75,FinLab company_basic_info:英文簡稱
+TAIWAN,PAN GERMAN UNIVERSAL,3218,UNIVERSAL,0.905,FinLab company_basic_info:英文簡稱
+TAIWAN,ALAR PHARMACEUTICALS,6785,Alar,0.91,FinLab company_basic_info:英文簡稱
+TAIWAN,HD RENEWABLE ENERGY,7758,KEELGOAL ENERGY,0.6471,FinLab company_basic_info:英文簡稱
+TAIWAN,HUA ENG WIRE & CABLE CO.,4911,G&E,0.4828,FinLab company_basic_info:英文簡稱
+TAIWAN,MATERIALS ANALYSIS TECH,8358,CO-TECH,0.8774,FinLab company_basic_info:英文簡稱
+TAIWAN,APEX INTERNATIONAL,5210,APEX,0.9122,FinLab company_basic_info:英文簡稱
+TAIWAN,CHINA GENERAL PLASTICS,1809,China Glaze,0.5755,FinLab company_basic_info:英文簡稱
+TAIWAN,EVERLIGHT CHEMICAL,2393,EVERLIGHT,0.94,FinLab company_basic_info:英文簡稱
+TAIWAN,TAIWAN SPECIALITY CHEM,1513,CHEM,0.8782,FinLab company_basic_info:英文簡稱
+TAIWAN,KMC (KUEI MENG) INTL,5306,KMC,0.6967,FinLab company_basic_info:英文簡稱
+TAIWAN,LONGCHEN PAPER & PAC CO,1909,Longchen P&P,0.8721,FinLab company_basic_info:英文簡稱
+TAIWAN,TAIWAN TEA CORP,3066,TAIWAN OASIS,0.7573,FinLab company_basic_info:英文簡稱
+TAIWAN,UNITED RENEWABLE ENERGY,7758,KEELGOAL ENERGY,0.5789,FinLab company_basic_info:英文簡稱
+TAIWAN,GALLANT MICRO MACHINING,8054,Alcor Micro,0.4706,FinLab company_basic_info:英文簡稱
+TAIWAN,GROUP UP INDUSTRIAL,6664,Group Up,0.6967,FinLab company_basic_info:英文簡稱
+TAIWAN,HOTA INDUSTRIAL MFG CO,1536,HOTA,0.9111,FinLab company_basic_info:英文簡稱
+TAIWAN,CHINA HI MENT,1809,China Glaze,0.6133,FinLab company_basic_info:英文簡稱
+TAIWAN,SOLARTECH ENERGY CORP,6179,ATE ENERGY.INC,0.7692,FinLab company_basic_info:英文簡稱
+TAIWAN,TAIWAN COGENERATION,3066,TAIWAN OASIS,0.6752,FinLab company_basic_info:英文簡稱
+TAIWAN,WAYS TECHNICAL,3508,Ways,0.9186,FinLab company_basic_info:英文簡稱
+TAIWAN,GENESYS LOGIC INC,3473,Fiber Logic,0.5833,FinLab company_basic_info:英文簡稱
+TAIWAN,WONTEN TECHNOLOGY CO,6863,Arizon RFID Technology,0.6667,TWSE OpenAPI t187ap03_L:公司名稱
+TAIWAN,RALINK TECHNOLOGY CORP,6863,Arizon RFID Technology,0.7179,TWSE OpenAPI t187ap03_L:公司名稱
+TAIWAN,ENE TECHNOLOGY CO,6243,ENE,0.6967,FinLab company_basic_info:英文簡稱
+TAIWAN,EXCELSIOR MEDICAL CO,6496,Excelsior,0.9429,FinLab company_basic_info:英文簡稱
+TAIWAN,LEADTREND TECH CORP,8358,CO-TECH,0.8886,FinLab company_basic_info:英文簡稱
+TAIWAN,OCEAN PLASTICS CO,8478,Ocean Alexander,0.5817,FinLab company_basic_info:英文簡稱
+TAIWAN,SHINKONG INSURANCE CO,2850,SK Insurance,0.8,FinLab company_basic_info:英文簡稱
+TAIWAN,YEH-CHIANG TECH,3149,G-TECH,0.9,FinLab company_basic_info:英文簡稱
+TAIWAN,CATHAY NO 1 REIT,2501,CATHAY RED,0.7223,FinLab company_basic_info:英文簡稱
+TAIWAN,YUNGSHIN CONSTR & DEVLPT,1909,Longchen P&P,0.5238,FinLab company_basic_info:英文簡稱
+TAIWAN,ACHEM TECHNOLOGY,6863,Arizon RFID Technology,0.6316,TWSE OpenAPI t187ap03_L:公司名稱
+TAIWAN,FORMOSAN UNION CHEMICAL,1773,SHINY CHEMICAL,0.5946,FinLab company_basic_info:英文簡稱
+TAIWAN,INTEGRATED MEMORY LOGIC,3473,Fiber Logic,0.5294,FinLab company_basic_info:英文簡稱
+TAIWAN,PC HOME ONLINE,8044,PChome online,0.963,FinLab company_basic_info:英文簡稱
+TAIWAN,PROSPERITY DIELECT CO LT,6555,LT,0.5,FinLab company_basic_info:英文簡稱
+TAIWAN,RUENTEX ENGIN & CONST,2915,RUENTEX IND.LTD,0.6771,FinLab company_basic_info:英文簡稱
+TAIWAN,STANDARD CHEMICAL&PHARM,1773,SHINY CHEMICAL,0.5366,FinLab company_basic_info:英文簡稱
+TAIWAN,WAN HWA ENTERPRISE,2801,CHANG HWA BANK,0.5,FinLab company_basic_info:英文簡稱
+TAIWAN,CHINA STEEL STRUCTURE CO,2071,Chen Nan Steel,0.5714,FinLab company_basic_info:英文簡稱
+TAIWAN,TAIWAN PROSPERITY CHEMIC,3066,TAIWAN OASIS,0.5856,FinLab company_basic_info:英文簡稱
+TAIWAN,EFUN TECHNOLOGY,3523,EFUN,0.9167,FinLab company_basic_info:英文簡稱
+TAIWAN,MAGLAYERS SCIENTIFIC TE,2035,TE,0.5,FinLab company_basic_info:英文簡稱
+TAIWAN,MICROELECTRONICS TECH,8358,CO-TECH,0.879,FinLab company_basic_info:英文簡稱
+TAIWAN,O-TA PRECISION INDUSTRY,8924,O-TA,0.9074,FinLab company_basic_info:英文簡稱
+TAIWAN,PARAGON TECHNOLOGIES CO,7822,V5 TECHNOLOGIES,0.7429,FinLab company_basic_info:英文簡稱
+TAIWAN,TAIWAN CHI CHENG ENT.,9924,TAIWAN FU HSING,0.6586,FinLab company_basic_info:英文簡稱
+TAIWAN,ILI TECHNOLOGY CORP,6863,Arizon RFID Technology,0.7222,TWSE OpenAPI t187ap03_L:公司名稱
+TAIWAN,ROTAM GLOBAL AGROSCIE,4566,GLOBAL TEK,0.5161,FinLab company_basic_info:英文簡稱
+TAIWAN,KYE SYSTEMS CORP,2365,KYE,0.6967,FinLab company_basic_info:英文簡稱
+TAIWAN,SAN CHIH SEMICONDUCTOR,5007,SAN SHING,0.4816,FinLab company_basic_info:英文簡稱
+TAIWAN,FIRST STEAMSHIP,2706,FIRST HOTEL,0.6454,FinLab company_basic_info:英文簡稱
+TAIWAN,YEONG GUAN ENERGY GROUP,6987,Ina Energy,0.6667,FinLab company_basic_info:英文簡稱
+TAIWAN,ADVANCED INT'L MULTITECH,8938,ADVANCED GROUP,0.9233,FinLab company_basic_info:英文簡稱
+TAIWAN,TANG ENG IRON WORKS CO,6182,WAFER WORKS,0.6,FinLab company_basic_info:英文簡稱
+TAIWAN,CHINA CHEM & PHARM CO,1513,CHEM,0.88,FinLab company_basic_info:英文簡稱
+TAIWAN,FSP TECHNOLOGY,6670,FSP,0.6967,FinLab company_basic_info:英文簡稱
+TAIWAN,GREAT TAIPEI GAS,6469,Great Tree,0.6454,FinLab company_basic_info:英文簡稱
+TAIWAN,KWONG FONG INDUSTRIES,5523,FONG CHIEN,0.4516,FinLab company_basic_info:英文簡稱
+TAIWAN,LINGSEN PRECISION IND,2915,RUENTEX IND.LTD,0.4375,FinLab company_basic_info:英文簡稱
+TAIWAN,SILICON INTEGRATED SYS,4973,Silicon Power,0.6014,FinLab company_basic_info:英文簡稱
+TAIWAN,USUN TECHNOLOGY,3498,USUN,0.9167,FinLab company_basic_info:英文簡稱
+TAIWAN,LAND MARK OPTOELECTRS,5603,SEA&LAND,0.3333,FinLab company_basic_info:英文簡稱
+TAIWAN,LION TRAVEL SERVICE,2745,LIFE TRAVEL,0.6,FinLab company_basic_info:英文簡稱
+TAIWAN,PHARMALLY INTL HLDG,1906,Baolong Intl.,0.4516,FinLab company_basic_info:英文簡稱
+TAIWAN,SUNNY FRIEND ENV TECH,6676,Sunny,0.9138,FinLab company_basic_info:英文簡稱
+TAIWAN,EASTERN MEDIA INTL,6856,ST media,0.6154,FinLab company_basic_info:英文簡稱
+TAIWAN,GLOBAL MIXED-MODE TECH,8358,CO-TECH,0.8782,FinLab company_basic_info:英文簡稱
+TAIWAN,KINGS TOWN CONSTRUCTION,2726,Yummy Town,0.4,FinLab company_basic_info:英文簡稱
+TAIWAN,CHUNGHWA PRECISION TEST,2908,Test Rite,0.4,FinLab company_basic_info:英文簡稱
+TAIWAN,KEE TAI PROPERTIES CO,3357,TAI-TECH,0.4,FinLab company_basic_info:英文簡稱
+TAIWAN,RICH DEVELOPMENT CO,5512,RICH,0.915,FinLab company_basic_info:英文簡稱
+TAIWAN,FOXSEMICON INTGR TECH,8358,CO-TECH,0.879,FinLab company_basic_info:英文簡稱
+TAIWAN,NUVOTON TECHNOLOGY,6863,Arizon RFID Technology,0.65,TWSE OpenAPI t187ap03_L:公司名稱
+TAIWAN,HUNG POO REAL ESTATE DEV,2527,Hung Ching,0.3241,FinLab company_basic_info:英文簡稱
+TAIWAN,TAIWAN FIRE & MARINE INS,9924,TAIWAN FU HSING,0.5666,FinLab company_basic_info:英文簡稱
+TAIWAN,CENTURY IRON & STEEL,2071,Chen Nan Steel,0.7222,FinLab company_basic_info:英文簡稱
+TAIWAN,ALPHA NETWORKS,8024,Alpha,0.9257,FinLab company_basic_info:英文簡稱
+TAIWAN,GLORIA MATERIAL TECH,8358,CO-TECH,0.88,FinLab company_basic_info:英文簡稱
+TAIWAN,TWI PHARMACEUTICALS,6610,TWi Biotech.,0.53,FinLab company_basic_info:英文簡稱
+TAIWAN,YUNG CHI PAINT & VARNISH,1909,Longchen P&P,0.5238,FinLab company_basic_info:英文簡稱
+TAIWAN,UNIVERSAL CEMENT,3218,UNIVERSAL,0.9463,FinLab company_basic_info:英文簡稱
+TAIWAN,UNIVERSAL VISION BIOTECH,3218,UNIVERSAL,0.9275,FinLab company_basic_info:英文簡稱
+TAIWAN,ADVANCED ENERGY SOLUTION,8938,ADVANCED GROUP,0.9233,FinLab company_basic_info:英文簡稱
+TAIWAN,T3EX GLOBAL HOLDINGS,2636,T3EX,0.9264,FinLab company_basic_info:英文簡稱
+TAIWAN,ATEN INTERNATIONAL,6277,ATEN,0.9122,FinLab company_basic_info:英文簡稱
+TAIWAN,CHC RESOURCES CORP,9930,CHC,0.6967,FinLab company_basic_info:英文簡稱
+TAIWAN,HUNG SHENG CONSTRUCTION,2527,Hung Ching,0.5148,FinLab company_basic_info:英文簡稱
+TAIWAN,IEI INTEGRATION CORP,3022,IEI,0.6967,FinLab company_basic_info:英文簡稱
+TAIWAN,BORA PHARMACEUTICALS,6472,Bora,0.91,FinLab company_basic_info:英文簡稱
+TAIWAN,SAKURA DEVELOPMENT,3521,TSG Development,0.7879,FinLab company_basic_info:英文簡稱
+TAIWAN,JSL CONSTRUCTION & DEV,1909,Longchen P&P,0.5,FinLab company_basic_info:英文簡稱
+TAIWAN,NORTH STAR INTERNATIONAL,2719,Star Travel,0.4571,FinLab company_basic_info:英文簡稱
+TAIWAN,APEX DYNAMICS,5210,APEX,0.9208,FinLab company_basic_info:英文簡稱
+TAIWAN,YC INOX CO,4306,YC,0.6967,FinLab company_basic_info:英文簡稱
+TAIWAN,INTELLIGO TECHNOLOGY,6863,Arizon RFID Technology,0.6667,TWSE OpenAPI t187ap03_L:公司名稱
+TAIWAN,PRINCE HOUSING DEV,6935,PRINCE PHARM,0.5633,FinLab company_basic_info:英文簡稱

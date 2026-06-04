@@ -42,6 +42,18 @@ VERIFIED_STATUSES = {
     'verified_tw_historical_round7',
     'verified_tw_current_round7b',
     'verified_tw_historical_round7b',
+    'verified_tw_yahoo_google_round8',
+    'verified_tw_yahoo_round8',
+    'verified_tw_reit_round8',
+    'verified_tw_historical_round8',
+    'verified_tw_yahoo_google_round8b',
+    'verified_tw_yahoo_round8b',
+    'verified_tw_historical_round8b',
+    'verified_tw_yahoo_google_round8c',
+    'verified_tw_historical_round8c',
+    'verified_tw_yahoo_google_round8d',
+    'verified_tw_historical_round8d',
+    'verified_tw_historical_round8e',
 }
 MANUAL_STATUSES = {'needs_review', 'needs_manual_review', 'manual_review_round3', 'manual_review_round4'}
 

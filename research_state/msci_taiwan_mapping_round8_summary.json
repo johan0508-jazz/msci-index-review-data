@@ -1,0 +1,17 @@
+{
+  "task": "MSCI Taiwan Yahoo/Google completion Round 8",
+  "updated_at_taipei": "2026-06-04T10:10:42+08:00",
+  "manual_before": 89,
+  "accepted_unique_mappings": 42,
+  "manual_remaining": 47,
+  "accepted_by_status": {
+    "verified_tw_yahoo_google_round8": 23,
+    "verified_tw_historical_round8": 13,
+    "verified_tw_reit_round8": 5,
+    "verified_tw_yahoo_round8": 1
+  },
+  "outputs": {
+    "accepted": "/Users/johan/Documents/invest/msci_index_reviews/research_state/msci_taiwan_mapping_round8_accepted.csv",
+    "manual_remaining": "/Users/johan/Documents/invest/msci_index_reviews/research_state/msci_taiwan_mapping_round8_manual_unique.csv"
+  }
+}

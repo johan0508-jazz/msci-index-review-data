@@ -1,0 +1,2 @@
+country,company_name,stock_code,matched_name,mapping_status,mapping_score,mapping_source,verification_basis,event_rows
+TAIWAN,KOBIN ENVIRONMNTL ENTER,1808,"Kobin / 國賓大地環保事業股份有限公司, later Ruentex Development / 潤隆建設",verified_tw_historical_round8e,0.95,Round8e web/Google evidence: MoneyDJ/MOPS material-info article states 國賓大地環保事業股份有限公司 changed name to 潤隆建設股份有限公司 and stock code remained 1808; web66/kobin.com.tw evidence links Kobin domain to 國賓大地環保事業股份有限公司.,broader_web_google_after_user_feedback,1

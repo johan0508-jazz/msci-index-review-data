@@ -1,0 +1,2 @@
+country,company_name,event_rows,current_mapping_status,current_matched_name,top_candidate_source,top_candidate_code,top_candidate_name,top_candidate_score,top_candidate_note,manual_instruction
+TAIWAN,KOBIN ENVIRONMNTL ENTER,1,needs_review,,TPEx EN deListed official,8476,"TAIWAN ENVIRONMENT SCIENTIFIC CO., LTD.",0.5333,delist_date=2023-10-31,Please verify historical TWSE/TPEx stock code from MOPS/TWSE/TPEx/company IR; fill stock_code if confirmed.
