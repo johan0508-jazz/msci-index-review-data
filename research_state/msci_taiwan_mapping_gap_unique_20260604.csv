@@ -1,0 +1,755 @@
+company_name,event_rows,products,actions,reviews,stock_code,mapping_status,mapping_score,matched_name,mapping_source,verified_mapping,ticker_in_required_universe,backtest_ready_rows,not_ready_reasons
+91APP,2,small_cap,addition;deletion,2021-11;2022-11,6741,mapped_exact_normalized,1.0,91APP Inc.,FinLab company_basic_info:公司名稱,true,true,2,
+A.G.V. PRODUCTS,2,small_cap,addition;deletion,2009-05;2014-05,,needs_review,0.0,,,false,false,0,mapping_status=needs_review;missing_stock_code
+ABILITY ENTERPRISE CO,2,small_cap,addition;deletion,2016-05;2025-11,,needs_review,0.0,,,false,false,0,mapping_status=needs_review;missing_stock_code
+ABILITY OPTO ELECTRONICS,3,small_cap,addition;deletion,2021-05;2021-11;2023-08,,needs_review,0.0,,,false,false,0,mapping_status=needs_review;missing_stock_code
+ABLEPRINT TECHNOLOGY,1,small_cap,addition,2025-08,,needs_review,0.0,,,false,false,0,mapping_status=needs_review;missing_stock_code
+ABLEREX ELECTRONICS CO,2,small_cap,addition;deletion,2010-11;2011-11,3628,verified_tw_reference_fuzzy,0.9268,ABLEREX,FinLab company_basic_info:英文簡稱,true,true,2,
+ABNOVA CORP,2,small_cap,addition;deletion,2010-05;2011-11,4133,mapped_exact_normalized,1.0,Abnova,FinLab company_basic_info:英文簡稱,true,true,2,
+ACCTON TECHNOLOGY CORP,3,small_cap;standard,addition;deletion,2007-05;2019-11,2345,verified_tw_reference_fuzzy,0.9253,ACCTON,FinLab company_basic_info:英文簡稱,true,true,3,
+ACER,2,small_cap;standard,addition;deletion,2025-11,2353,mapped_exact_normalized,1.0,ACER,FinLab company_basic_info:英文簡稱,true,true,2,
+ACES ELECTRONIC CO,2,small_cap,addition;deletion,2010-05;2013-11,,needs_review,0.0,,,false,false,0,mapping_status=needs_review;missing_stock_code
+ACHEM TECHNOLOGY,2,small_cap,addition;deletion,2010-11;2015-11,,needs_review,0.0,,,false,false,0,mapping_status=needs_review;missing_stock_code
+ACME ELECTRONICS CORP,2,small_cap,addition;deletion,2010-05;2014-11,,needs_review,0.0,,,false,false,0,mapping_status=needs_review;missing_stock_code
+ACTER CO,3,small_cap,addition;deletion,2011-05;2014-05;2023-08,5536,mapped_exact_normalized,1.0,ACTER,FinLab company_basic_info:英文簡稱,true,true,3,
+ACTRON TECHNOLOGY,3,small_cap,addition;deletion,2018-05;2021-11;2025-05,,needs_review,0.0,,,false,false,0,mapping_status=needs_review;missing_stock_code
+ADDCN TECHNOLOGY,2,small_cap,addition;deletion,2014-05;2021-11,5287,verified_tw_reference_fuzzy,0.9213,ADDCN,FinLab company_basic_info:英文簡稱,true,true,2,
+ADIMMUNE,4,small_cap,addition;deletion,2011-05;2015-11;2020-11;2024-11,,needs_review,0.0,,,false,false,0,mapping_status=needs_review;missing_stock_code
+ADLINK TECHNOLOGY,4,small_cap,addition;deletion,2010-11;2018-11;2020-05;2025-11,6166,verified_tw_reference_fuzzy,0.9253,ADLINK,FinLab company_basic_info:英文簡稱,true,true,4,
+ADV LITHIUM ELECTROCHEM,1,small_cap,deletion,2015-11,,needs_review,0.0,,,false,false,0,mapping_status=needs_review;missing_stock_code
+ADV WIRELESS SC,3,small_cap,addition;deletion,2015-11;2018-11;2019-11,,needs_review,0.0,,,false,false,0,mapping_status=needs_review;missing_stock_code
+ADV WIRELESS SEMICONDUC,2,small_cap,addition;deletion,2010-05;2012-11,,needs_review,0.0,,,false,false,0,mapping_status=needs_review;missing_stock_code
+ADVANCED CERAMIC X CORP,2,small_cap,addition;deletion,2009-05;2024-11,,needs_review,0.0,,,false,false,0,mapping_status=needs_review;missing_stock_code
+ADVANCED ENERGY SOLUTION,1,small_cap,addition,2021-11,,needs_review,0.0,,,false,false,0,mapping_status=needs_review;missing_stock_code
+ADVANCED INT'L MULTITECH,1,small_cap,deletion,2013-11,,needs_review,0.0,,,false,false,0,mapping_status=needs_review;missing_stock_code
+ADVANCED LITH ELCTROCHM,1,small_cap,addition,2014-05,,needs_review,0.0,,,false,false,0,mapping_status=needs_review;missing_stock_code
+ADVANCETEK ENTERPRISE CO,4,small_cap,addition;deletion,2013-11;2014-11;2024-05;2025-11,1442,verified_tw_reference_fuzzy,0.9376,ADVANCETEK,FinLab company_basic_info:英文簡稱,true,true,4,
+AIC,2,small_cap,addition;deletion,2023-11;2025-02,9912,mapped_exact_normalized,1.0,AIC,FinLab company_basic_info:英文簡稱,true,true,2,
+AIRTAC INTERNATIONAL,5,small_cap;standard,addition;deletion,2012-05;2013-05;2017-11,1590,verified_tw_reference_fuzzy,0.92,AIRTAC,FinLab company_basic_info:英文簡稱,true,true,5,
+ALAR PHARMACEUTICALS,2,small_cap,addition;deletion,2024-05;2024-11,,needs_review,0.0,,,false,false,0,mapping_status=needs_review;missing_stock_code
+ALCHIP TECHNOLOGIES,3,small_cap;standard,addition;deletion,2020-05;2023-11,3661,verified_tw_reference_fuzzy,0.9216,Alchip,FinLab company_basic_info:英文簡稱,true,true,3,
+ALCOR MICRO CORP,1,small_cap,deletion,2012-11,8054,mapped_exact_normalized,1.0,Alcor Micro,FinLab company_basic_info:英文簡稱,true,true,1,
+ALEXANDER MARINE,1,small_cap,deletion,2025-02,,needs_review,0.0,,,false,false,0,mapping_status=needs_review;missing_stock_code
+ALI CORP,1,small_cap,deletion,2015-11,3041,mapped_exact_normalized,1.0,ALi,FinLab company_basic_info:英文簡稱,true,true,1,
+ALL RING TECH,2,small_cap,addition,2024-11;2025-02,6187,verified_tw_reference_fuzzy,0.9515,ALL RING,FinLab company_basic_info:英文簡稱,true,true,2,
+ALLIED SUPREME CORP,1,small_cap,addition,2022-05,4702,verified_tw_reference_fuzzy,0.9329,ALLIED,FinLab company_basic_info:英文簡稱,true,true,1,
+ALPHA NETWORKS,2,small_cap,addition;deletion,2018-11;2020-11,,needs_review,0.0,,,false,false,0,mapping_status=needs_review;missing_stock_code
+ALTEK CORP,1,small_cap,deletion,2016-11,3059,mapped_exact_normalized,1.0,Altek,FinLab company_basic_info:英文簡稱,true,true,1,
+AMAZING MICROELECTRONIC,2,small_cap,addition;deletion,2021-11;2024-05,6411,verified_tw_reference_fuzzy,0.9204,Amazing,FinLab company_basic_info:英文簡稱,true,true,2,
+AMBASSADOR HOTEL (THE),2,small_cap,addition;deletion,2017-11;2023-08,,needs_review,0.0,,,false,false,0,mapping_status=needs_review;missing_stock_code
+AMPACS,2,small_cap,addition;deletion,2021-05;2022-05,6743,mapped_exact_normalized,1.0,AMPACS,FinLab company_basic_info:英文簡稱,true,true,2,
+AMTRAN TECHNOLOGY CO,1,small_cap,deletion,2022-11,2489,verified_tw_reference_fuzzy,0.9253,AMTRAN,FinLab company_basic_info:英文簡稱,true,true,1,
+ANDES TECHNOLOGY,2,small_cap,addition;deletion,2021-05;2026-02,6533,verified_tw_reference_fuzzy,0.9213,ANDES,FinLab company_basic_info:英文簡稱,true,true,2,
+ANPEC ELECTRONICS CORP,1,small_cap,deletion,2011-11,6138,verified_tw_reference_fuzzy,0.9194,ANPEC,FinLab company_basic_info:英文簡稱,true,true,1,
+AP MEMORY TECH,1,small_cap,addition,2020-11,6531,verified_tw_reference_fuzzy,0.9543,AP Memory,FinLab company_basic_info:英文簡稱,true,true,1,
+APCB,2,small_cap,addition;deletion,2009-11;2012-11,6108,mapped_exact_normalized,1.0,APCB INC.,FinLab company_basic_info:英文簡稱,true,true,2,
+APEX BIOTECHNOLOGY CORP,2,small_cap,addition;deletion,2009-05;2014-11,,needs_review,0.0,,,false,false,0,mapping_status=needs_review;missing_stock_code
+APEX DYNAMICS,1,small_cap,addition,2024-11,,needs_review,0.0,,,false,false,0,mapping_status=needs_review;missing_stock_code
+APEX INTERNATIONAL,2,small_cap,addition;deletion,2020-11;2024-05,,needs_review,0.0,,,false,false,0,mapping_status=needs_review;missing_stock_code
+ARCADYAN TECHNOLOGY CORP,3,small_cap,addition;deletion,2008-11;2014-11;2016-11,3596,verified_tw_reference_fuzzy,0.9321,Arcadyan,FinLab company_basic_info:英文簡稱,true,true,3,
+ARIMA COMMUNICATION CORP,2,small_cap,addition;deletion,2011-11;2014-11,8101,verified_tw_reference_fuzzy,0.9426,Arima Comm.,FinLab company_basic_info:英文簡稱,true,true,2,
+ASIA CEMENT CORP,2,small_cap;standard,addition;deletion,2026-05,,needs_review,0.0,,,false,false,0,mapping_status=needs_review;missing_stock_code
+ASIA OPTICAL,2,small_cap;standard,addition;deletion,2008-11,,needs_review,0.0,,,false,false,0,mapping_status=needs_review;missing_stock_code
+ASIA PACIFIC TELECOM CO,3,small_cap;standard,addition;deletion,2013-11;2018-05,,needs_review,0.0,,,false,false,0,mapping_status=needs_review;missing_stock_code
+ASIA PLASTIC RECYCLE,1,small_cap,addition,2011-11,1337,verified_tw_reference_fuzzy,0.95,Asia Plastic,FinLab company_basic_info:英文簡稱,true,true,1,
+ASIA PLASTIC RECYCLING,1,small_cap,deletion,2015-11,1337,verified_tw_reference_fuzzy,0.9445,Asia Plastic,FinLab company_basic_info:英文簡稱,true,true,1,
+ASIA POLYMER,3,small_cap,addition;deletion,2018-11;2021-05;2024-11,,needs_review,0.0,,,false,false,0,mapping_status=needs_review;missing_stock_code
+ASIA VITAL COMPONENTS,4,small_cap;standard,addition;deletion,2018-11;2019-05;2024-05,,needs_review,0.0,,,false,false,0,mapping_status=needs_review;missing_stock_code
+ASMEDIA TECHNOLOGY,5,small_cap;standard,addition;deletion,2015-05;2020-08;2022-11,5269,verified_tw_reference_fuzzy,0.9289,Asmedia,FinLab company_basic_info:英文簡稱,true,true,5,
+ASPEED TECHNOLOGY,3,small_cap;standard,addition;deletion,2015-11;2025-11,5274,verified_tw_reference_fuzzy,0.9253,ASPEED,FinLab company_basic_info:英文簡稱,true,true,3,
+ASROCK,2,small_cap,addition;deletion,2015-11;2020-05,3515,mapped_exact_normalized,1.0,ASROCK,FinLab company_basic_info:英文簡稱,true,true,2,
+ASTRO CORP,1,small_cap,deletion,2012-05,3064,mapped_exact_normalized,1.0,Astro Corp.,FinLab company_basic_info:英文簡稱,true,true,1,
+ATEN INTERNATIONAL,1,small_cap,deletion,2021-11,,needs_review,0.0,,,false,false,0,mapping_status=needs_review;missing_stock_code
+AUO CORP,2,small_cap;standard,addition;deletion,2025-11,2409,mapped_exact_normalized,1.0,AUO,FinLab company_basic_info:英文簡稱,true,true,2,
+AURAS TECHNOLOGY,1,small_cap,addition,2019-11,3324,verified_tw_reference_fuzzy,0.9213,AURAS,FinLab company_basic_info:英文簡稱,true,true,1,
+AURORA CORP,1,small_cap,deletion,2023-05,2373,mapped_exact_normalized,1.0,Aurora,FinLab company_basic_info:英文簡稱,true,true,1,
+AV TECH CORP,1,small_cap,deletion,2014-11,8072,mapped_exact_normalized,1.0,AV TECH,FinLab company_basic_info:英文簡稱,true,true,1,
+AVERMEDIA TECHNOLOGIES,1,small_cap,deletion,2012-11,2417,verified_tw_reference_fuzzy,0.9309,AVERMEDIA,FinLab company_basic_info:英文簡稱,true,true,1,
+AVY PRECISION TECH,2,small_cap,addition;deletion,2008-11;2013-05,,needs_review,0.0,,,false,false,0,mapping_status=needs_review;missing_stock_code
+BAFANG YUNJI INTL,1,small_cap,deletion,2024-11,2753,verified_tw_reference_fuzzy,0.9253,Bafang,FinLab company_basic_info:英文簡稱,true,true,1,
+BASSO INDUSTRY CORP,3,small_cap,addition;deletion,2011-11;2016-05;2018-05,1527,verified_tw_reference_fuzzy,0.9257,BASSO,FinLab company_basic_info:英文簡稱,true,true,3,
+BENQ MATERIALS CORP,3,small_cap,addition;deletion,2013-05;2014-05;2016-11,,needs_review,0.0,,,false,false,0,mapping_status=needs_review;missing_stock_code
+BIOTEQUE CORPORATION,2,small_cap,addition;deletion,2016-05;2017-11,4107,mapped_exact_normalized,1.0,BIOTEQUE,FinLab company_basic_info:英文簡稱,true,true,2,
+BIZLINK HOLDING,3,small_cap;standard,addition;deletion,2013-11;2025-11,,needs_review,0.0,,,false,false,0,mapping_status=needs_review;missing_stock_code
+BOARDTEK ELECTRONICS CO,2,small_cap,addition;deletion,2013-11;2017-05,,needs_review,0.0,,,false,false,0,mapping_status=needs_review;missing_stock_code
+BORA PHARMACEUTICALS,1,small_cap,addition,2022-11,,needs_review,0.0,,,false,false,0,mapping_status=needs_review;missing_stock_code
+BRIGHT LED ELECTRONICS,1,small_cap,deletion,2012-11,3031,verified_tw_reference_fuzzy,0.9173,BRIGHT,FinLab company_basic_info:英文簡稱,true,true,1,
+BRIGHTON-BEST INTL,1,small_cap,addition,2018-11,8415,verified_tw_reference_fuzzy,0.9622,Brighton-Best,FinLab company_basic_info:英文簡稱,true,true,1,
+BROGENT TECHNOLOGIES,2,small_cap,addition;deletion,2014-05;2018-11,5263,verified_tw_reference_fuzzy,0.925,BROGENT,FinLab company_basic_info:英文簡稱,true,true,2,
+BROWAVE CORP,2,small_cap,addition;deletion,2014-05;2014-11,3163,mapped_exact_normalized,1.0,Browave,FinLab company_basic_info:英文簡稱,true,true,2,
+C SUN MANUFACTURING,1,small_cap,addition,2024-05,2467,verified_tw_reference_fuzzy,0.9163,C SUN,FinLab company_basic_info:英文簡稱,true,true,1,
+C-MEDIA ELECTRONICS,1,small_cap,deletion,2011-05,,needs_review,0.0,,,false,false,0,mapping_status=needs_review;missing_stock_code
+CALIWAY BIOPHARMA,3,small_cap;standard,addition;deletion,2025-02;2025-08,6919,verified_tw_reference_fuzzy,0.9312,Caliway,FinLab company_basic_info:英文簡稱,true,true,3,
+CANDO CORP,2,small_cap,addition;deletion,2008-11;2012-05,,needs_review,0.0,,,false,false,0,mapping_status=needs_review;missing_stock_code
+CAPELLA MICROSYS TAIWAN,2,small_cap,addition;deletion,2010-11;2014-05,,needs_review,0.0,,,false,false,0,mapping_status=needs_review;missing_stock_code
+CAPITAL SECURITIES CORP,4,small_cap;standard,addition;deletion,2009-05;2013-05,6005,verified_tw_official_round3,0.99,群益金鼎證券股份有限公司 / CSC,Round3 official audit: FinLab company_basic_info + TWSE official reference,true,true,4,
+CAREER TECHNOLOGY CO,3,small_cap,addition;deletion,2016-11;2018-05;2024-11,6153,verified_tw_reference_fuzzy,0.9547,Career Tech.,FinLab company_basic_info:英文簡稱,true,true,3,
+CASETEK HOLDINGS,3,small_cap;standard,addition;deletion,2015-05;2017-05,,needs_review,0.0,,,false,false,0,mapping_status=needs_review;missing_stock_code
+CATCHER TECH CO,3,small_cap;standard,addition;deletion,2006-05;2026-05,2474,verified_tw_reference_fuzzy,0.9483,CATCHER,FinLab company_basic_info:英文簡稱,true,true,3,
+CATHAY NO 1 REIT,1,small_cap,deletion,2009-11,,needs_review,0.0,,,false,false,0,mapping_status=needs_review;missing_stock_code
+CATHAY NO 2 REIT,1,small_cap,deletion,2010-05,,needs_review,0.0,,,false,false,0,mapping_status=needs_review;missing_stock_code
+CATHAY REAL ESTATE DEV,2,small_cap;standard,addition;deletion,2008-11,,needs_review,0.0,,,false,false,0,mapping_status=needs_review;missing_stock_code
+CAYMAN ENGLEY INDL,4,small_cap,addition;deletion,2016-05;2018-11;2019-05;2020-05,2239,verified_tw_reference_fuzzy,0.9622,Cayman Engley,FinLab company_basic_info:英文簡稱,true,true,4,
+CENTER LABORATORIES,1,small_cap,addition,2013-11,4123,verified_tw_reference_fuzzy,0.9426,Center Lab.,FinLab company_basic_info:英文簡稱,true,true,1,
+CENTRAL REINSURANCE,3,small_cap,addition;deletion,2008-11;2012-05;2023-08,2851,verified_tw_reference_fuzzy,0.9426,Central Re,FinLab company_basic_info:英文簡稱,true,true,3,
+CENTURY IRON & STEEL,1,small_cap,addition,2018-11,,needs_review,0.0,,,false,false,0,mapping_status=needs_review;missing_stock_code
+CHAILEASE HOLDING,3,small_cap;standard,addition;deletion,2011-11;2012-11,5871,mapped_exact_normalized,1.0,Chailease,FinLab company_basic_info:英文簡稱,true,true,3,
+CHAMPION BUILDING MATRLS,2,small_cap,addition;deletion,2009-11;2014-05,,needs_review,0.0,,,false,false,0,mapping_status=needs_review;missing_stock_code
+CHANG WAH ELECTROMTRLS,2,small_cap,addition;deletion,2014-11;2021-05,8070,verified_tw_reference_fuzzy,0.9309,CHANG WAH,FinLab company_basic_info:英文簡稱,true,true,2,
+CHANG WAH TECHNOLOGY,1,small_cap,addition,2018-05,8070,verified_tw_reference_fuzzy,0.935,CHANG WAH,FinLab company_basic_info:英文簡稱,true,true,1,
+CHANGS ASCENDING ENTERPR,2,small_cap,addition;deletion,2010-05;2012-05,,needs_review,0.0,,,false,false,0,mapping_status=needs_review;missing_stock_code
+CHANNEL WELL TECH CO,4,small_cap,addition;deletion,2010-05;2011-11;2023-08;2026-02,,needs_review,0.0,,,false,false,0,mapping_status=needs_review;missing_stock_code
+CHAROEN POKPHAND ENT,1,small_cap,addition,2016-11,,needs_review,0.0,,,false,false,0,mapping_status=needs_review;missing_stock_code
+CHAUN-CHOUNG TECH CORP,3,small_cap,addition;deletion,2016-05;2018-05;2019-11,,needs_review,0.0,,,false,false,0,mapping_status=needs_review;missing_stock_code
+CHC HEALTHCARE GROUP,2,small_cap,addition;deletion,2013-05;2016-11,,needs_review,0.0,,,false,false,0,mapping_status=needs_review;missing_stock_code
+CHC RESOURCES CORP,1,small_cap,deletion,2021-11,,needs_review,0.0,,,false,false,0,mapping_status=needs_review;missing_stock_code
+CHENBRO MICOM,1,small_cap,addition,2023-08,8210,verified_tw_reference_fuzzy,0.9438,CHENBRO,FinLab company_basic_info:英文簡稱,true,true,1,
+CHENG SHIN RUBBER IND,2,small_cap;standard,addition;deletion,2026-02,2105,verified_tw_official_round3,0.99,正新橡膠工業股份有限公司 / CST,Round3 official audit: FinLab company_basic_info + TWSE official reference,true,true,2,
+CHENG UEI PRECISION IND,3,small_cap;standard,addition;deletion,2006-05;2014-05,2392,verified_tw_official_round3,0.99,正崴精密工業股份有限公司 / FOXLINK,Round3 official audit: FinLab company_basic_info + TWSE official reference,true,true,3,
+CHENMING ELECTRONIC TECH,1,small_cap,addition,2024-08,,needs_review,0.0,,,false,false,0,mapping_status=needs_review;missing_stock_code
+CHENMING MOLD INDUSTRY,2,small_cap,addition;deletion,2011-05;2013-05,,needs_review,0.0,,,false,false,0,mapping_status=needs_review;missing_stock_code
+CHIA HSIN CEMENT,3,small_cap,addition;deletion,2016-11;2019-11;2025-02,,needs_review,0.0,,,false,false,0,mapping_status=needs_review;missing_stock_code
+CHICONY ELECTRONICS CO,4,small_cap;standard,addition;deletion,2009-05;2021-05,2385,verified_tw_reference_fuzzy,0.9268,CHICONY,FinLab company_basic_info:英文簡稱,true,true,4,
+CHICONY POWER TECHNOLOGY,1,small_cap,addition,2014-05,6412,verified_tw_reference_fuzzy,0.9442,Chicony Power,FinLab company_basic_info:英文簡稱,true,true,1,
+CHIEF TELECOM,1,small_cap,addition,2019-11,6561,verified_tw_reference_fuzzy,0.9285,Chief,FinLab company_basic_info:英文簡稱,true,true,1,
+CHIEN KUO CONST CO,2,small_cap,addition;deletion,2009-11;2014-05,5515,verified_tw_reference_fuzzy,0.95,CHIEN KUO,FinLab company_basic_info:英文簡稱,true,true,2,
+CHILISIN ELECTRS CORP,1,small_cap,addition,2017-11,,needs_review,0.0,,,false,false,0,mapping_status=needs_review;missing_stock_code
+CHIMEI MATERIALS TECH,2,small_cap,addition;deletion,2011-05;2018-05,,needs_review,0.0,,,false,false,0,mapping_status=needs_review;missing_stock_code
+CHIN-POON INDUSTRIAL CO,1,small_cap,deletion,2025-02,2355,verified_tw_reference_fuzzy,0.935,CHIN-POON,FinLab company_basic_info:英文簡稱,true,true,1,
+CHINA AIRLINES,6,small_cap;standard,addition;deletion,2020-08;2022-05;2026-05,2610,verified_tw_official_round3,0.99,中華航空股份有限公司 / CAL,Round3 official audit: FinLab company_basic_info + TWSE official reference,true,true,6,
+CHINA CHEM & PHARM CO,1,small_cap,deletion,2014-11,,needs_review,0.0,,,false,false,0,mapping_status=needs_review;missing_stock_code
+CHINA ECOTEK CORPORATION,2,small_cap,addition;deletion,2013-05;2016-05,,needs_review,0.0,,,false,false,0,mapping_status=needs_review;missing_stock_code
+CHINA ELECTRIC MFG,1,small_cap,deletion,2014-05,,needs_review,0.0,,,false,false,0,mapping_status=needs_review;missing_stock_code
+CHINA GENERAL PLASTICS,4,small_cap,addition;deletion,2009-11;2014-11;2016-11;2024-05,,needs_review,0.0,,,false,false,0,mapping_status=needs_review;missing_stock_code
+CHINA GLAZE CO,2,small_cap,addition;deletion,2010-11;2011-11,1809,mapped_exact_normalized,1.0,China Glaze,FinLab company_basic_info:英文簡稱,true,true,2,
+CHINA HI MENT,1,small_cap,addition,2008-11,,needs_review,0.0,,,false,false,0,mapping_status=needs_review;missing_stock_code
+CHINA LIFE INSURANCE CO,2,small_cap;standard,addition;deletion,2010-05,2823,verified_historical_round4,0.97,China Life Insurance (Taiwan) / KGI Life predecessor,Round4 conflict review: https://service.kgilife.com.tw/wps/portal/kgilife/investor-relations-en/about-chinalife/Company-profile | https://cbonds.com/stocks/TW0002823002/,true,false,0,ticker_not_in_local_universe
+CHINA MAN-MADE FIBER,1,small_cap,deletion,2025-02,,needs_review,0.0,,,false,false,0,mapping_status=needs_review;missing_stock_code
+CHINA METAL PRODUCTS CO,1,small_cap,deletion,2025-02,,needs_review,0.0,,,false,false,0,mapping_status=needs_review;missing_stock_code
+CHINA MOTOR CORP,6,small_cap;standard,addition;deletion,2008-11;2010-11;2015-11,,needs_review,0.0,,,false,false,0,mapping_status=needs_review;missing_stock_code
+CHINA PETROCHEMICAL DEV,4,small_cap;standard,addition;deletion,2010-11;2014-05,,needs_review,0.0,,,false,false,0,mapping_status=needs_review;missing_stock_code
+CHINA STEEL STRUCTURE CO,2,small_cap,addition;deletion,2011-11;2014-11,,needs_review,0.0,,,false,false,0,mapping_status=needs_review;missing_stock_code
+CHINESE GAMER INT'L,3,small_cap;standard,addition;deletion,2010-11;2014-11,,needs_review,0.0,,,false,false,0,mapping_status=needs_review;missing_stock_code
+CHINESE MARITIME TRANSP,3,small_cap,addition;deletion,2009-05;2009-11;2015-11,,needs_review,0.0,,,false,false,0,mapping_status=needs_review;missing_stock_code
+CHIPMOS TECHNOLOGIES,1,small_cap,addition,2014-11,8150,verified_tw_reference_fuzzy,0.925,ChipMOS,FinLab company_basic_info:英文簡稱,true,true,1,
+CHLITINA HOLDING,2,small_cap,addition;deletion,2015-05;2024-11,4137,verified_tw_reference_fuzzy,0.9627,CHLITINA-KY,FinLab company_basic_info:英文簡稱,true,true,2,
+CHROMA ATE,2,small_cap;standard,addition;deletion,2025-11,2360,verified_tw_reference_fuzzy,0.95,CHROMA,FinLab company_basic_info:英文簡稱,true,true,2,
+CHUN YUAN STEEL,3,small_cap,addition;deletion,2015-11;2021-05;2024-11,2010,mapped_exact_normalized,1.0,CHUN YUAN STEEL,FinLab company_basic_info:英文簡稱,true,true,3,
+CHUNG HSIN ELEC & MACH,2,small_cap,addition;deletion,2019-05;2020-11,,needs_review,0.0,,,false,false,0,mapping_status=needs_review;missing_stock_code
+CHUNG HUNG STEEL CORP,2,small_cap,addition;deletion,2016-05;2017-05,2014,verified_tw_reference_fuzzy,0.9525,CHUNG HUNG,FinLab company_basic_info:英文簡稱,true,true,2,
+CHUNG HWA PULP CORP,1,small_cap,deletion,2025-08,4205,verified_tw_reference_fuzzy,0.9543,CHUNG HWA,FinLab company_basic_info:英文簡稱,true,true,1,
+CHUNGHWA PICTURE TUBES,3,small_cap;standard,addition;deletion,2011-11;2013-05,,needs_review,0.0,,,false,false,0,mapping_status=needs_review;missing_stock_code
+CHUNGHWA PRECISION TEST,1,small_cap,addition,2016-11,,needs_review,0.0,,,false,false,0,mapping_status=needs_review;missing_stock_code
+CLEANAWAY,1,small_cap,addition,2012-11,8422,mapped_exact_normalized,1.0,Cleanaway,FinLab company_basic_info:英文簡稱,true,true,1,
+CLEVO COMPANY,4,small_cap;standard,addition;deletion,2009-05;2015-05,2362,mapped_exact_normalized,1.0,CLEVO CO.,FinLab company_basic_info:英文簡稱,true,true,4,
+CMC MAGNETICS CORP,3,small_cap;standard,addition;deletion,2011-11;2021-11,,needs_review,0.0,,,false,false,0,mapping_status=needs_review;missing_stock_code
+CO TECH DEVELOPMENT,4,small_cap,addition;deletion,2017-11;2018-11;2021-05;2025-02,,needs_review,0.0,,,false,false,0,mapping_status=needs_review;missing_stock_code
+COMPAL COMMUNICATIONS,3,small_cap;standard,addition;deletion,2006-05;2010-11,2324,verified_tw_reference_fuzzy,0.9186,Compal,FinLab company_basic_info:英文簡稱,true,true,3,
+COMPAL ELECTRONICS,2,small_cap;standard,addition;deletion,2026-05,2324,verified_tw_reference_fuzzy,0.9233,Compal,FinLab company_basic_info:英文簡稱,true,true,2,
+COMPEQ MANUFACTURING CO,1,standard,deletion,2008-05,2313,verified_tw_reference_fuzzy,0.92,COMPEQ,FinLab company_basic_info:英文簡稱,true,true,1,
+CONCORD SECURITIES CORP,1,small_cap,deletion,2014-05,,needs_review,0.0,,,false,false,0,mapping_status=needs_review;missing_stock_code
+CONCRAFT HOLDING,2,small_cap,addition;deletion,2017-05;2021-11,4943,mapped_exact_normalized,1.0,CONCRAFT,FinLab company_basic_info:英文簡稱,true,true,2,
+CONTREL TECHNOLOGY,1,small_cap,deletion,2011-11,8064,verified_tw_reference_fuzzy,0.9289,CONTREL,FinLab company_basic_info:英文簡稱,true,true,1,
+CORETRONIC CORPORATION,4,small_cap;standard,addition;deletion,2009-05;2011-11,5371,mapped_exact_normalized,1.0,Coretronic,FinLab company_basic_info:英文簡稱,true,true,4,
+COSMOS BANK TAIWAN,2,small_cap,addition;deletion,2009-05;2013-05,,needs_review,0.0,,,false,false,0,mapping_status=needs_review;missing_stock_code
+COXON PRECISE IND CO,1,small_cap,addition,2010-05,3607,verified_tw_reference_fuzzy,0.9194,Coxon,FinLab company_basic_info:英文簡稱,true,true,1,
+COXON PRECISE INDUSTRIAL,1,small_cap,deletion,2016-11,3607,verified_tw_reference_fuzzy,0.9108,Coxon,FinLab company_basic_info:英文簡稱,true,true,1,
+CREATIVE SENSOR,1,small_cap,deletion,2008-11,7837,verified_tw_reference_fuzzy,0.9433,Creative,FinLab company_basic_info:英文簡稱,true,true,1,
+CROWELL DEVELOPMENT,2,small_cap,addition;deletion,2024-05;2025-11,2528,verified_tw_reference_fuzzy,0.9268,CROWELL,FinLab company_basic_info:英文簡稱,true,true,2,
+CRYSTALWISE TECHNOLOGY,2,small_cap,addition;deletion,2011-05;2011-11,,needs_review,0.0,,,false,false,0,mapping_status=needs_review;missing_stock_code
+CSBC CORP,2,small_cap;standard,addition,2009-05;2009-11,2208,mapped_exact_normalized,1.0,CSBC,FinLab company_basic_info:英文簡稱,true,true,2,
+CTCI CORP,4,small_cap;standard,addition;deletion,2012-05;2015-11,9933,mapped_exact_normalized,1.0,CTCI,FinLab company_basic_info:英文簡稱,true,true,4,
+CUB ELECPARTS,4,small_cap,addition;deletion,2010-11;2011-11;2014-05;2025-02,,needs_review,0.0,,,false,false,0,mapping_status=needs_review;missing_stock_code
+CYBERLINK CORP,1,small_cap,deletion,2016-11,5203,mapped_exact_normalized,1.0,CyberLink,FinLab company_basic_info:英文簡稱,true,true,1,
+CYBERPOWER SYSTEMS,3,small_cap,addition;deletion,2010-05;2013-11;2023-11,3617,verified_tw_reference_fuzzy,0.9456,CyberPower,FinLab company_basic_info:英文簡稱,true,true,3,
+CYBERTAN TECHNOLOGY,1,small_cap,deletion,2015-11,3062,verified_tw_reference_fuzzy,0.9321,CyberTAN,FinLab company_basic_info:英文簡稱,true,true,1,
+D-LINK CORP,3,small_cap;standard,addition;deletion,2008-11;2017-11,2332,mapped_exact_normalized,1.0,D-LINK,FinLab company_basic_info:英文簡稱,true,true,3,
+DA-CIN CONSTRUCTION CO,2,small_cap,addition;deletion,2009-05;2014-11,2535,verified_tw_reference_fuzzy,0.9216,DA-CIN,FinLab company_basic_info:英文簡稱,true,true,2,
+DA-LI CONSTRUCTION,1,small_cap,addition,2024-05,6177,verified_tw_reference_fuzzy,0.9178,DA-LI CO.LTD.,FinLab company_basic_info:英文簡稱,true,true,1,
+DAHAN DEVELOPMENT CORP,1,small_cap,addition,2010-05,,needs_review,0.0,,,false,false,0,mapping_status=needs_review;missing_stock_code
+DARFON ELECTRONICS,3,small_cap,addition;deletion,2014-11;2018-11;2025-02,8163,verified_tw_reference_fuzzy,0.9233,DARFON,FinLab company_basic_info:英文簡稱,true,true,3,
+DARWIN PRECISIONS CORP,1,small_cap,deletion,2021-11,6120,verified_tw_reference_fuzzy,0.9253,DARWIN,FinLab company_basic_info:英文簡稱,true,true,1,
+DAXIN MATERIALS,1,small_cap,addition,2024-11,5234,verified_tw_reference_fuzzy,0.9233,DAXIN,FinLab company_basic_info:英文簡稱,true,true,1,
+DAXON TECHNOLOGY,1,small_cap,addition,2010-05,,needs_review,0.0,,,false,false,0,mapping_status=needs_review;missing_stock_code
+DELPHA CONSTRUCTION,1,small_cap,addition,2022-11,2530,verified_tw_reference_fuzzy,0.9216,DELPHA,FinLab company_basic_info:英文簡稱,true,true,1,
+DELSOLAR CO,2,small_cap,addition;deletion,2009-05;2012-11,,needs_review,0.0,,,false,false,0,mapping_status=needs_review;missing_stock_code
+DEPO AUTO PARTS INDL CO,2,small_cap,addition;deletion,2021-11;2023-08,,needs_review,0.0,,,false,false,0,mapping_status=needs_review;missing_stock_code
+DIAMOND BIOFUND,1,small_cap,deletion,2025-05,6901,mapped_exact_normalized,1.0,DIAMOND BIOFUND,FinLab company_basic_info:英文簡稱,true,true,1,
+DIAMOND FLOWER ELE INSTR,1,small_cap,deletion,2011-11,6815,verified_tw_reference_fuzzy,0.9192,Diamond,FinLab company_basic_info:英文簡稱,true,true,1,
+DONG FANG OFFSHORE,1,small_cap,addition,2026-02,,needs_review,0.0,,,false,false,0,mapping_status=needs_review;missing_stock_code
+DYACO INTERNATIONAL,2,small_cap,addition;deletion,2020-11;2021-11,1598,verified_tw_reference_fuzzy,0.9163,Dyaco,FinLab company_basic_info:英文簡稱,true,true,2,
+DYNAMIC ELECTRONICS CO,2,small_cap,addition;deletion,2009-05;2012-05,,needs_review,0.0,,,false,false,0,mapping_status=needs_review;missing_stock_code
+DYNAMIC HOLDING,3,small_cap,addition;deletion,2023-11;2025-05;2025-11,3715,mapped_exact_normalized,1.0,Dynamic Holding,FinLab company_basic_info:英文簡稱,true,true,3,
+DYNAPACK INTL TECH,2,small_cap,addition;deletion,2016-11;2021-05,3211,verified_tw_reference_fuzzy,0.9344,Dynapack,FinLab company_basic_info:英文簡稱,true,true,2,
+E INK HOLDINGS,4,small_cap;standard,addition;deletion,2013-05;2022-02,8069,verified_tw_official_round3,0.99,元太科技工業股份有限公司 / EIH,Round3 official audit: FinLab company_basic_info + TPEx official reference,true,true,4,
+E-LEAD ELECTRONIC CO,2,small_cap,addition;deletion,2014-05;2015-11,2497,verified_tw_reference_fuzzy,0.9253,E-LEAD,FinLab company_basic_info:英文簡稱,true,true,2,
+E-LIFE MALL CORPORATION,1,small_cap,deletion,2014-11,6281,verified_tw_reference_fuzzy,0.9445,E-LIFE,FinLab company_basic_info:英文簡稱,true,true,1,
+E-ONE MOLI ENERGY CORP,2,small_cap,addition;deletion,2009-05;2011-11,,needs_review,0.0,,,false,false,0,mapping_status=needs_review;missing_stock_code
+E-TON SOLAR TECH,1,small_cap,deletion,2018-05,,needs_review,0.0,,,false,false,0,mapping_status=needs_review;missing_stock_code
+EASTERN MEDIA INTL,1,small_cap,deletion,2015-11,,needs_review,0.0,,,false,false,0,mapping_status=needs_review;missing_stock_code
+ECHEM SOLUTIONS,1,small_cap,addition,2025-05,,needs_review,0.0,,,false,false,0,mapping_status=needs_review;missing_stock_code
+ECLAT TEXTILE COMPANY,5,small_cap;standard,addition;deletion,2010-11;2013-08;2026-02,1476,verified_tw_reference_fuzzy,0.9285,ECLAT,FinLab company_basic_info:英文簡稱,true,true,5,
+EDISON OPTO CORP,2,small_cap,addition;deletion,2010-05;2013-05,3591,mapped_exact_normalized,1.0,EDISON OPTO,FinLab company_basic_info:英文簡稱,true,true,2,
+EFUN TECHNOLOGY,1,small_cap,deletion,2011-11,,needs_review,0.0,,,false,false,0,mapping_status=needs_review;missing_stock_code
+EGIS TECHNOLOGY,6,small_cap,addition;deletion,2016-05;2018-11;2019-05;2021-11;2024-05;2025-02,,needs_review,0.0,,,false,false,0,mapping_status=needs_review;missing_stock_code
+EIRGENIX,2,small_cap,addition;deletion,2021-05;2026-05,6589,mapped_exact_normalized,1.0,EirGenix,FinLab company_basic_info:英文簡稱,true,true,2,
+ELITE ADVANCED LASER,5,small_cap,addition;deletion,2010-11;2012-05;2014-05;2018-11;2024-08,,needs_review,0.0,,,false,false,0,mapping_status=needs_review;missing_stock_code
+ELITE MATERIAL CO,3,small_cap;standard,addition;deletion,2009-11;2025-02,2383,verified_tw_official_round3,0.99,台光電子材料股份有限公司 / EMC,Round3 official audit: FinLab company_basic_info + TWSE official reference,true,true,3,
+ELITEGROUP COMPUTER SYS,4,small_cap;standard,addition;deletion,2006-05;2018-11;2021-05;2025-02,2331,verified_tw_official_round3,0.99,精英電腦股份有限公司 / ECS,Round3 official audit: FinLab company_basic_info + TWSE official reference,true,true,4,
+EMEMORY TECHNOLOGY,3,small_cap;standard,addition;deletion,2010-11;2021-11,3529,verified_tw_reference_fuzzy,0.9289,eMemory,FinLab company_basic_info:英文簡稱,true,true,3,
+ENE TECHNOLOGY CO,2,small_cap,addition;deletion,2009-11;2011-11,,needs_review,0.0,,,false,false,0,mapping_status=needs_review;missing_stock_code
+ENG ELECTRIC CO,2,small_cap,addition;deletion,2010-11;2013-05,,needs_review,0.0,,,false,false,0,mapping_status=needs_review;missing_stock_code
+ENNOCONN CORP,1,small_cap,addition,2014-11,6414,mapped_exact_normalized,1.0,ENNOCONN,FinLab company_basic_info:英文簡稱,true,true,1,
+ENTIE COMMERCIAL BANK,1,small_cap,addition,2012-11,2849,verified_tw_reference_fuzzy,0.83,EnTie Bank,FinLab company_basic_info:英文簡稱,true,true,1,
+ENTIRE TECHNOLOGY CO,2,small_cap,addition;deletion,2010-05;2014-05,6775,verified_tw_reference_fuzzy,0.9547,ENTIRE TECH,FinLab company_basic_info:英文簡稱,true,true,2,
+EPISIL PRECISION,2,small_cap,addition;deletion,2020-05;2025-02,3707,verified_tw_reference_fuzzy,0.9275,EPISIL,FinLab company_basic_info:英文簡稱,true,true,2,
+EPISIL TECHNOLOGIES,2,small_cap,addition;deletion,2021-05;2025-05,3707,verified_tw_reference_fuzzy,0.9216,EPISIL,FinLab company_basic_info:英文簡稱,true,true,2,
+EPISIL TECHNOLOGIES INC,1,small_cap,deletion,2012-11,3707,verified_tw_reference_fuzzy,0.9216,EPISIL,FinLab company_basic_info:英文簡稱,true,true,1,
+EPISTAR CORP,3,small_cap;standard,addition;deletion,2007-05;2015-11,2448,verified_historical_round4,0.97,Epistar Corporation,Round4 conflict review: https://www.ennostar.com/en/news/news/2 | https://www.ledinside.com/node/31791,true,false,0,ticker_not_in_local_universe
+ERIS TECHNOLOGY,2,small_cap,addition;deletion,2024-08;2025-02,3675,verified_tw_reference_fuzzy,0.95,Eris Tech,FinLab company_basic_info:英文簡稱,true,true,2,
+ETERNAL CHEMICAL CO,2,small_cap;standard,addition;deletion,2013-05,1717,verified_tw_reference_fuzzy,0.9337,ETERNAL,FinLab company_basic_info:英文簡稱,true,true,2,
+ETRON TECHNOLOGY,3,small_cap,addition;deletion,2012-11;2022-05;2025-02,5351,verified_tw_reference_fuzzy,0.9213,Etron,FinLab company_basic_info:英文簡稱,true,true,3,
+EVA AIRWAYS CORP,4,small_cap;standard,addition;deletion,2020-11;2022-05,,needs_review,0.0,,,false,false,0,mapping_status=needs_review;missing_stock_code
+EVER SUPREME BIO TECH,2,small_cap,addition;deletion,2021-05;2025-02,6712,verified_tw_reference_fuzzy,0.9471,Ever Supreme,FinLab company_basic_info:英文簡稱,true,true,2,
+EVERGREEN AVIATION TECH,1,small_cap,addition,2023-08,,needs_review,0.0,,,false,false,0,mapping_status=needs_review;missing_stock_code
+EVERGREEN INTERNATIONAL,4,small_cap;standard,addition;deletion,2009-05;2011-11,2607,verified_historical_round4,0.97,Evergreen International Storage & Transport Corp,Round4 conflict review: https://markets.ft.com/data/equities/tearsheet/profile?s=2607%3ATAI | https://stockanalysis.com/quote/tpe/2607/,true,true,4,
+EVERGREEN STEEL,1,small_cap,addition,2022-05,,needs_review,0.0,,,false,false,0,mapping_status=needs_review;missing_stock_code
+EVERLIGHT CHEMICAL,1,small_cap,deletion,2024-05,,needs_review,0.0,,,false,false,0,mapping_status=needs_review;missing_stock_code
+EVERLIGHT ELECTRONICS CO,2,small_cap;standard,addition;deletion,2012-11,,needs_review,0.0,,,false,false,0,mapping_status=needs_review;missing_stock_code
+EXCELSIOR MEDICAL CO,2,small_cap,addition;deletion,2009-11;2014-11,,needs_review,0.0,,,false,false,0,mapping_status=needs_review;missing_stock_code
+EZCONN,2,small_cap,addition,2024-11;2025-05,6442,mapped_exact_normalized,1.0,EZconn,FinLab company_basic_info:英文簡稱,true,true,2,
+FAR EAST DEPT STORES,2,small_cap;standard,addition;deletion,2015-05,,needs_review,0.0,,,false,false,0,mapping_status=needs_review;missing_stock_code
+FAR EASTERN NEW CENTURY,2,small_cap;standard,addition;deletion,2026-05,,needs_review,0.0,,,false,false,0,mapping_status=needs_review;missing_stock_code
+FARGLORY DEVELOPERS CO,5,small_cap;standard,addition;deletion,2008-05;2008-11;2009-05,5522,verified_tw_reference_fuzzy,0.9321,Farglory,FinLab company_basic_info:英文簡稱,true,true,5,
+FARGLORY FTZ INVESTMENT,4,small_cap,addition;deletion,2009-05;2011-11;2022-11;2025-05,5607,verified_tw_reference_fuzzy,0.9422,Farglory FTZ,FinLab company_basic_info:英文簡稱,true,true,4,
+FARGLORY LAND DEV,2,small_cap;standard,addition;deletion,2015-05,5522,verified_tw_reference_fuzzy,0.9371,Farglory,FinLab company_basic_info:英文簡稱,true,true,2,
+FEDERAL CORP,1,small_cap,deletion,2016-11,2102,mapped_exact_normalized,1.0,FEDERAL CORP,FinLab company_basic_info:英文簡稱,true,true,1,
+FENG HSIN IRON & STEEL,2,standard,addition;deletion,2008-05;2014-05,2015,verified_tw_official_round3,0.99,豐興鋼鐵股份有限公司 / FH,Round3 official audit: FinLab company_basic_info + TWSE official reference,true,true,2,
+FENG TAY ENTERPRISE CO,4,small_cap;standard,addition;deletion,2015-05;2026-02,9910,verified_tw_official_round3,0.99,豐泰企業股份有限公司 / FT,Round3 official audit: FinLab company_basic_info + TWSE official reference,true,true,4,
+FIRICH ENTERPRISES CO,3,small_cap;standard,addition;deletion,2008-11;2021-11,8076,verified_tw_reference_fuzzy,0.9233,FIRICH,FinLab company_basic_info:英文簡稱,true,true,3,
+FIRST COPPER TECHNOLOGY,4,small_cap,addition;deletion,2021-05;2022-11;2024-05;2025-02,,needs_review,0.0,,,false,false,0,mapping_status=needs_review;missing_stock_code
+FIRST HI TEC ENTERPRISE,1,small_cap,addition,2025-08,,needs_review,0.0,,,false,false,0,mapping_status=needs_review;missing_stock_code
+FIRST HOTEL,1,small_cap,deletion,2016-11,2706,mapped_exact_normalized,1.0,FIRST HOTEL,FinLab company_basic_info:英文簡稱,true,true,1,
+FIRST STEAMSHIP,2,small_cap,addition;deletion,2013-11;2015-11,,needs_review,0.0,,,false,false,0,mapping_status=needs_review;missing_stock_code
+FITIPOWER INTEGRATED,1,small_cap,addition,2021-05,4961,verified_tw_reference_fuzzy,0.935,FITIPOWER,FinLab company_basic_info:英文簡稱,true,true,1,
+FLEXIUM INTERCONNECT,1,small_cap,addition,2009-11,6269,verified_tw_reference_fuzzy,0.925,FLEXIUM,FinLab company_basic_info:英文簡稱,true,true,1,
+FLYTECH TECHNOLOGY CO,1,small_cap,deletion,2021-11,6206,verified_tw_reference_fuzzy,0.9289,FLYTECH,FinLab company_basic_info:英文簡稱,true,true,1,
+FOCALTECH SYSTEMS CO,3,small_cap,addition;deletion,2018-11;2021-05;2025-11,3545,verified_tw_reference_fuzzy,0.9429,FocalTech,FinLab company_basic_info:英文簡稱,true,true,3,
+FORMOSA ADVANCED TECH,2,small_cap,addition;deletion,2025-02;2026-02,,needs_review,0.0,,,false,false,0,mapping_status=needs_review;missing_stock_code
+FORMOSA INT'L HOTELS,2,small_cap;standard,addition;deletion,2009-05,2707,verified_tw_official_round3,0.99,晶華國際酒店股份有限公司 / GFRT,Round3 official audit: FinLab company_basic_info + TWSE official reference,true,true,2,
+FORMOSA INTL HOTELS,2,small_cap;standard,addition;deletion,2015-05,,needs_review,0.0,,,false,false,0,mapping_status=needs_review;missing_stock_code
+FORMOSA SUMCO TECHNOLOGY,3,small_cap;standard,addition;deletion,2008-11;2010-05;2019-05,3532,verified_tw_official_round3,0.99,台塑勝高科技股份有限公司 / FST,Round3 official audit: FinLab company_basic_info + TWSE official reference,true,true,3,
+FORMOSA TAFFETA CO,2,small_cap;standard,addition;deletion,2020-11,,needs_review,0.0,,,false,false,0,mapping_status=needs_review;missing_stock_code
+FORMOSAN RUBBER GROUP,1,small_cap,deletion,2017-11,,needs_review,0.0,,,false,false,0,mapping_status=needs_review;missing_stock_code
+FORMOSAN UNION CHEMICAL,2,small_cap,addition;deletion,2010-11;2014-11,,needs_review,0.0,,,false,false,0,mapping_status=needs_review;missing_stock_code
+FORTUNE ELECTRIC CO,6,small_cap;standard,addition;deletion,2012-11;2020-11;2021-11;2023-05;2024-05,,needs_review,0.0,,,false,false,0,mapping_status=needs_review;missing_stock_code
+FOSITEK,1,small_cap,addition,2024-05,6805,mapped_exact_normalized,1.0,Fositek,FinLab company_basic_info:英文簡稱,true,true,1,
+FOXCONN TECHNOLOGY CO,2,small_cap;standard,addition;deletion,2022-05,,needs_review,0.0,,,false,false,0,mapping_status=needs_review;missing_stock_code
+FOXSEMICON INTGR TECH,1,small_cap,addition,2017-11,,needs_review,0.0,,,false,false,0,mapping_status=needs_review;missing_stock_code
+FROCH ENTERPRISE CO,1,small_cap,deletion,2012-05,2030,verified_tw_reference_fuzzy,0.9213,FROCH,FinLab company_basic_info:英文簡稱,true,true,1,
+FSP TECHNOLOGY,1,small_cap,deletion,2014-11,,needs_review,0.0,,,false,false,0,mapping_status=needs_review;missing_stock_code
+FUBON NO 1 REIT,1,small_cap,deletion,2009-05,,needs_review,0.0,,,false,false,0,mapping_status=needs_review;missing_stock_code
+FULGENT SUN INTL HLDG,2,small_cap,addition;deletion,2019-11;2026-05,9802,verified_tw_reference_fuzzy,0.9424,Fulgent Sun,FinLab company_basic_info:英文簡稱,true,true,2,
+FULLTECH FIBER GLASS,4,small_cap,addition;deletion,2010-05;2013-05;2025-08;2026-02,,needs_review,0.0,,,false,false,0,mapping_status=needs_review;missing_stock_code
+FUSHENG PRECISION,1,small_cap,addition,2019-05,,needs_review,0.0,,,false,false,0,mapping_status=needs_review;missing_stock_code
+G SHANK ENTERPRISE CO,2,small_cap,addition;deletion,2013-05;2024-08,,needs_review,0.0,,,false,false,0,mapping_status=needs_review;missing_stock_code
+G TECH OPTOELECTRONICS C,2,small_cap,addition;deletion,2010-05;2014-11,,needs_review,0.0,,,false,false,0,mapping_status=needs_review;missing_stock_code
+GALLANT MICRO MACHINING,1,small_cap,addition,2026-05,,needs_review,0.0,,,false,false,0,mapping_status=needs_review;missing_stock_code
+GALLANT PREC MACHINING,2,small_cap,addition;deletion,2024-11;2025-05,,needs_review,0.0,,,false,false,0,mapping_status=needs_review;missing_stock_code
+GALLOP NO 1 REIT,1,small_cap,addition,2013-05,,needs_review,0.0,,,false,false,0,mapping_status=needs_review;missing_stock_code
+GAMANIA DIGITAL ENTERTA,2,small_cap,addition;deletion,2009-05;2013-05,6180,verified_tw_reference_fuzzy,0.9204,GAMANIA,FinLab company_basic_info:英文簡稱,true,true,2,
+GEMTEK TECHNOLOGY CORP,1,small_cap,deletion,2015-11,4906,verified_tw_reference_fuzzy,0.9253,GEMTEK,FinLab company_basic_info:英文簡稱,true,true,1,
+GENERAL INTERFACE SOLN,7,small_cap;standard,addition;deletion,2015-11;2017-08;2018-11;2026-02;2026-05,6456,verified_tw_official_round3,0.99,GIS Holding Limited / GIS-KY,Round3 official audit: FinLab company_basic_info + TWSE official reference,true,true,7,
+GENESIS PHOTONICS,2,small_cap,addition;deletion,2008-11;2014-11,6221,verified_tw_reference_fuzzy,0.9312,Genesis,FinLab company_basic_info:英文簡稱,true,true,2,
+GENESYS LOGIC,2,small_cap,addition;deletion,2022-05;2022-11,,needs_review,0.0,,,false,false,0,mapping_status=needs_review;missing_stock_code
+GENESYS LOGIC INC,1,small_cap,deletion,2008-11,,needs_review,0.0,,,false,false,0,mapping_status=needs_review;missing_stock_code
+GENIUS ELECTR OPTICAL,2,small_cap,addition;deletion,2016-11;2017-05,,needs_review,0.0,,,false,false,0,mapping_status=needs_review;missing_stock_code
+GEOVISION,1,small_cap,deletion,2015-11,3356,mapped_exact_normalized,1.0,GeoVision,FinLab company_basic_info:英文簡稱,true,true,1,
+GFC,1,small_cap,addition,2024-05,4506,mapped_exact_normalized,1.0,GFC,FinLab company_basic_info:英文簡稱,true,true,1,
+GIANT MANUFACTURING CO.,5,small_cap;standard,addition;deletion,2007-05;2009-05;2023-11,9921,verified_tw_official_round3,0.99,巨大機械工業股份有限公司 / GIANT,Round3 official audit: FinLab company_basic_info + TWSE official reference,true,true,5,
+GIANTPLUS TECHNOLOGY CO,1,small_cap,deletion,2013-05,8105,verified_tw_reference_fuzzy,0.935,GiantPlus,FinLab company_basic_info:英文簡稱,true,true,1,
+GIGABYTE TECHNOLOGY CO,3,small_cap;standard,addition;deletion,2008-05;2023-08,2376,verified_tw_reference_fuzzy,0.9321,GIGABYTE,FinLab company_basic_info:英文簡稱,true,true,3,
+GIGASOLAR MATERIALS COR,1,small_cap,addition,2010-05,3691,verified_tw_reference_fuzzy,0.9291,GIGASOLAR,FinLab company_basic_info:英文簡稱,true,true,1,
+GIGASOLAR MATERIALS CORP,1,small_cap,deletion,2018-11,3691,verified_tw_reference_fuzzy,0.9374,GIGASOLAR,FinLab company_basic_info:英文簡稱,true,true,1,
+GIGASTORAGE CORP,2,small_cap,addition;deletion,2010-05;2017-11,,needs_review,0.0,,,false,false,0,mapping_status=needs_review;missing_stock_code
+GINKO INTERNATIONAL,2,small_cap,addition;deletion,2015-05;2022-05,,needs_review,0.0,,,false,false,0,mapping_status=needs_review;missing_stock_code
+GLOBAL BRANDS MANUFACT,1,small_cap,addition,2021-05,,needs_review,0.0,,,false,false,0,mapping_status=needs_review;missing_stock_code
+GLOBAL BRANDS MANUFACT.,2,small_cap,deletion,2008-11;2014-05,,needs_review,0.0,,,false,false,0,mapping_status=needs_review;missing_stock_code
+GLOBAL LIGHTING TECH,4,small_cap,addition;deletion,2011-11;2013-11;2020-05;2021-11,,needs_review,0.0,,,false,false,0,mapping_status=needs_review;missing_stock_code
+GLOBAL MIXED-MODE TECH,2,small_cap,addition;deletion,2015-11;2020-11,,needs_review,0.0,,,false,false,0,mapping_status=needs_review;missing_stock_code
+GLOBAL PMX,4,small_cap,addition;deletion,2016-11;2018-11;2019-11;2025-02,4551,mapped_exact_normalized,1.0,GLOBAL PMX,FinLab company_basic_info:英文簡稱,true,true,4,
+GLOBAL UNICHIP CORP,4,small_cap;standard,addition;deletion,2009-05;2009-11;2023-05,3443,verified_tw_official_round3,0.99,創意電子股份有限公司 / GUC,Round3 official audit: FinLab company_basic_info + TWSE official reference,true,true,4,
+GLOBALWAFERS,3,small_cap;standard,addition;deletion,2016-05;2017-05,,needs_review,0.0,,,false,false,0,mapping_status=needs_review;missing_stock_code
+GLOBE UNION INDUSTRIAL,1,small_cap,deletion,2013-05,,needs_review,0.0,,,false,false,0,mapping_status=needs_review;missing_stock_code
+GLORIA MATERIAL TECH,1,small_cap,deletion,2018-11,,needs_review,0.0,,,false,false,0,mapping_status=needs_review;missing_stock_code
+GLYCONEX,2,small_cap,addition;deletion,2013-11;2014-11,4168,mapped_exact_normalized,1.0,GlycoNex Inc.,FinLab company_basic_info:英文簡稱,true,true,2,
+GOLD CIRCUIT ELECTRONICS,6,small_cap;standard,addition;deletion,2012-11;2015-05;2016-05;2020-05;2025-11,,needs_review,0.0,,,false,false,0,mapping_status=needs_review;missing_stock_code
+GOURMET MASTER CO,2,small_cap,addition;deletion,2013-05;2025-11,2723,verified_tw_reference_fuzzy,0.94,Gourmet,FinLab company_basic_info:英文簡稱,true,true,2,
+GRAND PACIFIC PETROCHEM,1,small_cap,deletion,2025-02,,needs_review,0.0,,,false,false,0,mapping_status=needs_review;missing_stock_code
+GRAPE KING,1,small_cap,addition,2010-05,,needs_review,0.0,,,false,false,0,mapping_status=needs_review;missing_stock_code
+GREAT CHINA METAL IND,2,small_cap,addition;deletion,2009-05;2018-11,,needs_review,0.0,,,false,false,0,mapping_status=needs_review;missing_stock_code
+GREAT TAIPEI GAS,1,small_cap,deletion,2014-11,,needs_review,0.0,,,false,false,0,mapping_status=needs_review;missing_stock_code
+GREAT TREE PHARMACY,2,small_cap,addition;deletion,2022-05;2026-02,6469,verified_tw_reference_fuzzy,0.9426,Great Tree,FinLab company_basic_info:英文簡稱,true,true,2,
+GREEN ENERGY TECHNOLOGY,1,small_cap,deletion,2017-05,,needs_review,0.0,,,false,false,0,mapping_status=needs_review;missing_stock_code
+GREEN SEAL HOLDING,2,small_cap,addition;deletion,2015-05;2018-05,,needs_review,0.0,,,false,false,0,mapping_status=needs_review;missing_stock_code
+GROUP UP INDUSTRIAL,1,small_cap,addition,2026-05,,needs_review,0.0,,,false,false,0,mapping_status=needs_review;missing_stock_code
+GUDENG PRECISION INDL,1,small_cap,addition,2020-11,3680,verified_tw_reference_fuzzy,0.9186,Gudeng,FinLab company_basic_info:英文簡稱,true,true,1,
+HANNSTAR BOARD CORP,2,small_cap,addition;deletion,2014-05;2019-11,6116,verified_tw_reference_fuzzy,0.9471,Hannstar,FinLab company_basic_info:英文簡稱,true,true,2,
+HANNSTAR DISPLAY,2,small_cap;standard,addition;deletion,2011-11,6116,verified_tw_reference_fuzzy,0.94,Hannstar,FinLab company_basic_info:英文簡稱,true,true,2,
+HANNSTOUCH SOLUTION,1,small_cap,deletion,2015-11,3049,verified_tw_reference_fuzzy,0.9426,HannsTouch,FinLab company_basic_info:英文簡稱,true,true,1,
+HARVATEK CORP,1,small_cap,deletion,2012-11,6168,verified_tw_reference_fuzzy,0.9433,HARVATEK CORPOR,FinLab company_basic_info:英文簡稱,true,true,1,
+HD RENEWABLE ENERGY,2,small_cap,addition;deletion,2024-05;2026-05,,needs_review,0.0,,,false,false,0,mapping_status=needs_review;missing_stock_code
+HERMES MICROVISION,1,standard,addition,2012-11,,needs_review,0.0,,,false,false,0,mapping_status=needs_review;missing_stock_code
+HERON NEUTRON MEDICAL,1,small_cap,addition,2026-02,,needs_review,0.0,,,false,false,0,mapping_status=needs_review;missing_stock_code
+HEY SONG CORP,1,small_cap,deletion,2016-05,1234,mapped_exact_normalized,1.0,HEY SONG,FinLab company_basic_info:英文簡稱,true,true,1,
+HIGHWEALTH CONSTRUCTION,4,small_cap;standard,addition;deletion,2010-11;2021-05,2542,verified_tw_reference_fuzzy,0.9335,Highwealth,FinLab company_basic_info:英文簡稱,true,true,4,
+HIROCA HOLDINGS,4,small_cap,addition;deletion,2011-05;2012-05;2016-05;2018-11,1338,mapped_exact_normalized,1.0,Hiroca,FinLab company_basic_info:英文簡稱,true,true,4,
+HITI DIGITAL,2,small_cap,addition;deletion,2010-05;2011-11,,needs_review,0.0,,,false,false,0,mapping_status=needs_review;missing_stock_code
+HIWIN MIKROSYSTEM CORP,2,small_cap,addition;deletion,2021-05;2022-11,2049,verified_tw_reference_fuzzy,0.9194,HIWIN,FinLab company_basic_info:英文簡稱,true,true,2,
+HIWIN TECHNOLOGIES CORP,3,small_cap;standard,addition;deletion,2008-11;2022-05,2049,verified_tw_reference_fuzzy,0.9178,HIWIN,FinLab company_basic_info:英文簡稱,true,true,3,
+HIYES INTERNATIONAL,2,small_cap,addition;deletion,2024-05;2025-11,2348,verified_tw_reference_fuzzy,0.9163,Hiyes,FinLab company_basic_info:英文簡稱,true,true,2,
+HO TUNG CHEMICAL CORP,1,small_cap,deletion,2018-11,1714,verified_tw_reference_fuzzy,0.9337,HO TUNG,FinLab company_basic_info:英文簡稱,true,true,1,
+HOLDKEY ELECTRIC WIRE,2,small_cap,addition;deletion,2009-11;2011-11,,needs_review,0.0,,,false,false,0,mapping_status=needs_review;missing_stock_code
+HOLIDAY ENTERTAINMENT CO,2,small_cap,addition;deletion,2011-11;2014-05,9943,verified_tw_reference_fuzzy,0.9233,HOLIDAY,FinLab company_basic_info:英文簡稱,true,true,2,
+HOLTEK SEMICONDUCTOR,1,small_cap,deletion,2024-11,6202,verified_tw_reference_fuzzy,0.92,HOLTEK,FinLab company_basic_info:英文簡稱,true,true,1,
+HOLYSTONE ENTERPRISE CO,1,small_cap,deletion,2025-02,,needs_review,0.0,,,false,false,0,mapping_status=needs_review;missing_stock_code
+HONG TAI ELECTRIC IND'L,1,small_cap,deletion,2011-11,1612,verified_tw_reference_fuzzy,0.9248,HONG TAI,FinLab company_basic_info:英文簡稱,true,true,1,
+HONPRECISION,1,standard,addition,2026-02,2317,verified_tw_official_round3,0.99,鴻海精密工業股份有限公司 / HON HAI,Round3 official audit: FinLab company_basic_info + TWSE official reference,true,true,1,
+HORIZON SECURITIES CO,1,small_cap,deletion,2011-11,6015,verified_tw_reference_fuzzy,0.9511,HORIZON Sec.,FinLab company_basic_info:英文簡稱,true,true,1,
+HOTA INDUSTRIAL MFG CO,2,small_cap,addition;deletion,2013-11;2026-05,,needs_review,0.0,,,false,false,0,mapping_status=needs_review;missing_stock_code
+HOTAI FINANCE,1,small_cap,addition,2020-05,6592,mapped_exact_normalized,1.0,HOTAI FINANCE,FinLab company_basic_info:英文簡稱,true,true,1,
+HOTAI MOTOR COMPANY,1,standard,addition,2011-11,2207,mapped_exact_normalized,1.0,HOTAI MOTOR,FinLab company_basic_info:英文簡稱,true,true,1,
+HSIN KUANG STEEL CO,2,small_cap,addition;deletion,2018-05;2025-11,,needs_review,0.0,,,false,false,0,mapping_status=needs_review;missing_stock_code
+HTC CORP,2,small_cap;standard,addition;deletion,2018-11,2498,mapped_exact_normalized,1.0,HTC,FinLab company_basic_info:英文簡稱,true,true,2,
+HU LANE ASSOCIATE,4,small_cap,addition;deletion,2009-11;2018-11;2022-11;2026-02,6279,verified_tw_reference_fuzzy,0.9312,HU LANE,FinLab company_basic_info:英文簡稱,true,true,4,
+HUA ENG WIRE & CABLE CO.,2,small_cap,addition;deletion,2015-11;2024-05,,needs_review,0.0,,,false,false,0,mapping_status=needs_review;missing_stock_code
+HUANG HSIANG CONST,3,small_cap,addition;deletion,2018-11;2024-08;2025-08,2545,verified_tw_reference_fuzzy,0.9567,HUANG HSIANG,FinLab company_basic_info:英文簡稱,true,true,3,
+HUGA OPTOTECH,1,small_cap,addition,2009-05,,needs_review,0.0,,,false,false,0,mapping_status=needs_review;missing_stock_code
+HUNG CHING DEVELOPMENT,2,small_cap,addition;deletion,2009-11;2012-05,2527,verified_tw_reference_fuzzy,0.9355,Hung Ching,FinLab company_basic_info:英文簡稱,true,true,2,
+HUNG POO REAL ESTATE DEV,1,small_cap,deletion,2017-11,,needs_review,0.0,,,false,false,0,mapping_status=needs_review;missing_stock_code
+HUNG SHENG CONSTRUCTION,1,small_cap,deletion,2021-11,,needs_review,0.0,,,false,false,0,mapping_status=needs_review;missing_stock_code
+HWANG CHANG GENERAL CONS,1,small_cap,addition,2024-08,2543,verified_tw_reference_fuzzy,0.9358,HWANG CHANG,FinLab company_basic_info:英文簡稱,true,true,1,
+I-CHIUN PRECISION IND CO,2,small_cap,addition;deletion,2013-05;2024-11,2486,verified_tw_reference_fuzzy,0.9233,I-CHIUN,FinLab company_basic_info:英文簡稱,true,true,2,
+I-SHENG ELECTRIC WIRE,2,small_cap,addition;deletion,2009-05;2015-11,6115,verified_tw_reference_fuzzy,0.9233,I-SHENG,FinLab company_basic_info:英文簡稱,true,true,2,
+IBASE TECHNOLOGY,2,small_cap,addition;deletion,2023-08;2025-02,8050,verified_tw_reference_fuzzy,0.9213,IBASE,FinLab company_basic_info:英文簡稱,true,true,2,
+ICHIA TECHNOLOGIES,1,small_cap,deletion,2016-05,2402,verified_tw_reference_fuzzy,0.9178,ICHIA,FinLab company_basic_info:英文簡稱,true,true,1,
+IEI INTEGRATION CORP,1,small_cap,deletion,2021-11,,needs_review,0.0,,,false,false,0,mapping_status=needs_review;missing_stock_code
+ILI TECHNOLOGY CORP,2,small_cap,addition;deletion,2012-11;2013-11,,needs_review,0.0,,,false,false,0,mapping_status=needs_review;missing_stock_code
+INFORTREND TECHNOLOGY,1,small_cap,deletion,2014-11,2495,verified_tw_reference_fuzzy,0.9376,Infortrend,FinLab company_basic_info:英文簡稱,true,true,1,
+INNODISK CORP,1,small_cap,addition,2020-05,5289,mapped_exact_normalized,1.0,Innodisk,FinLab company_basic_info:英文簡稱,true,true,1,
+INOTERA MEMORIES,4,small_cap;standard,addition;deletion,2007-05;2012-11;2013-05,3474,verified_historical_round4,0.97,"Inotera Memories, Inc.",Round4 conflict review: https://www.digitimes.com/news/a20161011VL201.html | https://en.ctimes.com.tw/DispNews.asp%3FO%3DHJZCE96HQKMSAA00NO,true,false,0,ticker_not_in_local_universe
+INOTERA MEMORIES (ATM),1,standard,addition,2014-05,,needs_review,0.0,,,false,false,0,mapping_status=needs_review;missing_stock_code
+INSYDE SOFTWARE CORP,4,small_cap,addition;deletion,2009-05;2013-05;2024-11;2025-05,6231,verified_tw_reference_fuzzy,0.93,Insyde,FinLab company_basic_info:英文簡稱,true,true,4,
+INTEGRATED MEMORY LOGIC,1,small_cap,addition,2010-11,,needs_review,0.0,,,false,false,0,mapping_status=needs_review;missing_stock_code
+INTELLIGO TECHNOLOGY,1,small_cap,addition,2025-11,,needs_review,0.0,,,false,false,0,mapping_status=needs_review;missing_stock_code
+INTL CSRC INV HLDGS CO,1,small_cap,deletion,2025-02,,needs_review,0.0,,,false,false,0,mapping_status=needs_review;missing_stock_code
+INTL GAMES SYSTEM C,6,small_cap;standard,addition;deletion,2013-11;2014-11;2015-11;2016-05;2024-11,,needs_review,0.0,,,false,false,0,mapping_status=needs_review;missing_stock_code
+INVENTEC APPLIANCES,3,small_cap;standard,addition;deletion,2006-05;2008-11,2356,verified_tw_reference_fuzzy,0.9321,INVENTEC,FinLab company_basic_info:英文簡稱,true,true,3,
+IRON FORCE INDUSTRIAL,2,small_cap,addition;deletion,2015-11;2018-05,,needs_review,0.0,,,false,false,0,mapping_status=needs_review;missing_stock_code
+ITE TECHNOLOGY,2,small_cap,addition;deletion,2013-11;2021-05,,needs_review,0.0,,,false,false,0,mapping_status=needs_review;missing_stock_code
+ITH,1,small_cap,addition,2025-02,6962,mapped_exact_normalized,1.0,ITH Corporation,FinLab company_basic_info:公司名稱,true,true,1,
+J TOUCH CORP,1,small_cap,deletion,2012-11,,needs_review,0.0,,,false,false,0,mapping_status=needs_review;missing_stock_code
+J&V ENERGY TECHNOLOGY,2,small_cap,addition;deletion,2024-05;2026-02,6869,verified_tw_reference_fuzzy,0.946,J&V Energy,FinLab company_basic_info:英文簡稱,true,true,2,
+JANFUSUN FANCYWORLD CORP,2,small_cap,addition;deletion,2009-05;2011-11,,needs_review,0.0,,,false,false,0,mapping_status=needs_review;missing_stock_code
+JENN FENG NEW ENERGY CO,1,small_cap,deletion,2012-05,,needs_review,0.0,,,false,false,0,mapping_status=needs_review;missing_stock_code
+JENTECH PRECISION INDL,4,small_cap;standard,addition;deletion,2015-11;2019-11;2024-11,3653,verified_tw_reference_fuzzy,0.9218,JENTECH,FinLab company_basic_info:英文簡稱,true,true,4,
+JESS-LINK PRODUCTS CO,1,small_cap,addition,2024-08,,needs_review,0.0,,,false,false,0,mapping_status=needs_review;missing_stock_code
+JIH SUN FINANCIAL,1,small_cap,deletion,2022-05,,needs_review,0.0,,,false,false,0,mapping_status=needs_review;missing_stock_code
+JOHNSON HEALTH TECH CO,2,small_cap,addition;deletion,2018-05;2019-11,,needs_review,0.0,,,false,false,0,mapping_status=needs_review;missing_stock_code
+JSL CONSTRUCTION & DEV,1,small_cap,addition,2023-11,,needs_review,0.0,,,false,false,0,mapping_status=needs_review;missing_stock_code
+KAI CHIEH INTL INV,2,small_cap,addition;deletion,2010-11;2011-05,,needs_review,0.0,,,false,false,0,mapping_status=needs_review;missing_stock_code
+KAULIN MANUFACTURING CO,2,small_cap,addition;deletion,2010-11;2012-11,1531,verified_tw_reference_fuzzy,0.92,KAULIN,FinLab company_basic_info:英文簡稱,true,true,2,
+KD HOLDING CORP,1,small_cap,addition,2011-11,6655,mapped_exact_normalized,1.0,KD,FinLab company_basic_info:英文簡稱,true,true,1,
+KEE TAI PROPERTIES CO,1,small_cap,deletion,2016-11,,needs_review,0.0,,,false,false,0,mapping_status=needs_review;missing_stock_code
+KENMEC MECHANICAL ENGR,2,small_cap,addition;deletion,2023-08;2026-05,6125,verified_tw_reference_fuzzy,0.9173,KENMEC,FinLab company_basic_info:英文簡稱,true,true,2,
+KENMEC MECHANICAL ENGR.,1,small_cap,deletion,2012-05,6125,verified_tw_reference_fuzzy,0.9173,KENMEC,FinLab company_basic_info:英文簡稱,true,true,1,
+KERRY TJ LOGISTICS CO,3,small_cap,addition;deletion,2019-05;2021-05;2026-02,2608,verified_tw_reference_fuzzy,0.9344,Kerry TJ,FinLab company_basic_info:英文簡稱,true,true,3,
+KING SLIDE WORKS CO,2,small_cap;standard,addition;deletion,2025-08,2059,verified_tw_reference_fuzzy,0.9525,king slide,FinLab company_basic_info:英文簡稱,true,true,2,
+KING YUAN ELECTRONICS CO,2,small_cap;standard,addition;deletion,2025-11,,needs_review,0.0,,,false,false,0,mapping_status=needs_review;missing_stock_code
+KINGCAN HOLDINGS,2,small_cap,addition;deletion,2013-11;2014-11,8411,mapped_exact_normalized,1.0,KINGCAN,FinLab company_basic_info:英文簡稱,true,true,2,
+KINGPAK TECHNOLOGY,2,small_cap,addition;deletion,2016-05;2018-11,,needs_review,0.0,,,false,false,0,mapping_status=needs_review;missing_stock_code
+KINGS TOWN CONSTRUCTION,1,small_cap,deletion,2015-11,,needs_review,0.0,,,false,false,0,mapping_status=needs_review;missing_stock_code
+KINIK COMPANY,2,small_cap,addition;deletion,2018-11;2022-05,1560,mapped_exact_normalized,1.0,KINIK,FinLab company_basic_info:英文簡稱,true,true,2,
+KINPO ELECTRONICS,1,standard,deletion,2008-05,2312,verified_tw_reference_fuzzy,0.9194,KINPO,FinLab company_basic_info:英文簡稱,true,true,1,
+KINSUS INTERCONNECT TECH,3,small_cap;standard,addition;deletion,2007-05;2015-11,3189,verified_tw_official_round3,0.99,景碩科技股份有限公司 / KINSUS,Round3 official audit: FinLab company_basic_info + TWSE official reference,true,true,3,
+KMC (KUEI MENG) INT'L,1,small_cap,addition,2013-05,,needs_review,0.0,,,false,false,0,mapping_status=needs_review;missing_stock_code
+KMC (KUEI MENG) INTL,1,small_cap,deletion,2025-05,,needs_review,0.0,,,false,false,0,mapping_status=needs_review;missing_stock_code
+KOBIN ENVIRONMNTL ENTER,1,small_cap,addition,2012-05,,needs_review,0.0,,,false,false,0,mapping_status=needs_review;missing_stock_code
+KS TERMINALS,2,small_cap,addition;deletion,2017-11;2018-11,,needs_review,0.0,,,false,false,0,mapping_status=needs_review;missing_stock_code
+KUNG LONG BATTERIES INDL,2,small_cap,addition;deletion,2015-05;2024-11,1537,verified_tw_reference_fuzzy,0.9275,KUNG LONG,FinLab company_basic_info:英文簡稱,true,true,2,
+KUO TOONG INTERNATIONAL,3,small_cap,addition;deletion,2016-05;2024-05;2025-02,,needs_review,0.0,,,false,false,0,mapping_status=needs_review;missing_stock_code
+KUOYANG CONSTRUCTION,3,small_cap,addition;deletion,2017-11;2020-11;2021-11,,needs_review,0.0,,,false,false,0,mapping_status=needs_review;missing_stock_code
+KWONG FONG INDUSTRIES,1,small_cap,deletion,2014-11,,needs_review,0.0,,,false,false,0,mapping_status=needs_review;missing_stock_code
+KYE SYSTEMS CORP,1,small_cap,deletion,2012-11,,needs_review,0.0,,,false,false,0,mapping_status=needs_review;missing_stock_code
+L&K ENGINEERING CO,1,small_cap,addition,2023-08,6139,verified_tw_reference_fuzzy,0.9268,L & K,FinLab company_basic_info:英文簡稱,true,true,1,
+LAI YIH FOOTWARE,1,small_cap,addition,2024-11,6890,verified_tw_reference_fuzzy,0.9337,Lai Yih,FinLab company_basic_info:英文簡稱,true,true,1,
+LAN FA TEXTILE,2,small_cap,addition;deletion,2010-11;2012-11,1459,verified_tw_reference_fuzzy,0.9329,LAN FA,FinLab company_basic_info:英文簡稱,true,true,2,
+LAND MARK OPTOELECTRS,1,small_cap,addition,2015-11,,needs_review,0.0,,,false,false,0,mapping_status=needs_review;missing_stock_code
+LEADTREND TECH CORP,2,small_cap,addition;deletion,2009-11;2011-11,,needs_review,0.0,,,false,false,0,mapping_status=needs_review;missing_stock_code
+LEALEA ENTERPRISE,1,small_cap,deletion,2021-11,1444,verified_tw_reference_fuzzy,0.9253,LEALEA,FinLab company_basic_info:英文簡稱,true,true,1,
+LEE CHANG YUNG CHEM IND,3,small_cap;standard,addition;deletion,2010-11;2014-05,,needs_review,0.0,,,false,false,0,mapping_status=needs_review;missing_stock_code
+LELON ELECTRONICS CORP,1,small_cap,addition,2026-05,2472,verified_tw_reference_fuzzy,0.9194,LELON,FinLab company_basic_info:英文簡稱,true,true,1,
+LEOFOO DEVELOPMENT CORP,1,small_cap,deletion,2013-11,2705,verified_tw_reference_fuzzy,0.9233,LEOFOO,FinLab company_basic_info:英文簡稱,true,true,1,
+LES ENPHANTS CO,1,small_cap,addition,2009-11,2911,mapped_exact_normalized,1.0,Les enphants,FinLab company_basic_info:英文簡稱,true,true,1,
+LEXTAR ELECTRONICS CORP,2,small_cap,addition;deletion,2010-11;2019-05,,needs_review,0.0,,,false,false,0,mapping_status=needs_review;missing_stock_code
+LI CHENG ENTERPRISE,2,small_cap,addition;deletion,2015-11;2018-05,4426,verified_tw_reference_fuzzy,0.9321,LI CHENG,FinLab company_basic_info:英文簡稱,true,true,2,
+LI PENG ENTERPRISE CO,1,small_cap,deletion,2018-05,,needs_review,0.0,,,false,false,0,mapping_status=needs_review;missing_stock_code
+LIAN HWA FOODS,1,small_cap,addition,2022-05,1231,mapped_exact_normalized,1.0,Lian Hwa Foods,FinLab company_basic_info:英文簡稱,true,true,1,
+LINGSEN PRECISION IND,1,small_cap,deletion,2014-11,,needs_review,0.0,,,false,false,0,mapping_status=needs_review;missing_stock_code
+LION TRAVEL SERVICE,2,small_cap,addition;deletion,2015-11;2016-11,,needs_review,0.0,,,false,false,0,mapping_status=needs_review;missing_stock_code
+LITE-ON IT,2,small_cap,addition;deletion,2010-11;2011-05,,needs_review,0.0,,,false,false,0,mapping_status=needs_review;missing_stock_code
+LITE-ON SEMICONDUCTOR,2,small_cap,addition;deletion,2018-11;2020-05,,needs_review,0.0,,,false,false,0,mapping_status=needs_review;missing_stock_code
+LONG BON DEVELOPMENT CO,1,small_cap,deletion,2017-11,2514,verified_tw_reference_fuzzy,0.93,LONG BON,FinLab company_basic_info:英文簡稱,true,true,1,
+LONGCHEN PAPER & PAC CO,1,small_cap,deletion,2025-05,,needs_review,0.0,,,false,false,0,mapping_status=needs_review;missing_stock_code
+LONGWELL CO,3,small_cap,addition;deletion,2009-11;2013-05;2025-11,6290,mapped_exact_normalized,1.0,LONGWELL,FinLab company_basic_info:英文簡稱,true,true,3,
+LOTES CO,3,small_cap;standard,addition;deletion,2009-11;2025-02,3533,mapped_exact_normalized,1.0,LOTES,FinLab company_basic_info:英文簡稱,true,true,3,
+LUMAX INT'L CORP,1,small_cap,addition,2009-05,6192,verified_tw_reference_fuzzy,0.9355,LUMAX,FinLab company_basic_info:英文簡稱,true,true,1,
+LUMOSA THERAPEUTICS,2,small_cap,addition,2024-05;2024-08,6535,verified_tw_reference_fuzzy,0.9216,LUMOSA,FinLab company_basic_info:英文簡稱,true,true,2,
+LUNG YEN CO,1,small_cap,deletion,2026-05,5530,mapped_exact_normalized,1.0,LUNG YEN,FinLab company_basic_info:英文簡稱,true,true,1,
+LUXNET CORP,1,small_cap,addition,2023-08,4979,mapped_exact_normalized,1.0,LuxNet,FinLab company_basic_info:英文簡稱,true,true,1,
+MACAUTO INDUSTRIAL,1,small_cap,deletion,2018-11,9951,verified_tw_reference_fuzzy,0.9289,MACAUTO,FinLab company_basic_info:英文簡稱,true,true,1,
+MACHVISION,3,small_cap,addition;deletion,2018-05;2021-11;2024-05,3563,mapped_exact_normalized,1.0,MACHVISION,FinLab company_basic_info:英文簡稱,true,true,3,
+MACROBLOCK,2,small_cap,addition;deletion,2009-05;2013-05,,needs_review,0.0,,,false,false,0,mapping_status=needs_review;missing_stock_code
+MACRONIX INTERNATIONAL,5,small_cap;standard,addition;deletion,2013-05;2017-11;2018-11,2337,verified_tw_reference_fuzzy,0.9264,Macronix,FinLab company_basic_info:英文簡稱,true,true,5,
+MAGLAYERS SCIENTIFIC TE,1,small_cap,deletion,2011-11,,needs_review,0.0,,,false,false,0,mapping_status=needs_review;missing_stock_code
+MARKETECH INTL CORP,1,small_cap,addition,2020-05,,needs_review,0.0,,,false,false,0,mapping_status=needs_review;missing_stock_code
+MATERIALS ANALYSIS TECH,2,small_cap,addition;deletion,2024-05;2025-05,,needs_review,0.0,,,false,false,0,mapping_status=needs_review;missing_stock_code
+MAYER STEEL PIPE CORP,2,small_cap,addition;deletion,2010-11;2012-05,2020,verified_tw_reference_fuzzy,0.83,MAYER PIPE,FinLab company_basic_info:英文簡稱,true,true,2,
+MEDIGEN BIOTECHNOLOGY,2,small_cap,addition;deletion,2012-05;2017-11,3176,verified_tw_reference_fuzzy,0.9233,MEDIGEN,FinLab company_basic_info:英文簡稱,true,true,2,
+MEDIGEN VACCINE,2,small_cap,addition;deletion,2020-11;2025-11,3176,verified_tw_reference_fuzzy,0.9367,MEDIGEN,FinLab company_basic_info:英文簡稱,true,true,2,
+MEGA UNION TECHNOLOGY,1,small_cap,addition,2025-08,6944,verified_tw_reference_fuzzy,0.9376,Mega Union,FinLab company_basic_info:英文簡稱,true,true,1,
+MEILOON INDUSTRIAL CO,1,small_cap,deletion,2012-05,2477,verified_tw_reference_fuzzy,0.9289,MEILOON,FinLab company_basic_info:英文簡稱,true,true,1,
+MERCURIES & ASSOCIATES,1,small_cap,deletion,2025-11,2905,verified_tw_reference_fuzzy,0.9275,MERCURIES,FinLab company_basic_info:英文簡稱,true,true,1,
+MERCURIES LIFE INSURANCE,1,small_cap,addition,2013-05,2867,verified_tw_reference_fuzzy,0.9483,Mercuries Life,FinLab company_basic_info:英文簡稱,true,true,1,
+MERIDA INDUSTRY CO,4,small_cap;standard,addition;deletion,2012-11;2017-11,,needs_review,0.0,,,false,false,0,mapping_status=needs_review;missing_stock_code
+MICRO-STAR INTERNATIONAL,9,small_cap;standard,addition;deletion,2008-05;2009-05;2010-11;2016-11;2025-11,2377,verified_tw_official_round3,0.99,微星科技股份有限公司 / MSI,Round3 official audit: FinLab company_basic_info + TWSE official reference,true,true,9,
+MICROBIO CO,4,small_cap,addition;deletion,2009-05;2018-11;2020-11;2025-11,4128,mapped_exact_normalized,1.0,MICROBIO,FinLab company_basic_info:英文簡稱,true,true,4,
+MICROELECTRONICS TECH,1,small_cap,deletion,2011-11,,needs_review,0.0,,,false,false,0,mapping_status=needs_review;missing_stock_code
+MICROLIFE CORP,1,small_cap,addition,2009-05,,needs_review,0.0,,,false,false,0,mapping_status=needs_review;missing_stock_code
+MIN AIK TECHNOLOGY CO,1,small_cap,deletion,2016-11,3060,verified_tw_reference_fuzzy,0.9289,MIN AIK,FinLab company_basic_info:英文簡稱,true,true,1,
+MIRLE AUTOMATION CORP,1,small_cap,deletion,2012-11,2464,verified_tw_reference_fuzzy,0.9213,Mirle,FinLab company_basic_info:英文簡稱,true,true,1,
+MITAC INTERNATIONAL,1,small_cap,addition,2011-05,,needs_review,0.0,,,false,false,0,mapping_status=needs_review;missing_stock_code
+MOMO.COM,4,small_cap;standard,addition;deletion,2015-05;2021-08;2024-11,8454,mapped_exact_normalized,1.0,momo,FinLab company_basic_info:英文簡稱,true,true,4,
+MOSEL VITELIC,4,small_cap;standard,addition;deletion,2007-05;2008-11;2012-05,2342,verified_tw_official_round3,0.99,台灣茂矽電子股份有限公司 / MVI,Round3 official audit: FinLab company_basic_info + TWSE official reference,true,true,4,
+MOTECH INDUSTRIES,6,small_cap;standard,addition;deletion,2007-05;2012-11;2018-11;2020-11;2021-11,6244,verified_tw_reference_fuzzy,0.9253,MOTECH,FinLab company_basic_info:英文簡稱,true,true,6,
+MPI CORP,4,small_cap;standard,addition;deletion,2013-11;2023-11;2026-05,6223,mapped_exact_normalized,1.0,MPI,FinLab company_basic_info:英文簡稱,true,true,4,
+MYSON CENTURY,1,small_cap,addition,2026-02,5314,verified_tw_reference_fuzzy,0.9285,Myson,FinLab company_basic_info:英文簡稱,true,true,1,
+NAMCHOW CHEMICAL INDUST,1,small_cap,addition,2009-11,1702,verified_tw_reference_fuzzy,0.9204,NAMCHOW,FinLab company_basic_info:英文簡稱,true,true,1,
+NAMCHOW HOLDINGS CO,1,small_cap,deletion,2025-05,1702,mapped_exact_normalized,1.0,NAMCHOW,FinLab company_basic_info:英文簡稱,true,true,1,
+NAN KANG RUBBER TIRE CO,3,small_cap;standard,addition;deletion,2010-11;2014-05,,needs_review,0.0,,,false,false,0,mapping_status=needs_review;missing_stock_code
+NAN LIU ENTERPRISE,2,small_cap,addition;deletion,2013-11;2021-11,6504,verified_tw_reference_fuzzy,0.9289,NAN LIU,FinLab company_basic_info:英文簡稱,true,true,2,
+NAN PAO RESINS CHEMICAL,1,small_cap,addition,2019-05,4766,verified_tw_reference_fuzzy,0.9204,NAN PAO,FinLab company_basic_info:英文簡稱,true,true,1,
+NAN YA PRINTED CIRCUIT,6,small_cap;standard,addition;deletion,2012-11;2021-02;2024-05,8046,verified_tw_official_round3,0.99,南亞電路板股份有限公司 / N.P.C,Round3 official audit: FinLab company_basic_info + TWSE official reference,true,true,6,
+NANTEX INDUSTRY CO,1,small_cap,deletion,2025-05,2108,verified_tw_reference_fuzzy,0.93,NANTEX,FinLab company_basic_info:英文簡稱,true,true,1,
+NANYA TECHNOLOGY,3,small_cap;standard,addition;deletion,2016-05;2025-02,2408,verified_tw_official_round3,0.99,南亞科技股份有限公司 / NTC,Round3 official audit: FinLab company_basic_info + TWSE official reference,true,true,3,
+NANYA TECHNOLOGY CORP,3,small_cap;standard,addition;deletion,2007-05;2011-11,2408,verified_tw_official_round3,0.99,南亞科技股份有限公司 / NTC,Round3 official audit: FinLab company_basic_info + TWSE official reference,true,true,3,
+NATIONAL PETROLEUM CO,1,small_cap,deletion,2016-05,,needs_review,0.0,,,false,false,0,mapping_status=needs_review;missing_stock_code
+NEO SOLAR POWER CORP,1,small_cap,addition,2008-11,1785,verified_tw_reference_fuzzy,0.8933,Solar,FinLab company_basic_info:英文簡稱,true,true,1,
+NETRONIX,2,small_cap,addition;deletion,2009-11;2011-11,,needs_review,0.0,,,false,false,0,mapping_status=needs_review;missing_stock_code
+NEWMAX TECHNOLOGY CO,4,small_cap,addition;deletion,2010-11;2014-11;2019-05;2021-11,3630,verified_tw_reference_fuzzy,0.9253,NEWMAX,FinLab company_basic_info:英文簡稱,true,true,4,
+NICHIDENBO,1,small_cap,addition,2026-02,,needs_review,0.0,,,false,false,0,mapping_status=needs_review;missing_stock_code
+NIDEC CHAUN CHOUNG TECH,1,small_cap,deletion,2021-05,,needs_review,0.0,,,false,false,0,mapping_status=needs_review;missing_stock_code
+NIEN HSING TEXTILE CORP,2,small_cap;standard,deletion,2006-05;2017-11,1451,verified_tw_reference_fuzzy,0.9456,NIEN HSING,FinLab company_basic_info:英文簡稱,true,true,2,
+NIEN MADE ENTERPRISE CO,4,small_cap;standard,addition;deletion,2007-05;2016-05;2026-02,8464,verified_tw_reference_fuzzy,0.935,Nien Made,FinLab company_basic_info:英文簡稱,true,true,4,
+NORTH STAR INTERNATIONAL,2,small_cap,addition;deletion,2023-11;2025-11,,needs_review,0.0,,,false,false,0,mapping_status=needs_review;missing_stock_code
+NOVATEK MICROELECTRS,1,standard,addition,2006-05,3034,verified_tw_reference_fuzzy,0.925,NOVATEK,FinLab company_basic_info:英文簡稱,true,true,1,
+NUVOTON TECHNOLOGY,3,small_cap,addition;deletion,2017-11;2018-11;2019-11,,needs_review,0.0,,,false,false,0,mapping_status=needs_review;missing_stock_code
+O-BANK,1,small_cap,addition,2017-11,2897,mapped_exact_normalized,1.0,O-Bank,FinLab company_basic_info:英文簡稱,true,true,1,
+O-TA PRECISION INDUSTRY,1,small_cap,deletion,2011-11,,needs_review,0.0,,,false,false,0,mapping_status=needs_review;missing_stock_code
+OBI PHARMA,4,small_cap;standard,addition;deletion,2015-11;2017-08;2025-05,4174,verified_tw_official_round3,0.99,台灣浩鼎生技股份有限公司 / OBI,Round3 official audit: FinLab company_basic_info + TPEx official reference,true,true,4,
+OCEAN PLASTICS CO,2,small_cap,addition;deletion,2009-11;2016-11,,needs_review,0.0,,,false,false,0,mapping_status=needs_review;missing_stock_code
+ONENESS BIOTECH,7,small_cap;standard,addition;deletion,2013-05;2017-05;2020-05;2020-11;2022-05,4743,mapped_exact_normalized,1.0,ONENESS BIOTECH,FinLab company_basic_info:英文簡稱,true,true,7,
+OPTIMAX TECHNOLOGY CORP,2,small_cap;standard,deletion,2007-05;2008-11,3051,verified_tw_reference_fuzzy,0.9289,Optimax,FinLab company_basic_info:英文簡稱,true,true,2,
+OPTOTECH CORP,1,small_cap,addition,2022-05,,needs_review,0.0,,,false,false,0,mapping_status=needs_review;missing_stock_code
+ORIENT EUROPHARMA CO,2,small_cap,addition;deletion,2013-11;2014-11,,needs_review,0.0,,,false,false,0,mapping_status=needs_review;missing_stock_code
+ORIENT SEMICONDUCTOR ELE,4,small_cap,addition;deletion,2012-11;2015-05;2017-11;2023-08,,needs_review,0.0,,,false,false,0,mapping_status=needs_review;missing_stock_code
+ORIENTAL UNION CHEMICAL,6,small_cap;standard,addition;deletion,2008-05;2012-11;2013-05;2025-02,1710,verified_tw_official_round3,0.99,東聯化學股份有限公司 / OUCC,Round3 official audit: FinLab company_basic_info + TWSE official reference,true,true,6,
+ORISE TECHNOLOGY CO,2,small_cap,addition;deletion,2009-05;2014-11,,needs_review,0.0,,,false,false,0,mapping_status=needs_review;missing_stock_code
+P-TWO INDUSTRIES,2,small_cap,addition;deletion,2009-11;2011-11,6158,verified_tw_reference_fuzzy,0.9213,P-TWO,FinLab company_basic_info:英文簡稱,true,true,2,
+PACIFIC HOSPITAL SUPPLY,1,small_cap,addition,2010-11,,needs_review,0.0,,,false,false,0,mapping_status=needs_review;missing_stock_code
+PAIHO SHIH HOLDINGS,2,small_cap,addition;deletion,2017-11;2021-11,8404,mapped_exact_normalized,1.0,PAIHO SHIH,FinLab company_basic_info:英文簡稱,true,true,2,
+PAN GERMAN UNIVERSAL,2,small_cap,addition;deletion,2023-05;2026-05,,needs_review,0.0,,,false,false,0,mapping_status=needs_review;missing_stock_code
+PAN JIT INTERNATIONAL,2,small_cap,addition;deletion,2013-05;2018-05,,needs_review,0.0,,,false,false,0,mapping_status=needs_review;missing_stock_code
+PAN-INTERNATIONAL IND,2,small_cap;standard,addition;deletion,2008-11,,needs_review,0.0,,,false,false,0,mapping_status=needs_review;missing_stock_code
+PARADE TECHNOLOGIES,5,small_cap;standard,addition;deletion,2012-05;2021-11;2024-05,4966,verified_tw_reference_fuzzy,0.9216,Parade,FinLab company_basic_info:英文簡稱,true,true,5,
+PARAGON TECHNOLOGIES CO,1,small_cap,deletion,2011-11,,needs_review,0.0,,,false,false,0,mapping_status=needs_review;missing_stock_code
+PC HOME ONLINE,2,small_cap,addition;deletion,2010-11;2022-11,,needs_review,0.0,,,false,false,0,mapping_status=needs_review;missing_stock_code
+PEGAVISION,1,small_cap,addition,2020-11,6491,mapped_exact_normalized,1.0,PEGAVISION,FinLab company_basic_info:英文簡稱,true,true,1,
+PHARMAENGINE INC,4,small_cap,addition;deletion,2013-05;2021-11;2022-11;2024-11,,needs_review,0.0,,,false,false,0,mapping_status=needs_review;missing_stock_code
+PHARMAESSENTIA,2,small_cap;standard,addition,2016-11;2022-11,,needs_review,0.0,,,false,false,0,mapping_status=needs_review;missing_stock_code
+PHARMALLY INTL HLDG,1,small_cap,addition,2015-11,,needs_review,0.0,,,false,false,0,mapping_status=needs_review;missing_stock_code
+PHIHONG TECHNOLOGY CO,2,small_cap,addition;deletion,2023-05;2025-05,2457,verified_tw_reference_fuzzy,0.9289,PHIHONG,FinLab company_basic_info:英文簡稱,true,true,2,
+PHISON ELECTRONICS CORP,4,small_cap;standard,addition;deletion,2009-05;2021-11,8299,verified_tw_reference_fuzzy,0.9233,Phison,FinLab company_basic_info:英文簡稱,true,true,4,
+PHOENIX PRECISION TECH,2,standard,addition;deletion,2006-05;2008-05,8021,verified_tw_official_round3,0.99,尖點科技股份有限公司 / Topoint,Round3 official audit: FinLab company_basic_info + TWSE official reference,true,true,2,
+PHOENIX SILICON,1,small_cap,addition,2024-08,,needs_review,0.0,,,false,false,0,mapping_status=needs_review;missing_stock_code
+PHOENIXTEC POWER CO,1,standard,deletion,2007-05,,manual_review_round4,0.0,Phoenixtec Power / Eaton Phoenixtec MMPL,Round4 manual_review: No reliable official/exchange or historical security-master source confirming Phoenixtec Power listed ticker; aggregator-only stock symbol not sufficient.,false,false,0,mapping_status=manual_review_round4;missing_stock_code
+PHYTOHEALTH CORP,2,small_cap,addition;deletion,2009-05;2014-11,4108,mapped_exact_normalized,1.0,PhytoHealth,FinLab company_basic_info:英文簡稱,true,true,2,
+PIXART IMAGING,3,small_cap;standard,addition;deletion,2009-05;2011-05,3227,verified_tw_official_round3,0.99,原相科技股份有限公司 / PXI,Round3 official audit: FinLab company_basic_info + TPEx official reference,true,true,3,
+PLAYNITRIDE,1,small_cap,addition,2025-02,6854,mapped_exact_normalized,1.0,PlayNitride Inc.,FinLab company_basic_info:公司名稱,true,true,1,
+PLOTECH CO,1,small_cap,deletion,2011-11,6141,mapped_exact_normalized,1.0,PLOTECH,FinLab company_basic_info:英文簡稱,true,true,1,
+POLARIS GROUP,2,small_cap,addition;deletion,2022-11;2026-05,,needs_review,0.0,,,false,false,0,mapping_status=needs_review;missing_stock_code
+PORTWELL INC,1,small_cap,deletion,2011-11,,needs_review,0.0,,,false,false,0,mapping_status=needs_review;missing_stock_code
+POSIFLEX,3,small_cap,addition;deletion,2018-11;2025-02;2026-02,8114,mapped_exact_normalized,1.0,POSIFLEX,FinLab company_basic_info:英文簡稱,true,true,3,
+POU CHEN CORP,2,small_cap;standard,addition;deletion,2025-08,9904,verified_tw_official_round3,0.99,寶成工業股份有限公司 / PCC,Round3 official audit: FinLab company_basic_info + TWSE official reference,true,true,2,
+POWER QUOTIENT INT'L,3,small_cap,addition;deletion,2009-05;2011-11;2013-05,,needs_review,0.0,,,false,false,0,mapping_status=needs_review;missing_stock_code
+POWER WIND HEALTH IND,2,small_cap,addition;deletion,2019-11;2021-11,8462,verified_tw_reference_fuzzy,0.9376,Power Wind,FinLab company_basic_info:英文簡稱,true,true,2,
+POWERCHIP SEMICONDUCTOR,3,small_cap;standard,addition;deletion,2022-05;2024-05,,needs_review,0.0,,,false,false,0,mapping_status=needs_review;missing_stock_code
+POWERCHIP TECHNOLOGY,3,small_cap;standard,addition;deletion,2011-11;2012-11,,needs_review,0.0,,,false,false,0,mapping_status=needs_review;missing_stock_code
+POWERCOM CO,1,small_cap,deletion,2012-05,,needs_review,0.0,,,false,false,0,mapping_status=needs_review;missing_stock_code
+POWERTECH TECHNOLOGY,3,small_cap;standard,addition;deletion,2007-05;2021-11,3296,verified_tw_reference_fuzzy,0.935,POWERTECH,FinLab company_basic_info:英文簡稱,true,true,3,
+POYA,1,small_cap,addition,2012-11,5904,mapped_exact_normalized,1.0,Poya,FinLab company_basic_info:英文簡稱,true,true,1,
+PRIMAX ELECTRONICS,3,small_cap,addition;deletion,2011-05;2012-05;2013-05,4915,verified_tw_reference_fuzzy,0.9233,Primax,FinLab company_basic_info:英文簡稱,true,true,3,
+PRINCE HOUSING DEV,1,small_cap,deletion,2025-11,,needs_review,0.0,,,false,false,0,mapping_status=needs_review;missing_stock_code
+PRINCO CORP,1,small_cap,deletion,2010-11,,needs_review,0.0,,,false,false,0,mapping_status=needs_review;missing_stock_code
+PRO MOS TECHNOLOGIES,3,small_cap;standard,addition;deletion,2007-05;2009-05,5387,verified_historical_round4,0.97,ProMOS Technologies Inc.,Round4 conflict review: https://focustaiwan.tw/business/201202170035 | https://www.marketscreener.com/quote/stock/PROMOS-TECHNOLOGIES-INC-6491683/,true,false,0,ticker_not_in_local_universe
+PROMATE ELECTRONIC CO,2,small_cap,addition;deletion,2024-05;2025-11,6189,verified_tw_reference_fuzzy,0.9289,Promate,FinLab company_basic_info:英文簡稱,true,true,2,
+PROSPERITY DIELECT CO LT,2,small_cap,addition;deletion,2010-11;2011-11,,needs_review,0.0,,,false,false,0,mapping_status=needs_review;missing_stock_code
+QISDA CORP,2,small_cap;standard,addition;deletion,2011-11,2352,mapped_exact_normalized,1.0,Qisda,FinLab company_basic_info:英文簡稱,true,true,2,
+QST INTERNATIONAL CORP,2,small_cap,addition;deletion,2017-11;2020-05,,needs_review,0.0,,,false,false,0,mapping_status=needs_review;missing_stock_code
+QUANG VIET ENTERPRISE,2,small_cap,addition;deletion,2017-11;2024-11,,needs_review,0.0,,,false,false,0,mapping_status=needs_review;missing_stock_code
+QUANTA STORAGE,3,small_cap,addition;deletion,2019-05;2021-11;2023-08,,needs_review,0.0,,,false,false,0,mapping_status=needs_review;missing_stock_code
+RADIANT OPTO-ELECTRONICS,4,small_cap;standard,addition;deletion,2011-11;2016-05,3373,verified_tw_reference_fuzzy,0.9192,Radiant,FinLab company_basic_info:英文簡稱,true,true,4,
+RADIUM LIFE TECH CORP,1,small_cap,deletion,2021-11,2547,verified_tw_reference_fuzzy,0.9275,RADIUM,FinLab company_basic_info:英文簡稱,true,true,1,
+RALINK TECHNOLOGY CORP,1,small_cap,deletion,2008-11,,needs_review,0.0,,,false,false,0,mapping_status=needs_review;missing_stock_code
+RAYDIUM SEMICONDUCTOR,1,small_cap,addition,2022-05,3592,verified_tw_reference_fuzzy,0.9233,Raydium,FinLab company_basic_info:英文簡稱,true,true,1,
+RAYDIUM SEMICONDUCTOR CO,2,small_cap,deletion,2008-11;2012-05,3592,verified_tw_reference_fuzzy,0.9233,Raydium,FinLab company_basic_info:英文簡稱,true,true,2,
+RDC SEMICONDUCTOR CO,5,small_cap,addition;deletion,2011-05;2021-05;2023-08;2024-05;2024-08,,needs_review,0.0,,,false,false,0,mapping_status=needs_review;missing_stock_code
+RECHI PRECISION CO,1,small_cap,deletion,2021-11,4532,verified_tw_reference_fuzzy,0.9233,RECHI,FinLab company_basic_info:英文簡稱,true,true,1,
+REXON INDUSTRIAL,2,small_cap,addition;deletion,2019-11;2022-11,1515,verified_tw_reference_fuzzy,0.9213,REXON,FinLab company_basic_info:英文簡稱,true,true,2,
+RICH DEVELOPMENT CO,1,small_cap,deletion,2016-11,,needs_review,0.0,,,false,false,0,mapping_status=needs_review;missing_stock_code
+RICHTEK TECHNOLOGY CORP,2,small_cap;standard,addition;deletion,2013-05,6286,verified_historical_round4,0.97,Richtek Technology Corporation,Round4 conflict review: https://www.mediatek.com/press-room/mediatek-announces-tender-offer-for-richtek | https://www.digitimes.com/news/a20160120PD204.html,true,false,0,ticker_not_in_local_universe
+RICHWAVE TECHNOLOGY,2,small_cap,addition;deletion,2019-11;2025-05,4968,verified_tw_reference_fuzzy,0.9321,Richwave,FinLab company_basic_info:英文簡稱,true,true,2,
+RITEK CORP,2,small_cap;standard,deletion,2008-05;2021-11,2349,mapped_exact_normalized,1.0,RITEK,FinLab company_basic_info:英文簡稱,true,true,2,
+ROO HSING,2,small_cap,addition;deletion,2017-11;2021-11,4414,mapped_exact_normalized,1.0,ROO HSING,FinLab company_basic_info:英文簡稱,true,true,2,
+ROTAM GLOBAL AGROSCIE,1,small_cap,addition,2012-11,,needs_review,0.0,,,false,false,0,mapping_status=needs_review;missing_stock_code
+RUENTEX DEVELOPMENT CO,4,small_cap;standard,addition;deletion,2010-05;2025-08,9945,verified_tw_reference_fuzzy,0.9689,RUENTEX DEVELOP,FinLab company_basic_info:英文簡稱,true,true,4,
+RUENTEX ENGIN & CONST,3,small_cap,addition;deletion,2010-11;2011-11;2013-11,,needs_review,0.0,,,false,false,0,mapping_status=needs_review;missing_stock_code
+RUENTEX ENGR & CONST,1,small_cap,addition,2022-05,,needs_review,0.0,,,false,false,0,mapping_status=needs_review;missing_stock_code
+RUENTEX INDUSTRIES,4,small_cap;standard,addition;deletion,2009-05;2020-05,2915,verified_tw_reference_fuzzy,0.9511,RUENTEX IND.LTD,FinLab company_basic_info:英文簡稱,true,true,4,
+RUN LONG CONSTRUCTION CO,1,small_cap,addition,2017-05,1808,verified_tw_reference_fuzzy,0.9281,RUN LONG,FinLab company_basic_info:英文簡稱,true,true,1,
+SAKURA DEVELOPMENT,1,small_cap,addition,2022-11,,needs_review,0.0,,,false,false,0,mapping_status=needs_review;missing_stock_code
+SAMPO CORP,1,small_cap,deletion,2017-11,1604,mapped_exact_normalized,1.0,SAMPO,FinLab company_basic_info:英文簡稱,true,true,1,
+SAN CHIH SEMICONDUCTOR,1,small_cap,deletion,2012-11,,needs_review,0.0,,,false,false,0,mapping_status=needs_review;missing_stock_code
+SAN FANG CHEMICAL,1,small_cap,deletion,2018-11,1307,verified_tw_reference_fuzzy,0.9371,SAN FANG,FinLab company_basic_info:英文簡稱,true,true,1,
+SAN FU CHEMICAL,2,small_cap,addition;deletion,2022-05;2024-11,4755,verified_tw_reference_fuzzy,0.93,SAN FU,FinLab company_basic_info:英文簡稱,true,true,2,
+SAN SHING FASTECH CORP,2,small_cap,deletion,2008-11;2022-11,5007,verified_tw_reference_fuzzy,0.9429,SAN SHING,FinLab company_basic_info:英文簡稱,true,true,2,
+SCIENTECH CORP,1,small_cap,addition,2024-05,3583,mapped_exact_normalized,1.0,Scientech,FinLab company_basic_info:英文簡稱,true,true,1,
+SCINOPHARM TAIWAN,4,small_cap;standard,addition;deletion,2012-11;2015-05;2025-05,,needs_review,0.0,,,false,false,0,mapping_status=needs_review;missing_stock_code
+SDI CORPORATION,4,small_cap,addition;deletion,2012-11;2017-11;2025-05;2026-05,2351,mapped_exact_normalized,1.0,SDI,FinLab company_basic_info:英文簡稱,true,true,4,
+SEA SONIC ELECTRONICS CO,1,small_cap,deletion,2011-11,6203,verified_tw_reference_fuzzy,0.9329,Sea Sonic,FinLab company_basic_info:英文簡稱,true,true,1,
+SENAO INTERNATIONAL CO,1,small_cap,deletion,2019-05,2450,verified_tw_reference_fuzzy,0.9163,SENAO,FinLab company_basic_info:英文簡稱,true,true,1,
+SENAO NETWORKS,2,small_cap,addition;deletion,2015-05;2016-11,3558,mapped_exact_normalized,1.0,Senao Networks,FinLab company_basic_info:英文簡稱,true,true,2,
+SENSORTEK TECHNOLOGY,2,small_cap,addition;deletion,2020-11;2025-02,6732,verified_tw_reference_fuzzy,0.935,sensortek,FinLab company_basic_info:英文簡稱,true,true,2,
+SERCOMM CORP,1,small_cap,addition,2011-05,5388,mapped_exact_normalized,1.0,Sercomm,FinLab company_basic_info:英文簡稱,true,true,1,
+SESODA CORP,3,small_cap,addition;deletion,2008-11;2022-05;2023-08,1708,mapped_exact_normalized,1.0,SESODA,FinLab company_basic_info:英文簡稱,true,true,3,
+SHENMAO TECHNOLOGY,2,small_cap,addition;deletion,2009-11;2013-05,3305,verified_tw_reference_fuzzy,0.9289,SHENMAO,FinLab company_basic_info:英文簡稱,true,true,2,
+SHIHLIN ELECTR. & ENG,1,standard,deletion,2006-05,1503,verified_tw_official_round3,0.99,士林電機廠股份有限公司 / SEEC,Round3 official audit: FinLab company_basic_info + TWSE official reference,true,true,1,
+SHIHLIN ELECTRIC & ENGR,2,small_cap,addition;deletion,2015-05;2023-05,,needs_review,0.0,,,false,false,0,mapping_status=needs_review;missing_stock_code
+SHIHLIN PAPER,3,small_cap,addition;deletion,2016-11;2021-11;2025-02,1903,mapped_exact_normalized,1.0,Shihlin Paper,FinLab company_basic_info:英文簡稱,true,true,3,
+SHIN KONG NO 1 REIT,1,small_cap,deletion,2009-05,,needs_review,0.0,,,false,false,0,mapping_status=needs_review;missing_stock_code
+SHINFOX ENERGY,1,small_cap,deletion,2026-02,6806,mapped_exact_normalized,1.0,SHINFOX ENERGY,FinLab company_basic_info:英文簡稱,true,true,1,
+SHINING BLDG BUSINESS,1,small_cap,deletion,2021-11,5531,verified_tw_reference_fuzzy,0.9233,Shining,FinLab company_basic_info:英文簡稱,true,true,1,
+SHINKONG INSURANCE CO,1,small_cap,addition,2009-11,,needs_review,0.0,,,false,false,0,mapping_status=needs_review;missing_stock_code
+SHINY CHEMICAL INDL,1,small_cap,addition,2018-11,1773,verified_tw_reference_fuzzy,0.9637,SHINY CHEMICAL,FinLab company_basic_info:英文簡稱,true,true,1,
+SHUNSIN TECHNOLOGY HLDGS,4,small_cap,addition;deletion,2015-05;2018-11;2019-11;2021-11,6451,verified_tw_reference_fuzzy,0.9192,ShunSin,FinLab company_basic_info:英文簡稱,true,true,4,
+SHUTTLE,1,small_cap,deletion,2012-05,2405,mapped_exact_normalized,1.0,Shuttle,FinLab company_basic_info:英文簡稱,true,true,1,
+SIGURD MICROELECTRONICS,1,small_cap,addition,2009-11,6257,verified_tw_reference_fuzzy,0.9161,SIGURD,FinLab company_basic_info:英文簡稱,true,true,1,
+SILERGY CORP,4,small_cap;standard,addition;deletion,2020-05;2025-11,6415,mapped_exact_normalized,1.0,Silergy,FinLab company_basic_info:英文簡稱,true,true,4,
+SILICON INTEGRATED SYS,2,small_cap,addition;deletion,2014-11;2023-11,,needs_review,0.0,,,false,false,0,mapping_status=needs_review;missing_stock_code
+SILITECH TECHNOLOGY CORP,1,small_cap,deletion,2014-11,3311,verified_tw_reference_fuzzy,0.9321,Silitech,FinLab company_basic_info:英文簡稱,true,true,1,
+SIMPLO TECHNOLOGY CO,4,small_cap;standard,addition;deletion,2009-05;2016-11,6121,verified_tw_official_round3,0.99,新普科技股份有限公司 / SMP,Round3 official audit: FinLab company_basic_info + TPEx official reference,true,true,4,
+SINCERE NAVIGATION,4,small_cap;standard,addition;deletion,2009-05;2009-11;2026-05,2605,verified_conflict_round4,0.97,Sincere Navigation Corporation / 新興航運,Round4 conflict review: https://www.snc.com.tw/en/investors/ | https://ca.marketscreener.com/quote/stock/SINCERE-NAVIGATION-CORPOR-6495337/,true,true,4,
+SINOAMERICAN SILICON PRO,5,small_cap;standard,addition;deletion,2009-11;2010-11;2012-11,,needs_review,0.0,,,false,false,0,mapping_status=needs_review;missing_stock_code
+SINON CORP,3,small_cap,addition;deletion,2009-05;2014-11;2022-11,1712,mapped_exact_normalized,1.0,SINON,FinLab company_basic_info:英文簡稱,true,true,3,
+SINPHAR PHARMACEUT CO,1,small_cap,addition,2013-11,1734,verified_tw_reference_fuzzy,0.9289,SINPHAR,FinLab company_basic_info:英文簡稱,true,true,1,
+SINYI REALTY CO,1,small_cap,deletion,2025-11,9940,verified_tw_reference_fuzzy,0.9317,Sinyi,FinLab company_basic_info:英文簡稱,true,true,1,
+SIRTEC INTERNATIONAL CO,1,small_cap,addition,2010-11,5356,verified_tw_reference_fuzzy,0.92,SIRTEC,FinLab company_basic_info:英文簡稱,true,true,1,
+SKYMEDI,2,small_cap,addition;deletion,2011-05;2012-11,,needs_review,0.0,,,false,false,0,mapping_status=needs_review;missing_stock_code
+SKYTECH,2,small_cap,addition;deletion,2024-11;2025-05,6937,mapped_exact_normalized,1.0,Skytech,FinLab company_basic_info:英文簡稱,true,true,2,
+SOFT-WORLD INTL CORP,1,small_cap,deletion,2025-11,5478,verified_tw_reference_fuzzy,0.9567,SOFT-WORLD,FinLab company_basic_info:英文簡稱,true,true,1,
+SOLAR APPLIED MATRLS,2,small_cap,addition;deletion,2016-11;2020-11,1785,verified_tw_reference_fuzzy,0.915,Solar,FinLab company_basic_info:英文簡稱,true,true,2,
+SOLARTECH ENERGY CORP,1,small_cap,addition,2008-11,,needs_review,0.0,,,false,false,0,mapping_status=needs_review;missing_stock_code
+SOLELYTEX INDUSTRIAL,1,small_cap,deletion,2011-11,,needs_review,0.0,,,false,false,0,mapping_status=needs_review;missing_stock_code
+SOLOMON TECH CORP,1,small_cap,deletion,2008-11,2359,verified_tw_reference_fuzzy,0.9483,SOLOMON,FinLab company_basic_info:英文簡稱,true,true,1,
+SOLOMON TECHNOLOGY,1,small_cap,addition,2024-08,2359,verified_tw_reference_fuzzy,0.9289,SOLOMON,FinLab company_basic_info:英文簡稱,true,true,1,
+SONIX TECHNOLOGY CO,2,small_cap,addition;deletion,2021-05;2022-11,5471,verified_tw_reference_fuzzy,0.9213,SONIX,FinLab company_basic_info:英文簡稱,true,true,2,
+SOUTHEAST CEMENT CO,1,small_cap,deletion,2015-05,,needs_review,0.0,,,false,false,0,mapping_status=needs_review;missing_stock_code
+SPEED TECH CORP,2,small_cap,addition;deletion,2020-11;2024-05,5457,mapped_exact_normalized,1.0,SPEED TECH,FinLab company_basic_info:英文簡稱,true,true,2,
+SPORTON INTERNATIONAL,1,small_cap,addition,2010-11,6146,verified_tw_reference_fuzzy,0.9233,SPORTON,FinLab company_basic_info:英文簡稱,true,true,1,
+SPORTS GEAR,1,small_cap,addition,2025-02,,needs_review,0.0,,,false,false,0,mapping_status=needs_review;missing_stock_code
+ST SHINE OPTICAL CO LTD,1,small_cap,deletion,2024-05,1565,verified_tw_reference_fuzzy,0.94,St.Shine,FinLab company_basic_info:英文簡稱,true,true,1,
+STANDARD CHEMICAL&PHARM,1,small_cap,addition,2010-11,,needs_review,0.0,,,false,false,0,mapping_status=needs_review;missing_stock_code
+STANDARD FOODS CORP,5,small_cap;standard,addition;deletion,2008-11;2010-11;2011-11;2021-02,1227,verified_tw_official_round3,0.99,佳格食品股份有限公司 / SFC,Round3 official audit: FinLab company_basic_info + TWSE official reference,true,true,5,
+STAR COMGISTIC CAPITAL,1,small_cap,deletion,2012-11,4930,verified_tw_reference_fuzzy,0.9536,Star Comgistic,FinLab company_basic_info:英文簡稱,true,true,1,
+STARLUX AIRLINES,1,small_cap,addition,2025-02,2646,verified_tw_reference_fuzzy,0.9587,STARLUX AIR,FinLab company_basic_info:英文簡稱,true,true,1,
+SUNNY FRIEND ENV TECH,2,small_cap,addition;deletion,2015-11;2024-11,,needs_review,0.0,,,false,false,0,mapping_status=needs_review;missing_stock_code
+SUNONWEALTH ELEC MACHINE,3,small_cap,addition;deletion,2017-11;2021-11;2023-08,,needs_review,0.0,,,false,false,0,mapping_status=needs_review;missing_stock_code
+SUNONWEALTH ELECTRIC MAC,2,small_cap,addition;deletion,2009-05;2013-11,,needs_review,0.0,,,false,false,0,mapping_status=needs_review;missing_stock_code
+SUNPLUS TECHNOLOGY CO,3,small_cap,addition;deletion,2016-11;2021-05;2025-05,2401,verified_tw_reference_fuzzy,0.9289,SUNPLUS,FinLab company_basic_info:英文簡稱,true,true,3,
+SUNREX TECHNOLOGY CORP,3,small_cap,addition;deletion,2013-11;2020-11;2021-11,2387,verified_tw_reference_fuzzy,0.9253,SUNREX,FinLab company_basic_info:英文簡稱,true,true,3,
+SUNSPRING METAL,1,small_cap,deletion,2017-11,,needs_review,0.0,,,false,false,0,mapping_status=needs_review;missing_stock_code
+SUPER DRAGON TECH CO,1,small_cap,deletion,2012-05,,needs_review,0.0,,,false,false,0,mapping_status=needs_review;missing_stock_code
+SUPREME ELECTRONICS CO,2,small_cap,addition;deletion,2012-05;2017-11,8112,verified_tw_reference_fuzzy,0.9268,Supreme,FinLab company_basic_info:英文簡稱,true,true,2,
+SWANCOR HOLDING CO,5,small_cap,addition;deletion,2016-11;2018-05;2018-11;2020-11;2021-11,3708,mapped_exact_normalized,1.0,Swancor,FinLab company_basic_info:英文簡稱,true,true,5,
+SWANCOR IND CO,1,small_cap,addition,2014-11,3708,verified_tw_reference_fuzzy,0.9536,Swancor,FinLab company_basic_info:英文簡稱,true,true,1,
+SYNCMOLD ENTERPRISE CORP,2,small_cap,addition;deletion,2009-05;2021-11,1582,verified_tw_reference_fuzzy,0.9321,SYNCMOLD,FinLab company_basic_info:英文簡稱,true,true,2,
+SYNMOSA BIOPHARMA CORP,1,small_cap,deletion,2025-02,4114,verified_tw_reference_fuzzy,0.9312,SYNMOSA,FinLab company_basic_info:英文簡稱,true,true,1,
+SYNNEX TECHNOLOGY INTL,2,small_cap;standard,addition;deletion,2025-11,2347,verified_tw_reference_fuzzy,0.9173,Synnex,FinLab company_basic_info:英文簡稱,true,true,2,
+SYNTEC TECHNOLOGY,1,small_cap,addition,2026-02,7750,verified_tw_reference_fuzzy,0.9253,Syntec,FinLab company_basic_info:英文簡稱,true,true,1,
+SYSTEX CORP,1,standard,deletion,2006-05,6214,mapped_exact_normalized,1.0,SYSTEX,FinLab company_basic_info:英文簡稱,true,true,1,
+T3EX GLOBAL HOLDINGS,2,small_cap,addition;deletion,2021-11;2024-11,,needs_review,0.0,,,false,false,0,mapping_status=needs_review;missing_stock_code
+TA CHONG SECURITIES CO,2,small_cap,addition;deletion,2009-11;2012-05,,needs_review,0.0,,,false,false,0,mapping_status=needs_review;missing_stock_code
+TA YA ELECT WIRE & CABLE,2,small_cap,addition;deletion,2013-05;2022-05,1609,verified_tw_reference_fuzzy,0.9092,TA YA,FinLab company_basic_info:英文簡稱,true,true,2,
+TA YIH INDUSTRIAL CO,1,small_cap,addition,2010-11,1521,verified_tw_reference_fuzzy,0.9253,TA YIH,FinLab company_basic_info:英文簡稱,true,true,1,
+TA-I TECHNOLOGY CO,1,small_cap,deletion,2013-05,2478,verified_tw_reference_fuzzy,0.9167,TA-I,FinLab company_basic_info:英文簡稱,true,true,1,
+TAH HSIN INDUSTRIAL CO,1,small_cap,deletion,2014-11,1315,verified_tw_reference_fuzzy,0.9321,TAH HSIN,FinLab company_basic_info:英文簡稱,true,true,1,
+TAIDOC TECHNOLOGY CORP,4,small_cap,addition;deletion,2009-05;2011-11;2018-11;2025-02,4736,verified_tw_reference_fuzzy,0.9253,TaiDoc,FinLab company_basic_info:英文簡稱,true,true,4,
+TAIFLEX SCIENTIFIC,2,small_cap,addition;deletion,2016-11;2026-05,8039,verified_tw_reference_fuzzy,0.9289,TAIFLEX,FinLab company_basic_info:英文簡稱,true,true,2,
+TAIGEN BIOPHARMACEUTICAL,1,small_cap,deletion,2024-11,4157,verified_tw_reference_fuzzy,0.915,TAIGEN,FinLab company_basic_info:英文簡稱,true,true,1,
+TAIMED BIOLOGICS,4,small_cap;standard,addition;deletion,2016-05;2019-11;2026-05,,needs_review,0.0,,,false,false,0,mapping_status=needs_review;missing_stock_code
+TAINAN SPINNING,4,small_cap;standard,addition;deletion,2010-11;2011-11,1440,mapped_exact_normalized,1.0,TAINAN SPINNING,FinLab company_basic_info:英文簡稱,true,true,4,
+TAISUN ENTERPRISE CO,3,small_cap,addition;deletion,2010-11;2020-05;2023-05,1218,verified_tw_reference_fuzzy,0.9253,TAISUN,FinLab company_basic_info:英文簡稱,true,true,3,
+TAITA CHEMICAL,2,small_cap,addition;deletion,2021-05;2022-11,,needs_review,0.0,,,false,false,0,mapping_status=needs_review;missing_stock_code
+TAIWAN ACCEPTANCE CORP,1,small_cap,addition,2009-05,,needs_review,0.0,,,false,false,0,mapping_status=needs_review;missing_stock_code
+TAIWAN BUSINESS BANK,5,small_cap;standard,addition;deletion,2008-05;2021-08;2022-11,2834,verified_tw_official_round3,0.99,臺灣中小企業銀行股份有限公司 / TBB,Round3 official audit: FinLab company_basic_info + TWSE official reference,true,true,5,
+TAIWAN CHI CHENG ENT.,1,small_cap,deletion,2011-11,,needs_review,0.0,,,false,false,0,mapping_status=needs_review;missing_stock_code
+TAIWAN COGENERATION,1,small_cap,addition,2008-11,,needs_review,0.0,,,false,false,0,mapping_status=needs_review;missing_stock_code
+TAIWAN FAMILYMART,2,small_cap,addition;deletion,2024-05;2024-08,5903,verified_tw_reference_fuzzy,0.9188,FamilyMart,FinLab company_basic_info:英文簡稱,true,true,2,
+TAIWAN FERTILIZER CO,2,small_cap;standard,addition;deletion,2017-11,,needs_review,0.0,,,false,false,0,mapping_status=needs_review;missing_stock_code
+TAIWAN FIRE & MARINE INS,1,small_cap,deletion,2017-11,,needs_review,0.0,,,false,false,0,mapping_status=needs_review;missing_stock_code
+TAIWAN GLASS INDL CORP,2,small_cap;standard,addition;deletion,2015-11,,needs_review,0.0,,,false,false,0,mapping_status=needs_review;missing_stock_code
+TAIWAN HIGH SPEED RAIL,3,small_cap;standard,addition;deletion,2017-05;2026-05,,needs_review,0.0,,,false,false,0,mapping_status=needs_review;missing_stock_code
+TAIWAN IC PACKAGING,1,small_cap,deletion,2011-05,,needs_review,0.0,,,false,false,0,mapping_status=needs_review;missing_stock_code
+TAIWAN LAND CORP,2,small_cap,addition;deletion,2009-05;2018-05,,needs_review,0.0,,,false,false,0,mapping_status=needs_review;missing_stock_code
+TAIWAN LIPOSOME,2,small_cap,addition;deletion,2013-05;2017-05,,needs_review,0.0,,,false,false,0,mapping_status=needs_review;missing_stock_code
+TAIWAN MASK CORPORATION,3,small_cap,addition;deletion,2011-11;2021-05;2025-02,,needs_review,0.0,,,false,false,0,mapping_status=needs_review;missing_stock_code
+TAIWAN MICROLOOPS,1,small_cap,addition,2026-05,6831,verified_tw_reference_fuzzy,0.9188,MICROLOOPS,FinLab company_basic_info:英文簡稱,true,true,1,
+TAIWAN NAVIGATION CO,3,small_cap;standard,addition;deletion,2008-05;2009-05;2011-05,2617,verified_tw_official_round3,0.99,台灣航業股份有限公司 / TNC,Round3 official audit: FinLab company_basic_info + TWSE official reference,true,true,3,
+TAIWAN PAIHO,1,small_cap,deletion,2026-05,9938,mapped_exact_normalized,1.0,TAIWAN PAIHO,FinLab company_basic_info:英文簡稱,true,true,1,
+TAIWAN PCB TECHVEST CO,1,small_cap,deletion,2018-05,,needs_review,0.0,,,false,false,0,mapping_status=needs_review;missing_stock_code
+TAIWAN PROSPERITY CHEMIC,2,small_cap,addition;deletion,2011-11;2014-11,,needs_review,0.0,,,false,false,0,mapping_status=needs_review;missing_stock_code
+TAIWAN PULP & PAPER CO,2,small_cap,addition;deletion,2010-11;2013-05,,needs_review,0.0,,,false,false,0,mapping_status=needs_review;missing_stock_code
+TAIWAN SAKURA CORP,3,small_cap,addition;deletion,2010-11;2014-11;2024-05,9911,mapped_exact_normalized,1.0,TAIWAN SAKURA,FinLab company_basic_info:英文簡稱,true,true,3,
+TAIWAN SECOM,1,small_cap,addition,2009-11,9917,mapped_exact_normalized,1.0,TAIWAN SECOM,FinLab company_basic_info:英文簡稱,true,true,1,
+TAIWAN SEMICONDUCTOR CO,2,small_cap,addition;deletion,2016-05;2025-02,,needs_review,0.0,,,false,false,0,mapping_status=needs_review;missing_stock_code
+TAIWAN SPECIALITY CHEM,1,small_cap,addition,2025-05,,needs_review,0.0,,,false,false,0,mapping_status=needs_review;missing_stock_code
+TAIWAN STYRENE MONOMER,2,small_cap;standard,deletion,2006-05;2021-11,1310,verified_tw_official_round3,0.99,台灣苯乙烯工業股份有限公司 / T.S.M.C.,Round3 official audit: FinLab company_basic_info + TWSE official reference,true,true,2,
+TAIWAN SURFACE MOUNTING,2,small_cap,addition;deletion,2018-05;2019-05,,needs_review,0.0,,,false,false,0,mapping_status=needs_review;missing_stock_code
+TAIWAN TEA CORP,1,small_cap,deletion,2025-05,,needs_review,0.0,,,false,false,0,mapping_status=needs_review;missing_stock_code
+TAIWAN UNION TECHNOLOGY,1,small_cap,addition,2017-05,,needs_review,0.0,,,false,false,0,mapping_status=needs_review;missing_stock_code
+TAIWAN-ASIA SC CORP,1,small_cap,deletion,2025-02,,needs_review,0.0,,,false,false,0,mapping_status=needs_review;missing_stock_code
+TANG ENG IRON WORKS CO,1,small_cap,deletion,2013-11,,needs_review,0.0,,,false,false,0,mapping_status=needs_review;missing_stock_code
+TANVEX BIOPHARMA,1,small_cap,addition,2018-05,6541,verified_tw_reference_fuzzy,0.9275,Tanvex,FinLab company_basic_info:英文簡稱,true,true,1,
+TATUNG,6,small_cap;standard,addition;deletion,2012-05;2018-11;2020-08;2021-11,2371,mapped_exact_normalized,1.0,TATUNG COMPANY,FinLab company_basic_info:英文簡稱,true,true,6,
+TATUNG FINE CHEMICAL CO,1,small_cap,deletion,2011-11,2371,verified_tw_reference_fuzzy,0.92,TATUNG COMPANY,FinLab company_basic_info:英文簡稱,true,true,1,
+TCI,2,small_cap,addition;deletion,2016-11;2025-02,8436,mapped_exact_normalized,1.0,TCI,FinLab company_basic_info:英文簡稱,true,true,2,
+TECO ELECTRIC & MACH,6,small_cap;standard,addition;deletion,2018-11;2025-11;2026-05,,needs_review,0.0,,,false,false,0,mapping_status=needs_review;missing_stock_code
+TECOM,1,small_cap,deletion,2011-05,2321,mapped_exact_normalized,1.0,TECOM,FinLab company_basic_info:英文簡稱,true,true,1,
+TEKCORE CO,2,small_cap,addition;deletion,2009-11;2013-05,3339,mapped_exact_normalized,1.0,TEKCORE,FinLab company_basic_info:英文簡稱,true,true,2,
+TEST-RITE INTERNATIONAL,1,small_cap,deletion,2021-11,2908,verified_tw_reference_fuzzy,0.9291,Test Rite,FinLab company_basic_info:英文簡稱,true,true,1,
+THAILIN SEMICONDUCTOR,1,small_cap,deletion,2011-11,,needs_review,0.0,,,false,false,0,mapping_status=needs_review;missing_stock_code
+THINKING ELECTRONIC IND,1,small_cap,addition,2009-11,2428,verified_tw_reference_fuzzy,0.9248,THINKING,FinLab company_basic_info:英文簡稱,true,true,1,
+THINKING ELECTRONIC INDL,1,small_cap,addition,2017-11,2428,verified_tw_reference_fuzzy,0.9233,THINKING,FinLab company_basic_info:英文簡稱,true,true,1,
+TIGERAIR TAIWAN,1,small_cap,addition,2025-02,,needs_review,0.0,,,false,false,0,mapping_status=needs_review;missing_stock_code
+TOPKEY CORP,3,small_cap,addition;deletion,2017-11;2020-11;2026-02,4536,mapped_exact_normalized,1.0,TOPKEY,FinLab company_basic_info:英文簡稱,true,true,3,
+TOPOINT TECHNOLOGY CO,2,small_cap,addition;deletion,2012-05;2026-02,8021,verified_tw_reference_fuzzy,0.9289,Topoint,FinLab company_basic_info:英文簡稱,true,true,2,
+TOUNG LOONG TEXTILE,2,small_cap,addition;deletion,2013-11;2018-05,,needs_review,0.0,,,false,false,0,mapping_status=needs_review;missing_stock_code
+TPK HOLDING CO,4,small_cap;standard,addition;deletion,2015-11;2025-05;2026-05,3673,mapped_exact_normalized,1.0,TPK Holding Co. Ltd.,FinLab company_basic_info:公司名稱,true,true,4,
+TRANSASIA AIRWAYS,2,small_cap,addition;deletion,2012-11;2014-11,,needs_review,0.0,,,false,false,0,mapping_status=needs_review;missing_stock_code
+TRANSCEND INFORMATION,2,small_cap;standard,addition;deletion,2017-11,2451,verified_tw_reference_fuzzy,0.9329,Transcend,FinLab company_basic_info:英文簡稱,true,true,2,
+TRIPOD TECHNOLOGY CORP,3,small_cap;standard,addition;deletion,2007-05;2013-11,3044,verified_tw_reference_fuzzy,0.9253,Tripod,FinLab company_basic_info:英文簡稱,true,true,3,
+TRUELIGHT CORP,2,small_cap,addition;deletion,2015-11;2016-11,3234,mapped_exact_normalized,1.0,TrueLight,FinLab company_basic_info:英文簡稱,true,true,2,
+TSANN KUEN ENTERPRISE CO,1,small_cap,deletion,2014-11,,needs_review,0.0,,,false,false,0,mapping_status=needs_review;missing_stock_code
+TSC AUTO ID TECHNOLOGY,1,small_cap,deletion,2018-11,3611,verified_tw_reference_fuzzy,0.94,TSC AUTO ID,FinLab company_basic_info:英文簡稱,true,true,1,
+TSEC CORP,2,small_cap,addition;deletion,2020-11;2024-11,6443,mapped_exact_normalized,1.0,TSEC,FinLab company_basic_info:英文簡稱,true,true,2,
+TSRC CORP,5,small_cap;standard,addition;deletion,2009-05;2015-02;2025-11,2103,mapped_exact_normalized,1.0,TSRC,FinLab company_basic_info:英文簡稱,true,true,5,
+TTET UNION CORPORATION,1,small_cap,addition,2012-05,,needs_review,0.0,,,false,false,0,mapping_status=needs_review;missing_stock_code
+TTY BIOPHARM CO,1,small_cap,addition,2009-05,,needs_review,0.0,,,false,false,0,mapping_status=needs_review;missing_stock_code
+TUNG HO STEEL ENTERPRISE,2,small_cap;standard,addition;deletion,2013-08,2006,verified_tw_reference_fuzzy,0.9442,Tung Ho Steel,FinLab company_basic_info:英文簡稱,true,true,2,
+TUNG THIH ELECTRONIC CO,3,small_cap,addition;deletion,2018-11;2021-05;2024-05,3552,verified_tw_reference_fuzzy,0.935,TUNG THIH,FinLab company_basic_info:英文簡稱,true,true,3,
+TWI PHARMACEUTICALS,1,small_cap,deletion,2018-11,,needs_review,0.0,,,false,false,0,mapping_status=needs_review;missing_stock_code
+TYC BROTHER INDUSTRIAL,5,small_cap,addition;deletion,2009-05;2016-11;2018-11;2024-08;2025-11,,needs_review,0.0,,,false,false,0,mapping_status=needs_review;missing_stock_code
+U-MING MARINE TRANSPORT,2,small_cap;standard,addition;deletion,2015-11,2606,verified_tw_reference_fuzzy,0.9161,U-MING,FinLab company_basic_info:英文簡稱,true,true,2,
+UBRIGHT OPTRONICS CORP,2,small_cap,addition;deletion,2012-05;2014-11,4933,verified_tw_reference_fuzzy,0.9312,UBRIGHT,FinLab company_basic_info:英文簡稱,true,true,2,
+UNIMICRON TECHNOLOGY,5,small_cap;standard,addition;deletion,2007-05;2015-05;2020-11,3037,verified_tw_reference_fuzzy,0.935,UNIMICRON,FinLab company_basic_info:英文簡稱,true,true,5,
+UNION BANK OF TAIWAN,2,small_cap,addition;deletion,2016-11;2019-05,,needs_review,0.0,,,false,false,0,mapping_status=needs_review;missing_stock_code
+UNION INSURANCE CO,2,small_cap,addition;deletion,2009-05;2011-05,2816,verified_tw_reference_fuzzy,0.95,UNION INS.,FinLab company_basic_info:英文簡稱,true,true,2,
+UNITECH PRINTED CIRCUIT,4,small_cap,addition;deletion,2016-11;2018-05;2021-11;2024-05,2367,verified_tw_reference_fuzzy,0.9204,UNITECH,FinLab company_basic_info:英文簡稱,true,true,4,
+UNITED RENEWABLE ENERGY,1,small_cap,deletion,2025-05,,needs_review,0.0,,,false,false,0,mapping_status=needs_review;missing_stock_code
+UNIVERSAL CEMENT,2,small_cap,addition;deletion,2019-11;2020-11,,needs_review,0.0,,,false,false,0,mapping_status=needs_review;missing_stock_code
+UNIVERSAL MICROWAVE TECH,1,small_cap,addition,2024-08,,needs_review,0.0,,,false,false,0,mapping_status=needs_review;missing_stock_code
+UNIVERSAL VISION BIOTECH,2,small_cap,addition;deletion,2020-11;2025-11,,needs_review,0.0,,,false,false,0,mapping_status=needs_review;missing_stock_code
+UNIZYX HOLDING,3,small_cap,addition;deletion,2021-05;2021-11;2023-05,,needs_review,0.0,,,false,false,0,mapping_status=needs_review;missing_stock_code
+UPC TECHNOLOGY CORP,1,small_cap,deletion,2025-02,,needs_review,0.0,,,false,false,0,mapping_status=needs_review;missing_stock_code
+UPI SEMICONDUCTOR CORP,1,small_cap,addition,2022-05,,needs_review,0.0,,,false,false,0,mapping_status=needs_review;missing_stock_code
+USERJOY TECHNOLOGY CO,2,small_cap,addition;deletion,2009-11;2011-11,3546,verified_tw_reference_fuzzy,0.9289,USERJOY,FinLab company_basic_info:英文簡稱,true,true,2,
+USI CORP,1,small_cap,deletion,2025-02,1304,mapped_exact_normalized,1.0,USI,FinLab company_basic_info:英文簡稱,true,true,1,
+USUN TECHNOLOGY,1,small_cap,deletion,2014-11,,needs_review,0.0,,,false,false,0,mapping_status=needs_review;missing_stock_code
+VANGUARD INT'L SEMICON,5,small_cap;standard,addition;deletion,2007-05;2011-11;2013-05,5347,verified_tw_official_round3,0.99,世界先進積體電路股份有限公司 / VIS,Round3 official audit: FinLab company_basic_info + TPEx official reference,true,true,5,
+VE WONG CORP,1,small_cap,addition,2009-11,1203,mapped_exact_normalized,1.0,VE WONG,FinLab company_basic_info:英文簡稱,true,true,1,
+VIA LABS,2,small_cap,addition;deletion,2021-05;2024-11,,needs_review,0.0,,,false,false,0,mapping_status=needs_review;missing_stock_code
+VIA TECHNOLOGIES,6,small_cap;standard,addition;deletion,2008-11;2009-05;2009-11;2018-05,2388,verified_tw_official_round3,0.99,威盛電子股份有限公司 / VIA,Round3 official audit: FinLab company_basic_info + TWSE official reference,true,true,6,
+VIKING TECH,2,small_cap,addition;deletion,2011-05;2011-11,3624,verified_tw_reference_fuzzy,0.9445,VIKING,FinLab company_basic_info:英文簡稱,true,true,2,
+VISCO VISION,1,small_cap,deletion,2025-02,6782,verified_tw_reference_fuzzy,0.9317,VISCO,FinLab company_basic_info:英文簡稱,true,true,1,
+VISERA TECHNOLOGIES,1,small_cap,addition,2022-11,6789,verified_tw_reference_fuzzy,0.9216,VisEra,FinLab company_basic_info:英文簡稱,true,true,1,
+VISUAL PHOTONICS EPITAXY,1,small_cap,addition,2009-11,,needs_review,0.0,,,false,false,0,mapping_status=needs_review;missing_stock_code
+VIVOTEK INC,2,small_cap,addition;deletion,2012-05;2024-11,,needs_review,0.0,,,false,false,0,mapping_status=needs_review;missing_stock_code
+VOLTRONIC POWER TECH,4,small_cap;standard,addition;deletion,2021-11;2025-11,6409,verified_tw_reference_fuzzy,0.935,VOLTRONIC,FinLab company_basic_info:英文簡稱,true,true,4,
+VOLTRONIC POWER TECHNO,1,small_cap,addition,2014-11,6409,verified_tw_reference_fuzzy,0.9309,VOLTRONIC,FinLab company_basic_info:英文簡稱,true,true,1,
+WAFER WORKS CORP,4,small_cap;standard,addition;deletion,2008-11;2017-11;2025-02,6182,mapped_exact_normalized,1.0,WAFER WORKS,FinLab company_basic_info:英文簡稱,true,true,4,
+WAFFER TECHNOLOGY CO,3,small_cap,addition;deletion,2010-05;2023-05;2025-02,6235,verified_tw_reference_fuzzy,0.9253,Waffer,FinLab company_basic_info:英文簡稱,true,true,3,
+WAH HONG INDUSTRIAL CORP,2,small_cap,addition;deletion,2010-11;2013-05,8240,verified_tw_reference_fuzzy,0.9321,WAH HONG,FinLab company_basic_info:英文簡稱,true,true,2,
+WALSIN LIHWA CORP,6,small_cap;standard,addition;deletion,2015-05;2022-05;2025-02,1605,verified_tw_reference_fuzzy,0.94,WALSIN,FinLab company_basic_info:英文簡稱,true,true,6,
+WALSIN TECHNOLOGY CORP,4,small_cap;standard,addition;deletion,2018-05;2021-11,1605,verified_tw_reference_fuzzy,0.9253,WALSIN,FinLab company_basic_info:英文簡稱,true,true,4,
+WAN HAI LINES,6,small_cap;standard,addition;deletion,2014-05;2015-02;2015-11;2016-11;2021-05,2615,verified_tw_official_round3,0.99,萬海航運股份有限公司 / WANHAI,Round3 official audit: FinLab company_basic_info + TWSE official reference,true,true,6,
+WAN HWA ENTERPRISE,2,small_cap,addition;deletion,2010-11;2013-11,,needs_review,0.0,,,false,false,0,mapping_status=needs_review;missing_stock_code
+WATERLAND FINANCIAL,1,standard,deletion,2008-05,2889,verified_historical_round4,0.97,"IBF Financial Holdings Co., Ltd., formerly Waterland Financial Holdings",Round4 conflict review: https://markets.ft.com/data/equities/tearsheet/profile?s=2889%3ATAI | https://uk.marketscreener.com/quote/stock/IBF-FINANCIAL-HOLDINGS-CO-6495205/,true,true,1,
+WAYS TECHNICAL,2,small_cap,addition;deletion,2008-11;2013-11,,needs_review,0.0,,,false,false,0,mapping_status=needs_review;missing_stock_code
+WEI CHUAN FOOD,1,small_cap,deletion,2024-05,1201,verified_tw_reference_fuzzy,0.9543,WEI CHUAN,FinLab company_basic_info:英文簡稱,true,true,1,
+WEI MON INDUSTRY CO,1,small_cap,deletion,2013-05,,needs_review,0.0,,,false,false,0,mapping_status=needs_review;missing_stock_code
+WEIKENG INDUSTRIAL CO,2,small_cap,addition;deletion,2010-11;2014-11,3033,verified_tw_reference_fuzzy,0.9289,Weikeng,FinLab company_basic_info:英文簡稱,true,true,2,
+WELL SHIN TECHNOLOGY CO,2,small_cap,addition;deletion,2009-11;2014-11,3501,verified_tw_reference_fuzzy,0.935,Well Shin,FinLab company_basic_info:英文簡稱,true,true,2,
+WELLYPOWER OPTRONICS,1,small_cap,deletion,2011-11,,needs_review,0.0,,,false,false,0,mapping_status=needs_review;missing_stock_code
+WELTREND SEMICONDUCTOR,1,small_cap,deletion,2012-05,2436,verified_tw_reference_fuzzy,0.9264,Weltrend,FinLab company_basic_info:英文簡稱,true,true,1,
+WIN SEMICONDUCTORS,5,small_cap;standard,addition;deletion,2011-05;2017-11;2023-08,3105,verified_tw_official_round3,0.99,穩懋半導體股份有限公司 / WIN,Round3 official audit: FinLab company_basic_info + TPEx official reference,true,true,5,
+WINBOND ELECTRONICS CORP,10,small_cap;standard,addition;deletion,2008-11;2009-05;2011-11;2017-11;2024-11,2344,verified_tw_official_round3,0.99,華邦電子股份有限公司 / WEC,Round3 official audit: FinLab company_basic_info + TWSE official reference,true,true,10,
+WINTEK,7,small_cap;standard,addition;deletion,2008-11;2009-05;2013-05;2014-11,2384,verified_historical_round4,0.97,Wintek Corporation / 勝華科技,Round4 conflict review: https://www.twse.com.tw/downloads/zh/about/company/factbook/2016/1.07.html | https://in.marketscreener.com/quote/stock/WINTEK-CORPORATION-6491707/,true,false,0,ticker_not_in_local_universe
+WINWAY TECHNOLOGY,1,small_cap,addition,2023-05,6515,verified_tw_reference_fuzzy,0.9253,WinWay,FinLab company_basic_info:英文簡稱,true,true,1,
+WISELINK,1,small_cap,addition,2025-08,8932,mapped_exact_normalized,1.0,Wiselink,FinLab company_basic_info:英文簡稱,true,true,1,
+WISTRON CORP,4,small_cap;standard,addition;deletion,2007-05;2022-02;2023-05,3231,mapped_exact_normalized,1.0,Wistron,FinLab company_basic_info:英文簡稱,true,true,4,
+WIWYNN CORPORATION,1,standard,addition,2019-11,6669,mapped_exact_normalized,1.0,Wiwynn,FinLab company_basic_info:英文簡稱,true,true,1,
+WONTEN TECHNOLOGY CO,1,small_cap,deletion,2008-11,,needs_review,0.0,,,false,false,0,mapping_status=needs_review;missing_stock_code
+WOWPRIME,3,small_cap,addition;deletion,2011-11;2018-11;2023-05,2727,mapped_exact_normalized,1.0,WOWPRIME,FinLab company_basic_info:英文簡稱,true,true,3,
+WPG HOLDINGS CO,4,small_cap;standard,addition;deletion,2009-05;2025-11,3702,mapped_exact_normalized,1.0,WPG,FinLab company_basic_info:英文簡稱,true,true,4,
+WUS PRINTED CIRCUIT CO,3,small_cap,addition;deletion,2008-11;2010-11;2013-05,,needs_review,0.0,,,false,false,0,mapping_status=needs_review;missing_stock_code
+X LEGEND ENTERTAINMENT,1,small_cap,addition,2013-05,4994,verified_tw_reference_fuzzy,0.9264,X-LEGEND,FinLab company_basic_info:英文簡稱,true,true,1,
+XINTEC,3,small_cap,addition;deletion,2008-11;2012-05;2015-11,3374,mapped_exact_normalized,1.0,Xintec,FinLab company_basic_info:英文簡稱,true,true,3,
+XPEC ENTERTAINMENT,2,small_cap,addition;deletion,2014-11;2016-11,,needs_review,0.0,,,false,false,0,mapping_status=needs_review;missing_stock_code
+XXENTRIA TECH MATERIAL,2,small_cap,addition;deletion,2012-05;2024-11,8942,verified_tw_reference_fuzzy,0.9264,Xxentria,FinLab company_basic_info:英文簡稱,true,true,2,
+YAGEO CORP,4,small_cap;standard,addition;deletion,2008-11;2017-11,2327,mapped_exact_normalized,1.0,YAGEO,FinLab company_basic_info:英文簡稱,true,true,4,
+YANG MING MARINE TRANSP,4,small_cap;standard,addition;deletion,2015-11;2021-05,,needs_review,0.0,,,false,false,0,mapping_status=needs_review;missing_stock_code
+YANKEY ENGINEERING,1,small_cap,addition,2023-05,6691,verified_tw_reference_fuzzy,0.9233,YANKEY,FinLab company_basic_info:英文簡稱,true,true,1,
+YC INOX CO,1,small_cap,deletion,2024-11,,needs_review,0.0,,,false,false,0,mapping_status=needs_review;missing_stock_code
+YEASHIN INTL DEV,2,small_cap,addition;deletion,2024-08;2025-02,5213,verified_tw_reference_fuzzy,0.9337,YeaShin,FinLab company_basic_info:英文簡稱,true,true,2,
+YEH-CHIANG TECH,1,small_cap,addition,2009-11,,needs_review,0.0,,,false,false,0,mapping_status=needs_review;missing_stock_code
+YEONG GUAN ENERGY GROUP,2,small_cap,addition;deletion,2013-11;2018-11,,needs_review,0.0,,,false,false,0,mapping_status=needs_review;missing_stock_code
+YIEH PHUI ENTERPRISE,1,standard,deletion,2008-05,2023,verified_tw_official_round3,0.99,燁輝企業股份有限公司 / YP,Round3 official audit: FinLab company_basic_info + TWSE official reference,true,true,1,
+YIEH UNITED STEEL CORP,2,small_cap,addition;deletion,2009-05;2009-11,,needs_review,0.0,,,false,false,0,mapping_status=needs_review;missing_stock_code
+YOUNG FAST OPTOELECTRONI,5,small_cap;standard,addition;deletion,2008-11;2009-05;2011-11,3622,verified_tw_official_round3,0.99,洋華光電股份有限公司 / YFO,Round3 official audit: FinLab company_basic_info + TWSE official reference,true,true,5,
+YOUNG OPTICS,1,small_cap,addition,2009-05,3504,mapped_exact_normalized,1.0,Young Optics,FinLab company_basic_info:英文簡稱,true,true,1,
+YUANTA FUTURES,1,small_cap,addition,2024-05,6023,mapped_exact_normalized,1.0,Yuanta Futures,FinLab company_basic_info:英文簡稱,true,true,1,
+YUEN FOONG YU PAPER MFG,1,standard,deletion,2008-05,1907,verified_tw_official_round3,0.99,永豐餘投資控股股份有限公司 / YFY,Round3 official audit: FinLab company_basic_info + TWSE official reference,true,true,1,
+YUFO ELECTRONIC CORP,1,small_cap,deletion,2011-05,,needs_review,0.0,,,false,false,0,mapping_status=needs_review;missing_stock_code
+YULON MOTOR CO,2,small_cap;standard,addition;deletion,2017-11,,needs_review,0.0,,,false,false,0,mapping_status=needs_review;missing_stock_code
+YUNG CHI PAINT & VARNISH,1,small_cap,deletion,2018-11,,needs_review,0.0,,,false,false,0,mapping_status=needs_review;missing_stock_code
+YUNG SHIN GLOBAL HOLDING,1,small_cap,deletion,2025-02,,needs_review,0.0,,,false,false,0,mapping_status=needs_review;missing_stock_code
+YUNGSHIN CONST & DEV,2,small_cap,addition;deletion,2024-05;2026-02,,needs_review,0.0,,,false,false,0,mapping_status=needs_review;missing_stock_code
+YUNGSHIN CONSTR & DEVLPT,1,small_cap,deletion,2009-11,,needs_review,0.0,,,false,false,0,mapping_status=needs_review;missing_stock_code
+ZENG HSING INDUSTRIAL CO,2,small_cap,addition;deletion,2010-11;2019-05,1558,verified_tw_reference_fuzzy,0.9376,ZENG HSING,FinLab company_basic_info:英文簡稱,true,true,2,
+ZENTEL ELECTRONIC CORP,1,small_cap,deletion,2011-05,,needs_review,0.0,,,false,false,0,mapping_status=needs_review;missing_stock_code
+ZHEN DING TECHNOLOGY,1,standard,addition,2012-05,4958,verified_tw_official_round3,0.99,臻鼎科技控股股份有限公司 / ZDT,Round3 official audit: FinLab company_basic_info + TWSE official reference,true,true,1,
+ZIG SHENG INDUSTRIAL CO,1,small_cap,addition,2009-11,1455,verified_tw_reference_fuzzy,0.935,ZIG SHENG,FinLab company_basic_info:英文簡稱,true,true,1,
+ZILLTEK TECHNOLOGY,2,small_cap,addition;deletion,2023-08;2025-05,6679,verified_tw_reference_fuzzy,0.9289,ZILLTEK,FinLab company_basic_info:英文簡稱,true,true,2,
+ZINWELL CORPORATION,3,small_cap;standard,addition;deletion,2008-11;2018-11,2485,mapped_exact_normalized,1.0,ZINWELL,FinLab company_basic_info:英文簡稱,true,true,3,
+ZYXEL COMMUNICATIONS,1,standard,deletion,2008-05,3704,verified_tw_reference_fuzzy,0.915,Zyxel Group,FinLab company_basic_info:英文簡稱,true,true,1,
+ZYXEL GROUP CORP,1,small_cap,deletion,2025-05,3704,mapped_exact_normalized,1.0,Zyxel Group,FinLab company_basic_info:英文簡稱,true,true,1,
