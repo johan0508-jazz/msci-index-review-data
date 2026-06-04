@@ -1,0 +1,19 @@
+{
+  "task": "MSCI Taiwan mapping completion Round 7",
+  "updated_at_taipei": "2026-06-04T10:02:02+08:00",
+  "taiwan_unique_targets_missing_before": 324,
+  "accepted_unique_mappings": 229,
+  "manual_unique_remaining": 95,
+  "taiwan_unique_missing_after": 95,
+  "accepted_by_status": {
+    "verified_tw_historical_round7": 41,
+    "verified_tw_current_round7": 188
+  },
+  "outputs": {
+    "accepted": "/Users/johan/Documents/invest/msci_index_reviews/research_state/msci_taiwan_mapping_round7_accepted.csv",
+    "manual_unique": "/Users/johan/Documents/invest/msci_index_reviews/research_state/msci_taiwan_mapping_round7_manual_unique.csv",
+    "manual_events": "/Users/johan/Documents/invest/msci_index_reviews/research_state/msci_taiwan_mapping_round7_manual_events.csv",
+    "summary": "/Users/johan/Documents/invest/msci_index_reviews/research_state/msci_taiwan_mapping_round7_summary.json"
+  },
+  "method": "Conservative acceptance: official TWSE/TPEx English delisted exact/high-confidence match, manual prior-evidence overrides, or Yahoo Finance name discovery only when code exists in official/local current Taiwan reference universe. Remaining rows require human review."
+}

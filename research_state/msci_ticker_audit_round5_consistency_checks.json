@@ -1,0 +1,729 @@
+{
+  "task": "MSCI ticker mapping audit R5 — full consistency checks & backtest-ready exports",
+  "round": 5,
+  "updated_at_taipei": "2026-06-04T10:05:06.651432+08:00",
+  "inputs": {
+    "mapping_verified": "/Users/johan/Documents/invest/msci_index_reviews/parsed/msci_us_taiwan_name_ticker_mapping_verified.csv",
+    "events_flat_verified": "/Users/johan/Documents/invest/msci_index_reviews/parsed/msci_us_taiwan_events_flat_verified.csv",
+    "us_universe": "/Users/johan/Documents/invest/msci_index_reviews/research_state/us_price_close_universe_tickers.csv",
+    "taiwan_universe": "/Users/johan/Documents/invest/msci_index_reviews/research_state/taiwan_reference_universe_tickers.csv"
+  },
+  "outputs": {
+    "verified_mapping_backtest_ready": "/Users/johan/Documents/invest/msci_index_reviews/parsed/msci_us_taiwan_name_ticker_mapping_verified_backtest_ready.csv",
+    "events_flat_audit_verified": "/Users/johan/Documents/invest/msci_index_reviews/parsed/msci_us_taiwan_events_flat_audit_verified.csv",
+    "events_flat_backtest_ready": "/Users/johan/Documents/invest/msci_index_reviews/parsed/msci_us_taiwan_events_flat_backtest_ready.csv",
+    "unmapped_manual_review": "/Users/johan/Documents/invest/msci_index_reviews/research_state/msci_ticker_audit_round5_unmapped_manual_review.csv",
+    "source_evidence_table": "/Users/johan/Documents/invest/msci_index_reviews/research_state/msci_ticker_audit_round5_source_evidence_table.csv",
+    "consistency_checks": "/Users/johan/Documents/invest/msci_index_reviews/research_state/msci_ticker_audit_round5_consistency_checks.json"
+  },
+  "row_counts": {
+    "mapping_unique_company_rows": 4312,
+    "event_rows": 7748,
+    "mapping_backtest_ready_rows": 2142,
+    "events_backtest_ready_rows": 4254,
+    "events_not_backtest_ready_rows": 3494,
+    "source_evidence_rows": 4397
+  },
+  "mapping_status_counts_unique_company_rows": [
+    {
+      "country": "TAIWAN",
+      "mapping_status": "manual_review_round4",
+      "rows": 1
+    },
+    {
+      "country": "TAIWAN",
+      "mapping_status": "mapped_exact_normalized",
+      "rows": 116
+    },
+    {
+      "country": "TAIWAN",
+      "mapping_status": "needs_review",
+      "rows": 88
+    },
+    {
+      "country": "TAIWAN",
+      "mapping_status": "verified_conflict_round4",
+      "rows": 1
+    },
+    {
+      "country": "TAIWAN",
+      "mapping_status": "verified_historical_round4",
+      "rows": 8
+    },
+    {
+      "country": "TAIWAN",
+      "mapping_status": "verified_tw_current_round7",
+      "rows": 188
+    },
+    {
+      "country": "TAIWAN",
+      "mapping_status": "verified_tw_current_round7b",
+      "rows": 4
+    },
+    {
+      "country": "TAIWAN",
+      "mapping_status": "verified_tw_historical_round7",
+      "rows": 41
+    },
+    {
+      "country": "TAIWAN",
+      "mapping_status": "verified_tw_historical_round7b",
+      "rows": 2
+    },
+    {
+      "country": "TAIWAN",
+      "mapping_status": "verified_tw_official_round3",
+      "rows": 41
+    },
+    {
+      "country": "TAIWAN",
+      "mapping_status": "verified_tw_reference_fuzzy",
+      "rows": 264
+    },
+    {
+      "country": "USA",
+      "mapping_status": "mapped_exact_normalized",
+      "rows": 1511
+    },
+    {
+      "country": "USA",
+      "mapping_status": "needs_review",
+      "rows": 2027
+    },
+    {
+      "country": "USA",
+      "mapping_status": "verified_historical_round4",
+      "rows": 4
+    },
+    {
+      "country": "USA",
+      "mapping_status": "verified_us_web_high_confidence",
+      "rows": 16
+    }
+  ],
+  "event_status_counts": [
+    {
+      "country": "TAIWAN",
+      "mapping_status": "manual_review_round4",
+      "rows": 1
+    },
+    {
+      "country": "TAIWAN",
+      "mapping_status": "mapped_exact_normalized",
+      "rows": 249
+    },
+    {
+      "country": "TAIWAN",
+      "mapping_status": "needs_review",
+      "rows": 143
+    },
+    {
+      "country": "TAIWAN",
+      "mapping_status": "verified_conflict_round4",
+      "rows": 4
+    },
+    {
+      "country": "TAIWAN",
+      "mapping_status": "verified_historical_round4",
+      "rows": 26
+    },
+    {
+      "country": "TAIWAN",
+      "mapping_status": "verified_tw_current_round7",
+      "rows": 372
+    },
+    {
+      "country": "TAIWAN",
+      "mapping_status": "verified_tw_current_round7b",
+      "rows": 9
+    },
+    {
+      "country": "TAIWAN",
+      "mapping_status": "verified_tw_historical_round7",
+      "rows": 72
+    },
+    {
+      "country": "TAIWAN",
+      "mapping_status": "verified_tw_historical_round7b",
+      "rows": 6
+    },
+    {
+      "country": "TAIWAN",
+      "mapping_status": "verified_tw_official_round3",
+      "rows": 159
+    },
+    {
+      "country": "TAIWAN",
+      "mapping_status": "verified_tw_reference_fuzzy",
+      "rows": 507
+    },
+    {
+      "country": "USA",
+      "mapping_status": "mapped_exact_normalized",
+      "rows": 2953
+    },
+    {
+      "country": "USA",
+      "mapping_status": "needs_review",
+      "rows": 3129
+    },
+    {
+      "country": "USA",
+      "mapping_status": "verified_historical_round4",
+      "rows": 23
+    },
+    {
+      "country": "USA",
+      "mapping_status": "verified_us_web_high_confidence",
+      "rows": 95
+    }
+  ],
+  "mapped_unmapped_distribution_event_rows": [
+    {
+      "country": "TAIWAN",
+      "backtest_ready": "false",
+      "rows": 225
+    },
+    {
+      "country": "TAIWAN",
+      "backtest_ready": "true",
+      "rows": 1323
+    },
+    {
+      "country": "USA",
+      "backtest_ready": "false",
+      "rows": 3269
+    },
+    {
+      "country": "USA",
+      "backtest_ready": "true",
+      "rows": 2931
+    }
+  ],
+  "coverage_by_country_product_action_backtest_ready": [
+    {
+      "country": "TAIWAN",
+      "product": "small_cap",
+      "action": "addition",
+      "backtest_ready": "false",
+      "rows": 97
+    },
+    {
+      "country": "TAIWAN",
+      "product": "small_cap",
+      "action": "addition",
+      "backtest_ready": "true",
+      "rows": 546
+    },
+    {
+      "country": "TAIWAN",
+      "product": "small_cap",
+      "action": "deletion",
+      "backtest_ready": "false",
+      "rows": 100
+    },
+    {
+      "country": "TAIWAN",
+      "product": "small_cap",
+      "action": "deletion",
+      "backtest_ready": "true",
+      "rows": 530
+    },
+    {
+      "country": "TAIWAN",
+      "product": "standard",
+      "action": "addition",
+      "backtest_ready": "false",
+      "rows": 11
+    },
+    {
+      "country": "TAIWAN",
+      "product": "standard",
+      "action": "addition",
+      "backtest_ready": "true",
+      "rows": 106
+    },
+    {
+      "country": "TAIWAN",
+      "product": "standard",
+      "action": "deletion",
+      "backtest_ready": "false",
+      "rows": 17
+    },
+    {
+      "country": "TAIWAN",
+      "product": "standard",
+      "action": "deletion",
+      "backtest_ready": "true",
+      "rows": 141
+    },
+    {
+      "country": "USA",
+      "product": "small_cap",
+      "action": "addition",
+      "backtest_ready": "false",
+      "rows": 1596
+    },
+    {
+      "country": "USA",
+      "product": "small_cap",
+      "action": "addition",
+      "backtest_ready": "true",
+      "rows": 1378
+    },
+    {
+      "country": "USA",
+      "product": "small_cap",
+      "action": "deletion",
+      "backtest_ready": "false",
+      "rows": 1193
+    },
+    {
+      "country": "USA",
+      "product": "small_cap",
+      "action": "deletion",
+      "backtest_ready": "true",
+      "rows": 935
+    },
+    {
+      "country": "USA",
+      "product": "standard",
+      "action": "addition",
+      "backtest_ready": "false",
+      "rows": 245
+    },
+    {
+      "country": "USA",
+      "product": "standard",
+      "action": "addition",
+      "backtest_ready": "true",
+      "rows": 346
+    },
+    {
+      "country": "USA",
+      "product": "standard",
+      "action": "deletion",
+      "backtest_ready": "false",
+      "rows": 235
+    },
+    {
+      "country": "USA",
+      "product": "standard",
+      "action": "deletion",
+      "backtest_ready": "true",
+      "rows": 272
+    }
+  ],
+  "same_company_name_multi_ticker_mapping_rows": [],
+  "one_ticker_multi_company_names_mapping_rows_top100": [
+    {
+      "country": "TAIWAN",
+      "stock_code": "3707",
+      "name_count": 3,
+      "company_names": "EPISIL PRECISION|EPISIL TECHNOLOGIES|EPISIL TECHNOLOGIES INC"
+    },
+    {
+      "country": "TAIWAN",
+      "stock_code": "1337",
+      "name_count": 2,
+      "company_names": "ASIA PLASTIC RECYCLE|ASIA PLASTIC RECYCLING"
+    },
+    {
+      "country": "TAIWAN",
+      "stock_code": "1605",
+      "name_count": 2,
+      "company_names": "WALSIN LIHWA CORP|WALSIN TECHNOLOGY CORP"
+    },
+    {
+      "country": "TAIWAN",
+      "stock_code": "1702",
+      "name_count": 2,
+      "company_names": "NAMCHOW CHEMICAL INDUST|NAMCHOW HOLDINGS CO"
+    },
+    {
+      "country": "TAIWAN",
+      "stock_code": "1785",
+      "name_count": 2,
+      "company_names": "NEO SOLAR POWER CORP|SOLAR APPLIED MATRLS"
+    },
+    {
+      "country": "TAIWAN",
+      "stock_code": "2049",
+      "name_count": 2,
+      "company_names": "HIWIN MIKROSYSTEM CORP|HIWIN TECHNOLOGIES CORP"
+    },
+    {
+      "country": "TAIWAN",
+      "stock_code": "2324",
+      "name_count": 2,
+      "company_names": "COMPAL COMMUNICATIONS|COMPAL ELECTRONICS"
+    },
+    {
+      "country": "TAIWAN",
+      "stock_code": "2359",
+      "name_count": 2,
+      "company_names": "SOLOMON TECH CORP|SOLOMON TECHNOLOGY"
+    },
+    {
+      "country": "TAIWAN",
+      "stock_code": "2371",
+      "name_count": 2,
+      "company_names": "TATUNG|TATUNG FINE CHEMICAL CO"
+    },
+    {
+      "country": "TAIWAN",
+      "stock_code": "2408",
+      "name_count": 2,
+      "company_names": "NANYA TECHNOLOGY|NANYA TECHNOLOGY CORP"
+    },
+    {
+      "country": "TAIWAN",
+      "stock_code": "2428",
+      "name_count": 2,
+      "company_names": "THINKING ELECTRONIC IND|THINKING ELECTRONIC INDL"
+    },
+    {
+      "country": "TAIWAN",
+      "stock_code": "3176",
+      "name_count": 2,
+      "company_names": "MEDIGEN BIOTECHNOLOGY|MEDIGEN VACCINE"
+    },
+    {
+      "country": "TAIWAN",
+      "stock_code": "3474",
+      "name_count": 2,
+      "company_names": "INOTERA MEMORIES|INOTERA MEMORIES (ATM)"
+    },
+    {
+      "country": "TAIWAN",
+      "stock_code": "3592",
+      "name_count": 2,
+      "company_names": "RAYDIUM SEMICONDUCTOR|RAYDIUM SEMICONDUCTOR CO"
+    },
+    {
+      "country": "TAIWAN",
+      "stock_code": "3607",
+      "name_count": 2,
+      "company_names": "COXON PRECISE IND CO|COXON PRECISE INDUSTRIAL"
+    },
+    {
+      "country": "TAIWAN",
+      "stock_code": "3691",
+      "name_count": 2,
+      "company_names": "GIGASOLAR MATERIALS COR|GIGASOLAR MATERIALS CORP"
+    },
+    {
+      "country": "TAIWAN",
+      "stock_code": "3704",
+      "name_count": 2,
+      "company_names": "ZYXEL COMMUNICATIONS|ZYXEL GROUP CORP"
+    },
+    {
+      "country": "TAIWAN",
+      "stock_code": "3708",
+      "name_count": 2,
+      "company_names": "SWANCOR HOLDING CO|SWANCOR IND CO"
+    },
+    {
+      "country": "TAIWAN",
+      "stock_code": "5522",
+      "name_count": 2,
+      "company_names": "FARGLORY DEVELOPERS CO|FARGLORY LAND DEV"
+    },
+    {
+      "country": "TAIWAN",
+      "stock_code": "6104",
+      "name_count": 2,
+      "company_names": "GENESYS LOGIC|GENESYS LOGIC INC"
+    },
+    {
+      "country": "TAIWAN",
+      "stock_code": "6116",
+      "name_count": 2,
+      "company_names": "HANNSTAR BOARD CORP|HANNSTAR DISPLAY"
+    },
+    {
+      "country": "TAIWAN",
+      "stock_code": "6125",
+      "name_count": 2,
+      "company_names": "KENMEC MECHANICAL ENGR|KENMEC MECHANICAL ENGR."
+    },
+    {
+      "country": "TAIWAN",
+      "stock_code": "6191",
+      "name_count": 2,
+      "company_names": "GLOBAL BRANDS MANUFACT|GLOBAL BRANDS MANUFACT."
+    },
+    {
+      "country": "TAIWAN",
+      "stock_code": "6230",
+      "name_count": 2,
+      "company_names": "CHAUN-CHOUNG TECH CORP|NIDEC CHAUN CHOUNG TECH"
+    },
+    {
+      "country": "TAIWAN",
+      "stock_code": "6409",
+      "name_count": 2,
+      "company_names": "VOLTRONIC POWER TECH|VOLTRONIC POWER TECHNO"
+    },
+    {
+      "country": "TAIWAN",
+      "stock_code": "8021",
+      "name_count": 2,
+      "company_names": "PHOENIX PRECISION TECH|TOPOINT TECHNOLOGY CO"
+    },
+    {
+      "country": "TAIWAN",
+      "stock_code": "8070",
+      "name_count": 2,
+      "company_names": "CHANG WAH ELECTROMTRLS|CHANG WAH TECHNOLOGY"
+    },
+    {
+      "country": "USA",
+      "stock_code": "AESI",
+      "name_count": 2,
+      "company_names": "ATLAS ENERGY SOLUTIONS|ATLAS ENERGY SOLUTIONS A"
+    },
+    {
+      "country": "USA",
+      "stock_code": "ARES",
+      "name_count": 2,
+      "company_names": "ARES MANAGEMENT|ARES MANAGEMENT CORP"
+    },
+    {
+      "country": "USA",
+      "stock_code": "BELFA",
+      "name_count": 2,
+      "company_names": "BEL FUSE A|BEL FUSE B"
+    },
+    {
+      "country": "USA",
+      "stock_code": "BF-A",
+      "name_count": 2,
+      "company_names": "BROWN-FORMAN CORP A|BROWN-FORMAN CORP B"
+    },
+    {
+      "country": "USA",
+      "stock_code": "BGS",
+      "name_count": 2,
+      "company_names": "B&G FOODS|B&G FOODS A"
+    },
+    {
+      "country": "USA",
+      "stock_code": "BH-A",
+      "name_count": 2,
+      "company_names": "BIGLARI HOLDINGS A|BIGLARI HOLDINGS B"
+    },
+    {
+      "country": "USA",
+      "stock_code": "BILL",
+      "name_count": 2,
+      "company_names": "BILL HOLDINGS|BILL.COM HOLDINGS"
+    },
+    {
+      "country": "USA",
+      "stock_code": "BTU",
+      "name_count": 2,
+      "company_names": "PEABODY ENERGY|PEABODY ENERGY CORP"
+    },
+    {
+      "country": "USA",
+      "stock_code": "CLF",
+      "name_count": 2,
+      "company_names": "CLEVELAND CLIFFS|CLEVELAND-CLIFFS"
+    },
+    {
+      "country": "USA",
+      "stock_code": "COHR",
+      "name_count": 2,
+      "company_names": "COHERENT|COHERENT CORP"
+    },
+    {
+      "country": "USA",
+      "stock_code": "CRD-A",
+      "name_count": 2,
+      "company_names": "CRAWFORD & CO A|CRAWFORD & CO B"
+    },
+    {
+      "country": "USA",
+      "stock_code": "FUBO",
+      "name_count": 2,
+      "company_names": "FUBOTV|FUBOTV A"
+    },
+    {
+      "country": "USA",
+      "stock_code": "GPOR",
+      "name_count": 2,
+      "company_names": "GULFPORT ENERGY|GULFPORT ENERGY CORP"
+    },
+    {
+      "country": "USA",
+      "stock_code": "GRPN",
+      "name_count": 2,
+      "company_names": "GROUPON|GROUPON A"
+    },
+    {
+      "country": "USA",
+      "stock_code": "HEI",
+      "name_count": 2,
+      "company_names": "HEICO CORP|HEICO CORP A"
+    },
+    {
+      "country": "USA",
+      "stock_code": "HTZ",
+      "name_count": 2,
+      "company_names": "HERTZ GLOBAL HOLDING|HERTZ GLOBAL HOLDINGS"
+    },
+    {
+      "country": "USA",
+      "stock_code": "HUBB",
+      "name_count": 2,
+      "company_names": "HUBBELL|HUBBELL A"
+    },
+    {
+      "country": "USA",
+      "stock_code": "INDB",
+      "name_count": 2,
+      "company_names": "INDEPENDENT BANK (MICH)|INDEPENDENT BANK GROUP"
+    },
+    {
+      "country": "USA",
+      "stock_code": "KODK",
+      "name_count": 2,
+      "company_names": "EASTMAN KODAK|EASTMAN KODAK CO"
+    },
+    {
+      "country": "USA",
+      "stock_code": "L",
+      "name_count": 2,
+      "company_names": "LOEWS CORP|LOEWS CORP(CAROLINA GRP)"
+    },
+    {
+      "country": "USA",
+      "stock_code": "LBRDA",
+      "name_count": 2,
+      "company_names": "LIBERTY BROADBAND A|LIBERTY BROADBAND C"
+    },
+    {
+      "country": "USA",
+      "stock_code": "LBTYA",
+      "name_count": 2,
+      "company_names": "LIBERTY GLOBAL A|LIBERTY GLOBAL C"
+    },
+    {
+      "country": "USA",
+      "stock_code": "LEN",
+      "name_count": 2,
+      "company_names": "LENNAR CORP A|LENNAR CORP B"
+    },
+    {
+      "country": "USA",
+      "stock_code": "LTCH",
+      "name_count": 2,
+      "company_names": "LATCH|LATCH A"
+    },
+    {
+      "country": "USA",
+      "stock_code": "MTCH",
+      "name_count": 2,
+      "company_names": "MATCH GROUP|MATCH GROUP(NEW)"
+    },
+    {
+      "country": "USA",
+      "stock_code": "MTW",
+      "name_count": 2,
+      "company_names": "MANITOWOC CO|MANITOWOC CO (NEW)"
+    },
+    {
+      "country": "USA",
+      "stock_code": "NE",
+      "name_count": 2,
+      "company_names": "NOBLE|NOBLE CORP PLC"
+    },
+    {
+      "country": "USA",
+      "stock_code": "PRGO",
+      "name_count": 2,
+      "company_names": "PERRIGO|PERRIGO CO"
+    },
+    {
+      "country": "USA",
+      "stock_code": "SPWR",
+      "name_count": 2,
+      "company_names": "SUNPOWER CORP A|SUNPOWER CORP B"
+    },
+    {
+      "country": "USA",
+      "stock_code": "UAA",
+      "name_count": 2,
+      "company_names": "UNDER ARMOUR A|UNDER ARMOUR C"
+    },
+    {
+      "country": "USA",
+      "stock_code": "UHAL",
+      "name_count": 2,
+      "company_names": "U-HAUL HOLDING|U-HAUL HOLDING NV"
+    },
+    {
+      "country": "USA",
+      "stock_code": "VAL",
+      "name_count": 2,
+      "company_names": "VALARIS|VALARIS A"
+    },
+    {
+      "country": "USA",
+      "stock_code": "VTOL",
+      "name_count": 2,
+      "company_names": "BRISTOW GROUP|BRISTOW GROUP INC"
+    },
+    {
+      "country": "USA",
+      "stock_code": "ZG",
+      "name_count": 2,
+      "company_names": "ZILLOW GROUP A|ZILLOW GROUP C"
+    }
+  ],
+  "ambiguity_counts": {
+    "same_company_name_multi_ticker": 0,
+    "one_ticker_multi_company_names": 61
+  },
+  "usa_universe": {
+    "ticker_count": 22321,
+    "gate": "ticker exists in us_dayTradePortfolio Close union"
+  },
+  "taiwan_universe": {
+    "ticker_count": 2314,
+    "gate": "ticker exists in FinLab/TWSE/TPEx reference universe"
+  },
+  "event_date_tradability": {
+    "gate": "effective_close_date is weekday; USA additionally inside at least one known local US Close data date window; Taiwan price matrix not loaded in R5 so reference-universe+weekday used",
+    "non_tradable_effective_date_rows": 120
+  },
+  "top_not_backtest_ready_reasons": [
+    {
+      "reason": "mapping_status=needs_review;missing_stock_code",
+      "rows": 3254
+    },
+    {
+      "reason": "ticker_not_in_local_universe",
+      "rows": 119
+    },
+    {
+      "reason": "effective_close_date_outside_available_us_price_windows",
+      "rows": 102
+    },
+    {
+      "reason": "mapping_status=needs_review;missing_stock_code;effective_close_date_outside_available_us_price_windows",
+      "rows": 18
+    },
+    {
+      "reason": "mapping_status=manual_review_round4;missing_stock_code",
+      "rows": 1
+    }
+  ],
+  "limitations": [
+    "No original files were deleted or overwritten except state/report append/update; exports are new files.",
+    "USA price-date gate uses known parquet date windows from prior inventory, not per-ticker non-NaN availability because pandas/pyarrow are unavailable in this runtime.",
+    "Taiwan gate confirms ticker in FinLab/TWSE/TPEx reference universe, but does not prove historical listing/trading status for delisted/merged names."
+  ]
+}

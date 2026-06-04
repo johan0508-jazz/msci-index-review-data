@@ -38,6 +38,10 @@ VERIFIED_STATUSES = {
     'verified_tw_official_round3',
     'verified_conflict_round4',
     'verified_historical_round4',
+    'verified_tw_current_round7',
+    'verified_tw_historical_round7',
+    'verified_tw_current_round7b',
+    'verified_tw_historical_round7b',
 }
 MANUAL_STATUSES = {'needs_review', 'needs_manual_review', 'manual_review_round3', 'manual_review_round4'}
 
